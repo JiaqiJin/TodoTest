@@ -1,0 +1,1909 @@
+{
+  "tema": "cm1D",
+  "preguntas": [
+    {
+      "cod": "1D01001",
+      "pregunta": "Un empresario cuya actividad principal consiste en el transporte por cuenta ajena de áridos, tierra y residuos de construcción está edificando una vivienda para uso propio. En el proceso de construcción de la vivienda, ha venido utilizando sus vehículos para transportar al vertedero la tierra y residuos procedentes del vaciado y limpieza de la parcela en la que se va a edificar. Asimismo, ha empleado un vehículo propio para transportar a la zona de obra la maquinaria y útiles necesarios para la misma y para efectuar el acopio de todos los materiales que se van a utilizar.\nEl importe de estos servicios de transporte relacionados con las obras de construcción de la vivienda lo ha valorado el empresario, a efectos de control interno, en 6.800 euros.\nConteste a las siguientes cuestiones: ¿Qué tipo impositivo se deberá aplicar a estos servicios a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto ascenderá el importe a liquidar por estos servicios en concepto de Impuesto sobre el Valor Añadido? ¿Deberá el empresario reflejar estos servicios en el libro registro de facturas expedidas?",
+      "solucion": "E",
+      "norma": "Ley 37/1992, art. 12; Ley 37/1992, art. 90; Ley 37/1992, art. 164; RD 1624/1992, art. 63",
+      "opciones": {
+        "A": {
+          "A": "No se aplica ningún tipo impositivo, ya que se trata de servicios no sujetos al Impuesto sobre el Valor Añadido.",
+          "B": "0 euros.",
+          "C": "No."
+        },
+        "B": {
+          "A": "No se aplica ningún tipo impositivo, ya que, aunque son servicios sujetos al Impuesto sobre el Valor Añadido, están exentos.",
+          "B": "0 euros.",
+          "C": "No."
+        },
+        "C": {
+          "A": "No se aplica ningún tipo impositivo, ya que, aunque son servicios sujetos al Impuesto sobre el Valor Añadido, están exentos.",
+          "B": "0 euros.",
+          "C": "Sí, como servicios sujetos se deben reflejar en el libro, aunque no haya que tributar por ellos."
+        },
+        "D": {
+          "A": "21 %.",
+          "B": "1.428 euros.",
+          "C": "No, porque no son servicios prestados a terceros."
+        },
+        "E": {
+          "A": "21 %.",
+          "B": "1.428 euros.",
+          "C": "Sí."
+        },
+        "F": {
+          "A": "10 %, ya que, al no ser servicios a terceros, se aplica el tipo reducido.",
+          "B": "680 euros.",
+          "C": "No, porque no son servicios prestados a terceros."
+        },
+        "G": {
+          "A": "10 %, ya que, al no ser servicios a terceros, se aplica el tipo reducido.",
+          "B": "680 euros.",
+          "C": "Sí."
+        },
+        "H": {
+          "A": "4 %, ya que, al no ser servicios a terceros, se aplica el tipo más bajo.",
+          "B": "272 euros.",
+          "C": "No, porque no son servicios prestados a terceros."
+        }
+      }
+    },
+    {
+      "cod": "1D01002",
+      "pregunta": "Una empresa española de transporte de mercancías por carretera efectúa un viaje entre Castellón y Tánger transportando material cerámico. En el viaje de regreso, el conductor reposta antes de abandonar territorio marroquí, aprovechando que le resulta más económico.\nEn la frontera, las autoridades aduaneras españolas efectúan una inspección y en la misma detectan que lleva una carga de 195 litros de gasóleo en el depósito del propio vehículo. Como consecuencia de ello, levantan acta en la que establecen que deberá efectuar el pago del Impuesto sobre el Valor Añadido por la importación de los citados litros de carburante. A estos efectos, el carburante contenido en el depósito se valora en 875 euros.\nConteste a las siguientes cuestiones: ¿Qué tipo impositivo se deberá aplicar a esta importación a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto ascenderá el importe a liquidar por esta importación en concepto de Impuesto sobre el Valor Añadido?",
+      "solucion": "G",
+      "norma": "Ley 37/1992, art. 57",
+      "opciones": {
+        "A": {
+          "A": "21 %.",
+          "B": "183,75 euros."
+        },
+        "B": {
+          "A": "10 %.",
+          "B": "87,50 euros."
+        },
+        "C": {
+          "A": "4 %.",
+          "B": "35 euros."
+        },
+        "D": {
+          "A": "No se aplica ningún tipo impositivo, ya que la importación de carburante no está sujeta al Impuesto sobre el Valor Añadido.",
+          "B": "0 euros."
+        },
+        "E": {
+          "A": "No se aplica ningún tipo impositivo, ya que la importación de carburante no está sujeta al Impuesto sobre el Valor Añadido cuando se trata del contenido en el depósito de los vehículos industriales.",
+          "B": "0 euros."
+        },
+        "F": {
+          "A": "No se aplica ningún tipo impositivo, ya que la importación de carburante, aunque está sujeta al Impuesto sobre el Valor Añadido, queda exenta cuando se trata del contenido en el depósito de los vehículos industriales hasta 300 litros.",
+          "B": "0 euros."
+        },
+        "G": {
+          "A": "No se aplica ningún tipo impositivo, ya que la importación de carburante, aunque está sujeta al Impuesto sobre el Valor Añadido, queda exenta cuando se trata del contenido en el depósito de los vehículos industriales hasta 200 litros.",
+          "B": "0 euros."
+        },
+        "H": {
+          "A": "No se aplica ningún tipo impositivo, ya que la importación de carburante, aunque está sujeta al Impuesto sobre el Valor Añadido, queda exenta en todo caso cuando se trata del contenido en el depósito de los vehículos industriales.",
+          "B": "0 euros."
+        }
+      }
+    },
+    {
+      "cod": "1D01003",
+      "pregunta": "Una empresa de transporte de mercancías por carretera acuerda con un concesionario de vehículos, el día 20 de enero, la compra de una cabeza tractora nueva por el precio de 112.000 euros, IVA excluido. En ese momento abona al concesionario un anticipo de 11.200 euros como prueba y señal del compromiso de compra, estipulándose que el resto del precio será pagado en el momento de la entrega del vehículo.\nEl acuerdo estipula que el vehículo será puesto a disposición del comprador el 25 de febrero. No obstante, diferentes retrasos del fabricante hacen que, finalmente, no sea entregado al transportista hasta el 16 de marzo, fecha en la que este paga la cantidad que estaba pendiente.\nConteste a las siguientes cuestiones: ¿En qué fecha se devenga el IVA de esta compraventa? ¿Qué tipo impositivo se deberá aplicar a esta operación a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto ascenderá la cuota de IVA pagada en el momento en el que el transportista recibe el vehículo?",
+      "solucion": "A",
+      "norma": "Ley 37/1992, art. 75; Ley 37/1992, art. 90",
+      "opciones": {
+        "A": {
+          "A": "El IVA correspondiente al anticipo se devenga el 20 de enero y el correspondiente al resto del precio se devenga el 16 de marzo.",
+          "B": "21 %.",
+          "C": "A 21.168 euros."
+        },
+        "B": {
+          "A": "El IVA correspondiente al anticipo se devenga el 20 de enero y el correspondiente al resto del precio se devenga el 16 de marzo.",
+          "B": "10 %.",
+          "C": "A 10.800 euros."
+        },
+        "C": {
+          "A": "Todo el IVA de la operación se devenga el 20 de enero.",
+          "B": "21 %.",
+          "C": "A 0 euros, porque toda la cuota se debió pagar el 20 de enero."
+        },
+        "D": {
+          "A": "Todo el IVA de la operación se devenga el 20 de enero.",
+          "B": "10 %.",
+          "C": "A 0 euros, porque toda la cuota se debió pagar el 20 de enero."
+        },
+        "E": {
+          "A": "Todo el IVA de la operación se devenga el 16 de marzo.",
+          "B": "21 %.",
+          "C": "A 23.520 euros."
+        },
+        "F": {
+          "A": "Todo el IVA de la operación se devenga el 16 de marzo.",
+          "B": "10 %.",
+          "C": "A 11.200 euros."
+        },
+        "G": {
+          "A": "Todo el IVA se devengaría el 20 de enero, pero es una operación exenta por tratarse de un vehículo destinado a uso profesional.",
+          "B": "0 %.",
+          "C": "A 0 euros."
+        },
+        "H": {
+          "A": "Todo el IVA se devengaría el 16 de marzo, pero es una operación exenta por tratarse de un vehículo destinado a uso profesional.",
+          "B": "0 %.",
+          "C": "A 0 euros."
+        }
+      }
+    },
+    {
+      "cod": "1D01004",
+      "pregunta": "Una empresa de transporte de mercancías por carretera especializada en el transporte de productos hortofrutícolas firma un contrato con un mayorista del sector para efectuar el transporte y distribución de 50.000 kg de pepinos, desde su almacén hasta los centros de comercialización señalados por los compradores.\nEl precio pactado para este servicio es de 6.500 euros, si bien el contrato incluye una cláusula, según la cual, se abonará, adicionalmente, una prima de dos céntimos por kilogramo de producto que se entregue en destino sin ninguna clase de desperfecto y en el tiempo convenido.\nUna vez finalizado el servicio, se comprueba que el 98 % de la mercancía se entregó en perfecto estado y dentro del plazo acordado.\nConteste a las siguientes cuestiones: ¿A cuánto asciende la base imponible correspondiente a este servicio de transporte a efectos del Impuesto sobre el Valor Añadido? ¿Qué tipo impositivo se deberá aplicar a esta operación a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto ascenderá la cuota de IVA?",
+      "solucion": "F",
+      "norma": "Ley 37/1992, art. 78; Ley 37/1992, art. 90",
+      "opciones": {
+        "A": {
+          "A": "7.500 euros.",
+          "B": "21 %.",
+          "C": "1.575 euros."
+        },
+        "B": {
+          "A": "7.500 euros.",
+          "B": "10 %.",
+          "C": "750 euros."
+        },
+        "C": {
+          "A": "6.500 euros.",
+          "B": "21 %.",
+          "C": "1.365 euros."
+        },
+        "D": {
+          "A": "6.500 euros.",
+          "B": "10 %.",
+          "C": "650 euros."
+        },
+        "E": {
+          "A": "6.500 euros.",
+          "B": "4 %.",
+          "C": "260 euros."
+        },
+        "F": {
+          "A": "7.480 euros.",
+          "B": "21 %.",
+          "C": "1.570,80 euros."
+        },
+        "G": {
+          "A": "7.480 euros.",
+          "B": "10 %.",
+          "C": "748 euros."
+        },
+        "H": {
+          "A": "7.480 euros.",
+          "B": "4 %.",
+          "C": "299,20 euros."
+        }
+      }
+    },
+    {
+      "cod": "1D01005",
+      "pregunta": "Una empresa de transporte de mercancías por carretera, especializada en el transporte de mercancías peligrosas, firma un contrato con una empresa de fabricación de productos químicos para efectuar el transporte de 150.000 kg de producción, valorada en 250.000 euros, desde su planta hasta los almacenes indicados por el comprador. El precio pactado para este servicio es de 16.900 euros.\nEl contrato incluye la obligación por parte del transportista de suscribir un seguro de transporte cuyo coste asciende al 0,25 % del valor de la mercancía y es repercutible al cliente.\nConteste a las siguientes cuestiones: ¿A cuánto asciende la base imponible correspondiente a este servicio de transporte a efectos del Impuesto sobre el Valor Añadido? ¿Qué tipo impositivo se deberá aplicar a la operación a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto ascenderá la cuota de IVA?",
+      "solucion": "B",
+      "norma": "Ley 37/1992, art. 78; Ley 37/1992, art. 90",
+      "opciones": {
+        "A": {
+          "A": "17.525 euros.",
+          "B": "10 %.",
+          "C": "1.752,50 euros."
+        },
+        "B": {
+          "A": "17.525 euros.",
+          "B": "21 %.",
+          "C": "3.680,25 euros."
+        },
+        "C": {
+          "A": "17.525 euros.",
+          "B": "4 %.",
+          "C": "701 euros."
+        },
+        "D": {
+          "A": "16.900 euros.",
+          "B": "10 %.",
+          "C": "1.690 euros."
+        },
+        "E": {
+          "A": "16.900 euros.",
+          "B": "21 %.",
+          "C": "3.549 euros."
+        },
+        "F": {
+          "A": "16.900 euros.",
+          "B": "4 %.",
+          "C": "676 euros."
+        },
+        "G": {
+          "A": "17.275 euros.",
+          "B": "10 %.",
+          "C": "1.727,50 euros."
+        },
+        "H": {
+          "A": "17.275 euros.",
+          "B": "21 %.",
+          "C": "3.627,75 euros."
+        }
+      }
+    },
+    {
+      "cod": "1D01006",
+      "pregunta": "El conductor de un vehículo de transporte de mercancías por carretera reposta 210 litros de carburante en una estación de servicio. El coste del producto adquirido, sin computar el IVA, es de 112 euros, de los cuales 47 euros corresponden al Impuesto sobre Hidrocarburos.\nConteste a las siguientes cuestiones: ¿A cuánto asciende la base imponible correspondiente a este suministro a efectos del Impuesto sobre el Valor Añadido? ¿Qué tipo impositivo se deberá aplicar a la operación a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto ascenderá la cuota de IVA?",
+      "solucion": "D",
+      "norma": "Ley 37/1992, art. 78; Ley 37/1992, art. 90",
+      "opciones": {
+        "A": {
+          "A": "65 euros.",
+          "B": "21 %.",
+          "C": "13,65 euros."
+        },
+        "B": {
+          "A": "65 euros.",
+          "B": "10 %.",
+          "C": "6,50 euros."
+        },
+        "C": {
+          "A": "65 euros.",
+          "B": "4 %.",
+          "C": "2,60 euros."
+        },
+        "D": {
+          "A": "112 euros.",
+          "B": "21 %.",
+          "C": "23,52 euros."
+        },
+        "E": {
+          "A": "112 euros.",
+          "B": "10 %.",
+          "C": "11,20 euros."
+        },
+        "F": {
+          "A": "112 euros.",
+          "B": "4 %.",
+          "C": "4,48 euros."
+        },
+        "G": {
+          "A": "159 euros.",
+          "B": "21 %.",
+          "C": "33,39 euros."
+        },
+        "H": {
+          "A": "159 euros.",
+          "B": "10 %.",
+          "C": "15,90 euros."
+        }
+      }
+    },
+    {
+      "cod": "1D01007",
+      "pregunta": "Una empresa de transporte de mercancías por carretera, especializada en el transporte de vehículos, que mantiene un acuerdo de exclusividad con un concesionario de automóviles, factura los servicios prestados en la segunda quincena de diciembre, cuyo precio asciende a 12.800 euros.\nHabiendo constatado que en el conjunto del año se ha alcanzado el volumen de operaciones estipulado, aplica en esta factura una bonificación del 1 % sobre dicho volumen anual, según contempla el acuerdo. El precio de los servicios prestados en todo el año ha ascendido a 326.700 euros.\nConteste a las siguientes cuestiones: ¿A cuánto asciende la base imponible de la factura correspondiente a los servicios de la segunda quincena de diciembre? ¿Qué tipo impositivo se deberá aplicar en dicha factura a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto ascenderá la cuota de IVA?",
+      "solucion": "A",
+      "norma": "Ley 37/1992, art. 78; Ley 37/1992, art. 90",
+      "opciones": {
+        "A": {
+          "A": "9.533 euros.",
+          "B": "21 %.",
+          "C": "2.001,93 euros."
+        },
+        "B": {
+          "A": "9.533 euros.",
+          "B": "10 %.",
+          "C": "953,30 euros."
+        },
+        "C": {
+          "A": "9.533 euros.",
+          "B": "4 %.",
+          "C": "381,32 euros."
+        },
+        "D": {
+          "A": "12.800 euros.",
+          "B": "21 %.",
+          "C": "2.688 euros."
+        },
+        "E": {
+          "A": "12.800 euros.",
+          "B": "4 %.",
+          "C": "512 euros."
+        },
+        "F": {
+          "A": "12.800 euros.",
+          "B": "10 %.",
+          "C": "1.280 euros."
+        },
+        "G": {
+          "A": "11.520 euros.",
+          "B": "21 %.",
+          "C": "2.419,20 euros."
+        },
+        "H": {
+          "A": "11.520 euros.",
+          "B": "10 %.",
+          "C": "1.152 euros."
+        }
+      }
+    },
+    {
+      "cod": "1D01008",
+      "pregunta": "Una empresa multiservicios presenta entre otros, los siguientes datos en su contabilidad, referidos al primer trimestre del ejercicio:  \n  \tINGRESOS  \tIMPORTE SIN IVA  \n  \tPor prestación de servicios gravados al tipo general de IVA  \t54.125  \n  \tPor prestación de servicios gravados al 10 % de IVA  \t9.823  \n  \tGASTOS  \n  \tAlquiler de local  \t6.800  \n  \tElectricidad  \t350  \n  \tTeléfono  \t280  \n  \tArrendamiento de vehículos  \t3.500  \n  \tCarburante vehículos  \t865  \n  \tCambio de aceite vehículos  \t225  \n  \tOtros suministros corrientes gravados al tipo general de IVA  \t9.790 \nPara el desempeño de su negocio cuenta con dos vehículos, dos turismos que también utilizan el empresario y su familia en actividades privadas.\nLa empresa está incluida en el Régimen General del Impuesto sobre el Valor Añadido.\nCalcule el resultado de la liquidación del Impuesto sobre el Valor Añadido correspondiente a este trimestre.",
+      "solucion": "C",
+      "norma": "Ley 37/1992, art. 90; Ley 37/1992, art. 95; Ley 37/1992, art. 99; Ley 37/1992, art. 75; Ley 37/1992, art. 78; Ley 37/1992, art. 92; RD 1624/1992, art. 71",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D01009",
+      "pregunta": "Una empresa de transporte de mercancías por carretera presenta, entre otros, los siguientes datos en su contabilidad, referidos al primer trimestre del ejercicio:  \n  \tINGRESOS  \tIMPORTE SIN IVA  \n  \tPor prestación de servicios de transporte  \t68.950  \n  \tGASTOS  \n  \tArrendamiento de garaje  \t8.740  \n  \tElectricidad  \t680  \n  \tTeléfono  \t540  \n  \tReparaciones de vehículos  \t10.962  \n  \tCarburante  \t15.384  \n  \tAdquisición de 20 relojes para atención a clientes  \t2.500  \n  \tDietas de conductores  \t2.080  \n  \tOtros suministros corrientes gravados al tipo general de IVA  \t9.790 \nLa empresa está incluida en el Régimen General del Impuesto sobre el Valor Añadido.\nCalcule el resultado de la liquidación del Impuesto sobre el Valor Añadido correspondiente a este trimestre.",
+      "solucion": "B",
+      "norma": "Ley 37/1992, art. 90; Ley 37/1992, art. 96; Ley 37/1992, art. 99; Ley 37/1992, art. 75; Ley 37/1992, art. 78; Ley 37/1992, art. 92; Ley 37/1992, art. 1; RD 1624/1992, art. 71",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D01010",
+      "pregunta": "Una empresa de transporte de mercancías por carretera presenta, entre otros, los siguientes datos en su contabilidad, referidos a los trimestres primero y segundo del ejercicio:  \n  \tIMPORTE SIN IVA  \n  \tINGRESOS  \tPRIMER TRIMESTRE  \tSEGUNDO TRIMESTRE  \n  \tPor prestación de servicios de transporte  \t10.680  \t12.840  \n  \tGASTOS  \n  \tArrendamiento de local  \t2.620  \t2.620  \n  \tElectricidad  \t355  \t380  \n  \tTeléfono  \t390  \t390  \n  \tReparaciones de vehículos  \t2.340  \t1.550  \n  \tCarburante  \t1.874  \t1.996  \n  \tPeajes  \t360  \t420  \n  \tOtros suministros corrientes gravados al tipo general de IVA  \t3.547  \t3.980  \n  \tSalarios  \t9.850  \t9.850 \nLa empresa está incluida en el Régimen General del Impuesto sobre el Valor Añadido.\nCalcule el resultado de las liquidaciones del Impuesto sobre el Valor Añadido correspondientes a estos dos trimestres.",
+      "solucion": "D",
+      "norma": "Ley 37/1992, art. 90; Ley 37/1992, art. 99; Ley 37/1992, art. 75; Ley 37/1992, art. 78; Ley 37/1992, art. 91; Ley 37/1992, art. 92; Ley 37/1992, art. 1; Ley 37/1992, art. 115; RD 1624/1992, art. 71",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D01011",
+      "pregunta": "Una empresa de transporte de mercancías por carretera lleva a cabo tres servicios de traslado de neumáticos usados hasta una planta de reciclaje por cuenta de un taller mecánico. Los tres servicios son facturados por el transportista de forma conjunta y por el mismo precio, figurando en la factura como cantidad total a pagar la de 3.840,54 euros.\nResponda a las siguientes cuestiones: ¿Qué tipo impositivo debe figurar en la factura a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto asciende el precio aplicado a cada servicio, antes de impuestos?",
+      "solucion": "A",
+      "norma": "Ley 37/1992, art. 90; Ley 37/1992, art. 91; Ley 37/1992, art. 78; RD 1619/2012, art. 6",
+      "opciones": {
+        "A": {
+          "A": "21 %.",
+          "B": "1.058 euros."
+        },
+        "B": {
+          "A": "21 %.",
+          "B": "1.280,18 euros."
+        },
+        "C": {
+          "A": "21 %.",
+          "B": "3.174 euros."
+        },
+        "D": {
+          "A": "21 %.",
+          "B": "666,54 euros."
+        },
+        "E": {
+          "A": "10 %.",
+          "B": "3.491,40 euros."
+        },
+        "F": {
+          "A": "10 %.",
+          "B": "1.163,80 euros."
+        },
+        "G": {
+          "A": "10 %.",
+          "B": "349,14 euros."
+        },
+        "H": {
+          "A": "10 %.",
+          "B": "1.058 euros."
+        }
+      }
+    },
+    {
+      "cod": "1D01012",
+      "pregunta": "Transportes Variados, S.A. es una sociedad dedicada tanto al transporte de mercancías por carretera como al de viajeros en autocar. En el tercer trimestre ha facturado servicios por importe de 84.430 euros, antes de impuestos, de los cuales un 36 % corresponden a la actividad de transporte de viajeros. Asimismo, en dicho trimestre ha tenido unos gastos vinculados con sus actividades de transporte de 52.625 euros.\nLa sociedad está sujeta al régimen general del Impuesto sobre el Valor Añadido.\nResponda a las siguientes cuestiones: ¿Qué cantidad debe figurar en concepto de cuotas devengadas en la declaración del Impuesto sobre el Valor Añadido correspondiente a este trimestre? ¿Cuándo se debe presentar la declaración del impuesto de este trimestre?",
+      "solucion": "C",
+      "norma": "Ley 37/1992, art. 90; RD 1624/1992, art. 71; Ley 37/1992, art. 91; Ley 37/1992, art. 75; Ley 37/1992, art. 78",
+      "opciones": {
+        "A": {
+          "A": "11.786,42 euros.",
+          "B": "Del 1 al 20 de octubre."
+        },
+        "B": {
+          "A": "17.730,30 euros.",
+          "B": "Del 1 al 20 de octubre."
+        },
+        "C": {
+          "A": "14.386,87 euros.",
+          "B": "Del 1 al 20 de octubre."
+        },
+        "D": {
+          "A": "8.443 euros.",
+          "B": "Del 1 al 20 de octubre."
+        },
+        "E": {
+          "A": "6.679,05 euros.",
+          "B": "Del 1 al 30 de octubre."
+        },
+        "F": {
+          "A": "3.180,50 euros.",
+          "B": "Del 1 al 30 de octubre."
+        },
+        "G": {
+          "A": "5.419,57 euros.",
+          "B": "Del 1 al 30 de octubre."
+        },
+        "H": {
+          "A": "4.439,97 euros.",
+          "B": "Del 1 al 30 de octubre."
+        }
+      }
+    },
+    {
+      "cod": "1D01013",
+      "pregunta": "La sociedad Grúas y Transportes, S.L., dedicada al transporte de mercancías por carretera y especializada en el rescate y traslado de vehículos accidentados y averiados, fue requerida por Viajes y Excursiones, S.A., empresa de transporte de viajeros en autocar, para efectuar el traslado a taller de un autocar que había quedado inmovilizado por avería en la carretera mientras se desplazaba para efectuar un transporte de escolares.\nGrúas y Transportes, S.L. cobra 900 euros, antes de impuestos, a Viajes y Excursiones, S.A. por este servicio.\nResponda a las siguientes cuestiones: ¿Qué tipo impositivo hay que aplicar a este servicio a efectos del Impuesto sobre el Valor Añadido? ¿Qué cantidad debe aparecer en la factura correspondiente como cuota de IVA?",
+      "solucion": "B",
+      "norma": "Ley 37/1992, art. 90; Ley 37/1992, art. 91; Ley 37/1992, art. 78",
+      "opciones": {
+        "A": {
+          "A": "21 %.",
+          "B": "156,20 euros."
+        },
+        "B": {
+          "A": "21 %.",
+          "B": "189 euros."
+        },
+        "C": {
+          "A": "10 %.",
+          "B": "90 euros."
+        },
+        "D": {
+          "A": "10 %.",
+          "B": "81,20 euros."
+        },
+        "E": {
+          "A": "4 %.",
+          "B": "36 euros."
+        },
+        "F": {
+          "A": "4 %.",
+          "B": "34,62 euros."
+        },
+        "G": {
+          "A": "El tipo es cero por ser una operación no sujeta al impuesto.",
+          "B": "0 euros."
+        },
+        "H": {
+          "A": "El tipo es cero por ser una operación sujeta al impuesto, pero exenta.",
+          "B": "0 euros."
+        }
+      }
+    },
+    {
+      "cod": "1D01014",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1      -MMA: 31 toneladas   -Tara: 8 toneladas   -Vehículo 2      -MMA: 23 toneladas   -Tara: 7 toneladas  \nPara desarrollar la actividad tiene contratados a dos conductores, uno con jornada completa y otro con media jornada. Además, él mismo trabaja a tiempo completo en la empresa.\nEste transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 4.149,99 euros -Tonelada de carga: 388,55 euros\nDurante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 28.741 euros.\nCalcule la cuota devengada por operaciones corrientes que debe computar a efectos de la liquidación del Impuesto sobre el Valor Añadido.",
+      "solucion": "D",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D01015",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1      -MMA: 32 toneladas   -Tara: 7,5 toneladas   -Vehículo 2      -MMA: 24 toneladas   -Tara: 6,8 toneladas  \nPara desarrollar la actividad tiene contratados a dos conductores, uno con jornada completa y otro con media jornada. Además, él mismo, aunque está jubilado, trabaja a tiempo parcial en la empresa desarrollando una cuarta parte de la jornada ordinaria.\nEste transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 4.149,99 euros -Tonelada de carga: 388,55 euros\nDurante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 26.540 euros.\nCalcule la cuota devengada por operaciones corrientes que debe computar a efectos de la liquidación del Impuesto sobre el Valor Añadido.",
+      "solucion": "A",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D01016",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1      -MMA: 32 toneladas   -Tara: 8 toneladas   -Vehículo 2      -MMA: 25 toneladas   -Tara: 7 toneladas  \nPara desarrollar la actividad tiene contratado a un conductor con jornada completa y él mismo trabaja a tiempo completo. Además, su cónyuge trabaja también en la empresa a tiempo completo, bajo la condición de autónomo colaborador del empresario principal.\nEste transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 4.149,99 euros -Tonelada de carga: 388,55 euros\nDurante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 29.463 euros.\nCalcule la cuota devengada por operaciones corrientes que debe computar a efectos de la liquidación del Impuesto sobre el Valor Añadido.",
+      "solucion": "C",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D01017",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1      -MMA: 42 toneladas   -Tara: 8 toneladas   -Vehículo 2      -MMA: 26 toneladas   -Tara: 7 toneladas  \nPara desarrollar la actividad tiene contratados a dos conductores: uno con jornada completa y el otro solo efectúa un 75 % de la jornada normal. Además, él mismo, aunque está jubilado, trabaja en la empresa realizando una cuarta parte de la jornada ordinaria.\nEste transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 4.149,99 euros -Tonelada de carga: 388,55 euros\nDurante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 29.050 euros.\nCalcule la cuota devengada por operaciones corrientes que debe computar a efectos de la liquidación del Impuesto sobre el Valor Añadido.",
+      "solucion": "B",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D01018",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1      -MMA: 32 toneladas   -Tara: 8 toneladas   -Vehículo 2      -MMA: 22 toneladas   -Tara: 6 toneladas  \nPara desarrollar la actividad tiene contratados a dos conductores, ambos con jornada completa. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.\nEste transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 4.149,99 euros -Tonelada de carga: 388,55 euros\nDurante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 14.805 euros y ha pagado 12.589 euros a sus proveedores en concepto de IVA soportado en gastos corrientes.\nCalcule la cuota mínima por operaciones corrientes que resultará en la liquidación del Impuesto sobre el Valor Añadido.",
+      "solucion": "D",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D01019",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1      -MMA: 39 toneladas   -Tara: 6,8 toneladas   -Vehículo 2      -MMA: 35 toneladas   -Tara: 6,4 toneladas  \nPara desarrollar la actividad tiene contratados a tres conductores: uno con jornada completa y los otros dos a media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.\nEste transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 4.149,99 euros -Tonelada de carga: 388,55 euros\nDurante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 24.220 euros y ha pagado 13.740 euros a sus proveedores en concepto de IVA soportado en gastos corrientes.\nCalcule la cuota derivada del régimen simplificado que resultará en la liquidación del Impuesto sobre el Valor Añadido.",
+      "solucion": "A",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D01020",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de un único camión cuya capacidad es la siguiente: -MMA: 36 toneladas -Tara: 7,9 toneladas\nPara desarrollar la actividad tiene contratado a un conductor con media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.\nEste transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 4.149,99 euros -Tonelada de carga: 388,55 euros\nDurante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 9.820 euros y ha pagado 7.540 euros a sus proveedores en concepto de IVA soportado en gastos corrientes. Además, tiene pendientes de deducción 1.480 euros por cuotas de IVA soportadas en gastos corrientes en el año anterior.\nCalcule la cuota derivada del régimen simplificado que resultará en la liquidación del Impuesto sobre el Valor Añadido.",
+      "solucion": "C",
+      "norma": "Ley 37/1992, art. 123; OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D01021",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de un único vehículo: un tractocamión cuya capacidad es la siguiente: -MMA: 42 toneladas -Tara: 6,5 toneladas\nPara desarrollar la actividad tiene contratado a un conductor con media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.\nEste transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 4.149,99 euros -Tonelada de carga: 388,55 euros\nSu contabilidad registra, entre otros, los siguientes datos en el conjunto del año:  \n  \tINGRESOS  \tIMPORTE SIN IVA  \n  \tPor prestación de servicios de transporte  \t84.125  \n  \tGASTOS  \n  \tAlquiler de local  \t6.800  \n  \tElectricidad  \t350  \n  \tTeléfono  \t280  \n  \tReparaciones  \t3.690  \n  \tCarburante  \t20.842  \n  \tOtros suministros corrientes gravados al tipo general de IVA  \t4.578 \nCalcule la cuota derivada del régimen simplificado que resultará en la liquidación del Impuesto sobre el Valor Añadido.",
+      "solucion": "B",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D01022",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1      -MMA: 30 toneladas   -Tara: 7,8 toneladas   -Vehículo 2      -MMA: 15 toneladas   -Tara: 6,4 toneladas  \nPara desarrollar la actividad tiene contratados a tres conductores: uno con jornada completa y los otros dos a media jornada. El propio empresario solo trabaja una cuarta parte de la jornada por sufrir una incapacidad física del 25 %.\nEste transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 4.149,99 euros -Tonelada de carga: 388,55 euros\nDurante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 24.220 euros y ha pagado 20.740 euros a sus proveedores en concepto de IVA soportado en gastos corrientes.\nCalcule la cuota derivada del régimen simplificado que resultará en la liquidación del Impuesto sobre el Valor Añadido.",
+      "solucion": "D",
+      "norma": "OM HFP/1335/2021, Anexo II; OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D01023",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1      -MMA: 31 toneladas   -Tara: 7,5 toneladas   -Vehículo 2      -MMA: 21 toneladas   -Tara: 7 toneladas  \nPara desarrollar la actividad tiene contratado a un conductor con jornada completa. Además, él mismo trabaja a tiempo completo en la empresa.\nEste transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 4.149,99 euros -Tonelada de carga: 388,55 euros\nDurante el segundo trimestre del año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 8.741 euros y ha pagado 6.432 euros por IVA soportado en gastos corrientes.\nConteste las siguientes cuestiones: ¿A cuánto asciende la cuota trimestral del Impuesto sobre el Valor Añadido correspondiente al período en cuestión? ¿Cuándo debe presentar la declaración referida a este trimestre?",
+      "solucion": "A",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {
+          "A": "1.143,53 euros.",
+          "B": "Del 1 al 20 de julio."
+        },
+        "B": {
+          "A": "228,70 euros.",
+          "B": "Del 1 al 20 de julio."
+        },
+        "C": {
+          "A": "2.287,06 euros.",
+          "B": "Del 1 al 20 de julio."
+        },
+        "D": {
+          "A": "2 309 euros.",
+          "B": "Del 1 al 20 de julio."
+        },
+        "E": {
+          "A": "1 143,53 euros.",
+          "B": "Del 1 al 30 de julio."
+        },
+        "F": {
+          "A": "228,70 euros.",
+          "B": "Del 1 al 30 de julio."
+        },
+        "G": {
+          "A": "2 287,06 euros.",
+          "B": "Del 1 al 30 de julio."
+        },
+        "H": {
+          "A": "2 309 euros.",
+          "B": "Del 1 al 30 de julio."
+        }
+      }
+    },
+    {
+      "cod": "1D01024",
+      "pregunta": "De la contabilidad de un transportista de mercancías por carretera es posible extraer, entre otros, los siguientes datos:  \n  \tINGRESOS  \tIMPORTE SIN IVA  \tFECHA DE FACTURA  \tFECHA DE COBRO/PAGO  \n  \tPrestación de servicios de transporte  \t10.680  \t25 de enero  \t15 de marzo  \n  \tPrestación de servicios de transporte  \t6.524  \t18 de febrero  \t6 de abril  \n  \tGASTOS  \n  \tArrendamiento de local  \t2.620  \t31 de marzo  \t5 de abril  \n  \tElectricidad  \t355  \t20 de enero  \t27 de enero  \n  \tTeléfono  \t390  \t18 de marzo  \t25 de marzo  \n  \tReparaciones de vehículos  \t2.340  \t20 de marzo  \t2 de abril  \n  \tCarburante  \t1.874  \t28 de febrero  \t3 de abril  \n  \tPeajes  \t360  \t31 de enero  \t5 de febrero \nEl transportista está acogido al régimen especial del criterio de caja a efectos del Impuesto sobre el Valor Añadido.\nResponda a las siguientes cuestiones: ¿Qué volumen de operaciones, como máximo, ha podido tener este empresario durante el año natural anterior? ¿Qué cantidades figurarán en concepto de IVA devengado y de IVA soportado en la declaración correspondiente al primer trimestre?",
+      "solucion": "C",
+      "norma": "Ley 37/1992, 163 decies; Ley 37/1992, 163 terdecies; Ley 37/1992, art. 90; Ley 37/1992, art. 91",
+      "opciones": {
+        "A": {
+          "A": "2.000.000  euros.",
+          "B": "IVA devengado: 3.612,84 euros; IVA soportado: 232,05 euros."
+        },
+        "B": {
+          "A": "2.000.000  euros.",
+          "B": "IVA devengado: 2.242,80 euros; IVA soportado: 1.667,19 euros."
+        },
+        "C": {
+          "A": "2.000.000  euros.",
+          "B": "IVA devengado: 2.242,80 euros; IVA soportado: 232,05 euros."
+        },
+        "D": {
+          "A": "2.000 000  euros.",
+          "B": "IVA devengado: 3.612,84 euros; IVA soportado: 1.667,19 euros."
+        },
+        "E": {
+          "A": "1.000 000 euros.",
+          "B": "IVA devengado: 3.612,84 euros; IVA soportado: 232,05 euros."
+        },
+        "F": {
+          "A": "1.000 000 euros.",
+          "B": "IVA devengado: 2.242,80 euros; IVA soportado: 1.667,19 euros."
+        },
+        "G": {
+          "A": "1.000 000 euros.",
+          "B": "IVA devengado: 2.242,80 euros; IVA soportado: 232,05 euros."
+        },
+        "H": {
+          "A": "1.000 000 euros.",
+          "B": "IVA devengado: 3.612,84 euros; IVA soportado: 1.667,19 euros."
+        }
+      }
+    },
+    {
+      "cod": "1D02001",
+      "pregunta": "Una empresa de transporte de mercancías por carretera dispone para el desempeño de su actividad de cinco vehículos, debidamente matriculados, cuyas características son las siguientes:  \n  \tMMA (kg)  \tTara (kg)  \n  \tCamión 1  \t15.700  \t6.050  \n  \tCamión 2  \t38.500  \t7.240  \n  \tCamión 3  \t41.500  \t7.890  \n  \tFurgón  \t5.200  \t2.800  \n  \tRemolque  \t2.325  \t1.600 \nLas tarifas generales del Impuesto sobre Vehículos de Tracción Mecánica establecidas en la ley son las siguientes:  \n  \tClase de vehículo  \tCuota–Euros  \n  \tDe menos de 1.000 kilogramos de carga útil  \t42,28  \n  \tDe 1.000 a 2.999 kilogramos de carga útil  \t83,30  \n  \tDe más de 2.999 a 9.999 kilogramos de carga útil  \t118,64  \n  \tDe más de 9.999 kilogramos de carga útil  \t148,30 \nConteste a las siguientes cuestiones: ¿Qué vehículos de los que posee la empresa están sujetos al Impuesto sobre Vehículos de Tracción Mecánica? ¿A cuánto ascenderá el importe a pagar si el ayuntamiento competente para exigir el impuesto aplica las tarifas generales establecidas en la ley? ¿A cuánto ascenderá el importe a pagar si el ayuntamiento aplica, sobre las tarifas generales, el coeficiente máximo de incremento permitido por la ley?",
+      "solucion": "C",
+      "norma": "RD Legislativo 2/2004, art. 92; RD Legislativo 2/2004, art. 95",
+      "opciones": {
+        "A": {
+          "A": "Todos los vehículos.",
+          "B": "540,82 euros.",
+          "C": "1.081,64 euros."
+        },
+        "B": {
+          "A": "Los tres camiones exclusivamente.",
+          "B": "415,24.",
+          "C": "830,48 euros."
+        },
+        "C": {
+          "A": "Los tres camiones y el furgón exclusivamente.",
+          "B": "498,54 euros.",
+          "C": "997,08 euros."
+        },
+        "D": {
+          "A": "El furgón y el remolque exclusivamente.",
+          "B": "125,58 euros.",
+          "C": "251,16 euros."
+        },
+        "E": {
+          "A": "Todos los vehículos.",
+          "B": "540,82 euros.",
+          "C": "811,23 euros."
+        },
+        "F": {
+          "A": "Los tres camiones exclusivamente.",
+          "B": "415,24.",
+          "C": "622,86 euros."
+        },
+        "G": {
+          "A": "Los tres camiones y el furgón exclusivamente.",
+          "B": "498,54 euros.",
+          "C": "747,81 euros."
+        },
+        "H": {
+          "A": "El furgón y el remolque exclusivamente.",
+          "B": "125,58 euros.",
+          "C": "188,37 euros."
+        }
+      }
+    },
+    {
+      "cod": "1D02002",
+      "pregunta": "Una empresa de transporte de mercancías por carretera dispone para el desempeño de su actividad de cinco vehículos debidamente matriculados, todos ellos adquiridos nuevos, cuyas características son las siguientes:  \n  \tMMA (kg)  \tTara (kg)  \tFecha de adquisición  \n  \tCamión 1  \t15.700  \t6.050  \tHace cinco años  \n  \tCamión 2  \t38.500  \t7.240  \tHace tres años  \n  \tCamión 3  \t41.500  \t7.890  \t1 de junio del año en curso  \n  \tFurgón  \t5.200  \t2.800  \tHace seis años  \n  \tRemolque  \t2.325  \t1.600  \t16 de abril del año en curso \nEl camión 1 no ha circulado durante dos meses en el año en curso por causa de una avería mecánica.\nLas tarifas generales del Impuesto sobre Vehículos de Tracción Mecánica establecidas en la ley son las siguientes:  \n  \tClase de vehículo  \tCuota–Euros  \n  \tDe menos de 1.000 kilogramos de carga útil  \t42,28  \n  \tDe 1.000 a 2.999 kilogramos de carga útil  \t83,30  \n  \tDe más de 2.999 a 9.999 kilogramos de carga útil  \t118,64  \n  \tDe más de 9.999 kilogramos de carga útil  \t148,30 \nConteste a las siguientes cuestiones: ¿Por qué vehículos de los que posee la empresa se debe pagar el Impuesto sobre Vehículos de Tracción Mecánica en el año en curso? ¿A cuánto ascenderá el importe a pagar en el año en curso si el ayuntamiento competente para exigir el impuesto aplica las tarifas generales establecidas en la ley? ¿A cuánto ascenderá el importe a pagar en el año en curso si el ayuntamiento aplica, sobre las tarifas generales, el coeficiente máximo de incremento permitido por la ley?",
+      "solucion": "F",
+      "norma": "RD Legislativo 2/2004, art. 92; RD Legislativo 2/2004, art. 95; RD Legislativo 2/2004, art. 96",
+      "opciones": {
+        "A": {
+          "A": "Todos los vehículos.",
+          "B": "493,17 euros.",
+          "C": "986,34 euros."
+        },
+        "B": {
+          "A": "Los tres camiones exclusivamente.",
+          "B": "378,16 euros.",
+          "C": "756,32 euros."
+        },
+        "C": {
+          "A": "El furgón y el remolque exclusivamente.",
+          "B": "115,01 euros.",
+          "C": "230,02 euros."
+        },
+        "D": {
+          "A": "Todos los vehículos.",
+          "B": "540,82 euros.",
+          "C": "1.081,64 euros."
+        },
+        "E": {
+          "A": "Los tres camiones exclusivamente.",
+          "B": "415,24 euros.",
+          "C": "622,86 euros."
+        },
+        "F": {
+          "A": "Los tres camiones y el furgón exclusivamente.",
+          "B": "461,47 euros.",
+          "C": "922,94 euros."
+        },
+        "G": {
+          "A": "Los tres camiones y el furgón exclusivamente.",
+          "B": "498,54 euros.",
+          "C": "747,81 euros."
+        },
+        "H": {
+          "A": "El furgón y el remolque exclusivamente.",
+          "B": "125,58 euros.",
+          "C": "188,37 euros."
+        }
+      }
+    },
+    {
+      "cod": "1D03001",
+      "pregunta": "Una empresa española de transporte de mercancías por carretera, especializada en el transporte de automóviles con destino a la exportación, efectúa un porte entre Valladolid y Rabat. En el viaje de regreso, el conductor reposta antes de abandonar territorio marroquí, aprovechando que le resulta más económico.\nEn la frontera, las autoridades aduaneras españolas efectúan una inspección y en la misma detectan que lleva una carga de 180 litros de biodiésel en el depósito del propio vehículo. Como consecuencia de ello, levantan acta en la que establecen que deberá efectuar el pago del Impuesto sobre Hidrocarburos por estar importando los citados litros de biodiésel.\nPara el cálculo de la cuota a ingresar por este impuesto, el epígrafe correspondiente de la Ley de Impuestos Especiales estipula un tipo general de 307 euros por 1.000 litros y un tipo especial de 72 euros por 1.000 litros.\nConteste a las siguientes cuestiones: ¿Cuál de los usos del producto que se encuentran sujetos al Impuesto sobre Hidrocarburos concurre en este caso? ¿A cuánto ascenderá el importe a pagar? ¿Cómo se efectuaría, en su caso, la liquidación y pago de la deuda?",
+      "solucion": "C",
+      "norma": "Ley 38/1992, art. 18; Ley 38/1992, art. 49; Ley 38/1992, art. 51; Ley 38/1992, art. 2; Ley 38/1992, art. 46",
+      "opciones": {
+        "A": {
+          "A": "Uso como carburante.",
+          "B": "No hay que pagar nada porque la importación en los depósitos de vehículos comerciales está exenta hasta 350 litros.",
+          "C": "Mediante autoliquidación, que se presentará y abonará en el plazo de dos meses."
+        },
+        "B": {
+          "A": "Uso como carburante.",
+          "B": "No hay que pagar nada porque la importación en los depósitos de vehículos comerciales está exenta hasta 200 litros.",
+          "C": "Mediante autoliquidación, que se presentará y abonará en el plazo de un mes."
+        },
+        "C": {
+          "A": "Uso como carburante.",
+          "B": "No hay que pagar nada porque la importación en los depósitos de vehículos comerciales está exenta hasta 200 litros.",
+          "C": "En la forma prevista para la deuda aduanera."
+        },
+        "D": {
+          "A": "Uso como carburante.",
+          "B": "No hay que pagar nada porque el uso de biodiésel para efectuar transporte por carretera está exento.",
+          "C": "En la forma prevista para la deuda aduanera."
+        },
+        "E": {
+          "A": "Uso como combustible.",
+          "B": "No hay que pagar nada porque el uso de biodiésel para efectuar transporte por carretera está exento.",
+          "C": "En la forma prevista para la deuda aduanera."
+        },
+        "F": {
+          "A": "Uso como combustible.",
+          "B": "No hay que pagar nada porque la importación en los depósitos de vehículos comerciales está exenta hasta 350 litros.",
+          "C": "En la forma prevista para la deuda aduanera."
+        },
+        "G": {
+          "A": "Uso como combustible.",
+          "B": "No hay que pagar nada porque la importación en los depósitos de vehículos comerciales está exenta hasta 200 litros.",
+          "C": "Mediante autoliquidación, que se presentará y abonará en el plazo de un mes."
+        },
+        "H": {
+          "A": "Uso como combustible.",
+          "B": "No hay que pagar nada porque la importación en los depósitos de vehículos comerciales está exenta hasta 200 litros.",
+          "C": "En la forma prevista para la deuda aduanera."
+        }
+      }
+    },
+    {
+      "cod": "1D03002",
+      "pregunta": "Una empresa de transporte de mercancías por carretera debidamente autorizada desarrolla su actividad con los vehículos cuyas características y consumo de carburante son los siguientes:  \n  \tMasa máxima autorizada (toneladas)  \tConsumo anual de carburante (litros)  \n  \tVehículo 1  \t37,5  \t52.000  \n  \tVehículo 2  \t40  \t58.500  \n  \tVehículo 3  \t39  \t50.660  \n  \tVehículo 4  \t6  \t38.000  \n  \tVehículo 5  \t5,5  \t25.324 \nLos conductores de esta empresa utilizan siempre tarjetas-gasóleo profesional como medio de pago al repostar.\nLa normativa cuantifica en 25 euros por 1.000 litros el importe de la devolución estatal a la que se tiene derecho para el tipo de carburante que utiliza.\nConteste a las siguientes cuestiones: Qué requisitos deberá cumplir para tener derecho a la devolución del Impuesto sobre Hidrocarburos? ¿A cuánto ascenderá la devolución estatal por el consumo de ese año? ¿Cuándo se efectuará la devolución?",
+      "solucion": "F",
+      "norma": "Ley 38/1992, 52 bis; OM HFP/941/2022, art. 2; OM HFP/941/2022, art. 9; OM HFP/941/2022, art. 10",
+      "opciones": {
+        "A": {
+          "A": "Estar inscrito en el Censo de beneficiarios de devoluciones por gasóleo profesional y de vehículos de su titularidad y presentar una declaración anual.",
+          "B": "5.612 euros.",
+          "C": "A la finalización de cada trimestre natural."
+        },
+        "B": {
+          "A": "Estar inscrito en el Censo de beneficiarios de devoluciones por gasóleo profesional y de vehículos de su titularidad.",
+          "B": "5.612 euros.",
+          "C": "A la finalización de cada mes."
+        },
+        "C": {
+          "A": "Presentar una declaración trimestral.",
+          "B": "5.612 euros.",
+          "C": "A la finalización de cada trimestre natural."
+        },
+        "D": {
+          "A": "Presentar una declaración anual.",
+          "B": "3.750 euros.",
+          "C": "A la finalización de cada año."
+        },
+        "E": {
+          "A": "Estar inscrito en el Censo de beneficiarios de devoluciones por gasóleo profesional y de vehículos de su titularidad y presentar una declaración trimestral.",
+          "B": "6.250 euros.",
+          "C": "A la finalización de cada trimestre natural."
+        },
+        "F": {
+          "A": "Estar inscrito en el Censo de beneficiarios de devoluciones por gasóleo profesional y de vehículos de su titularidad y presentar una declaración anual.",
+          "B": "3.750 euros.",
+          "C": "A la finalización de cada mes natural."
+        },
+        "G": {
+          "A": "Estar inscrito en el Censo de beneficiarios de devoluciones por gasóleo profesional y de vehículos de su titularidad y presentar una declaración anual.",
+          "B": "6.250 euros.",
+          "C": "A la finalización de cada trimestre natural."
+        },
+        "H": {
+          "A": "Estar inscrito en el Censo de beneficiarios de devoluciones por gasóleo profesional y de vehículos de su titularidad y presentar una declaración anual.",
+          "B": "3.750 euros.",
+          "C": "A la finalización de cada semestre."
+        }
+      }
+    },
+    {
+      "cod": "1D03003",
+      "pregunta": "Una empresa que tiene como actividad principal la fabricación de muebles de oficina dispone, como elementos auxiliares de dicha actividad, de los vehículos cuyas características y consumo de carburante son los siguientes:  \n  \tMasa máxima autorizada (toneladas)  \tConsumo anual de carburante (litros)  \n  \tVehículo 1  \t30  \t51.000  \n  \tVehículo 2  \t30  \t52.500  \n  \tVehículo 3  \t25  \t50.660  \n  \tVehículo 4  \t7,5  \t50.050  \n  \tVehículo 5  \t5,5  \t25.324 \nLa empresa cuenta con autorización de transporte privado complementario de mercancías.\nLos conductores de estos vehículos utilizan siempre tarjetas-gasóleo profesional como medio de pago al repostar.\nLa normativa cuantifica en 25 euros por 1.000 litros el importe de la devolución estatal a la que se tiene derecho para el tipo de carburante que utiliza.\nConteste a las siguientes cuestiones: ¿Tiene derecho esta empresa a la devolución del Impuesto sobre Hidrocarburos? En caso de tener derecho, ¿a cuánto ascendería la devolución estatal por el consumo de ese año? En caso de tener derecho y obtener la devolución, ¿tendría que efectuar la empresa alguna gestión administrativa?",
+      "solucion": "E",
+      "norma": "Ley 38/1992, 52 bis; OM HFP/941/2022, art. 10",
+      "opciones": {
+        "A": {
+          "A": "No, porque no efectúa transporte público.",
+          "B": "5.000 euros.",
+          "C": "Sí, presentar una declaración trimestral en la que se refleje el número de kilómetros recorridos con cada vehículo."
+        },
+        "B": {
+          "A": "No, porque no efectúa transporte público.",
+          "B": "3.750 euros.",
+          "C": "Sí, presentar una declaración anual en la que se refleje el número de kilómetros recorridos con cada vehículo."
+        },
+        "C": {
+          "A": "No, porque no efectúa transporte público.",
+          "B": "6.250 euros.",
+          "C": "Sí, presentar una declaración trimestral en la que se refleje el número de kilómetros recorridos con cada vehículo."
+        },
+        "D": {
+          "A": "No, porque no efectúa transporte público.",
+          "B": "5.105,25 euros.",
+          "C": "Sí, presentar una declaración anual en la que se refleje el número de kilómetros recorridos con cada vehículo."
+        },
+        "E": {
+          "A": "Sí.",
+          "B": "5.000 euros.",
+          "C": "Sí, presentar una declaración anual en la que se refleje el número de kilómetros recorridos con cada vehículo."
+        },
+        "F": {
+          "A": "Sí.",
+          "B": "6.250 euros.",
+          "C": "Sí, presentar una declaración trimestral en la que se refleje el número de kilómetros recorridos con cada vehículo."
+        },
+        "G": {
+          "A": "Sí.",
+          "B": "3.750 euros.",
+          "C": "Sí, presentar una declaración trimestral en la que se refleje el número de kilómetros recorridos con cada vehículo."
+        },
+        "H": {
+          "A": "Sí.",
+          "B": "5.105,25 euros.",
+          "C": "Sí, presentar una declaración anual en la que se refleje el número de kilómetros recorridos con cada vehículo."
+        }
+      }
+    },
+    {
+      "cod": "1D03004",
+      "pregunta": "Transportes del Sur, S.L. es una sociedad dedicada al transporte público de mercancías que tiene su sede en la ciudad de Huelva. Para el desarrollo de su actividad, dispone de tres vehículos con las siguientes características:  \n  \tMasa máxima autorizada (toneladas)  \n  \tVehículo 1  \t25  \n  \tVehículo 2  \t10  \n  \tVehículo 3  \t3,5 \nTransportes del Sur efectúa frecuentes viajes a diferentes puntos de Portugal.\nLas autoridades portuguesas, al amparo de la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras varias, deciden establecer un peaje específico para este tipo de vehículos en uno de los tramos de carretera que habitualmente utiliza esta empresa.\nComo justificante de pago de este peaje, se viene entregando a todos los usuarios un recibo en el que únicamente figura el importe total pagado.\nConteste a las siguientes cuestiones: ¿A qué vehículos de esta empresa se podría exigir el peaje? ¿Qué componentes podría tener el peaje? ¿Son correctos los recibos expedidos?",
+      "solucion": "C",
+      "norma": "Directiva 1999/62/CE, art. 2; Directiva 1999/62/CE, art. 7; Directiva 1999/62/CE, 7 undecies",
+      "opciones": {
+        "A": {
+          "A": "Al vehículo de 25 toneladas de masa máxima autorizada exclusivamente.",
+          "B": "Tasa por infraestructura y tasa por costes externos.",
+          "C": "No, porque, además del importe total, debe constar el importe de la tasa por infraestructura y el de la tasa por costes externos."
+        },
+        "B": {
+          "A": "Al vehículo de 25 toneladas y al de 10 toneladas de masa máxima autorizada.",
+          "B": "Tasa por infraestructura y tasa por costes externos.",
+          "C": "No, porque, además del importe total, debe constar el importe de la tasa por infraestructura y el de la tasa por costes externos."
+        },
+        "C": {
+          "A": "A los tres vehículos.",
+          "B": "Tasa por infraestructura, tasa por costes externos y tasa por congestión.",
+          "C": "No, porque, además del importe total, debe constar el importe de la tasa por infraestructura, el de la tasa por costes externos y el de la tasa por congestión."
+        },
+        "D": {
+          "A": "A ninguno de los tres vehículos.",
+          "B": "Tasa por infraestructura y tasa por costes externos.",
+          "C": "No, porque, además del importe total, debería constar el importe de la tasa por infraestructura y el de la tasa por costes externos."
+        },
+        "E": {
+          "A": "Al vehículo de 25 toneladas y al de 10 toneladas de masa máxima autorizada.",
+          "B": "Tasa por infraestructura y tasa por ocupación.",
+          "C": "Sí."
+        },
+        "F": {
+          "A": "A los tres vehículos.",
+          "B": "Tasa por infraestructura, tasa por ocupación y tasa por costes externos.",
+          "C": "Sí."
+        },
+        "G": {
+          "A": "A ninguno de los tres vehículos.",
+          "B": "Tasa por infraestructura y tasa por ocupación.",
+          "C": "Sí."
+        },
+        "H": {
+          "A": "Al vehículo de 25 toneladas de masa máxima autorizada exclusivamente.",
+          "B": "Tasa por infraestructura y tasa por costes externos.",
+          "C": "Sí."
+        }
+      }
+    },
+    {
+      "cod": "1D04001",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1      -MMA: 31 toneladas   -Tara: 8 toneladas   -Vehículo 2      -MMA: 23 toneladas   -Tara: 7 toneladas  \nPara desarrollar la actividad tiene contratados a dos conductores: uno con jornada completa y otro con media jornada. Además, él mismo trabaja a tiempo completo en la empresa.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.728,59 euros -Persona no asalariada: 10.090,99 euros -Tonelada de carga: 126,21 euros\nCalcule el rendimiento neto previo de este empresario.",
+      "solucion": "B",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04002",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1      -MMA: 31.800 kg   -Tara: 7.500 kg   -Vehículo 2      -MMA: 29.750 kg   -Tara: 6.800 kg  \nPara desarrollar la actividad tiene contratado a un conductor con jornada completa. Además, él mismo trabaja a tiempo completo en la empresa.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.728,59 euros -Persona no asalariada: 10.090,99 euros -Tonelada de carga: 126,21 euros\nCalcule el rendimiento neto previo de este empresario.",
+      "solucion": "E",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04003",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1      -MMA: 32 toneladas   -Tara: 7,5 toneladas   -Vehículo 2      -MMA: 24 toneladas   -Tara: 6,8 toneladas  \nPara desarrollar la actividad tiene contratados a dos conductores: uno con jornada completa y otro con media jornada. Además, él mismo, aunque está jubilado, trabaja a tiempo parcial en la empresa, desarrollando una cuarta parte de la jornada ordinaria.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.728,59 euros -Persona no asalariada: 10.090,99 euros -Tonelada de carga: 126,21 euros\nCalcule el rendimiento neto previo de este empresario.",
+      "solucion": "G",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04004",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1      -MMA: 32 toneladas   -Tara: 8 toneladas   -Vehículo 2      -MMA: 25 toneladas   -Tara: 7 toneladas  \nPara desarrollar la actividad tiene contratado a un conductor con jornada completa y él mismo trabaja a tiempo completo. Además, su cónyuge trabaja también en la empresa a tiempo completo bajo la condición de autónomo colaborador del empresario principal.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.728,59 euros -Persona no asalariada: 10.090,99 euros -Tonelada de carga: 126,21 euros\nCalcule el rendimiento neto previo de este empresario.",
+      "solucion": "A",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04005",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1      -MMA: 36 toneladas   -Tara: 8 toneladas   -Vehículo 2      -MMA: 24 toneladas   -Tara: 7 toneladas  \nPara desarrollar la actividad tiene contratados a dos conductores: uno con jornada completa y otro con media jornada. El conductor de media jornada tiene reconocida una discapacidad del 35 %. Además, el propio empresario trabaja a tiempo completo en la empresa.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.728,59 euros -Persona no asalariada: 10.090,99 euros -Tonelada de carga: 126,21 euros\nCalcule el rendimiento neto previo de este empresario.",
+      "solucion": "C",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04006",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1      -MMA: 30 toneladas   -Tara: 8 toneladas   -Vehículo 2      -MMA: 25 toneladas   -Tara: 7,2 toneladas  \nPara desarrollar la actividad tiene contratados a dos conductores, uno con jornada completa y otro con media jornada. Además, él mismo, que tiene reconocida una discapacidad del 38 %, trabaja a tiempo completo en la empresa.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.728,59 euros -Persona no asalariada: 10.090,99 euros -Tonelada de carga: 126,21 euros\nCalcule el rendimiento neto previo de este empresario.",
+      "solucion": "E",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04007",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1      -MMA: 42 toneladas   -Tara: 8 toneladas   -Vehículo 2      -MMA: 26 toneladas   -Tara: 7 toneladas  \nPara desarrollar la actividad tiene contratados a dos conductores: uno con jornada completa y el otro solo efectúa un 75 % de la jornada normal. Además, él mismo, aunque está jubilado, trabaja en la empresa realizando una cuarta parte de la jornada ordinaria.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.728,59 euros -Persona no asalariada: 10.090,99 euros -Tonelada de carga: 126,21 euros\nCalcule el rendimiento neto previo de este empresario.",
+      "solucion": "B",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04008",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos diésel cuya capacidad es la siguiente: -Vehículo 1      -MMA: 32 toneladas   -Tara: 8 toneladas   -Vehículo 2      -MMA: 22 toneladas   -Tara: 6 toneladas  \nLos vehículos fueron adquiridos nuevos: el primero de ellos hace diez años y el segundo, el año anterior. Los precios de adquisición fueron 45.000 y 35.000 euros respectivamente y su valor residual se estima nulo.\nPara desarrollar la actividad tiene contratados a dos conductores, ambos con jornada completa. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva.\nCalcule el rendimiento neto minorado que resultará, si viene aplicando la amortización máxima permitida, teniendo en cuenta la siguiente información: -Valor de los módulos computables      -Persona asalariada: 2.728,59 euros   -Persona no asalariada: 10.090,99 euros   -Tonelada de carga: 126,21 euros   -Amortización de vehículos      -Coeficiente lineal máximo: 25 %   -Período máximo: 8 años.",
+      "solucion": "C",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04009",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos diésel cuya capacidad es la siguiente: -Vehículo 1      -MMA: 39 toneladas   -Tara: 6,8 toneladas   -Vehículo 2      -MMA: 35 toneladas   -Tara: 6,4 toneladas  \nLos vehículos fueron adquiridos nuevos: el primero de ellos hace once años y el segundo, el año anterior. Los precios de adquisición fueron 45.000 y 38.000 euros respectivamente y su valor residual se estima nulo.\nAsimismo, este empresario compró hace cuatro años un local nuevo para su actividad por importe de 56.000 euros, de los cuales el 40 % corresponde al valor del suelo.\nPara desarrollar la actividad tiene contratados a tres conductores: uno con jornada completa y los otros dos a media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva.\nCalcule el rendimiento neto minorado que resultará, si viene aplicando la amortización máxima permitida, teniendo en cuenta la siguiente información: -Valor de los módulos computables      -Persona asalariada: 2.728,59 euros   -Persona no asalariada: 10.090,99 euros   -Tonelada de carga: 126,21 euros   -Amortización de vehículos      -Coeficiente lineal máximo: 25 %   -Período máximo: 8 años.   -Amortización de edificios y otras construcciones      -Coeficiente lineal máximo: 5 %   -Período máximo: 40 años.",
+      "solucion": "E",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04010",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de un único camión diésel cuya capacidad es la siguiente: -MMA: 36 toneladas -Tara: 7,9 toneladas\nEl vehículo fue adquirido nuevo hace tres años por el precio de 39.000 euros y su valor residual se estima nulo.\nPara desarrollar la actividad tiene contratado a un conductor con media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva.\nCalcule el rendimiento neto de módulos que resultará antes de efectuar la reducción del 10 % contemplada por la normativa, si viene aplicando la amortización máxima permitida, teniendo en cuenta la siguiente información: -Valor de los módulos computables      -Persona asalariada: 2.728,59 euros   -Persona no asalariada: 10.090,99 euros   -Tonelada de carga: 126,21 euros   -Amortización de vehículos      -Coeficiente lineal máximo: 25 %   -Período máximo: 8 años.",
+      "solucion": "G",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04011",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de un único vehículo diésel, un tractocamión cuya capacidad es la siguiente: -MMA: 42 toneladas -Tara: 6,5 toneladas\nEl vehículo fue adquirido nuevo hace nueve años por el precio de 42.000 euros y su valor residual se estima nulo. La empresa no cuenta con semirremolques propios.\nPara desarrollar la actividad tiene contratado a un conductor con media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva.\nCalcule el rendimiento neto de módulos que resultará antes de efectuar la reducción del 10 % contemplada por la normativa, si viene aplicando la amortización máxima permitida, teniendo en cuenta la siguiente información: -Valor de los módulos computables      -Persona asalariada: 2.728,59 euros   -Persona no asalariada: 10.090,99 euros   -Tonelada de carga: 126,21 euros   -Amortización de vehículos      -Coeficiente lineal máximo: 25 %   -Período máximo: 8 años.",
+      "solucion": "A",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04012",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de tres vehículos, adquiridos hace 15 años, cuya capacidad es la siguiente: -Vehículo 1      -MMA: 31 toneladas   -Tara: 8 toneladas   -Vehículo 2      -MMA: 23 toneladas   -Tara: 7 toneladas   -Vehículo 3      -MMA: 41 toneladas   -Tara: 7,8 toneladas  \nPara desarrollar la actividad tiene contratados a tres conductores: dos con jornada completa y el tercero con media jornada. Además, él mismo trabaja a tiempo completo en la empresa.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.728,59 euros -Persona no asalariada: 10.090,99 euros -Tonelada de carga: 126,21 euros\nEste empresario tuvo en el ejercicio anterior un rendimiento neto de actividades económicas de 16.000 euros y no destina ninguna cantidad a la adquisición o rehabilitación de su vivienda habitual.\nCalcule el importe del pago fraccionado que deberá efectuar en el segundo trimestre del ejercicio.",
+      "solucion": "C",
+      "norma": "RD 439/2007, art. 110; OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04013",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos adquiridos hace 15 años cuya capacidad es la siguiente: -Vehículo 1      -MMA: 33 toneladas   -Tara: 8 toneladas   -Vehículo 2      -MMA: 42 toneladas   -Tara: 7,8 toneladas  \nPara desarrollar la actividad tiene contratado a un conductor con jornada completa. Además, él mismo, que sufre una incapacidad del 25 %, trabaja media jornada en la empresa.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.728,59 euros -Persona no asalariada: 10.090,99 euros -Tonelada de carga: 126,21 euros\nEste empresario tuvo en el ejercicio anterior un rendimiento neto de actividades económicas de 15.000 euros y no destina ninguna cantidad a la adquisición o rehabilitación de su vivienda habitual.\nCalcule el importe del pago fraccionado que deberá efectuar en el tercer trimestre del ejercicio.",
+      "solucion": "E",
+      "norma": "RD 439/2007, art. 110; OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04014",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de un único tractocamión con semirremolque, adquiridos ambos hace 15 años, cuya capacidad es la siguiente: -MMA: 42 toneladas -Tara del tractocamión: 7,7 toneladas -Tara del semirremolque: 8 toneladas\nPara desarrollar la actividad no tiene asalariados, efectuando él mismo el trabajo a tiempo completo.\nEste transportista determina el rendimiento, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.728,59 euros -Persona no asalariada: 10.090,99 euros -Tonelada de carga: 126,21 euros\nEste empresario tuvo en el ejercicio anterior un rendimiento neto de actividades económicas de 13.000 euros y no destina ninguna cantidad a la adquisición o rehabilitación de su vivienda habitual.\nCalcule el importe del pago fraccionado que deberá efectuar en el tercer trimestre del ejercicio.",
+      "solucion": "G",
+      "norma": "RD 439/2007, art. 110; OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04015",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de los siguientes vehículos diésel, todos ellos adquiridos nuevos y cuyo valor residual se estima nulo:  \n  \tPrecio de adquisición  \tAntigüedad al inicio del ejercicio  \n  \tVehículo 1  \t37.500  \t10 años  \n  \tVehículo 2  \t40.700  \t10 años  \n  \tVehículo 3  \t42.000  \t9 años  \n  \tVehículo 4  \t40.500  \t8 años  \n  \tVehículo 5  \t39.800  \t5 años y 4 meses  \n  \tVehículo 6  \t41.200  \t5 años \nLos ingresos obtenidos en el ejercicio ascienden a 585.700 euros, resultado de la prestación de servicios a diversos clientes, y los gastos computables a 356.200 euros, al margen de provisiones deducibles, gastos de difícil justificación y amortizaciones que resulten practicables.\nEste transportista determina el rendimiento, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa simplificada, en el cual las condiciones de amortización de los elementos de transporte son las siguientes: -Coeficiente lineal máximo: 16 % -Período máximo: 14 años.\nIndique a cuánto asciende el rendimiento neto del ejercicio, si viene aplicando la amortización máxima permitida, pero no utiliza a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión previstos en la Ley del Impuesto sobre Sociedades.",
+      "solucion": "A",
+      "norma": "Ley 35/2006, art. 30; RD 439/2007, art. 30; Ley 35/2006, disposición adicional quincuagésima tercera",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04016",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de los siguientes vehículos diésel, todos ellos adquiridos nuevos y cuyo valor residual se estima nulo:  \n  \tPrecio de adquisición  \tAntigüedad al inicio del ejercicio  \n  \tVehículo 1  \t37.500  \t16 años  \n  \tVehículo 2  \t40.700  \t16 años  \n  \tVehículo 3  \t45.000  \t11 años  \n  \tVehículo 4  \t40.500  \t11 años  \n  \tVehículo 5  \t40.800  \t10 años  \n  \tVehículo 6  \t43.600  \t4 años \nLos ingresos obtenidos en el ejercicio ascienden a 482.200 euros, resultado de la prestación de servicios a diversos clientes, y los gastos computables a 418.500 euros, al margen de provisiones deducibles, gastos de difícil justificación y amortizaciones que resulten practicables.\nEste transportista determina el rendimiento, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa simplificada, en el cual las condiciones de amortización de los elementos de transporte son las siguientes: -Coeficiente lineal máximo: 16 % -Período máximo: 14 años.\nIndique a cuánto asciende el rendimiento neto del ejercicio, si viene aplicando la amortización máxima permitida, pero no utiliza a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión previstos en la Ley del Impuesto sobre Sociedades.",
+      "solucion": "B",
+      "norma": "Ley 35/2006, art. 30; RD 439/2007, art. 30; Ley 35/2006, disposición adicional quincuagésima tercera",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04017",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de los siguientes vehículos diésel, todos ellos adquiridos nuevos y cuyo valor residual se estima nulo:  \n  \tPrecio de adquisición  \tAntigüedad al inicio del ejercicio  \n  \tVehículo 1  \t37.500  \t17 años  \n  \tVehículo 2  \t40.700  \t16 años  \n  \tVehículo 3  \t42.000  \t15 años  \n  \tVehículo 4  \t40.500  \t11 años  \n  \tVehículo 5  \t39.800  \t10 años  \n  \tVehículo 6  \t41.200  \t5 años \nLos ingresos obtenidos en el ejercicio ascienden a 436.200 euros, resultado de la prestación de servicios a diversos clientes, y los gastos a 310.700 euros, al margen de gastos de difícil justificación y amortizaciones que resulten practicables. Entre los gastos se incluyen provisiones por insolvencias por importe de 8.500 euros.\nEste transportista determina el rendimiento, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa simplificada, en el cual las condiciones de amortización de los elementos de transporte son las siguientes: -Coeficiente lineal máximo: 16 % -Período máximo: 14 años.\nIndique a cuánto asciende el rendimiento neto del ejercicio, si viene aplicando la amortización máxima permitida, pero no utiliza a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión previstos en la Ley del Impuesto sobre Sociedades.",
+      "solucion": "D",
+      "norma": "Ley 35/2006, art. 30; RD 439/2007, art. 30; Ley 35/2006, disposición adicional quincuagésima tercera",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04018",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de dos vehículos diésel cuya capacidad es la siguiente: -Vehículo 1      -MMA: 37.000 kg   -Tara: 6.850 kg   -Vehículo 2      -MMA: 35.000 kg   -Tara: 6.500 kg  \nLos vehículos fueron adquiridos nuevos, el primero de ellos hace diez años y el segundo, hace cuatro. Los precios de adquisición fueron 55.000 y 48.000 euros respectivamente. Su valor residual se estima nulo.\nAsimismo, este empresario compró hace tres años un local nuevo para su actividad por importe de 76.000 euros, de los cuales el 45 % corresponde al valor del suelo.\nPara desarrollar la actividad tiene contratados a tres conductores: uno con jornada completa y los otros dos a media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva.\nCalcule el rendimiento neto minorado que resultará, si viene aplicando la amortización mínima contemplada en la tabla oficial, teniendo en cuenta la siguiente información: -Valor de los módulos computables      -Persona asalariada: 2.728,59 euros   -Persona no asalariada: 10.090,99 euros   -Tonelada de carga: 126,21 euros   -Amortización de vehículos      -Coeficiente lineal máximo: 25 %   -Período máximo: 8 años.   -Amortización de edificios y otras construcciones      -Coeficiente lineal máximo: 5 %   -Período máximo: 40 años.",
+      "solucion": "F",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04019",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de un único camión diésel cuya capacidad es la siguiente: -MMA: 36.000 kg -Tara: 7.670 kg\nEl vehículo fue adquirido nuevo hace cuatro años por el precio de 43.000 euros y su valor residual se estima nulo.\nPara desarrollar la actividad tiene contratado a un conductor con media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva.\nCalcule el rendimiento neto de módulos que resultará antes de efectuar la reducción del 5 % contemplada por la normativa, si aplica la amortización mínima prevista en la tabla oficial, teniendo en cuenta la siguiente información: -Valor de los módulos computables      -Persona asalariada: 2.728,59 euros   -Persona no asalariada: 10.090,99 euros   -Tonelada de carga: 126,21 euros   -Amortización de vehículos      -Coeficiente lineal máximo: 25 %   -Período máximo: 8 años.",
+      "solucion": "G",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04020",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de los siguientes vehículos diésel, todos ellos adquiridos nuevos y cuyo valor residual se estima nulo:  \n  \tPrecio de adquisición  \tAntigüedad al inicio del ejercicio  \n  \tVehículo 1  \t37.500  \t17 años  \n  \tVehículo 2  \t40.700  \t16 años  \n  \tVehículo 3  \t42.000  \t15 años  \n  \tVehículo 4  \t43.500  \t11 años  \n  \tVehículo 5  \t39.800  \t10 años  \n  \tVehículo 6  \t45.200  \t5 años \nLos resultados de la empresa arrojan los siguientes datos en el primer trimestre del ejercicio: -Ingresos: 105.000 euros -Gastos: 62.000 euros\nLos gastos indicados no incluyen amortizaciones, provisiones ni gastos de difícil justificación.\nEste transportista determina el rendimiento, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa simplificada, en el cual las condiciones de amortización de los elementos de transporte son las siguientes: -Coeficiente lineal máximo: 16 % -Período máximo: 14 años.\nEste empresario tuvo en el ejercicio anterior un rendimiento neto de actividades económicas de 95.400 euros, y no destina ninguna cantidad a la adquisición o rehabilitación de su vivienda habitual.\nIndique a cuánto asciende el pago fraccionado que deberá efectuar en el primer trimestre, si viene aplicando la amortización máxima permitida, pero no utiliza a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión previstos en la Ley del Impuesto sobre Sociedades.",
+      "solucion": "C",
+      "norma": "Ley 35/2006, art. 30; RD 439/2007, art. 30; RD 439/2007, art. 110; Ley 35/2006, disposición adicional quincuagésima tercera",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04021",
+      "pregunta": "Un transportista de mercancías por carretera presenta los siguientes resultados en el primer y segundo trimestre del ejercicio:  \n  \tPrimer trimestre  \tSegundo trimestre  \n  \tIngresos  \t105.000  \t123.000  \n  \tGastos totales  \t62.000  \t65.400  \n  \tProvisiones  \t6.400  \t3.200  \n  \tGastos de difícil justificación  \t2.000  \t2.000 \nEste transportista, que determina el rendimiento, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa simplificada, tuvo en el ejercicio anterior un rendimiento neto de actividades económicas de 95.400 euros y no destina ninguna cantidad a la adquisición o rehabilitación de su vivienda habitual.\nIndique a cuánto ascienden los pagos fraccionados que deberá efectuar en el primer y segundo trimestre.",
+      "solucion": "B",
+      "norma": "Ley 35/2006, art. 30; RD 439/2007, art. 30; RD 439/2007, art. 110; Ley 35/2006, disposición adicional quincuagésima tercera",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04022",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de los siguientes vehículos diésel, todos ellos adquiridos nuevos, y cuyo valor residual se estima nulo:  \n  \tPrecio de adquisición  \tAntigüedad al inicio del ejercicio  \n  \tVehículo 1  \t37.500  \t17 años  \n  \tVehículo 2  \t40.700  \t16 años  \n  \tVehículo 3  \t42.000  \t15 años  \n  \tVehículo 4  \t43.500  \t11 años  \n  \tVehículo 5  \t39.800  \t10 años  \n  \tVehículo 6  \t45.200  \t7 años \nLos resultados de la empresa arrojan los siguientes datos en el primer trimestre del ejercicio: -Ingresos: 105.000 euros -Provisiones: 5.800 euros. -Otros gastos: 62.000 euros\nLos gastos indicados no incluyen amortizaciones.\nEste transportista determina el rendimiento, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa normal y amortiza según la tabla establecida en la ley, en la cual las condiciones para los vehículos son las siguientes:\n-Coeficiente lineal máximo: 20 %\n-Período máximo: 10 años.\nEste empresario tuvo en el ejercicio anterior un rendimiento neto de actividades económicas de 95.400 euros y no destina ninguna cantidad a la adquisición o rehabilitación de su vivienda habitual.\nIndique a cuánto asciende el pago fraccionado, que deberá efectuar en el primer trimestre, si se aplica la amortización mínima prevista en la tabla oficial.",
+      "solucion": "D",
+      "norma": "Ley 35/2006, art. 30; RD 439/2007, art. 110",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04023",
+      "pregunta": "Un transportista de mercancías por carretera presenta los siguientes resultados en el primer y segundo trimestre del ejercicio:  \n  \tPrimer trimestre  \tSegundo trimestre  \n  \tIngresos  \t105.000  \t123.000  \n  \tProvisiones  \t6.400  \t3.200  \n  \tOtros gastos  \t62.000  \t65.400 \nEste transportista, que determina el rendimiento, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa normal, tuvo en el ejercicio anterior un rendimiento neto de actividades económicas de 95.400 euros y no destina ninguna cantidad a la adquisición o rehabilitación de su vivienda habitual.\nIndique a cuánto ascienden los pagos fraccionados que deberá efectuar en el primer y segundo trimestre.",
+      "solucion": "G",
+      "norma": "Ley 35/2006, art. 30; RD 439/2007, art. 110",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04024",
+      "pregunta": "Un transportista de mercancías por carretera dispone en su empresa de los vehículos diésel cuyas características, coste y fecha de puesta en servicio son las siguientes:  \n  \tMMA (kg)  \tTara (kg)  \tPrecio de adquisición  \tAntigüedad (años)  \tFecha puesta en servicio  \n  \tVehículo 1  \t33.700  \t6.650  \t37.500  \t12  \t01 marzo  \n  \tVehículo 2  \t38.500  \t7.240  \t40.700  \t12  \t16 abril  \n  \tVehículo 3  \t41.500  \t7.890  \t42.000  \t0  \t16 junio año actual  \n  \tVehículo 4  \t35.200  \t6.870  \t40.500  \t0  \t01 sept. año actual \nTodos los vehículos fueron adquiridos nuevos. Su valor residual se estima nulo.\nPara desarrollar la actividad tiene contratados a cuatro conductores: tres con jornada completa y uno a media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.\nEste transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva.\nCalcule el rendimiento neto minorado que resultará en el año actual, si aplica la amortización mínima contemplada en la tabla oficial, teniendo en cuenta la siguiente información: -Valor de los módulos computables -     -Persona asalariada: 2.728,59 euros   -Persona no asalariada: 10.090,99 euros   -Tonelada de carga: 126,21 euros   -Amortización de vehículos -     -Coeficiente lineal máximo: 25 %   -Período máximo: 8 años.",
+      "solucion": "E",
+      "norma": "OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04025",
+      "pregunta": "D. Joaquín Fernández es titular de una empresa de transporte de mercancías por carretera, para el desempeño de la cual dispone de cuatro vehículos diésel en propiedad que adquirió nuevos. Con la finalidad de sustituirlos por otros de mayor capacidad, D. Joaquín decide vender dos de ellos, cuyos datos de adquisición, funcionamiento y venta son los siguientes:  \n  \tPrecio de adquisición  \tTiempo en funcionamiento  \tPrecio de venta  \n  \tVehículo 1  \t51.200  \t5 años y 3 meses  \t25.600  \n  \tVehículo 2  \t46.400  \t4 años y 7 meses  \t22.800 \nLos vehículos ahora vendidos se han venido amortizando todos los años al tipo mínimo contemplado en la tabla oficial.\nEl Sr. Fernández determina el rendimiento de su actividad empresarial, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, en el cual la amortización de vehículos está sujeta a los siguientes parámetros: -Coeficiente lineal máximo: 25 % -Período máximo: 8 años.\nCalcule la ganancia o pérdida patrimonial derivada de esta operación por la que se deberá tributar.",
+      "solucion": "G",
+      "norma": "Ley 35/2006, art. 34; Ley 35/2006, art. 35; OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04026",
+      "pregunta": "D. Justo del Real es titular de una empresa de transporte de mercancías por carretera, para el desempeño de la cual dispone de seis vehículos diésel en propiedad, que adquirió nuevos. Con la finalidad de modernizar su flota, D. Justo decide vender dos de ellos, los más antiguos, cuyos datos de adquisición, funcionamiento y venta son los siguientes:  \n  \tPrecio de adquisición  \tTiempo en funcionamiento  \tPrecio de venta  \n  \tVehículo 1  \t58.500  \t7 años y 3 meses  \t25.600  \n  \tVehículo 2  \t53.900  \t3 años y 5 meses  \t22.800 \nLos vehículos ahora vendidos se han venido amortizando todos los años al tipo máximo previsto en la tabla oficial, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión previstos en la Ley del Impuesto sobre Sociedades.\nEl Sr. del Real determina el rendimiento de su actividad empresarial, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa simplificada, en el cual la amortización de vehículos está sujeta a los siguientes parámetros: -Coeficiente lineal máximo: 16 % -Período máximo: 14 años.\nCalcule la ganancia o pérdida patrimonial derivada de esta operación por la que se deberá tributar.",
+      "solucion": "H",
+      "norma": "Ley 35/2006, art. 30; Ley 35/2006, art. 34; Ley 35/2006, art. 35",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04027",
+      "pregunta": "D. Federico Barbero es titular de una empresa de transporte de mercancías por carretera, para el desempeño de la cual dispone de cuatro vehículos diésel en propiedad que adquirió nuevos. Tras cumplir 66 años, D. Federico decide jubilarse y vende los cuatro vehículos. Los datos de adquisición, funcionamiento y venta de los mismos son los siguientes:  \n  \tPrecio de adquisición  \tTiempo en funcionamiento  \tPrecio de venta  \n  \tVehículo 1  \t37.500  \t11 años y 5 meses  \t12.000  \n  \tVehículo 2  \t40.700  \t10 años  \t13.500  \n  \tVehículo 3  \t43.000  \t5 años y 6 meses  \t24.600  \n  \tVehículo 4  \t40.500  \t4 años y 8 meses  \t22.800 \nLos vehículos ahora vendidos se han venido amortizando todos los años al tipo mínimo contemplado en la tabla oficial.\nEl Sr. Barbero determina el rendimiento de su actividad empresarial, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, en el cual la amortización de vehículos está sujeta a los siguientes parámetros: -Coeficiente lineal máximo: 25 % -Período máximo: 8 años.\nEn ese mismo año, esta persona vende la que había sido hasta entonces su vivienda habitual, pues ha decidido instalarse en otra vivienda que venía utilizando para uso vacacional. La vivienda enajenada había sido comprada hace veinticinco años por el precio de 145.000 euros, impuestos y gastos incluidos, y ha sido vendida ahora por un importe neto de 320.000 euros.\nCalcule la ganancia o pérdida patrimonial total derivada de estas operaciones por la que se deberá tributar.",
+      "solucion": "E",
+      "norma": "Ley 35/2006, art. 33; Ley 35/2006, art. 34; OM HFP/1172/2022, Anexo II",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04028",
+      "pregunta": "D. Fernando Valencia es titular de una empresa de transporte de mercancías por carretera, para el desempeño de la cual dispone de cuatro vehículos diésel en propiedad que adquirió nuevos. A fin de renovar la flota con vehículos más modernos y de mayor capacidad, D. Fernando vende los cuatro vehículos que tenía. Los datos de adquisición, funcionamiento y venta de los mismos son los siguientes:  \n  \tPrecio de adquisición  \tTiempo en funcionamiento  \tPrecio de venta  \n  \tVehículo 1  \t39.500  \t11 años y 5 meses  \t12.600  \n  \tVehículo 2  \t43.700  \t10 años  \t13.500  \n  \tVehículo 3  \t45.800  \t4 años y 7 meses  \t26.600  \n  \tVehículo 4  \t42.500  \t2 años y 11 meses  \t29.800 \nLos vehículos ahora vendidos se han venido amortizando todos los años al tipo mínimo contemplado en la tabla oficial.\nEl Sr. Valencia determina el rendimiento de su actividad empresarial, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, en el cual la amortización de vehículos está sujeta a los siguientes parámetros: -Coeficiente lineal máximo: 25 % -Período máximo: 8 años.\nEn ese mismo año, D. Fernando y su cónyuge venden la que había sido hasta entonces su vivienda habitual, destinando el dinero obtenido a la adquisición de una nueva vivienda habitual, seis meses después. La vivienda enajenada era propiedad de ambos al 50 %, había sido comprada hace veinte años por el precio de 130.000 euros, impuestos y gastos incluidos, y ha sido vendida ahora por un importe neto de 275.000 euros.\nCalcule la ganancia o pérdida patrimonial total derivada de estas operaciones por la que deberá tributar el Sr. Valencia.",
+      "solucion": "C",
+      "norma": "Ley 35/2006, art. 34; Ley 35/2006, art. 38; OM HFP/1172/2022, Anexo II; RD 439/2007, art. 41; RD 439/2007, 41 bis",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04029",
+      "pregunta": "D. Antonio Alcázar es titular de una empresa de transporte de mercancías por carretera, cuya actividad le ha proporcionado en el ejercicio un rendimiento neto sujeto a tributación de 95.620 euros.\nPara el desempeño de su negocio dispone de seis vehículos diésel en propiedad, que adquirió nuevos. Con la finalidad de modernizar su flota, D. Antonio ha vendido en ese mismo ejercicio dos de ellos, cuyos datos de adquisición, funcionamiento y venta son los siguientes:  \n  \tPrecio de adquisición  \tTiempo en funcionamiento  \tPrecio de venta  \n  \tVehículo 1  \t54.100  \t8 años y 3 meses  \t23.600  \n  \tVehículo 2  \t51.800  \t4 años y 4 meses  \t29.800 \nLos vehículos ahora vendidos se han venido amortizando todos los años al tipo máximo previsto en la tabla oficial, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión previstos en la Ley del Impuesto sobre Sociedades.\nEl Sr. Alcázar determina el rendimiento de su actividad empresarial, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa simplificada, en el cual la amortización de vehículos está sujeta a los siguientes parámetros: -Coeficiente lineal máximo: 16 % -Período máximo: 14 años.\nPor otra parte, D. Antonio Alcázar es titular de un depósito bancario de 25.000 euros que le proporciona un rendimiento anual del 0,5 %.\nCalcule la base imponible general y del ahorro de este contribuyente.",
+      "solucion": "D",
+      "norma": "Ley 35/2006, art. 15; Ley 35/2006, art. 25; Ley 35/2006, art. 34; Ley 35/2006, art. 35",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04030",
+      "pregunta": "D. Jesús Ángel Pérez es titular de una empresa de transporte de mercancías por carretera cuya actividad le ha proporcionado en el ejercicio un rendimiento neto sujeto a tributación de 56.284 euros.\nPara el desempeño de su negocio dispone de tres vehículos diésel en propiedad que adquirió nuevos. Con la finalidad de modernizar su flota, D. Jesús Ángel ha vendido en ese mismo ejercicio uno de ellos. Esta venta le ha generado una ganancia patrimonial de 6.542 euros.\nPor otra parte, el Sr. Pérez es titular de un depósito bancario de 36.000 euros que le proporciona un rendimiento anual del 0,55 %. Asimismo, en el ejercicio en cuestión efectuó una aportación de 8.000 euros a su plan de pensiones individual.\nCalcule la base liquidable general y del ahorro de este contribuyente a efectos del Impuesto sobre la Renta de las Personas Físicas.",
+      "solucion": "F",
+      "norma": "Ley 35/2006, art. 15; Ley 35/2006, art. 51; Ley 35/2006, art. 52",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04031",
+      "pregunta": "Transfruit, S.L. es una sociedad dedicada al transporte por carretera de frutas y verduras, disponiendo para el desempeño de su actividad de seis vehículos diésel, todos ellos adquiridos nuevos, para los que se estima un valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal es el siguiente:  \n  \tPrecio de adquisición  \tTiempo de funcionamiento  \n  \tVehículo 1  \t47.500  \t12 años y 4 meses  \n  \tVehículo 2  \t50.700  \t10 años y 6 meses  \n  \tVehículo 3  \t52.000  \t9 años  \n  \tVehículo 4  \t50.500  \t8 años  \n  \tVehículo 5  \t49.800  \t7 años y 7 meses  \n  \tVehículo 6  \t51.200  \t4 años \nEl resultado contable corregido de Transfruit, S.L., antes de computar amortizaciones, es de 487.565 euros y amortiza sus activos por el método de amortización lineal, en el que las condiciones previstas para los elementos de transporte son las siguientes: -Coeficiente lineal máximo: 20 % -Período máximo: 10 años.\nDetermine la base imponible que corresponde a esta sociedad a efectos del Impuesto sobre Sociedades, considerando que viene aplicando la amortización mínima contemplada en la tabla oficial.",
+      "solucion": "E",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04032",
+      "pregunta": "Una sociedad limitada dedicada al transporte de mercancías por carretera dispone para el desempeño de su actividad de seis vehículos diésel, todos ellos adquiridos nuevos, para los que se estima un valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal es el siguiente:  \n  \tPrecio de adquisición  \tTiempo de funcionamiento  \n  \tVehículo 1  \t47.500  \t12 años y 4 meses  \n  \tVehículo 2  \t50.700  \t10 años  \n  \tVehículo 3  \t52.000  \t9 años y 5 meses  \n  \tVehículo 4  \t50.500  \t9 años y 3 meses  \n  \tVehículo 5  \t49.800  \t7 años y 7 meses  \n  \tVehículo 6  \t51.200  \t4 años \nEl resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 321.200 euros y amortiza sus activos por el método de amortización lineal, en el que las condiciones previstas para los elementos de transporte son las siguientes: -Coeficiente lineal máximo: 20 % -Período máximo: 10 años.\nDetermine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades, considerando que viene aplicando la amortización mínima contemplada en la tabla oficial.",
+      "solucion": "C",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04033",
+      "pregunta": "Una sociedad limitada dedicada al transporte de mercancías por carretera dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se estima un valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal es el siguiente:  \n  \tPrecio de adquisición  \tTiempo de funcionamiento  \n  \tVehículo 1  \t49.000  \t12 años y 4 meses  \n  \tVehículo 2  \t51.100  \t10 años  \n  \tVehículo 3  \t52.400  \t8 años y 5 meses  \n  \tVehículo 4  \t51.500  \t8 años y 3 meses  \n  \tVehículo 5  \t47.800  \t7 años y 7 meses \nCuenta, asimismo, con un inmueble en propiedad, destinado a oficina comercial, adquirido nuevo hace veinte años por el precio de 165.000 euros, de los cuales el\n58 % corresponde al coste del suelo.\nEl resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 287.150 euros y amortiza sus activos por el método de amortización lineal, en el que las condiciones previstas son las siguientes: -Elementos de transporte      -Coeficiente lineal máximo: 20 %   -Período máximo: 10 años.   -Edificios comerciales, administrativos y de servicios      -Coeficiente lineal máximo: 2 %   -Período máximo: 100 años.  \nDetermine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades, considerando que viene aplicando la amortización mínima contemplada en la tabla oficial.",
+      "solucion": "F",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12; RD 634/2015, art. 3",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04034",
+      "pregunta": "Una sociedad limitada dedicada al transporte de mercancías por carretera dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se estima un valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  \n  \tPrecio de adquisición  \tTiempo de funcionamiento  \n  \tVehículo 1  \t49.000  \t6 años y 4 meses  \n  \tVehículo 2  \t51.100  \t5 años  \n  \tVehículo 3  \t52.400  \t4 años y 6 meses  \n  \tVehículo 4  \t51.500  \t4 años y 3 meses  \n  \tVehículo 5  \t47.800  \t2 años y 7 meses \nEsta sociedad amortiza sus vehículos por el método de amortización lineal, en el que las condiciones previstas son las siguientes: -Elementos de transporte      -Coeficiente lineal máximo: 20 %   -Periodo máximo: 10 años.  \nAsimismo, el día 1 de marzo ha comprado un maletín de herramientas cuyo coste fue de 285 euros.\nLas condiciones previstas en la norma para la amortización lineal de útiles y herramientas son las siguientes: -Coeficiente lineal máximo: 25 % -Periodo máximo: 8 años.\nEl resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 246.350 euros.\nDetermine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades, considerando que viene aplicando todos los años la amortización máxima permitida, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.",
+      "solucion": "H",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04035",
+      "pregunta": "Una sociedad anónima dedicada al transporte de mercancías por carretera dispone para el desempeño de su actividad de seis vehículos diésel, todos ellos adquiridos nuevos, para los que se estima una vida útil de diez años y valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal es el siguiente:  \n  \tPrecio de adquisición  \tTiempo de funcionamiento  \n  \tVehículo 1  \t49.000  \t5 años y 4 meses  \n  \tVehículo 2  \t51.100  \t5 años  \n  \tVehículo 3  \t52.400  \t4 años y 6 meses  \n  \tVehículo 4  \t51.500  \t4 años y 3 meses  \n  \tVehículo 5  \t47.800  \t2 años y 8 meses  \n  \tVehículo 6  \t56.800  \t2 años y 7 meses \nEl resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 288.620 euros y amortiza sus vehículos aplicando un porcentaje constante del 25 % sobre el valor pendiente.\nDetermine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.",
+      "solucion": "G",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04036",
+      "pregunta": "Una sociedad anónima dedicada al transporte de mercancías por carretera dispone para el desempeño de su actividad de seis vehículos diésel, todos ellos adquiridos nuevos, para los que se estima una vida útil de diez años y valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal es el siguiente:  \n  \tPrecio de adquisición  \tTiempo de funcionamiento  \n  \tVehículo 1  \t49.000  \t5 años  \n  \tVehículo 2  \t51.100  \t5 años  \n  \tVehículo 3  \t52.400  \t4 años  \n  \tVehículo 4  \t51.500  \t4 años  \n  \tVehículo 5  \t47.800  \t2 años  \n  \tVehículo 6  \t56.800  \t2 años \nEl resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 212.600 euros y amortiza sus vehículos aplicando un porcentaje constante del 25 % sobre el valor pendiente.\nDetermine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.",
+      "solucion": "C",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04037",
+      "pregunta": "Una sociedad anónima dedicada al transporte de mercancías por carretera dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se estima una vida útil de diez años y valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  \n  \tPrecio de adquisición  \tTiempo de funcionamiento  \n  \tVehículo 1  \t49.000  \t5 años y 3 meses  \n  \tVehículo 2  \t51.100  \t5 años y 2 meses  \n  \tVehículo 3  \t52.400  \t4 años y 7 meses  \n  \tVehículo 4  \t51.500  \t4 años  \n  \tVehículo 5  \t47.800  \t2 años y 11 meses \nEsta sociedad amortiza sus vehículos aplicando un porcentaje constante del 25 % sobre el valor pendiente.\nAsimismo, el día 1 de abril ha comprado un gato hidráulico cuyo coste fue de 250 euros, al que aplicará la amortización máxima permitida.\nLas condiciones previstas en la norma para la amortización lineal de útiles y herramientas son las siguientes: -Coeficiente lineal máximo: 25 % -Periodo máximo: 8 años.\nEl resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 225.940 euros.\nDetermine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.",
+      "solucion": "F",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04038",
+      "pregunta": "Una sociedad limitada dedicada al transporte de mercancías por carretera dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se estima una vida útil de diez años y valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  \n  \tPrecio de adquisición  \tTiempo de funcionamiento  \n  \tVehículo 1  \t49.000  \t5 años  \n  \tVehículo 2  \t51.100  \t5 años  \n  \tVehículo 3  \t52.400  \t4 años  \n  \tVehículo 4  \t51.500  \t4 años  \n  \tVehículo 5  \t47.800  \t2 años \nEsta sociedad amortiza sus vehículos aplicando el método de los números dígitos decrecientes, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.\nEl resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 225.500 euros.\nDetermine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.",
+      "solucion": "H",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04039",
+      "pregunta": "Una sociedad anónima dedicada al transporte de mercancías por carretera dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se estima una vida útil de diez años y valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  \n  \tPrecio de adquisición  \tTiempo de funcionamiento  \n  \tVehículo 1  \t49.000  \t8 años  \n  \tVehículo 2  \t51.100  \t6 años  \n  \tVehículo 3  \t52.400  \t5 años  \n  \tVehículo 4  \t51.500  \t4 años  \n  \tVehículo 5  \t47.800  \t2 años \nEsta sociedad amortiza sus vehículos aplicando el método de los números dígitos crecientes, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.\nEl resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 253.500 euros.\nDetermine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.",
+      "solucion": "B",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04040",
+      "pregunta": "Una sociedad limitada dedicada al transporte de mercancías por carretera dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se estima una vida útil de diez años y valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  \n  \tPrecio de adquisición  \tTiempo de funcionamiento  \n  \tVehículo 1  \t59.000  \t8 años  \n  \tVehículo 2  \t55.100  \t5 años  \n  \tVehículo 3  \t54.400  \t4 años  \n  \tVehículo 4  \t50.500  \t3 años  \n  \tVehículo 5  \t46.800  \t2 años \nEsta sociedad amortiza sus vehículos aplicando el método de los números dígitos decrecientes, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.\nAsimismo, el día 1 de junio ha comprado un gato hidráulico cuyo coste fue de 290 euros, al que aplicará la amortización máxima permitida.\nLas condiciones previstas en la norma para la amortización lineal de útiles y herramientas son las siguientes: -Coeficiente lineal máximo: 25 % -Periodo máximo: 8 años.\nEl resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 265.040 euros.\nDetermine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.",
+      "solucion": "D",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04041",
+      "pregunta": "Una sociedad limitada dedicada al transporte de mercancías por carretera dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se estima una vida útil de diez años y valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  \n  \tPrecio de adquisición  \tTiempo de funcionamiento  \n  \tVehículo 1  \t59.000  \t8 años  \n  \tVehículo 2  \t55.100  \t5 años  \n  \tVehículo 3  \t54.400  \t4 años  \n  \tVehículo 4  \t50.500  \t3 años  \n  \tVehículo 5  \t46.800  \t2 años \nEsta sociedad amortiza sus vehículos aplicando el método de los números dígitos crecientes, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.\nAsimismo, el día 1 de diciembre ha comprado un gato hidráulico cuyo coste fue de 290 euros, al que aplicará la amortización máxima permitida.\nLas condiciones previstas en la norma para la amortización lineal de útiles y herramientas son las siguientes: -Coeficiente lineal máximo: 25 % -Periodo máximo: 8 años.\nEl resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 265.040 euros.\nDetermine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.",
+      "solucion": "C",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04042",
+      "pregunta": "Una sociedad limitada dedicada al transporte de mercancías por carretera dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos usados, para los que se estima un valor residual nulo. Su coste de adquisición y tiempo de funcionamiento en la empresa al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  \n  \tPrecio de adquisición  \tTiempo de funcionamiento  \n  \tVehículo 1  \t49.000  \t6 años y 4 meses  \n  \tVehículo 2  \t51.100  \t5 años  \n  \tVehículo 3  \t52.400  \t2 años y 6 meses  \n  \tVehículo 4  \t51.500  \t2 años y 3 meses  \n  \tVehículo 5  \t47.800  \t1 año y 7 meses \nEsta sociedad amortiza sus vehículos por el método de amortización lineal, en el que las condiciones previstas son las siguientes: -Elementos de transporte -     -Coeficiente lineal máximo: 20 %   -Periodo máximo: 10 años.  \nEl resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 197.470 euros.\nDetermine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades, considerando que viene aplicando todos los años la amortización máxima permitida, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.",
+      "solucion": "H",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12; RD 634/2015, art. 4",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04043",
+      "pregunta": "Una sociedad anónima dedicada al transporte de mercancías por carretera dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se prevé una vida útil de diez años. Su coste de adquisición, valor residual estimado y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  \n  \tPrecio de adquisición  \tValor residual estimado  \tTiempo de funcionamiento  \n  \tVehículo 1  \t49.000  \t5.600  \t8 años  \n  \tVehículo 2  \t51.100  \t5.800  \t6 años  \n  \tVehículo 3  \t52.400  \t6.400  \t5 años  \n  \tVehículo 4  \t51.500  \t6.300  \t4 años  \n  \tVehículo 5  \t47.800  \t4.500  \t2 años \nEsta sociedad amortiza sus vehículos aplicando el método de los números dígitos crecientes, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.\nEl resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 203.500 euros.\nDetermine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.",
+      "solucion": "G",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12; RD 634/2015, art. 3",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04044",
+      "pregunta": "Una sociedad anónima dedicada al transporte de mercancías por carretera dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se prevé una vida útil de diez años. Su coste de adquisición, valor residual estimado y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  \n  \tPrecio de adquisición  \tValor residual estimado  \tTiempo de funcionamiento  \n  \tVehículo 1  \t49.000  \t5.600  \t8 años  \n  \tVehículo 2  \t51.100  \t5.800  \t6 años  \n  \tVehículo 3  \t52.400  \t6.400  \t5 años  \n  \tVehículo 4  \t51.500  \t6.300  \t4 años  \n  \tVehículo 5  \t47.800  \t4.500  \t2 años \nEsta sociedad amortiza sus vehículos aplicando el método de los números dígitos decrecientes, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.\nEl resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 223.500 euros.\nDetermine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.",
+      "solucion": "D",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12; RD 634/2015, art. 3",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04045",
+      "pregunta": "Una sociedad anónima dedicada al transporte de mercancías por carretera dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos. Su coste de adquisición, valor residual estimado y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  \n  \tPrecio de adquisición  \tValor residual estimado  \tTiempo de funcionamiento  \n  \tVehículo 1  \t49.000  \t5.600  \t8 años  \n  \tVehículo 2  \t51.100  \t5.800  \t6 años  \n  \tVehículo 3  \t52.400  \t6.400  \t5 años  \n  \tVehículo 4  \t51.500  \t6.300  \t4 años  \n  \tVehículo 5  \t47.800  \t4.500  \t2 años \nEsta sociedad amortiza sus vehículos por el método de amortización lineal, en el que las condiciones previstas son las siguientes: -Elementos de transporte -     -Coeficiente lineal máximo: 20 %   -Período máximo: 10 años.  \nEl resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 205.470 euros.\nDetermine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades, considerando que viene aplicando todos los años la amortización mínima prevista en la tabla oficial.",
+      "solucion": "C",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12; RD 634/2015, art. 3",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04046",
+      "pregunta": "Una sociedad anónima dedicada al transporte de mercancías por carretera dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se prevé una vida útil de diez años. Su coste de adquisición, valor residual estimado y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  \n  \tPrecio de adquisición  \tValor residual estimado  \tTiempo de funcionamiento  \n  \tVehículo 1  \t49.000  \t5.600  \t5 años  \n  \tVehículo 2  \t51.100  \t5.800  \t5 años  \n  \tVehículo 3  \t52.400  \t6.400  \t4 años  \n  \tVehículo 4  \t51.500  \t6.300  \t4 años  \n  \tVehículo 5  \t47.800  \t4.500  \t2 años \nEsta sociedad amortiza sus vehículos aplicando un porcentaje constante del 25 % sobre el valor pendiente.\nEl resultado contable corregido, antes de computar amortizaciones, es de 205.140 euros.\nDetermine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.",
+      "solucion": "H",
+      "norma": "Ley 27/2014, art. 10; Ley 27/2014, art. 12; RD 634/2015, art. 3",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04047",
+      "pregunta": "Una sociedad anónima dedicada al transporte de mercancías por carretera registra, entre otros, los siguientes datos en su cuenta de pérdidas y ganancias:  \n  \tImporte neto de la cifra de negocios  \t247.800  \n  \tPrestaciones de servicios  \t247.800  \n  \tAprovisionamientos  \t-75.700  \n  \tGastos de personal  \t-99.240  \n  \tOtros gastos de explotación  \t-35.100  \n  \tAmortización del inmovilizado  \t-24.840  \n  \tIngresos financieros  \t1.870 \nLa amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.\nEn el apartado Otros gastos de explotación se han contabilizado 4.300 euros pagados en concepto de sanciones por infracción de la normativa de transporte.\nDetermine la cuota íntegra del Impuesto sobre Sociedades que resulta de estos datos, considerando que la sociedad tributa al tipo general, no aplica los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior el importe neto de su cifra de negocios fue de 2.400.000 euros.",
+      "solucion": "G",
+      "norma": "Ley 27/2014, art. 15; Ley 27/2014, art. 29; Ley 27/2014, art. 30",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04048",
+      "pregunta": "Una sociedad anónima dedicada al transporte de mercancías por carretera registra, entre otros, los siguientes datos en su cuenta de pérdidas y ganancias:  \n  \tImporte neto de la cifra de negocios  \t368.120  \n  \tPrestaciones de servicios  \t368.120  \n  \tAprovisionamientos  \t-102.568  \n  \tGastos de personal  \t-136.247  \n  \tOtros gastos de explotación  \t-43.892  \n  \tAmortización del inmovilizado  \t-35.400  \n  \tIngresos financieros  \t2.458 \nLa amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.\nEn el apartado Otros gastos de explotación se han contabilizado 3.600 euros correspondientes a una donación efectuada a Cruz Roja.\nDetermine la cuota íntegra del Impuesto sobre Sociedades que resulta de estos datos,considerando que la sociedad tributa al tipo general, no aplica los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior el importe neto de su cifra de negocios fue de 2.400.000 euros.",
+      "solucion": "D",
+      "norma": "Ley 27/2014, art. 15; Ley 27/2014, art. 29; Ley 27/2014, art. 30",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04049",
+      "pregunta": "Una sociedad anónima dedicada al transporte de mercancías por carretera registra, entre otros, los siguientes datos en su cuenta de pérdidas y ganancias:  \n  \tImporte neto de la cifra de negocios  \t489.620  \n  \tPrestaciones de servicios  \t489.620  \n  \tAprovisionamientos  \t-110.456  \n  \tGastos de personal  \t-135.820  \n  \tOtros gastos de explotación  \t-57.601  \n  \tAmortización del inmovilizado  \t-49.235  \n  \tIngresos financieros  \t5.620 \nLa amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.\nPor otro lado, en la memoria anual se contempla la distribución en ese ejercicio de 20.500 euros a los accionistas de la sociedad en concepto de dividendos.\nDetermine la cuota íntegra del Impuesto sobre Sociedades que resulta de estos datos,considerando que la sociedad tributa al tipo general, no aplica los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior el importe neto de su cifra de negocios fue de 2.400.000 euros.",
+      "solucion": "C",
+      "norma": "Ley 27/2014, art. 15; Ley 27/2014, art. 29; Ley 27/2014, art. 30",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04050",
+      "pregunta": "Una sociedad anónima dedicada al transporte de mercancías por carretera registra, entre otros, los siguientes datos en su cuenta de pérdidas y ganancias:  \n  \tImporte neto de la cifra de negocios  \t674.326  \n  \tPrestaciones de servicios  \t674.326  \n  \tAprovisionamientos  \t-151.357  \n  \tGastos de personal  \t-205.690  \n  \tOtros gastos de explotación  \t-94.100  \n  \tAmortización del inmovilizado  \t-56.840  \n  \tIngresos financieros  \t8.952 \nLa amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.\nPor otro lado, en el ejercicio fiscal anterior la sociedad tuvo unos beneficios de 120.540 euros y en el acuerdo de aplicación de resultados se decidió destinar el 45 % de los mismos a incrementar los fondos propios.\nDetermine la cuota íntegra del Impuesto sobre Sociedades que resulta de estos datos,considerando que la sociedad tributa al tipo general, no aplica los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior el importe neto de su cifra de negocios fue de 2.400.000 euros.",
+      "solucion": "E",
+      "norma": "Ley 27/2014, art. 25; Ley 27/2014, art. 29; Ley 27/2014, art. 30",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04051",
+      "pregunta": "Una sociedad limitada dedicada al transporte de mercancías por carretera registra, entre otros, los siguientes datos en su cuenta de pérdidas y ganancias:  \n  \tImporte neto de la cifra de negocios  \t1.548.623  \n  \tPrestaciones de servicios  \t1.548.623  \n  \tAprovisionamientos  \t-296.320  \n  \tGastos de personal  \t-447.965  \n  \tOtros gastos de explotación  \t-305.400  \n  \tAmortización del inmovilizado  \t-167.230  \n  \tIngresos financieros  \t24.985 \nLa amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.\nPor otro lado, en el ejercicio fiscal anterior la sociedad alcanzó una cifra de negocios de 900.560 euros y registró una base imponible negativa de 305.584 euros.\nDetermine la cuota íntegra del Impuesto sobre Sociedades que resulta de estos datos,considerando que la sociedad tributa al tipo general, no aplica los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior el importe neto de su cifra de negocios fue de 2.400.000 euros.",
+      "solucion": "F",
+      "norma": "Ley 27/2014, art. 26; Ley 27/2014, art. 29; Ley 27/2014, art. 30",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04052",
+      "pregunta": "Una sociedad limitada de reciente creación, dedicada al transporte de mercancías por carretera, registra, entre otros, los siguientes datos en la cuenta de pérdidas y ganancias correspondiente a su primer año de funcionamiento:  \n  \tImporte neto de la cifra de negocios  \t350.800  \n  \tPrestaciones de servicios  \t350.800  \n  \tAprovisionamientos  \t-79.700  \n  \tGastos de personal  \t-99.240  \n  \tOtros gastos de explotación  \t-35.100  \n  \tAmortización del inmovilizado  \t-45.840  \n  \tIngresos financieros  \t270 \nLa amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.\nEn el apartado Otros gastos de explotación se han contabilizado 1.200 euros pagados en concepto de sanciones por infracción de la normativa de transporte.\nDetermine la cuota íntegra del Impuesto sobre Sociedades que resulta de estos datos, considerando que la sociedad no aplica los incentivos fiscales del régimen especial de entidades de reducida dimensión.",
+      "solucion": "D",
+      "norma": "Ley 27/2014, art. 15; Ley 27/2014, art. 29; Ley 27/2014, art. 30",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04053",
+      "pregunta": "Una sociedad limitada dedicada al transporte de mercancías por carretera, cuyo ejercicio fiscal coincide con el año natural, registra, entre otros, los siguientes datos en su cuenta de pérdidas y ganancias:  \n  \tImporte neto de la cifra de negocios  \t5.478.650  \n  \tPrestaciones de servicios  \t5.478.650  \n  \tAprovisionamientos  \t-1.020.369  \n  \tGastos de personal  \t-1.989.200  \n  \tOtros gastos de explotación  \t-547.058  \n  \tAmortización del inmovilizado  \t-397.250  \n  \tIngresos financieros  \t38.985 \nLa amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.\nEsta empresa ha contratado en este ejercicio a cinco trabajadores con discapacidad del 50 % y a otros dos con discapacidad del 68 %, incrementando el promedio de trabajadores con discapacidad superior al 33 % e inferior al 65 % en tres personas/año, y el promedio de trabajadores con discapacidad superior al 65 % en dos personas/año.\nDetermine la cuota del Impuesto sobre Sociedades que resulta de estos datos, después de aplicar las deducciones que sean procedentes, considerando que la sociedad tributa al tipo general, no aplica los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior el importe neto de su cifra de negocios fue de 2.400.000 euros.",
+      "solucion": "C",
+      "norma": "Ley 27/2014, art. 29; Ley 27/2014, art. 38; Ley 27/2014, art. 30",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04054",
+      "pregunta": "Una sociedad limitada dedicada al transporte de mercancías por carretera, cuyo ejercicio fiscal coincide con el año natural, registra, entre otros, los siguientes datos en su cuenta de pérdidas y ganancias:  \n  \tImporte neto de la cifra de negocios  \t478.650  \n  \t Prestaciones de servicios  \t478.650  \n  \tAprovisionamientos  \t-90.369  \n  \tGastos de personal  \t-158.200  \n  \tOtros gastos de explotación  \t-47.058  \n  \tIngresos financieros  \t8.985 \nLa sociedad ha adquirido en este mismo año dos vehículos diésel nuevos para el desempeño de su actividad, para los que se estima un valor residual nulo. Su precio y fecha de puesta en servicio son los siguientes:  \n  \tPrecio de adquisición  \tFecha de puesta en servicio  \n  \tVehículo 1  \t49.000  \t1 de marzo  \n  \tVehículo 2  \t51.100  \t1 de junio \nLa sociedad amortiza su inmovilizado por el método de amortización lineal, aplicando el coeficiente máximo permitido. Las tablas de amortización oficialmente aprobadas recogen las siguientes condiciones para los elementos de transporte: -Coeficiente lineal máximo: 20 % -Período máximo: 10 años.\nLas dotaciones para amortización, al margen de estos dos vehículos, ascienden en el año a 48.795 euros.\nLa sociedad tuvo en el periodo impositivo inmediato anterior una cifra neta de negocios de 2.490.500 euros, mantiene una plantilla de seis trabajadores y no prevé su incremento en los próximos dos años.\nDetermine la cuota íntegra del Impuesto sobre Sociedades que resulta de estos datos, considerando que la sociedad tributa al tipo general.",
+      "solucion": "A",
+      "norma": "Ley 27/2014, art. 29; Ley 27/2014, art. 101; Ley 27/2014, art. 103; Ley 27/2014, art. 105; Ley 27/2014, art. 30",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04055",
+      "pregunta": "Una sociedad limitada dedicada al transporte de mercancías por carretera registra, entre otros, los siguientes datos en la cuenta de pérdidas y ganancias:  \n  \tImporte neto de la cifra de negocios  \t896.731  \n  \tPrestaciones de servicios  \t896.731  \n  \tAprovisionamientos  \t-295.745  \n  \tOtros ingresos de explotación  \t18.000  \n  \tGastos de personal  \t-379.630  \n  \tOtros gastos de explotación  \t-87.623  \n  \tAmortización del inmovilizado  \t-67.500 \nEntre los ingresos se incluye una renta de 18.000 euros, derivada del arrendamiento de un local de negocio, sobre la que se le viene practicando la retención estipulada por la norma.\nLa amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.\nDetermine la cuota del Impuesto sobre Sociedades que resulta de estos datos, después de aplicar las deducciones que sean procedentes,considerando que la sociedad tributa al tipo general, no aplica los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior el importe neto de su cifra de negocios fue de 2.400.000 euros.",
+      "solucion": "H",
+      "norma": "Ley 27/2014, art. 29; Ley 27/2014, art. 128; RD 634/2015, art. 60; Ley 27/2014, art. 41; Ley 27/2014, art. 30",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    },
+    {
+      "cod": "1D04056",
+      "pregunta": "Una sociedad anónima dedicada al transporte de mercancías por carretera, cuyo ejercicio fiscal coincide con el año natural, ha registrado, entre otros, los siguientes datos en la cuenta de pérdidas y ganancias:  \n  \tImporte neto de la cifra de negocios  \t462.042  \n  \tPrestaciones de servicios  \t462.042  \n  \tAprovisionamientos  \t-105.745  \n  \tOtros ingresos de explotación  \t15.000  \n  \tGastos de personal  \t-190.630  \n  \tOtros gastos de explotación  \t-82.623  \n  \tAmortización del inmovilizado  \t-27.500 \nLa amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.\nIndique la cuantía del pago fraccionado que deberá efectuar en octubre del año siguiente por el Impuesto sobre Sociedades, considerando que la sociedad determina sus pagos fraccionados sobre la base de los resultados del período anterior (opción del artículo 40.2 de la Ley del Impuesto), tributa al tipo general, no aplica los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior a los aquí considerados el importe neto de su cifra de negocios fue de 2.400.000 euros.",
+      "solucion": "D",
+      "norma": "Ley 27/2014, art. 29; Ley 27/2014, art. 40; Ley 27/2014, art. 124; Ley 27/2014, art. 30",
+      "opciones": {
+        "A": {},
+        "B": {},
+        "C": {},
+        "D": {},
+        "E": {},
+        "F": {},
+        "G": {},
+        "H": {}
+      }
+    }
+  ]
+}

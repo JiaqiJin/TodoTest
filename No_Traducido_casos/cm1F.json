@@ -1,0 +1,1653 @@
+{
+  "tema": "cm1F",
+  "preguntas": [
+    {
+      "cod": "1F01001",
+      "pregunta": "Una sociedad limitada dispone de autorización de transporte público de mercancías que habilita para realizar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada y cuenta con tres vehículos de 20, 24 y 29 toneladas respectivamente para el desarrollo de su actividad.\nCon ocasión del visado de la autorización, la Administración de Transportes comprueba que la sociedad no se encuentra al corriente en el cumplimento de sus obligaciones fiscales, sin que por parte de ésta se lleve a cabo la subsanación del incumplimiento. Como consecuencia, la Administración le notifica que la autorización de transporte ha perdido su validez.\nA pesar de ello, y manteniendo el incumplimiento de obligaciones fiscales, la sociedad sigue efectuando servicios de transporte como lo venía haciendo hasta la fecha, lo que provoca que, con ocasión de la inspección de uno de sus vehículos en un control de carretera, se le imponga una sanción por realizar transporte público careciendo de título habilitante, en aplicación del artículo 140.1 de la Ley de Ordenación de los Transportes Terrestres.\nResponda a las siguientes cuestiones: ¿Quién debería cumplir en esta empresa el requisito de honorabilidad? ¿Podría ser causa de pérdida de la honorabilidad la sanción mencionada? ¿A quién afectaría, en su caso, dicha pérdida?",
+      "solucion": "B",
+      "norma": "RD 1211/1990, art. 112; RD 1211/1990, art. 115; RD 1211/1990, art. 116; RD 1211/1990, Anexo I",
+      "opciones": {
+        "A": {
+          "A": "La sociedad titular de la autorización de transporte y el gestor de transporte.",
+          "B": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "C": "Al gestor de transporte exclusivamente, por tratarse de una infracción que afecta al ámbito de sus funciones."
+        },
+        "B": {
+          "A": "La sociedad titular de la autorización de transporte y el gestor de transporte.",
+          "B": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "C": "Tanto a la sociedad titular de la autorización como al gestor de transporte."
+        },
+        "C": {
+          "A": "La sociedad titular de la autorización de transporte y el gestor de transporte.",
+          "B": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "C": "A la sociedad titular de la autorización exclusivamente."
+        },
+        "D": {
+          "A": "El gestor de transporte.",
+          "B": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "C": "Al gestor de transporte de modo directo, pero también a la sociedad titular, que vería suspendidas todas sus autorizaciones."
+        },
+        "E": {
+          "A": "El gestor de transporte.",
+          "B": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "C": "Al gestor de transporte de modo directo, pero también a la sociedad titular, que vería suspendidas todas sus autorizaciones."
+        },
+        "F": {
+          "A": "La sociedad titular de la autorización de transporte y el gestor de transporte.",
+          "B": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "C": "Al gestor de transporte exclusivamente, por tratarse de una infracción que afecta al ámbito de sus funciones."
+        },
+        "G": {
+          "A": "La sociedad titular de la autorización de transporte y el gestor de transporte.",
+          "B": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "C": "Tanto a la sociedad titular de la autorización como al gestor de transporte."
+        },
+        "H": {
+          "A": "La sociedad titular de la autorización de transporte y el gestor de transporte.",
+          "B": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "C": "A la sociedad titular de la autorización exclusivamente."
+        }
+      }
+    },
+    {
+      "cod": "1F01002",
+      "pregunta": "Una sociedad limitada dispone de autorización de transporte público de mercancías que habilita para realizar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada y cuenta con cuatro vehículos para el desarrollo de su actividad.\nCon ocasión de la inspección de uno de sus vehículos en un control de carretera, se detecta una manipulación del limitador de velocidad con la finalidad de modificar sus mediciones. Como consecuencia de ello, se incoa expediente sancionador que finaliza con la imposición de una sanción por manipulación del limitador de velocidad, en aplicación del artículo 140.10 de la Ley de Ordenación de los Transportes Terrestres.\nResponda a las siguientes cuestiones: ¿Podría ser causa de pérdida de la honorabilidad la sanción mencionada? ¿Afectaría, en su caso, dicha pérdida al gestor de transporte?",
+      "solucion": "C",
+      "norma": "RD 1211/1990, art. 112; RD 1211/1990, art. 115; RD 1211/1990, art. 116; RD 1211/1990, Anexo I",
+      "opciones": {
+        "A": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad; siempre debe existir reiteración infractora.",
+          "B": "No, pues el responsable de esta infracción es el taller que efectuó la manipulación."
+        },
+        "B": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "No, pues el responsable de esta infracción es el titular de la autorización."
+        },
+        "C": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "Sí, pues es una infracción que afecta al ámbito de sus funciones."
+        },
+        "D": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "No, pues el responsable de esta infracción es el taller que efectuó la manipulación."
+        },
+        "E": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "No, pues el responsable de esta infracción es el conductor del vehículo."
+        },
+        "F": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "B": "No, pues el responsable de esta infracción es el conductor del vehículo."
+        },
+        "G": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "B": "No, pues el responsable de esta infracción es el titular de la autorización."
+        },
+        "H": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "B": "Sí, pues es una infracción que afecta al ámbito de sus funciones."
+        }
+      }
+    },
+    {
+      "cod": "1F01003",
+      "pregunta": "Una sociedad limitada dispone de autorización de transporte público de mercancías que habilita para realizar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada, y cuenta con dos vehículos para el desarrollo de su actividad.\nCon ocasión de la inspección de uno de sus vehículos en un control de carretera, se solicita del conductor la exhibición de los documentos que lo habilitan para dicha función, mostrando este un permiso de conducir de clase adecuada al vehículo y un certificado de aptitud profesional caducado. Como consecuencia de ello, se incoa expediente sancionador que finaliza con la imposición de una sanción a la empresa por realizar transporte público utilizando un conductor que carece de certificado de aptitud profesional en vigor, en aplicación del artículo 140.18 de la Ley de Ordenación de los Transportes Terrestres.\nResponda a las siguientes cuestiones: ¿Podría ser causa de pérdida de la honorabilidad la sanción mencionada? ¿Cuánto duraría, en su caso, dicha pérdida?",
+      "solucion": "A",
+      "norma": "RD 1211/1990, art. 116; RD 1211/1990, Anexo I",
+      "opciones": {
+        "A": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "365 días."
+        },
+        "B": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "B": "Hasta el próximo visado de la autorización de transporte."
+        },
+        "C": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "B": "Hasta que se pague la sanción impuesta."
+        },
+        "D": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "B": "180 días la primera vez que se produzca y 365 días a partir de la segunda."
+        },
+        "E": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "B": "365 días."
+        },
+        "F": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "Hasta el próximo visado de la autorización de transporte."
+        },
+        "G": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "Hasta que se pague la sanción impuesta."
+        },
+        "H": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "180 días la primera vez que se produzca y 365 días a partir de la segunda."
+        }
+      }
+    },
+    {
+      "cod": "1F01004",
+      "pregunta": "Una sociedad limitada dispone de autorización de transporte público de mercancías que habilita para realizar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada y cuenta, desde hace tres años, con dos vehículos de 25 y 28 toneladas para el desarrollo de su actividad.\nEsta sociedad ha sido sancionada por la comisión, en un plazo de 365 días, de las siguientes infracciones: -Realizar transporte internacional sin llevar a bordo la licencia comunitaria o una copia auténtica de esta, en aplicación del artículo 197.2 del Reglamento de la Ley de Ordenación de los Transportes Terrestres (cuatro sanciones). -Realizar transporte sin llevar a bordo el certificado de conductor de tercer país o una copia auténtica del mismo, resultando este preceptivo, en aplicación del artículo 141.9 de la Ley de Ordenación de los Transportes Terrestres (tres sanciones).\nResponda a las siguientes cuestiones: ¿Qué valor alcanza en su caso el índice de reiteración infractora? ¿Podrían ser causa de pérdida de la honorabilidad las sanciones mencionadas?",
+      "solucion": "H",
+      "norma": "RD 1211/1990, art. 116; RD 1211/1990, art. 117; RD 1211/1990, Anexo I",
+      "opciones": {
+        "A": {
+          "A": "2,50.",
+          "B": "No, porque su índice de reiteración infractora no supera el valor de 3."
+        },
+        "B": {
+          "A": "2,50.",
+          "B": "No, porque su índice de reiteración infractora no alcanza el valor de 4."
+        },
+        "C": {
+          "A": "3,50.",
+          "B": "Sí, porque su índice de reiteración infractora supera el valor de 3."
+        },
+        "D": {
+          "A": "4.",
+          "B": "Sí, porque su índice de reiteración infractora alcanza el valor de 4."
+        },
+        "E": {
+          "A": "3,50.",
+          "B": "No, porque su índice de reiteración infractora no supera el valor de 4."
+        },
+        "F": {
+          "A": "3,50.",
+          "B": "No, porque su índice de reiteración infractora no alcanza el valor de 4."
+        },
+        "G": {
+          "A": "2,50.",
+          "B": "No, porque su índice de reiteración infractora no supera el valor de 4."
+        },
+        "H": {
+          "A": "2,50.",
+          "B": "No, porque su índice de reiteración infractora no alcanza el valor de 3."
+        }
+      }
+    },
+    {
+      "cod": "1F01005",
+      "pregunta": "Una sociedad limitada dispone de autorización de transporte público de mercancías que habilita para realizar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada y cuenta, desde hace tres años, con un único vehículo de 25 toneladas para el desarrollo de su actividad.\nEsta sociedad ha sido sancionada por la comisión, en un plazo de 365 días, de las siguientes infracciones: -Dos infracciones de las señaladas en el apartado B del anexo I del Reglamento de la Ley de Ordenación de los Transportes Terrestres. -Cinco infracciones de las señaladas en el apartado C del anexo I del Reglamento de la Ley de Ordenación de los Transportes Terrestres.\nA consecuencia de estas sanciones, la Administración de Transportes dicta una resolución determinando la pérdida de honorabilidad por parte de la sociedad.\nResponda a las siguientes cuestiones: ¿Qué valor alcanza en su caso el índice de reiteración infractora? ¿Qué consecuencias tendrá para la sociedad la pérdida de honorabilidad?",
+      "solucion": "B",
+      "norma": "RD 1211/1990, art. 116; RD 1211/1990, art. 117; RD 1211/1990, Anexo I",
+      "opciones": {
+        "A": {
+          "A": "4,66.",
+          "B": "La caducidad de su autorización de transporte."
+        },
+        "B": {
+          "A": "3,66.",
+          "B": "La suspensión de su autorización de transporte."
+        },
+        "C": {
+          "A": "7.",
+          "B": "La suspensión de su autorización de transporte."
+        },
+        "D": {
+          "A": "3.",
+          "B": "La suspensión de su autorización de transporte."
+        },
+        "E": {
+          "A": "4,66.",
+          "B": "La suspensión de su autorización de transporte."
+        },
+        "F": {
+          "A": "3,66.",
+          "B": "La caducidad de su autorización de transporte."
+        },
+        "G": {
+          "A": "7.",
+          "B": "La caducidad de su autorización de transporte."
+        },
+        "H": {
+          "A": "3.",
+          "B": "La caducidad de su autorización de transporte."
+        }
+      }
+    },
+    {
+      "cod": "1F01006",
+      "pregunta": "Una sociedad limitada dispone de autorización de transporte público de mercancías que habilita para realizar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada y cuenta, desde hace tres años, con tres vehículos de 22, 25 y 30 toneladas para el desarrollo de su actividad.\nEsta sociedad ha sido sancionada por la comisión, en un plazo de 365 días, de las siguientes infracciones: -Siete infracciones de las señaladas en el apartado B del anexo I del Reglamento de la Ley de Ordenación de los Transportes Terrestres. -Ocho infracciones de las señaladas en el apartado C del anexo I del Reglamento de la Ley de Ordenación de los Transportes Terrestres.\nLas infracciones sancionadas guardan relación con el ámbito de funciones que corresponde desarrollar al gestor de transporte.\nA consecuencia de estas sanciones, la Administración de Transportes dicta una resolución determinando la pérdida de honorabilidad.\nResponda a las siguientes cuestiones: ¿Qué valor alcanza en su caso el índice de reiteración infractora? ¿Qué consecuencias tendrá para el gestor de transporte la pérdida de honorabilidad?",
+      "solucion": "C",
+      "norma": "RD 1211/1990, art. 116; RD 1211/1990, art. 117; RD 1211/1990, Anexo I",
+      "opciones": {
+        "A": {
+          "A": "3,42.",
+          "B": "La inhabilitación para ejercer de gestor de transporte."
+        },
+        "B": {
+          "A": "5.",
+          "B": "La inhabilitación para ejercer de gestor de transporte."
+        },
+        "C": {
+          "A": "3,22.",
+          "B": "La inhabilitación para ejercer de gestor de transporte."
+        },
+        "D": {
+          "A": "3,22.",
+          "B": "Ninguna, solo afecta a la sociedad titular de la autorización."
+        },
+        "E": {
+          "A": "7,22.",
+          "B": "Ninguna, solo afecta a la sociedad titular de la autorización."
+        },
+        "F": {
+          "A": "7,22.",
+          "B": "La inhabilitación para ejercer de gestor de transporte."
+        },
+        "G": {
+          "A": "5.",
+          "B": "Ninguna, solo afecta a la sociedad titular de la autorización."
+        },
+        "H": {
+          "A": "3,42.",
+          "B": "Ninguna, solo afecta a la sociedad titular de la autorización."
+        }
+      }
+    },
+    {
+      "cod": "1F01007",
+      "pregunta": "D. Juan de la Rocha, que estaba contratado por una empresa de transporte público de mercancías por carretera para desempeñar en ella la función de gestor de transporte, es declarado en situación de incapacidad permanente absoluta a consecuencia de una enfermedad, por lo que se ve obligado a dejar de trabajar.\nEl propietario de la empresa, que no tiene certificado de competencia profesional, aun siendo consciente de que la normativa lo obliga a contar con una persona que ejerza la función de gestor de transporte, decide no contratar de momento a nadie, en la confianza de que uno de sus hijos obtendrá el certificado de competencia profesional, en las pruebas que se van a celebrar próximamente, y podrá pasar a cubrir estas funciones.\nAl mes de haber causado baja definitiva el Sr. de la Rocha, la Administración comprueba que la empresa no cuenta con gestor de transporte.\nResponda a las siguientes cuestiones: ¿Puede permitir la Administración que la empresa siga funcionando sin disponer de gestor de transporte? ¿Qué actuación debe realizar el empresario en relación con esta situación?",
+      "solucion": "A",
+      "norma": "RD 1211/1990, art. 111",
+      "opciones": {
+        "A": {
+          "A": "Sí, durante un plazo de tres meses.",
+          "B": "Justificarla documentalmente."
+        },
+        "B": {
+          "A": "Sí, durante un plazo de seis meses.",
+          "B": "Justificarla documentalmente."
+        },
+        "C": {
+          "A": "No, deberá suspender la autorización de transporte en cuanto tenga conocimiento de la falta de gestor.",
+          "B": "Contratar a un trabajador que pueda desempeñar la función de gestor de transporte."
+        },
+        "D": {
+          "A": "No, deberá conceder un plazo de diez días para que se subsane la falta de gestor y, si no se lleva a cabo la subsanación, declarar caducada la autorización de transporte.",
+          "B": "Contratar a un trabajador que pueda desempeñar la función de gestor de transporte."
+        },
+        "E": {
+          "A": "Sí, durante un plazo de tres meses, prorrogables por otros tres más.",
+          "B": "Justificarla documentalmente y solicitar, en su caso, la prórroga."
+        },
+        "F": {
+          "A": "Sí, durante un plazo de seis meses, prorrogables por otros tres más.",
+          "B": "Justificarla documentalmente y solicitar, en su caso, la prórroga."
+        },
+        "G": {
+          "A": "Sí, durante un plazo de tres meses, prorrogables por otros tres más.",
+          "B": "Justificarla documentalmente."
+        },
+        "H": {
+          "A": "Sí, durante un plazo de seis meses, prorrogables por otros tres más.",
+          "B": "Justificarla documentalmente."
+        }
+      }
+    },
+    {
+      "cod": "1F01008",
+      "pregunta": "D. Justo Aguja, titular de una empresa individual de transporte público de mercancías y que también desempeñaba en ella la función de gestor de transporte, es declarado en situación de incapacidad permanente absoluta a consecuencia de un accidente, por lo que se ve obligado a dejar de trabajar y cede la titularidad de la empresa a sus herederos forzosos.\nLos herederos, que no tienen certificado de competencia profesional, aun siendo conscientes de que la normativa los obliga a contar con una persona que ejerza la función de gestor de transporte, deciden no contratar de momento a nadie, en la confianza de que alguno de ellos obtendrá el certificado de competencia profesional, en las pruebas que se van a celebrar próximamente, y podrá pasar a cubrir estas funciones.\nAl cabo de un mes de haberse producido la incapacitación de D. Justo, los herederos solicitan el cambio de titularidad de la autorización de transporte a su favor, momento en el que la Administración comprueba que estos no tienen certificado de competencia profesional ni justifican la contratación de un gestor de transporte.\nResponda a las siguientes cuestiones: ¿Puede permitir la Administración que la empresa siga funcionando sin disponer de gestor de transporte? ¿Qué actuación deben realizar los herederos en relación con esta situación?",
+      "solucion": "H",
+      "norma": "RD 1211/1990, art. 111",
+      "opciones": {
+        "A": {
+          "A": "Sí, durante un plazo de tres meses, prorrogables por otros tres más.",
+          "B": "En caso de que la carencia de gestor de transporte se vaya a mantener durante más de tres meses, pueden solicitar prórroga, debiendo justificar las dificultades de obtener el certificado de competencia profesional para tener acceso a ella."
+        },
+        "B": {
+          "A": "Sí, durante un plazo de tres meses, prorrogables por otros tres más.",
+          "B": "Justificar documentalmente la incapacitación sobrevenida del anterior titular."
+        },
+        "C": {
+          "A": "No, deberá denegar automáticamente el cambio de titularidad de la autorización de transporte y declararla suspendida.",
+          "B": "Contratar a un trabajador que pueda desempeñar la función de gestor de transporte para poder llevar a cabo el cambio de titularidad de la autorización."
+        },
+        "D": {
+          "A": "No, deberá conceder un plazo de diez días para que se aporte un trabajador que pueda desarrollar la función de gestor de transporte y, en caso contrario, denegar el cambio de titularidad y declarar caducada la autorización de transporte.",
+          "B": "Contratar a un trabajador que pueda desempeñar la función de gestor de transporte para poder llevar a cabo el cambio de titularidad de la autorización."
+        },
+        "E": {
+          "A": "Sí, durante un plazo de seis meses, prorrogables por otros seis más.",
+          "B": "Justificar documentalmente la incapacitación sobrevenida del anterior titular."
+        },
+        "F": {
+          "A": "Sí, durante un plazo de seis meses no prorrogables.",
+          "B": "Si la carencia de gestor de transporte se mantiene durante más de seis meses, deberán contratar en todo caso a un trabajador que pueda desempeñar la función de gestor de transporte."
+        },
+        "G": {
+          "A": "Sí, durante un plazo de seis meses, prorrogables por otros seis más.",
+          "B": "En caso de que la carencia de gestor de transporte se vaya a mantener durante más de seis meses, pueden solicitar prórroga, debiendo justificar las dificultades de obtener el certificado de competencia profesional para tener acceso a ella."
+        },
+        "H": {
+          "A": "Sí, durante un plazo de seis meses, prorrogables por otros tres más.",
+          "B": "En caso de que la carencia de gestor de transporte se vaya a mantener durante más de seis meses, pueden solicitar prórroga, debiendo justificar las dificultades de obtener el certificado de competencia profesional para tener acceso a ella."
+        }
+      }
+    },
+    {
+      "cod": "1F01009",
+      "pregunta": "D. Andrés Torrejón Alcalde, pretendiendo desarrollar la actividad de transporte público de mercancías por carretera, compra un vehículo nuevo de 26 toneladas de masa máxima autorizada y solicita autorización de transporte. Al no contar todavía con certificado de competencia profesional, se ve obligado a contratar a un trabajador para que desempeñe la función de gestor de transporte en la empresa.\nDado que se trata de una empresa pequeña con reducido volumen de actividad, contrata al gestor a tiempo parcial, con un tiempo de trabajo de diez horas semanales, que considera suficiente para llevar a cabo las funciones que la ley le encomienda. El gestor de transporte es dado de alta en el grupo de cotización 3 del Régimen General de la Seguridad Social.\nResponda a las siguientes cuestiones: ¿Es correcto el grupo de cotización asignado al gestor de transporte? ¿Es válida la contratación por diez horas semanales?",
+      "solucion": "E",
+      "norma": "RD 1211/1990, art. 113",
+      "opciones": {
+        "A": {
+          "A": "No, pues debe estar dado de alta en el grupo 1.",
+          "B": "Sí."
+        },
+        "B": {
+          "A": "No, pues debe estar dado de alta en el grupo 1.",
+          "B": "No, la contratación se debe realizar a tiempo completo."
+        },
+        "C": {
+          "A": "No, pues debe estar dado de alta en un grupo no inferior al 2.",
+          "B": "No, la contratación se debe realizar por un mínimo de 20 horas semanales."
+        },
+        "D": {
+          "A": "No, pues debe estar dado de alta en un grupo no inferior al 2.",
+          "B": "Sí."
+        },
+        "E": {
+          "A": "Sí, pues debe estar dado de alta en un grupo no inferior al 3.",
+          "B": "No, la contratación se debe realizar a tiempo completo."
+        },
+        "F": {
+          "A": "Sí, pues debe estar dado de alta en un grupo no inferior al 3.",
+          "B": "No, la contratación se debe realizar por un mínimo de 20 horas semanales."
+        },
+        "G": {
+          "A": "Sí, pues debe estar dado de alta en un grupo no inferior al 3.",
+          "B": "Sí."
+        },
+        "H": {
+          "A": "No, pues debe estar dado de alta en un grupo no inferior al 2.",
+          "B": "No, la contratación se debe realizar a tiempo completo."
+        }
+      }
+    },
+    {
+      "cod": "1F01010",
+      "pregunta": "Dos amigos, Carlos y Felipe, acuerdan poner en marcha una empresa de transporte de mercancías por carretera para lo cual constituyen una sociedad limitada, con un capital social de 3.000 euros, y compran dos vehículos nuevos de 15 y 17 toneladas respectivamente.\nAl intentar obtener la pertinente autorización de transporte, se percatan de que ninguno de los dos dispone de certificado de competencia profesional, que resulta preceptivo, por lo que deciden dar entrada en la sociedad a un tercer socio; este tercer socio es Daniel, que sí tiene el certificado en cuestión y puede, por tanto, desempeñar las funciones de gestor de transporte en la empresa, para lo cual llevan a cabo una ampliación de capital.\nA raíz de la entrada de Daniel en la sociedad, la participación en el capital social de cada uno de los socios queda en los términos siguientes: Carlos y Felipe, 1.500 euros cada uno; Daniel, 450 euros.\nAsimismo, Daniel se da de alta en la Seguridad Social.\nResponda a las siguientes cuestiones: ¿Se cumple el requisito de vinculación en los términos exigidos, de modo que Daniel pueda ejercer de gestor de transporte? ¿Existe algún modo alternativo de cumplir con dicho requisito?",
+      "solucion": "C",
+      "norma": "RD 1211/1990, art. 113",
+      "opciones": {
+        "A": {
+          "A": "No, pues la participación de Daniel en el capital social es inferior al 15 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo parcial (veinte horas mínimo) y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2."
+        },
+        "B": {
+          "A": "No, pues la participación de Daniel en el capital social es inferior al 15 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo completo y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2."
+        },
+        "C": {
+          "A": "No, pues la participación de Daniel en el capital social es inferior al 15 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo completo y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3."
+        },
+        "D": {
+          "A": "No, pues la participación de Daniel en el capital social es inferior al 15 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo parcial (veinte horas mínimo) y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3."
+        },
+        "E": {
+          "A": "Sí, pues la participación de Daniel en el capital social es superior al 10 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo parcial (veinte horas mínimo) y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2."
+        },
+        "F": {
+          "A": "Sí, pues la participación de Daniel en el capital social es superior al 10 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo completo y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2."
+        },
+        "G": {
+          "A": "Sí, pues la participación de Daniel en el capital social es superior al 10 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo completo y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3."
+        },
+        "H": {
+          "A": "Sí, pues la participación de Daniel en el capital social es superior al 10 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo parcial (veinte horas mínimo) y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3."
+        }
+      }
+    },
+    {
+      "cod": "1F01011",
+      "pregunta": "D. Vicente Heras es accionista mayoritario, con un 76 % del capital, de la sociedad Transportes Heras Hermanos S.A., dedicada al transporte de mercancías por carretera con vehículos de más de 20 toneladas. En dicha sociedad desempeña la función de gestor de transporte D. Julio Escámez, a cuyo efecto está contratado a tiempo completo y dado de alta en el Régimen General de Seguridad Social, en el grupo de cotización 3.\nD. Vicente está proyectando iniciar una nueva actividad de transporte público de viajeros en autocar, al margen de la sociedad anónima en la que participa. Para ello, ha creado una sociedad limitada unipersonal en la que él es el único socio.\nD. Vicente no cuenta con certificado de competencia profesional por lo que ha pensado ofrecer al Sr. Escámez la posibilidad de que desempeñe también en la nueva sociedad limitada la función de gestor de transporte, dado que éste cuenta con certificado de competencia profesional, tanto en la especialidad de mercancías como en la de viajeros.\nResponda a las siguientes cuestiones: ¿Debe el Sr. Escámez renunciar a su función de gestor de transporte en Transportes Heras Hermanos para poder ejercerla en la nueva sociedad? ¿Qué vinculación deberá tener con esta nueva sociedad para poder ejercer en ella de gestor de transporte?",
+      "solucion": "A",
+      "norma": "RD 1211/1990, art. 113",
+      "opciones": {
+        "A": {
+          "A": "No, puede compatibilizar su función de gestor en las dos sociedades, dado que el capital de ambas pertenece a un mismo titular en más de un 50 %.",
+          "B": "No requiere vinculación directa con la nueva sociedad, mientras esté vinculado con la otra y D. Vicente siga siendo titular de más del 50 % de ambas."
+        },
+        "B": {
+          "A": "Sí, una persona solo puede ejercer de gestor de transporte en una única empresa.",
+          "B": "Deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3."
+        },
+        "C": {
+          "A": "Sí, una persona solo puede ejercer de gestor de transporte en una única empresa.",
+          "B": "Deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2."
+        },
+        "D": {
+          "A": "Sí, una persona solo puede ejercer de gestor de transporte en una única empresa, salvo que se trate de empresas que pertenezcan en su totalidad a un mismo titular.",
+          "B": "Deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3."
+        },
+        "E": {
+          "A": "Sí, una persona solo puede ejercer de gestor de transporte en una única empresa, salvo que se trate de empresas que pertenezcan en su totalidad a un mismo titular.",
+          "B": "Deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2."
+        },
+        "F": {
+          "A": "No, puede compatibilizar su función de gestor en las dos sociedades, dado que van a desarrollar actividades de transporte diferentes (una mercancías y otra viajeros).",
+          "B": "Deberá estar contratado también por la nueva sociedad y dado de alta en el Régimen General de Seguridad Social, en un grupo de cotización no inferior al 3."
+        },
+        "G": {
+          "A": "No, puede compatibilizar su función de gestor en las dos sociedades, dado que van a desarrollar actividades de transporte diferentes (una mercancías y otra viajeros).",
+          "B": "No requiere vinculación directa con la nueva sociedad, mientras esté vinculado con la otra y D. Vicente siga siendo titular de más del 50 % de ambas."
+        },
+        "H": {
+          "A": "No, puede compatibilizar su función de gestor en las dos sociedades, dado que el capital de ambas pertenece a un mismo titular en más de un 50 %.",
+          "B": "Deberá estar contratado también por la nueva sociedad y dado de alta en el Régimen General de Seguridad Social, en un grupo de cotización no inferior al 3."
+        }
+      }
+    },
+    {
+      "cod": "1F01012",
+      "pregunta": "Las entidades Arosa e Hijos S.L., Transrapid S.A. y D. Jesús Ordóñez son dos sociedades y un empresario individual dedicados al transporte de mercancías por carretera. Las dos primeras cuentan con un socio mayoritario que es titular del 58 % y del 62 % del capital respectivo.\nLos socios de cada una de las sociedades no participan en el capital de la otra. D. Jesús tampoco es socio de ninguna de las dos. No obstante, en un entorno de ajuste de precios en los servicios de transporte de mercancías, deciden firmar un acuerdo de colaboración en virtud del cual compartirán los servicios de un mismo gestor de transporte, a fin de reducir los costes de personal y ganar competitividad.\nDe este modo, acuerdan que la empresa del Sr. Ordóñez mantenga la vinculación con su actual gestor de transporte, el cual está contratado a tiempo parcial por dicha empresa desde el año 2016 y dado de alta en la Seguridad Social en el grupo de cotización 3. Por su parte, Arosa e Hijos y Transrapid compensarán parcialmente al Sr. Ordóñez los costes que supone dicha contratación, en proporción a su respectivo volumen de negocio, a cambio de que el gestor de transporte de este desempeñe también sus funciones en sus empresas.\nEl acuerdo interesa también al gestor de transporte ya que verá incrementada su retribución.\nResponda a las siguientes cuestiones: ¿Pueden tener un mismo gestor de transporte estas tres empresas? ¿Es correcta la vinculación a tiempo parcial que mantiene la empresa de D. Jesús Ordóñez con su gestor de transporte?",
+      "solucion": "H",
+      "norma": "RD 1211/1990, art. 113; RD 70/2019, Disposición transitoria cuarta",
+      "opciones": {
+        "A": {
+          "A": "No, pues no existe un único titular que sea propietario de más del 50 % de las tres empresas simultáneamente.",
+          "B": "Sí, se permite cuando el gestor de transporte ya venía desempeñando sus funciones para una empresa, sea individual o societaria, en la fecha de entrada en vigor del Real Decreto 70/2019."
+        },
+        "B": {
+          "A": "Pueden tener un mismo gestor las dos sociedades, pues, aunque se trate de personas distintas en cada sociedad, uno de los socios es propietario de más del 50 % del capital, pero no podrán compartir el gestor con el empresario individual.",
+          "B": "No, debería estar contratado a tiempo completo."
+        },
+        "C": {
+          "A": "Sí, pues en las tres existe un titular que es propietario de más del 50 % del capital.",
+          "B": "No, debería estar contratado a tiempo completo."
+        },
+        "D": {
+          "A": "Sí, pues en las tres existe un titular que es propietario de más del 50 % del capital.",
+          "B": "Sí, se permite cuando el gestor de transporte ya venía desempeñando sus funciones para un empresario individual en la fecha de entrada en vigor del Real Decreto 70/2019."
+        },
+        "E": {
+          "A": "Sí, pues en las tres existe un titular que es propietario de más del 50 % del capital.",
+          "B": "Sí, se permite cuando el gestor de transporte ya venía desempeñando sus funciones para una empresa, sea individual o societaria, en la fecha de entrada en vigor del Real Decreto 70/2019."
+        },
+        "F": {
+          "A": "Pueden tener un mismo gestor las dos sociedades, pues, aunque se trate de personas distintas en cada sociedad, uno de los socios es propietario de más del 50 % del capital, pero no podrán compartir el gestor con el empresario individual.",
+          "B": "Sí, se permite cuando el gestor de transporte ya venía desempeñando sus funciones para un empresario individual en la fecha de entrada en vigor del Real Decreto 70/2019."
+        },
+        "G": {
+          "A": "No, pues no existe un único titular que sea propietario de más del 50 % de las tres empresas simultáneamente.",
+          "B": "No, debería estar contratado a tiempo completo."
+        },
+        "H": {
+          "A": "No, pues no existe un único titular que sea propietario de más del 50 % de las tres empresas simultáneamente.",
+          "B": "Sí, se permite cuando el gestor de transporte ya venía desempeñando sus funciones para un empresario individual en la fecha de entrada en vigor del Real Decreto 70/2019."
+        }
+      }
+    },
+    {
+      "cod": "1F01013",
+      "pregunta": "El titular de una empresa individual de transporte de mercancías por carretera, que desarrolla su actividad con tres vehículos de 20, 26 y 28 toneladas, se jubila una vez alcanzada la edad reglamentaria. En ese momento cede la empresa a su hijo.\nCuando solicita el cambio de titularidad a su favor de la autorización de transporte, se le exige disponer de certificado de competencia profesional o contar con una persona que esté en condiciones de ejercer las funciones de gestor de transporte. Al no tener personalmente dicho certificado, decide proponer a su cónyuge, que sí dispone de certificado de competencia, como gestor de transporte de la empresa no asalariado.\nResponda a las siguientes cuestiones: ¿En qué condiciones se debe establecer la vinculación del cónyuge con la empresa? ¿Debe el cónyuge cumplir el requisito de honorabilidad?",
+      "solucion": "B",
+      "norma": "RD 1211/1990, art. 113",
+      "opciones": {
+        "A": {
+          "A": "El cónyuge deberá estar contratado al menos a tiempo parcial y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3.",
+          "B": "Cuando el gestor de transporte es el cónyuge del empresario, no es obligatorio que cumpla el requisito de honorabilidad; basta con que lo cumpla el empresario."
+        },
+        "B": {
+          "A": "El cónyuge puede estar dado de alta en el Régimen Especial de Trabajadores Autónomos.",
+          "B": "El gestor de transporte debe cumplir siempre el requisito de honorabilidad."
+        },
+        "C": {
+          "A": "El cónyuge deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3.",
+          "B": "El gestor de transporte debe cumplir siempre el requisito de honorabilidad."
+        },
+        "D": {
+          "A": "El cónyuge deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2.",
+          "B": "El gestor de transporte debe cumplir siempre el requisito de honorabilidad."
+        },
+        "E": {
+          "A": "El cónyuge deberá estar contratado al menos a tiempo parcial y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3.",
+          "B": "El gestor de transporte debe cumplir siempre el requisito de honorabilidad."
+        },
+        "F": {
+          "A": "El cónyuge puede estar dado de alta en el Régimen Especial de Trabajadores Autónomos.",
+          "B": "Cuando el gestor de transporte es el cónyuge del empresario, no es obligatorio que cumpla el requisito de honorabilidad; basta con que lo cumpla el empresario."
+        },
+        "G": {
+          "A": "El cónyuge deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3.",
+          "B": "Cuando el gestor de transporte es el cónyuge del empresario, no es obligatorio que cumpla el requisito de honorabilidad; basta con que lo cumpla el empresario."
+        },
+        "H": {
+          "A": "El cónyuge deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2.",
+          "B": "Cuando el gestor de transporte es el cónyuge del empresario, no es obligatorio que cumpla el requisito de honorabilidad; basta con que lo cumpla el empresario."
+        }
+      }
+    },
+    {
+      "cod": "1F01014",
+      "pregunta": "Una sociedad anónima que se dedica al transporte de mercancías por carretera con diecinueve vehículos, cuyas masas máximas autorizadas van desde 20 a 32 toneladas, presenta los siguientes datos en su balance:  \n  \tAplicaciones informáticas  \t8.742  \n  \tObligaciones y otros valores negociables a largo plazo  \t124.523  \n  \tFondo de comercio  \t26.850  \n  \tTerrenos y construcciones  \t109.458  \n  \tOtros pasivos financieros a largo plazo  \t52.621  \n  \tInversiones en empresas del grupo a largo plazo  \t147.600  \n  \tClientes por ventas y prestaciones de servicios  \t84.253  \n  \tDeudas con empresas del grupo y asociadas a corto plazo  \t86.950  \n  \tInversiones en empresas del grupo a corto plazo  \t65.200  \n  \tTesorería  \t14.632  \n  \tCapital social  \t60.000  \n  \tDeudas con entidades de crédito a corto plazo  \t48.090  \n  \tReservas  \t35.400  \n  \tDeudores varios  \t24.697  \n  \tCréditos a empresas  \t57.112  \n  \tDeudas con entidades de crédito a largo plazo  \t104.673  \n  \tCréditos a terceros  \t41.234  \n  \tOtros créditos con las Administraciones Públicas  \t4.362  \n  \tDeudas con empresas del grupo y asociadas a largo plazo  \t129.488 \nResponda a las siguientes cuestiones: ¿Reúne las condiciones de capital precisas para cumplir el requisito de capacidad financiera? ¿Deberá concurrir alguna otra condición en la empresa para dar por cumplido este requisito?",
+      "solucion": "C",
+      "norma": "RD 1211/1990, art. 121",
+      "opciones": {
+        "A": {
+          "A": "No, pues su cifra de capital es de sólo 60.000 euros, inferior al mínimo de 95.000 euros exigidos (5.000 euros por vehículo).",
+          "B": "Sí, salvo situaciones especiales, la sociedad no puede haber sido declarada insolvente ni en concurso."
+        },
+        "B": {
+          "A": "No, pues su cifra de capital es de solo 60.000 euros, inferior al mínimo de 99.000 euros exigidos.",
+          "B": "Sí, salvo situaciones especiales, la sociedad no puede haber sido declarada insolvente ni en concurso."
+        },
+        "C": {
+          "A": "No, pues su cifra de capital y reservas es inferior al mínimo de 99.000 euros exigidos.",
+          "B": "Sí, salvo situaciones especiales, la sociedad no puede haber sido declarada insolvente ni en concurso."
+        },
+        "D": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 95.000 euros exigidos (5.000 euros por vehículo).",
+          "B": "Sí, salvo situaciones especiales, la sociedad no puede haber sido declarada insolvente ni en concurso."
+        },
+        "E": {
+          "A": "No, pues su cifra de capital es de solo 60.000 euros, inferior al mínimo de 95.000 euros exigidos (5.000 euros por vehículo).",
+          "B": "Sí, ningún vehículo de la sociedad debe superar la antigüedad de doce años."
+        },
+        "F": {
+          "A": "No, pues su cifra de capital es de solo 60.000 euros, inferior al mínimo de 99.000 euros exigidos.",
+          "B": "Sí, ningún vehículo de la sociedad debe superar la antigüedad de doce años."
+        },
+        "G": {
+          "A": "No, pues su cifra de capital y reservas es inferior al mínimo de 99.000 euros exigidos.",
+          "B": "Sí, ningún vehículo de la sociedad debe superar la antigüedad de doce años."
+        },
+        "H": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 95.000 euros exigidos (5.000 euros por vehículo).",
+          "B": "Sí, ningún vehículo de la sociedad debe superar la antigüedad de doce años."
+        }
+      }
+    },
+    {
+      "cod": "1F01015",
+      "pregunta": "Un empresario individual dedicado al transporte de mercancías por carretera desarrolla su actividad con seis vehículos cuyas características son las siguientes:  \n  \tMMA (kg)  \tAntigüedad  \tForma de disposición  \tDuración del contrato  \n  \tVehículo 1  \t33.700  \t15 años  \tPropiedad  \t---------  \n  \tVehículo 2  \t38.500  \t12 años  \tPropiedad  \t---------  \n  \tVehículo 3  \t41.500  \t10 años  \tPropiedad  \t---------  \n  \tVehículo 4  \t35.200  \t5 años  \tArrendamiento financiero  \t6 años  \n  \tVehículo 5  \t26.400  \t5 años  \tArrendamiento financiero  \t6 años  \n  \tVehículo 6  \t22.100  \t2 años  \tArrendamiento ordinario  \t18 meses \nResponda a las siguientes cuestiones: ¿Cabe presumir de esta información que reúne las condiciones de capital precisas para cumplir el requisito de capacidad financiera? ¿Podría acreditar que reúne las condiciones de capital prescindiendo de las características de sus vehículos?",
+      "solucion": "A",
+      "norma": "RD 1211/1990, art. 121",
+      "opciones": {
+        "A": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de doce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de veinticuatro meses, como mínimo.",
+          "B": "Sí, mediante garantía solidaria prestada por una entidad financiera por importe de 34.000 euros."
+        },
+        "B": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de catorce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de tres años, como mínimo.",
+          "B": "Sí, mediante exhibición de extracto bancario en el que conste que la empresa dispone de un mínimo de 34.000 euros en sus cuentas."
+        },
+        "C": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de doce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de tres años, como mínimo.",
+          "B": "Sí, mediante exhibición de extracto bancario en el que conste que la empresa dispone de un mínimo de 34.000 euros en sus cuentas."
+        },
+        "D": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de catorce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de veinticuatro meses, como mínimo.",
+          "B": "Sí, mediante exhibición de extracto bancario en el que conste que la empresa dispone de un mínimo de 34.000 euros en sus cuentas."
+        },
+        "E": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de doce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de veinticuatro meses, como mínimo.",
+          "B": "Sí, mediante exhibición de extracto bancario en el que conste que la empresa dispone de un mínimo de 34.000 euros en sus cuentas."
+        },
+        "F": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de catorce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de tres años, como mínimo.",
+          "B": "Sí, mediante garantía solidaria prestada por una entidad financiera por importe de 34.000 euros."
+        },
+        "G": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de doce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de tres años, como mínimo.",
+          "B": "Sí, mediante garantía solidaria prestada por una entidad financiera por importe de 34.000 euros."
+        },
+        "H": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de catorce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de veinticuatro meses, como mínimo.",
+          "B": "Sí, mediante garantía solidaria prestada por una entidad financiera por importe de 34.000 euros."
+        }
+      }
+    },
+    {
+      "cod": "1F01016",
+      "pregunta": "Un transportista de mercancías por carretera necesita disponer con urgencia de dos vehículos adicionales a los que habitualmente viene utilizando para poder atender un incremento en la demanda de servicio por parte de un cliente con el que mantiene un acuerdo estable de colaboración.\nAl tratarse de un incremento puntual, no le interesa aumentar de forma permanente su flota, por lo que se ha planteado recurrir a vehículos arrendados, al amparo de un contrato de arrendamiento ordinario. En concreto, ha pensado arrendar los dos vehículos que requiere a otra empresa transportista con la que mantiene buena relación, la cual no va a necesitarlos en las próximas fechas.\nResponda a las siguientes cuestiones: ¿Puede arrendar los vehículos de otro transportista que, ocasionalmente, no los necesita? ¿Deberá respetar el contrato de arrendamiento que concierte alguna prescripción en cuanto a su precio?",
+      "solucion": "H",
+      "norma": "Ley 16/1987, art. 133; RD 1211/1990, art. 176",
+      "opciones": {
+        "A": {
+          "A": "Sí, siempre que el transportista arrendador cuente con autorización de arrendamiento.",
+          "B": "No, los precios de la actividad de arrendamiento de vehículos sin conductor son libres."
+        },
+        "B": {
+          "A": "Sí, siempre que el contrato se refiera exclusivamente a la puesta a disposición de los vehículos sin conductor y no vaya acompañado de otro contrato relativo al personal conductor.",
+          "B": "No, los precios de la actividad de arrendamiento de vehículos sin conductor son libres."
+        },
+        "C": {
+          "A": "Sí, siempre que el contrato de arrendamiento se celebre en los locales del arrendador.",
+          "B": "Sí, deberá respetar las tarifas máximas fijadas por la Administración de Transportes."
+        },
+        "D": {
+          "A": "No, pues los vehículos deben estar dedicados en exclusiva al arrendamiento sin conductor por su titular, que ha de ser una empresa dedicada profesionalmente a esta actividad.",
+          "B": "Sí, deberá respetar las tarifas máximas fijadas por la Administración de Transportes."
+        },
+        "E": {
+          "A": "Sí, siempre que el transportista arrendador cuente con autorización de arrendamiento.",
+          "B": "Sí, deberá respetar las tarifas máximas fijadas por la Administración de Transportes."
+        },
+        "F": {
+          "A": "Sí, siempre que el contrato se refiera exclusivamente a la puesta a disposición de los vehículos sin conductor y no vaya acompañado de otro contrato relativo al personal conductor.",
+          "B": "Sí, deberá respetar las tarifas máximas fijadas por la Administración de Transportes."
+        },
+        "G": {
+          "A": "Sí, siempre que el contrato de arrendamiento se celebre en los locales del arrendador.",
+          "B": "No, los precios de la actividad de arrendamiento de vehículos sin conductor son libres."
+        },
+        "H": {
+          "A": "No, pues los vehículos deben estar dedicados en exclusiva al arrendamiento sin conductor por su titular, que ha de ser una empresa dedicada profesionalmente a esta actividad.",
+          "B": "No, los precios de la actividad de arrendamiento de vehículos sin conductor son libres."
+        }
+      }
+    },
+    {
+      "cod": "1F01017",
+      "pregunta": "A un transportista de mercancías por carretera, que mantiene un contrato estable con un fabricante de productos lácteos para la distribución de su producción, se le avería uno de sus vehículos; el taller al que recurre para la reparación le advierte que es una avería grave y que va a necesitar un recambio que solo puede proporcionar el fabricante del vehículo, cuyas instalaciones están paradas en la actualidad por un conflicto laboral. Como consecuencia de todo ello, le advierte que no puede garantizar que el vehículo esté reparado antes de veinte días.\nAnte esta situación, el transportista, que necesita del vehículo para atender correctamente su compromiso con la empresa de lácteos y que está muy interesado en dar un buen servicio a su cliente porque este contrato resulta vital para la buena marcha de su negocio, decide utilizar un vehículo arrendado en sustitución del que se encuentra averiado, al amparo de un contrato de arrendamiento ordinario.\nResponda a las siguientes cuestiones: ¿Debe adscribir el vehículo arrendado a su autorización de transporte para poder utilizarlo? ¿Ha de llevar alguna documentación específica en el vehículo cuando realice transporte?",
+      "solucion": "B",
+      "norma": "RD 1211/1990, art. 179",
+      "opciones": {
+        "A": {
+          "A": "Sí, salvo que la duración del contrato de arrendamiento sea inferior a un mes.",
+          "B": "Un certificado del taller en el que se está reparando y una copia del contrato de arrendamiento."
+        },
+        "B": {
+          "A": "No, porque se trata de sustituir temporalmente un vehículo averiado.",
+          "B": "Un certificado del taller en el que se está reparando y un justificante de que ha comunicado esta circunstancia a la Administración."
+        },
+        "C": {
+          "A": "No, porque se trata de sustituir temporalmente un vehículo averiado.",
+          "B": "Una copia del contrato de arrendamiento."
+        },
+        "D": {
+          "A": "No, porque se trata de sustituir temporalmente un vehículo averiado.",
+          "B": "Una copia del permiso de circulación del vehículo averiado."
+        },
+        "E": {
+          "A": "No, porque se trata de sustituir temporalmente un vehículo averiado.",
+          "B": "Un certificado del taller en el que se está reparando y una copia del contrato de arrendamiento."
+        },
+        "F": {
+          "A": "Sí, salvo que la duración del contrato de arrendamiento sea inferior a un mes.",
+          "B": "Un certificado del taller en el que se está reparando y un justificante de que ha comunicado esta circunstancia a la Administración."
+        },
+        "G": {
+          "A": "Sí, salvo que la duración del contrato de arrendamiento sea inferior a un mes.",
+          "B": "Una copia del contrato de arrendamiento."
+        },
+        "H": {
+          "A": "Sí, salvo que la duración del contrato de arrendamiento sea inferior a un mes.",
+          "B": "Una copia del permiso de circulación del vehículo averiado."
+        }
+      }
+    },
+    {
+      "cod": "1F01018",
+      "pregunta": "Una sociedad limitada tiene como objeto social el transporte de mercancías por carretera, dispone de autorización de transporte público y ha acreditado para la obtención de la misma requisitos iguales a los exigidos a un operador de transporte.\nEsta sociedad desarrolla su actividad con diez vehículos, cuya masa máxima autorizada va de 25 a 38 toneladas, y mantiene un acuerdo estable con una planta petroquímica para distribuir sus productos.\nAnte un incremento puntual de la demanda, el gerente de la planta le pide que incremente, durante dos meses, en doce vehículos la capacidad de transporte que viene aportando habitualmente. La sociedad transportista, como no cuenta con la flota necesaria para atender esta petición y tiene un gran interés en atender de modo satisfactorio al cliente, se plantea recurrir a la subcontratación de otros transportistas para alcanzar la capacidad solicitada.\nResponda a las siguientes cuestiones: ¿Podrá esta empresa subcontratar legalmente el volumen de transporte que se le demanda? ¿Qué condiciones debe cumplir esta sociedad en cuanto a disposición de capital y reservas?",
+      "solucion": "G",
+      "norma": "Ley 16/1987, art. 119; RD 1211/1990, art. 159",
+      "opciones": {
+        "A": {
+          "A": "No, ya que no puede superar en ningún momento su capacidad de transporte propia medida en número de vehículos (diez).",
+          "B": "Un mínimo de 50.000 euros."
+        },
+        "B": {
+          "A": "No, ya que no puede superar en ningún momento su capacidad de transporte propia medida en número de vehículos (diez).",
+          "B": "Un mínimo de 54.000 euros."
+        },
+        "C": {
+          "A": "Sí, siempre que no efectúen transporte simultáneamente los doce vehículos subcontratados.",
+          "B": "Un mínimo de 50.000 euros."
+        },
+        "D": {
+          "A": "Sí, siempre que no efectúen transporte simultáneamente los doce vehículos subcontratados.",
+          "B": "Un mínimo de 54.000 euros."
+        },
+        "E": {
+          "A": "Sí, dado que ha acreditado requisitos iguales a los exigidos a un operador de transporte.",
+          "B": "Un mínimo de 114.000 euros."
+        },
+        "F": {
+          "A": "Sí, dado que ha acreditado requisitos iguales a los exigidos a un operador de transporte.",
+          "B": "Un mínimo de 54.000 euros."
+        },
+        "G": {
+          "A": "Sí, dado que ha acreditado requisitos iguales a los exigidos a un operador de transporte.",
+          "B": "Un mínimo de 60.000 euros."
+        },
+        "H": {
+          "A": "Sí, dado que ha acreditado requisitos iguales a los exigidos a un operador de transporte.",
+          "B": "Un mínimo de 50.000 euros."
+        }
+      }
+    },
+    {
+      "cod": "1F01019",
+      "pregunta": "En el curso de una operación de control en carretera en la autovía A-1, en el kilómetro 190 en dirección Burgos, la Inspección del Transporte revisa un vehículo que circulaba en esa dirección y detecta indicios de posible alteración del aparato de control de los tiempos de conducción y descanso.\nAnte esta situación, los inspectores deciden el traslado del vehículo hasta un taller situado en las proximidades de Burgos, 58 kilómetros más adelante del punto en el que se estaba efectuando el control, para llevar a cabo la verificación detallada del aparato de control. En consecuencia, ordenan al conductor que se dirija con el vehículo al lugar señalado, acompañado por uno de los agentes de la Inspección.\nResponda a las siguientes cuestiones: ¿Tiene cobertura legal la orden de traslado del vehículo? ¿Quién deberá asumir los costes de la operación de verificación?",
+      "solucion": "A",
+      "norma": "Ley 16/1987, art. 33",
+      "opciones": {
+        "A": {
+          "A": "Sí, dado que el traslado se efectúa en el sentido de la marcha del vehículo.",
+          "B": "El transportista, si queda acreditada la existencia de infracción; y, en caso contrario, la Administración a la que pertenezcan los inspectores que ordenaron el traslado."
+        },
+        "B": {
+          "A": "No, el traslado forzoso solo está permitido hasta una distancia máxima de 30 kilómetros.",
+          "B": "Se repartirá el coste al 50 % entre el transportista y la Administración a la que pertenezcan los inspectores que ordenaron el traslado."
+        },
+        "C": {
+          "A": "No, el traslado forzoso solo está permitido hasta una distancia máxima de 30 kilómetros.",
+          "B": "La Administración a la que pertenezcan los inspectores que ordenaron el traslado."
+        },
+        "D": {
+          "A": "No, el traslado forzoso solo está permitido hasta una distancia máxima de 30 kilómetros.",
+          "B": "El transportista."
+        },
+        "E": {
+          "A": "No, el traslado forzoso solo está permitido hasta una distancia máxima de 30 kilómetros.",
+          "B": "El transportista, si queda acreditada la existencia de infracción; y, en caso contrario, la Administración a la que pertenezcan los inspectores que ordenaron el traslado."
+        },
+        "F": {
+          "A": "Sí, dado que el traslado se efectúa en el sentido de la marcha del vehículo.",
+          "B": "Se repartirá el coste al 50 % entre el transportista y la Administración a la que pertenezcan los inspectores que ordenaron el traslado."
+        },
+        "G": {
+          "A": "Sí, dado que el traslado se efectúa en el sentido de la marcha del vehículo.",
+          "B": "La Administración a la que pertenezcan los inspectores que ordenaron el traslado."
+        },
+        "H": {
+          "A": "Sí, dado que el traslado se efectúa en el sentido de la marcha del vehículo.",
+          "B": "El transportista."
+        }
+      }
+    },
+    {
+      "cod": "1F01020",
+      "pregunta": "Por parte de la Guardia Civil de Tráfico se formula denuncia contra Fernando Gómez y Hermanos S.L., empresa dedicada al transporte de mercancías por carretera, por haber cometido, supuestamente, la siguiente infracción: realización de transporte público utilizando los servicios de un conductor que, debiendo disponer del certificado de aptitud profesional (CAP), carece de él.\nVeinte días después de la fecha de la denuncia, la empresa denunciada recibe en su domicilio notificación del acuerdo de iniciación de procedimiento sancionador en relación con esta denuncia, en la que se contempla una sanción de 2.001 euros.\nA los dos meses de haber recibido esta notificación, el gerente de Fernando Gómez y Hermanos decide pagar la sanción. No obstante, inmediatamente después presenta alegaciones ante la Administración actuante, por considerar que los hechos están mal calificados y el importe de la sanción no es correcto.\nResponda a las siguientes cuestiones: ¿Qué importe ha debido pagar la empresa denunciada para que se considere saldada su responsabilidad? ¿Qué actuaciones adoptará la Administración a raíz de la presentación de alegaciones?",
+      "solucion": "H",
+      "norma": "Ley 16/1987, art. 146",
+      "opciones": {
+        "A": {
+          "A": "1.400,70 euros pues tiene derecho a reducción por haber pagado antes de que se dicte resolución en el expediente.",
+          "B": "La Administración debe estudiar las alegaciones y dictar resolución en consecuencia con las mismas, con independencia de que la empresa denunciada haya pagado o no."
+        },
+        "B": {
+          "A": "2.001 euros, pues, aunque ha pagado voluntariamente, no lo ha hecho dentro de los treinta días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe estudiar las alegaciones y dictar resolución en consecuencia con las mismas, con independencia de que la empresa denunciada haya pagado o no."
+        },
+        "C": {
+          "A": "1.200,60 euros, pues tiene derecho a reducción por haber pagado antes de que se dicte resolución en el expediente.",
+          "B": "La Administración debe estudiar las alegaciones y dictar resolución en consecuencia con las mismas, con independencia de que la empresa denunciada haya pagado o no."
+        },
+        "D": {
+          "A": "1.700,85 euros pues, tiene derecho a reducción por haber pagado antes de que se dicte resolución en el expediente.",
+          "B": "La Administración debe estudiar las alegaciones y dictar resolución en consecuencia con las mismas, con independencia de que la empresa denunciada haya pagado o no."
+        },
+        "E": {
+          "A": "1.200,60 euros pues, tiene derecho a reducción por haber pagado antes de que se dicte resolución en el expediente.",
+          "B": "La Administración dará por terminado el procedimiento, pues el pago antes de que se dicte la resolución sancionadora implica conformidad con los hechos y renuncia a formular alegaciones."
+        },
+        "F": {
+          "A": "1.700,85 euros pues, tiene derecho a reducción por haber pagado antes de que se dicte resolución en el expediente.",
+          "B": "La Administración dará por terminado el procedimiento, pues el pago antes de que se dicte la resolución sancionadora implica conformidad con los hechos y renuncia a formular alegaciones."
+        },
+        "G": {
+          "A": "1.400,70 euros pues, tiene derecho a reducción por haber pagado antes de que se dicte resolución en el expediente.",
+          "B": "La Administración dará por terminado el procedimiento, pues el pago antes de que se dicte la resolución sancionadora implica conformidad con los hechos y renuncia a formular alegaciones."
+        },
+        "H": {
+          "A": "2.001 euros, pues, aunque ha pagado voluntariamente, no lo ha hecho dentro de los treinta días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración dará por terminado el procedimiento, pues el pago antes de que se dicte la resolución sancionadora implica conformidad con los hechos y renuncia a formular alegaciones."
+        }
+      }
+    },
+    {
+      "cod": "1F01021",
+      "pregunta": "Por parte de la Inspección del Transporte, en el marco de un control en carretera, se formula denuncia contra Transportes Lobo S.A., empresa dedicada al transporte de mercancías por carretera, por haber cometido, supuestamente, la siguiente infracción: realización de transporte público utilizando los servicios de una persona que, debiendo disponer de certificado de conductor de tercer país, carece de él.\nVeinte días después de la fecha de la denuncia, la empresa denunciada recibe en su domicilio notificación del acuerdo de iniciación de procedimiento sancionador en relación con esta denuncia, en la que se contempla una sanción de 601 euros.\nA los quince días de haber recibido esta notificación, el responsable de Transportes Lobo decide pagar la sanción. No obstante, cuando posteriormente se le notifica la resolución del expediente, en la que se confirma la sanción de 601 euros, interpone recurso ante la Administración actuante, por considerar que los hechos están mal calificados y la sanción resulta improcedente.\nResponda a las siguientes cuestiones: ¿Qué importe ha debido pagar la empresa denunciada para que se considere saldada su responsabilidad? ¿Qué actuaciones adoptará la Administración en relación con el recurso?",
+      "solucion": "B",
+      "norma": "Ley 16/1987, art. 146",
+      "opciones": {
+        "A": {
+          "A": "601 euros, pues, aunque ha pagado voluntariamente, no lo ha hecho dentro de los diez días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe admitir el recurso y resolverlo en los mismos términos en los que lo haría si no se hubiera pagado la sanción."
+        },
+        "B": {
+          "A": "420,70 euros, pues tiene derecho a reducción por haber pagado dentro de los treinta días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe admitir el recurso y resolverlo en los mismos términos en los que lo haría si no se hubiera pagado la sanción."
+        },
+        "C": {
+          "A": "420,70 euros, pues tiene derecho a reducción por haber pagado dentro de los veinte días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe admitir el recurso y resolverlo en los mismos términos en los que lo haría si no se hubiera pagado la sanción."
+        },
+        "D": {
+          "A": "420,70 euros, pues tiene derecho a reducción por haber pagado dentro de los quince días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe admitir el recurso y resolverlo en los mismos términos en los que lo haría si no se hubiera pagado la sanción."
+        },
+        "E": {
+          "A": "420,70 euros, pues tiene derecho a reducción por haber pagado dentro de los treinta días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe inadmitir el recurso, pues el pago voluntario de la sanción implica conformidad con los hechos."
+        },
+        "F": {
+          "A": "420,70 euros, pues tiene derecho a reducción por haber pagado dentro de los veinte días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe inadmitir el recurso pues el pago voluntario de la sanción implica conformidad con los hechos."
+        },
+        "G": {
+          "A": "420,70 euros, pues tiene derecho a reducción por haber pagado dentro de los quince días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe inadmitir el recurso pues el pago voluntario de la sanción implica conformidad con los hechos."
+        },
+        "H": {
+          "A": "601 euros, pues, aunque ha pagado voluntariamente, no lo ha hecho dentro de los diez días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe inadmitir el recurso pues el pago voluntario de la sanción implica conformidad con los hechos."
+        }
+      }
+    },
+    {
+      "cod": "1F01022",
+      "pregunta": "D. Sixto Gegúndez, conductor profesional experimentado con diez años de trabajo por cuenta ajena, decide poner en marcha su propia empresa, cuya actividad exclusiva consistirá en la prestación del servicio de grúa de auxilio en carretera para vehículos averiados y accidentados. Para ello adquiere, en principio, dos vehículos: uno con 3 toneladas de masa máxima autorizada y otro con 3,5 toneladas.\nResponda a las siguientes cuestiones: Necesita autorización de transporte para desarrollar su actividad? Deberá acreditar el cumplimiento del requisito de honorabilidad?",
+      "solucion": "H",
+      "norma": "RD 1211/1990, art. 33; Ley 16/1987, art. 43; Reglamento Comunitario (CE) 1071/2009, art. 1",
+      "opciones": {
+        "A": {
+          "A": "No, porque va a efectuar transporte privado complementario con vehículos que no superan 3,5 toneladas de masa máxima autorizada.",
+          "B": "No, porque ninguno de los vehículos supera 3,5 toneladas de masa máxima autorizada."
+        },
+        "B": {
+          "A": "Necesita disponer de autorización para el vehículo de 3,5 toneladas, pero no para el otro.",
+          "B": "No, porque la actividad de auxilio en carretera está excluida del cumplimiento de este requisito."
+        },
+        "C": {
+          "A": "Necesita disponer de autorización para el vehículo de 3,5 toneladas, pero no para el otro.",
+          "B": "Sí, ya que va a realizar transporte público."
+        },
+        "D": {
+          "A": "Necesita disponer de autorización para el vehículo de 3,5 toneladas, pero no para el otro.",
+          "B": "No, porque ninguno de los vehículos supera 3,5 toneladas de masa máxima autorizada."
+        },
+        "E": {
+          "A": "No, porque va a efectuar transporte privado complementario con vehículos que no superan 3,5 toneladas de masa máxima autorizada.",
+          "B": "No, porque no va a efectuar transporte público."
+        },
+        "F": {
+          "A": "Sí, porque va a efectuar transporte público con vehículos de más de 2 toneladas de masa máxima autorizada.",
+          "B": "No, porque la actividad de auxilio en carretera está excluida del cumplimiento de este requisito."
+        },
+        "G": {
+          "A": "Sí, porque va a efectuar transporte público con vehículos de más de 2 toneladas de masa máxima autorizada.",
+          "B": "Sí, ya que va a realizar transporte público."
+        },
+        "H": {
+          "A": "Sí, porque va a efectuar transporte público con vehículos de más de 2 toneladas de masa máxima autorizada.",
+          "B": "No, porque ninguno de los vehículos supera 3,5 toneladas de masa máxima autorizada, salvo que efectúe servicios fuera del ámbito territorial español."
+        }
+      }
+    },
+    {
+      "cod": "1F01023",
+      "pregunta": "En el curso de una operación de control en carretera en la autovía A-7, en el kilómetro 315 en dirección Barcelona, la Inspección del Transporte revisa un vehículo que circulaba en esa dirección detectando indicios de posible manipulación del limitador de velocidad.\nAnte esta situación, los inspectores deciden el traslado del vehículo hasta un taller situado en las proximidades de Valencia para llevar a cabo la verificación detallada del limitador de velocidad, lo que supone obligarlo a retroceder 27 kilómetros desde el punto en el que se estaba efectuando el control. En consecuencia, ordenan al conductor que se dirija con el vehículo al lugar señalado, acompañado por uno de los agentes de la Inspección. \nNo obstante, el conductor del vehículo, tras consultar con la responsable de su empresa, se niega a cumplir esta orden alegando que el traslado al punto indicado le supondrá tener que realizar 54 kilómetros más de los previstos en su ruta.\nResponda a las siguientes cuestiones: ¿Tiene cobertura legal la orden de traslado del vehículo? En caso de que la orden de traslado tenga respaldo legal, ¿se estaría incurriendo en alguna infracción al negarse a cumplirla?",
+      "solucion": "D",
+      "norma": "Ley 16/1987, art. 33; Ley 16/1987, art. 140.12; RD 1211/1990, art. 197.13",
+      "opciones": {
+        "A": {
+          "A": "Sí, ya que los indicios de manipulación del limitador de velocidad son fundamento suficiente para ordenar el traslado del vehículo a un taller, con independencia de la distancia que haya que recorrer, dada la incidencia que puede tener sobre la seguridad vial.",
+          "B": "Sí, cuando hay fundamento legal para ordenarlo, la negativa a trasladar el vehículo constituye un supuesto de obstrucción a la labor inspectora."
+        },
+        "B": {
+          "A": "Sí, ya que los indicios de manipulación del limitador de velocidad son fundamento suficiente para ordenar el traslado del vehículo a un taller, con independencia de la distancia que haya que recorrer, dada la incidencia que puede tener sobre la seguridad vial.",
+          "B": "Sí, cuando hay fundamento legal para ordenarlo, la negativa a trasladar el vehículo constituye en sí misma un supuesto de manipulación de los instrumentos o medios de control que hay obligación de llevar instalados en el vehículo."
+        },
+        "C": {
+          "A": "Sí, ya que los indicios de manipulación del limitador de velocidad son fundamento suficiente para ordenar el traslado del vehículo a un taller, con independencia de la distancia que haya que recorrer, dada la incidencia que puede tener sobre la seguridad vial.",
+          "B": "Sí, cuando hay fundamento legal para ordenarlo, la negativa a trasladar el vehículo constituye en sí misma un supuesto de carencia de los instrumentos o medios de control que hay obligación de llevar instalados en el vehículo."
+        },
+        "D": {
+          "A": "Sí, ya que los indicios de manipulación del limitador de velocidad constituyen fundamento suficiente para ordenar el traslado del vehículo a un taller y el recorrido de ida no es superior a 30 kilómetros.",
+          "B": "Sí, cuando hay fundamento legal para ordenarlo, la negativa a trasladar el vehículo constituye un supuesto de obstrucción a la labor inspectora."
+        },
+        "E": {
+          "A": "Sí, ya que los indicios de manipulación del limitador de velocidad constituyen fundamento suficiente para ordenar el traslado del vehículo a un taller y el recorrido de ida no es superior a 30 kilómetros.",
+          "B": "Sí, cuando hay fundamento legal para ordenarlo, la negativa a trasladar el vehículo constituye en sí misma un supuesto de manipulación de los instrumentos o medios de control que hay obligación de llevar instalados en el vehículo."
+        },
+        "F": {
+          "A": "No, ya que, aunque los indicios de manipulación del limitador de velocidad constituyen fundamento suficiente para ordenar el traslado del vehículo a un taller, el recorrido total que implica el traslado es superior a 30 kilómetros (27 de ida y 27 de vuelta).",
+          "B": "Sí, cuando hay fundamento legal la negativa a trasladar el vehículo constituye un supuesto de obstrucción a la labor inspectora."
+        },
+        "G": {
+          "A": "No, ya que, aunque los indicios de manipulación del limitador de velocidad constituyen fundamento suficiente para ordenar el traslado del vehículo a un taller, el recorrido total que implica el traslado es superior a 30 kilómetros (27 de ida y 27 de vuelta).",
+          "B": "Sí, cuando hay fundamento legal para ordenarlo, la negativa a trasladar el vehículo constituye en sí misma un supuesto de carencia de los instrumentos o medios de control que hay obligación de llevar instalados en el vehículo."
+        },
+        "H": {
+          "A": "No, ya que los indicios de manipulación del limitador de velocidad no constituyen fundamento suficiente para ordenar el traslado del vehículo a un taller. En este caso, la Inspección del Transporte sólo puede fijar un plazo para que se lleve a cabo la revisión de este mecanismo.",
+          "B": "Sí, cuando hay fundamento legal la negativa a trasladar el vehículo constituye un supuesto de obstrucción a la labor inspectora."
+        }
+      }
+    },
+    {
+      "cod": "1F01024",
+      "pregunta": "En el curso de una operación de control en carretera en la autovía A-44, en el kilómetro 46 en dirección Jaén, la Inspección del Transporte inspecciona un camión que circulaba en esa dirección con destino Madrid. En la revisión efectuada a la tarjeta de tacógrafo del conductor se comprueba que éste ha superado el tiempo de conducción diaria permitido, incurriendo en una infracción leve.\nAnte esta situación, los inspectores ordenan la inmovilización inmediata del vehículo y retienen la documentación del vehículo y de la mercancía transportada. Asimismo, dado que el lugar no reúne condiciones de seguridad adecuadas, deciden que el vehículo sea trasladado hasta el área de servicio más próxima. En consecuencia, ordenan al conductor que se dirija con el vehículo al lugar señalado, acompañado por uno de los agentes de la Inspección. \nNo obstante, el conductor del vehículo, tras consultar con el responsable de su empresa, se niega a cumplir esta orden, alegando que la inmovilización y el traslado impedirán entregar la mercancía en el plazo convenido. Ante esta negativa, la Inspección decide utilizar los servicios de otro conductor, ajeno a la empresa titular del vehículo, para efectuar el traslado.\nEn el expediente sancionador tramitado a resultas de esta infracción se puso de manifiesto que el conductor había actuado en todo momento siguiendo las instrucciones del responsable de la empresa, por lo que no había lugar a la exención de responsabilidad de la empresa contemplada en el artículo 138, apartado 4, de la Ley 16/1987, de Ordenación de los Transportes Terrestres.\nResponda a las siguientes cuestiones:  ¿Tiene cobertura legal la orden de inmovilización del vehículo?  En caso de que la inmovilización tenga fundamento legal, ¿quién deberá asumir la custodia del vehículo y de la mercancía transportada y los gastos relacionados con el traslado al lugar de inmovilización?",
+      "solucion": "E",
+      "norma": "Ley 16/1987, Art. 143.4",
+      "opciones": {
+        "A": {
+          "A": "Sí, porque cualquier infracción cometida por superar el tiempo de conducción diaria permitido obliga a la inmovilización inmediata, ya que afecta gravemente a la seguridad vial.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo y los gastos relacionados con el traslado al lugar de inmovilización deben ser asumidos por el transportista. Por su parte, el cargador asumirá la custodia de la mercancía."
+        },
+        "B": {
+          "A": "Sí, porque cualquier infracción cometida por superar el tiempo de conducción diaria permitido obliga a la inmovilización inmediata, ya que afecta gravemente a la seguridad vial.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo y de la mercancía transportada y los gastos relacionados con el traslado al lugar de inmovilización deben ser asumidos por el transportista."
+        },
+        "C": {
+          "A": "Sí, porque cualquier infracción cometida por superar el tiempo de conducción diaria permitido obliga a la inmovilización inmediata, ya que afecta gravemente a la seguridad vial.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo debe ser asumida por el transportista. Por su parte, el cargador asumirá la custodia de la mercancía; y la Administración competente para la tramitación del expediente sancionador se hará cargo de los gastos de traslado al lugar de inmovilización."
+        },
+        "D": {
+          "A": "Sí, porque, aunque se trata de una infracción de carácter leve, la distancia que todavía debe recorrer el vehículo para alcanzar su destino es superior a 30 kilómetros.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo debe ser asumida por el transportista. Por su parte, el cargador asumirá la custodia de la mercancía; y la Administración competente para la tramitación del expediente sancionador se hará cargo de los gastos de traslado al lugar de inmovilización."
+        },
+        "E": {
+          "A": "Sí, porque, aunque se trata de una infracción de carácter leve, la distancia que todavía debe recorrer el vehículo para alcanzar su destino es superior a 30 kilómetros.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo y de la mercancía transportada y los gastos relacionados con el traslado al lugar de inmovilización deben ser asumidos por el transportista."
+        },
+        "F": {
+          "A": "Sí, porque, aunque se trata de una infracción de carácter leve, la distancia que todavía debe recorrer el vehículo para alcanzar su destino es superior a 30 kilómetros.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo y los gastos relacionados con el traslado al lugar de inmovilización deben ser asumidos por el transportista. Por su parte, el cargador asumirá la custodia de la mercancía."
+        },
+        "G": {
+          "A": "No, ya que se trata de una infracción de carácter leve.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo y los gastos relacionados con el traslado al lugar de inmovilización deben ser asumidos por el transportista. Por su parte, el cargador asumirá la custodia de la mercancía."
+        },
+        "H": {
+          "A": "No, ya que se trata de una infracción de carácter leve.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo y de la mercancía transportada y los gastos relacionados con el traslado al lugar de inmovilización deben ser asumidos por el transportista."
+        }
+      }
+    },
+    {
+      "cod": "1F01025",
+      "pregunta": "Una sociedad de responsabilidad limitada que se dedica al transporte de mercancías por carretera, exclusivamente en ámbito nacional, con diez vehículos cuyas masas máximas autorizadas van desde 18 a 32 toneladas, y con dos vehículos cuya masa máxima autorizada es de 3,5 toneladas, presenta los siguientes datos en su balance:  \n  \tAplicaciones informáticas  \t8.742  \n  \tObligaciones y otros valores negociables a largo plazo  \t124.523  \n  \tFondo de comercio  \t26.850  \n  \tTerrenos y construcciones  \t109.458  \n  \tOtros pasivos financieros a largo plazo  \t52.621  \n  \tInversiones en empresas del grupo a largo plazo  \t147.600  \n  \tClientes por ventas y prestaciones de servicios  \t44.853  \n  \tDeudas con empresas del grupo y asociadas a corto plazo  \t86.950  \n  \tInversiones en empresas del grupo a corto plazo  \t65.200  \n  \tTesorería  \t14.632  \n  \tCapital social  \t20.000  \n  \tDeudas con entidades de crédito a corto plazo  \t48.090  \n  \tReservas  \t36.000  \n  \tDeudores varios  \t24.697  \n  \tCréditos a empresas  \t57.112  \n  \tDeudas con entidades de crédito a largo plazo  \t104.673  \n  \tCréditos a terceros  \t41.234  \n  \tOtros créditos con las Administraciones Públicas  \t4.362  \n  \tDeudas con empresas del grupo y asociadas a largo plazo  \t129.488 \nResponda a las siguientes cuestiones:  ¿Reúne las condiciones de capital precisas para cumplir el requisito de capacidad financiera?  ¿Qué condiciones de capital debería reunir para cumplir con este requisito en caso de efectuar también transporte internacional?",
+      "solucion": "H",
+      "norma": "Reglamento Comunitario (CE) 1071/2009, art. 1; Reglamento Comunitario (CE) 1071/2009, art. 7; Ley 16/1987, art. 43",
+      "opciones": {
+        "A": {
+          "A": "No, pues su cifra de capital es de solo 20.000 euros, inferior al mínimo de 55.800 euros exigidos.",
+          "B": "Las mismas que si efectúa exclusivamente transporte nacional."
+        },
+        "B": {
+          "A": "No, pues su cifra de capital es de solo 20.000 euros, inferior al mínimo de 55.800 euros exigidos.",
+          "B": "Disponer de una cifra de capital de, al menos, 64.000 euros."
+        },
+        "C": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 50.000 euros exigidos (5.000 euros por cada vehículo con masa máxima autorizada superior a 3,5 toneladas).",
+          "B": "Las mismas que si efectúa exclusivamente transporte nacional."
+        },
+        "D": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 50.000 euros exigidos (5.000 euros por cada vehículo con masa máxima autorizada superior a 3,5 toneladas).",
+          "B": "Disponer de una cifra de capital y reservas de, al menos, 60.000 euros."
+        },
+        "E": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 54.000 euros exigidos.",
+          "B": "Las mismas que si efectúa exclusivamente transporte nacional."
+        },
+        "F": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 54.000 euros exigidos.",
+          "B": "Disponer de una cifra de capital y reservas de, al menos, 64.000 euros."
+        },
+        "G": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 55.800 euros exigidos.",
+          "B": "Disponer de una cifra de capital y reservas de, al menos, 64.000 euros."
+        },
+        "H": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 55.800 euros exigidos.",
+          "B": "Las mismas que si efectúa exclusivamente transporte nacional."
+        }
+      }
+    },
+    {
+      "cod": "1F01026",
+      "pregunta": "Una sociedad de responsabilidad limitada que se dedica al transporte de mercancías por carretera, efectuando servicios tanto en ámbito nacional como internacional con diez vehículos cuyas masas máximas autorizadas van desde 3 a 3,5 toneladas, y con dos vehículos cuya masa máxima autorizada es de 2,5 toneladas, presenta los siguientes datos en su balance:  \n  \tAplicaciones informáticas  \t8.742  \n  \tObligaciones y otros valores negociables a largo plazo  \t124.523  \n  \tFondo de comercio  \t26.850  \n  \tTerrenos y construcciones  \t109.458  \n  \tOtros pasivos financieros a largo plazo  \t52.621  \n  \tInversiones en empresas del grupo a largo plazo  \t121.600  \n  \tClientes por ventas y prestaciones de servicios  \t44.853  \n  \tDeudas con empresas del grupo y asociadas a corto plazo  \t86.950  \n  \tInversiones en empresas del grupo a corto plazo  \t65.200  \n  \tTesorería  \t14.632  \n  \tCapital social  \t3.000  \n  \tDeudas con entidades de crédito a corto plazo  \t48.090  \n  \tReservas  \t7.000  \n  \tDeudores varios  \t4.697  \n  \tCréditos a empresas  \t57.112  \n  \tDeudas con entidades de crédito a largo plazo  \t104.673  \n  \tCréditos a terceros  \t41.234  \n  \tOtros créditos con las Administraciones Públicas  \t4.362  \n  \tDeudas con empresas del grupo y asociadas a largo plazo  \t129.488 \nResponda a las siguientes cuestiones:  ¿Reúne las condiciones de capital precisas para cumplir el requisito de capacidad financiera?  ¿Qué condiciones de capital debería reunir para cumplir con este requisito en caso de que solo efectúe transporte en ámbito nacional?",
+      "solucion": "C",
+      "norma": "Reglamento Comunitario (CE) 1071/2009, art. 1; Reglamento Comunitario (CE) 1071/2009, art. 7; Ley 16/1987, art. 43",
+      "opciones": {
+        "A": {
+          "A": "No, pues su cifra de capital es de solo 3.000 euros, inferior al mínimo de 9.900 euros exigidos.",
+          "B": "Las mismas que si efectúa también transporte internacional."
+        },
+        "B": {
+          "A": "No, pues su cifra de capital es de solo 3.000 euros, inferior al mínimo de 12.600 euros exigidos.",
+          "B": "Disponer de una cifra de capital de, al menos, 9.900 euros."
+        },
+        "C": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 9.900 euros exigidos.",
+          "B": "Si solo efectúa transporte nacional, no necesita cumplir el requisito de capacidad financiera, dada la masa máxima autorizada de sus vehículos."
+        },
+        "D": {
+          "A": "No, pues su cifra de capital y reservas es inferior al mínimo de 50.000 euros exigidos (5.000 euros por cada vehículo con masa máxima autorizada superior a 2,5 toneladas).",
+          "B": "Las mismas que si efectúa también transporte internacional."
+        },
+        "E": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 9.900 euros exigidos.",
+          "B": "Las mismas que si efectúa también transporte internacional."
+        },
+        "F": {
+          "A": "No, pues su cifra de capital y reservas es inferior al mínimo de 54.000 euros exigidos.",
+          "B": "Las mismas que si efectúa también transporte internacional."
+        },
+        "G": {
+          "A": "No, pues su cifra de capital y reservas es inferior al mínimo de 50.000 euros exigidos (5.000 euros por cada vehículo con masa máxima autorizada superior a 2,5 toneladas).",
+          "B": "Disponer de una cifra de capital y reservas de, al menos, 9.900 euros."
+        },
+        "H": {
+          "A": "No, pues su cifra de capital y reservas es inferior al mínimo de 54.000 euros exigidos.",
+          "B": "Si solo efectúa transporte nacional, no necesita cumplir el requisito de capacidad financiera, dada la masa máxima autorizada de sus vehículos."
+        }
+      }
+    },
+    {
+      "cod": "1F02001",
+      "pregunta": "Dos hermanos, que desean dedicarse al transporte público de mercancías por carretera, deciden poner en común sus recursos para poder llevar a cabo las inversiones imprescindibles.\nA tal fin, constituyen una comunidad de bienes que tiene como objeto el ejercicio profesional del transporte de mercancías por carretera y compran un vehículo nuevo de tres toneladas de masa máxima autorizada con el que desarrollar la actividad, confiando en poder adquirir un segundo vehículo similar en unos meses.\nAsimismo, inscriben la comunidad de bienes en el Censo de Empresarios y Profesionales de la Agencia Tributaria, obteniendo el NIF correspondiente y cursando su alta en el epígrafe correspondiente al transporte de mercancías por carretera. Por otro lado, ambos se dan de alta en el Régimen Especial de Trabajadores Autónomos de la Seguridad Social.\nUna vez efectuados estos trámites, en cuanto tienen a su disposición el primer vehículo, empiezan a efectuar transporte. Sin embargo, al tercer día de ejercicio de la actividad, el vehículo es inspeccionado en un control de carretera y el agente actuante formula denuncia contra ellos, entendiendo que están realizando transporte público sin contar con la autorización preceptiva.\nNinguno de los dos hermanos cuenta con certificado de competencia profesional ni han contratado a una tercera persona que pueda desempeñar la función de gestor de transporte.\nResponda a las siguientes cuestiones: ¿Qué clase de autorización necesitan para ejercer la actividad que pretenden? ¿Cumplen los requisitos para obtenerla?",
+      "solucion": "G",
+      "norma": "Ley 16/1987, art. 43; RD 1211/1990, art. 33; Resolución D.G. Transporte Terrestre 03/12/2018, Primero",
+      "opciones": {
+        "A": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "No, pues no disponen de ninguna persona que pueda desempeñar la función de gestor de transporte en la empresa."
+        },
+        "B": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "No, pues la autorización de transporte público no se puede otorgar conjuntamente a más de una persona ni a comunidades de bienes."
+        },
+        "C": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "Sí, obtendrán la autorización si la solicitan y aportan la documentación requerida."
+        },
+        "D": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "No, pues deben disponer de, al menos, dos vehículos en propiedad o arrendamiento financiero."
+        },
+        "E": {
+          "A": "Autorización identificada registralmente con la clave MDLE.",
+          "B": "No, pues deben disponer de, al menos, dos vehículos en propiedad o arrendamiento financiero."
+        },
+        "F": {
+          "A": "Autorización identificada registralmente con la clave MDLE.",
+          "B": "No, pues no disponen de ninguna persona que pueda desempeñar la función de gestor de transporte en la empresa."
+        },
+        "G": {
+          "A": "Autorización identificada registralmente con la clave MDLE.",
+          "B": "No, pues la autorización de transporte público no se puede otorgar conjuntamente a más de una persona ni a comunidades de bienes."
+        },
+        "H": {
+          "A": "Autorización identificada registralmente con la clave MDLE.",
+          "B": "Sí, obtendrán la autorización si la solicitan y aportan la documentación requerida."
+        }
+      }
+    },
+    {
+      "cod": "1F02002",
+      "pregunta": "D. José Luis Monge, cuyo NIF es 25842369F, es titular de una autorización de transporte público de mercancías que lo habilita para efectuar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada. D. José Luis tiene adscritos a la autorización cuatro vehículos, tres le pertenecen en propiedad y el otro lo tiene a su disposición en virtud de un contrato de arrendamiento ordinario.\nEn el momento de gestionar el visado de la autorización, la Administración tiene conocimiento de que ha finalizado la vigencia del contrato de arrendamiento de este último vehículo, por lo que requiere al Sr. Monge para que, en el plazo de diez días hábiles, acredite que sigue disponiendo del mismo. No obstante, el plazo concedido se cumple sin que el transportista justifique mantener en la actualidad la disposición sobre el vehículo.\nResponda a las siguientes cuestiones: ¿En qué fecha debe efectuar el Sr. Monge el visado de su autorización? ¿Qué consecuencias tendrá, a efectos del visado, la falta de disposición de uno de los cuatro vehículos adscritos a la autorización?",
+      "solucion": "D",
+      "norma": "RD 1211/1990, art. 42; Resolución D.G. Transporte Terrestre 03/12/2018, Primero; Resolución D.G. Transporte Terrestre 03/12/2018, Segundo",
+      "opciones": {
+        "A": {
+          "A": "En el mes de septiembre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "B": {
+          "A": "En el mes de octubre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "C": {
+          "A": "En el mes de septiembre.",
+          "B": "Se excluirá al vehículo de la relación de los que están adscritos a la autorización."
+        },
+        "D": {
+          "A": "En el mes de octubre.",
+          "B": "Se excluirá al vehículo de la relación de los que están adscritos a la autorización."
+        },
+        "E": {
+          "A": "En el mes de noviembre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "F": {
+          "A": "En el mes de diciembre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "G": {
+          "A": "En el mes de noviembre.",
+          "B": "Se excluirá al vehículo de la relación de los que están adscritos a la autorización."
+        },
+        "H": {
+          "A": "En el mes de diciembre.",
+          "B": "Se excluirá al vehículo de la relación de los que están adscritos a la autorización."
+        }
+      }
+    },
+    {
+      "cod": "1F02003",
+      "pregunta": "Una sociedad limitada dedicada al transporte público de mercancías es titular de autorización de transporte que la habilita para efectuar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada. La sociedad tiene adscritos a la autorización tres vehículos cuyas características son las siguientes:  \n  \tMMA (kg)  \tAntigüedad  \tForma de disposición  \n  \tVehículo 1  \t33.700  \t12 años  \tPropiedad  \n  \tVehículo 2  \t38.500  \t10 años  \tPropiedad  \n  \tVehículo 3  \t41.500  \t8 años  \tPropiedad \nEsta sociedad quiere ampliar su capacidad de transporte, por lo que solicita que se adscriba a la autorización un vehículo adicional, que ha adquirido en propiedad, con una MMA de 24.500 kg y una antigüedad de 8,5 años.\nResponda a las siguientes cuestiones: ¿Es posible la adscripción de este vehículo adicional? En caso de que se permita la adscripción solicitada, ¿qué condiciones de capital y reservas deberá cumplir la sociedad?",
+      "solucion": "F",
+      "norma": "RD 1211/1990, art. 44; RD 1211/1990, art. 121",
+      "opciones": {
+        "A": {
+          "A": "No, porque el vehículo que se quiere adscribir a la autorización tiene una antigüedad superior a cinco meses.",
+          "B": "24.000 euros."
+        },
+        "B": {
+          "A": "No, porque el vehículo que se quiere adscribir a la autorización tiene una antigüedad superior a cinco meses.",
+          "B": "20.000 euros."
+        },
+        "C": {
+          "A": "No, porque con la adscripción del vehículo adicional aumenta la antigüedad media de la flota.",
+          "B": "24.000 euros."
+        },
+        "D": {
+          "A": "No, porque con la adscripción del vehículo adicional aumenta la antigüedad media de la flota.",
+          "B": "20.000 euros."
+        },
+        "E": {
+          "A": "No, porque con la adscripción del vehículo adicional aumenta la antigüedad media de la flota.",
+          "B": "No se exigiría ninguna condición específica de capital y reservas porque todos los vehículos de la empresa tienen doce años o menos y dispone de ellos en propiedad."
+        },
+        "F": {
+          "A": "Sí, porque con la adscripción del vehículo adicional no aumenta la antigüedad media de la flota.",
+          "B": "24.000 euros."
+        },
+        "G": {
+          "A": "Sí, porque con la adscripción del vehículo adicional no aumenta la antigüedad media de la flota.",
+          "B": "20.000 euros."
+        },
+        "H": {
+          "A": "Sí, porque con la adscripción del vehículo adicional no aumenta la antigüedad media de la flota.",
+          "B": "No se exigirá ninguna condición específica de capital y reservas porque todos los vehículos de la empresa tienen doce años o menos y dispone de ellos en propiedad."
+        }
+      }
+    },
+    {
+      "cod": "1F02004",
+      "pregunta": "D. Lázaro Olmos, transportista titular de autorización de transporte de mercancías que habilita para efectuar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada, tiene adscritos a la autorización tres vehículos cuyas características son las siguientes:  \n  \tMMA (kg)  \tAntigüedad  \tForma de disposición  \n  \tVehículo 1  \t10.600  \t16 años  \tPropiedad  \n  \tVehículo 2  \t30.000  \t10 años  \tPropiedad  \n  \tVehículo 3  \t22.500  \t8 años  \tPropiedad \nUna vez alcanzada la edad reglamentaria, D. Lázaro decide dejar la actividad y jubilarse, por lo que acuerda con D. Carlos Junco, un conocido suyo, la transmisión de la autorización de transporte a favor de este último.\nPor lo que se refiere a los vehículos, al Sr. Junco no le interesa adquirir el vehículo de 16 años por considerarlo muy antiguo y de escasa capacidad. De este modo, llevan a cabo la transferencia, a nombre de D. Carlos, de los otros dos vehículos, quedando el de mayor antigüedad a nombre de D. Lázaro.\nEn estas condiciones, D. Carlos solicita ante la Administración de Transportes la transmisión a su favor de la autorización.\nResponda a las siguientes cuestiones: ¿Es posible efectuar la transmisión solicitada? ¿En qué términos se exigirá al Sr. Junco el cumplimiento del requisito de competencia profesional?",
+      "solucion": "E",
+      "norma": "RD 1211/1990, art. 45; RD 1211/1990, art. 113",
+      "opciones": {
+        "A": {
+          "A": "Sí, porque, al prescindir del vehículo más antiguo, se está reduciendo la antigüedad media de la flota.",
+          "B": "Desde el primer momento deberá disponer personalmente de certificado de competencia profesional o contratar a una persona que pueda ejercer la función de gestor de transporte."
+        },
+        "B": {
+          "A": "Sí, porque, al prescindir del vehículo más antiguo, se está reduciendo la antigüedad media de la flota.",
+          "B": "Se le concede un plazo de tres meses para justificar el cumplimiento del requisito, al tratarse de una transmisión de autorización por jubilación."
+        },
+        "C": {
+          "A": "No, porque el adquirente no adscribe a la autorización ningún vehículo con antigüedad no superior a cinco meses.",
+          "B": "Se le concede un plazo de seis meses para justificar el cumplimiento del requisito, al tratarse de una transmisión de autorización por jubilación."
+        },
+        "D": {
+          "A": "No, porque el adquirente no adscribe a la autorización ningún vehículo con antigüedad no superior a cinco meses.",
+          "B": "Se le concede un plazo de tres meses para justificar el cumplimiento del requisito, al tratarse de una transmisión de autorización por jubilación."
+        },
+        "E": {
+          "A": "No, porque el adquirente debe pasar a disponer de todos los vehículos adscritos a la autorización.",
+          "B": "Desde el primer momento deberá disponer personalmente de certificado de competencia profesional o contratar a una persona que pueda ejercer la función de gestor de transporte."
+        },
+        "F": {
+          "A": "No, porque el adquirente debe pasar a disponer de todos los vehículos adscritos a la autorización.",
+          "B": "Se le concede un plazo de tres meses para justificar el cumplimiento del requisito, al tratarse de una transmisión de autorización por jubilación."
+        },
+        "G": {
+          "A": "No, porque el adquirente debe pasar a disponer de todos los vehículos adscritos a la autorización.",
+          "B": "Se le concede un plazo de seis meses para justificar el cumplimiento del requisito, al tratarse de una transmisión de autorización por jubilación."
+        },
+        "H": {
+          "A": "No, porque el adquirente no adscribe a la autorización ningún vehículo con antigüedad no superior a cinco meses.",
+          "B": "Desde el primer momento deberá disponer personalmente de certificado de competencia profesional o contratar a una persona que pueda ejercer la función de gestor de transporte."
+        }
+      }
+    },
+    {
+      "cod": "1F02005",
+      "pregunta": "Dos hermanos han puesto en común sus recursos, constituyendo una comunidad de bienes, para poder llevar a cabo las inversiones imprescindibles que les permitan trabajar como comercializadores mayoristas de frutas y verduras.\nEntre dichas inversiones se incluye la adquisición en propiedad de un vehículo usado, con cuatro años de antigüedad, de cinco toneladas de masa máxima autorizada, que utilizarán para el transporte de la mercancía que comercialicen.\nA tal fin, inscriben la comunidad de bienes en el Censo de Empresarios y Profesionales de la Agencia Tributaria, obteniendo el NIF correspondiente y cursando su alta en el epígrafe correspondiente del Impuesto sobre Actividades Económicas. Por otro lado, ambos se dan de alta en el Régimen Especial de Trabajadores Autónomos de la Seguridad Social.\nUna vez efectuados estos trámites, se dirigen a la Administración de Transportes de su Comunidad Autónoma para solicitar autorización de transporte.\nResponda a las siguientes cuestiones: ¿Qué clase de autorización de transporte necesitan para ejercer la actividad que pretenden? ¿Cumplen los requisitos para obtenerla?",
+      "solucion": "G",
+      "norma": "RD 1211/1990, art. 156; Resolución D.G. Transporte Terrestre 03/12/2018, Primero",
+      "opciones": {
+        "A": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "No, pues deben disponer de, al menos, dos vehículos en régimen de propiedad o arrendamiento financiero."
+        },
+        "B": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "No, pues deben disponer de un vehículo con una antigüedad máxima de cinco meses."
+        },
+        "C": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "Sí."
+        },
+        "D": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "No, pues la autorización de transporte no se puede otorgar conjuntamente a más de una persona ni a comunidades de bienes."
+        },
+        "E": {
+          "A": "Autorización identificada registralmente con la clave MPCE.",
+          "B": "No, pues deben disponer de, al menos, dos vehículos en régimen de propiedad o arrendamiento financiero."
+        },
+        "F": {
+          "A": "Autorización identificada registralmente con la clave MPCE.",
+          "B": "No, pues deben disponer de un vehículo con una antigüedad máxima de cinco meses."
+        },
+        "G": {
+          "A": "Autorización identificada registralmente con la clave MPCE.",
+          "B": "Sí."
+        },
+        "H": {
+          "A": "Autorización identificada registralmente con la clave MPCE.",
+          "B": "No, pues la autorización de transporte no se puede otorgar conjuntamente a más de una persona ni a comunidades de bienes."
+        }
+      }
+    },
+    {
+      "cod": "1F02006",
+      "pregunta": "D. Gerardo Abril, cuyo NIF es 25842380C, se dedica a la fabricación e instalación de puertas y ventanas de aluminio y, para el desarrollo de su actividad, dispone de autorización de transporte privado complementario de mercancías. D. Gerardo tiene adscritos a la autorización dos vehículos de 4 y 4,5 toneladas de masa máxima autorizada.\nEn el momento de gestionar el visado de la autorización, la Administración comprueba que uno de los vehículos adscritos se encuentra en situación de baja temporal en el Registro de Vehículos de la Dirección General de Tráfico, hecho que lo inhabilita para circular. Por ello, requiere al Sr. Abril para que, en el plazo de diez días hábiles, subsane esta deficiencia.\nNo obstante, el plazo concedido por la Administración de Transportes se cumple sin que se haya modificado la situación del vehículo en el Registro de Tráfico.\nResponda a las siguientes cuestiones: ¿En qué fecha debe efectuar el Sr. Abril el visado de su autorización? ¿Qué consecuencias tendrá, a efectos del visado, la situación de baja temporal de uno de los dos vehículos adscritos a la autorización?",
+      "solucion": "D",
+      "norma": "RD 1211/1990, art. 158; Resolución D.G. Transporte Terrestre 03/12/2018, Primero; Resolución D.G. Transporte Terrestre 03/12/2018, Segundo",
+      "opciones": {
+        "A": {
+          "A": "En el mes de octubre.",
+          "B": "Se excluirá al vehículo en situación de baja de la relación de los que están adscritos a la autorización."
+        },
+        "B": {
+          "A": "En el mes de diciembre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "C": {
+          "A": "En el mes de septiembre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "D": {
+          "A": "En el mes de noviembre.",
+          "B": "Se excluirá al vehículo en situación de baja de la relación de los que están adscritos a la autorización."
+        },
+        "E": {
+          "A": "En el mes de noviembre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "F": {
+          "A": "En el mes de octubre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "G": {
+          "A": "En el mes de septiembre.",
+          "B": "Se excluirá al vehículo en situación de baja de la relación de los que están adscritos a la autorización."
+        },
+        "H": {
+          "A": "En el mes de diciembre.",
+          "B": "Se excluirá al vehículo en situación de baja de la relación de los que están adscritos a la autorización."
+        }
+      }
+    },
+    {
+      "cod": "1F02007",
+      "pregunta": "Un empresario dedicado a la comercialización de materiales de construcción cuenta con un tractocamión y un semirremolque, así como con la oportuna autorización de transporte privado complementario de mercancías, para el transporte de los productos que comercializa desde los almacenes de sus proveedores hasta sus propias instalaciones y desde éstas hasta el punto que indican los compradores, cuando así lo solicitan.\nHabiendo vendido una partida de 8.000 ladrillos huecos al precio de 15 céntimos por unidad, impuestos no incluidos, ofrece al comprador efectuar también el transporte de la mercancía hasta el lugar que señale, cobrándole por ese servicio adicional 5 céntimos por unidad, lo que es aceptado por el comprador.\nCuando el vendedor se dispone a efectuar la entrega del producto en la fecha convenida, al ir a efectuar la carga, comprueba que el semirremolque tiene dos ruedas pinchadas y en muy mal estado y no cuenta con tiempo suficiente para repararlas o sustituirlas. Por ello, decide contactar con otra empresa del sector, con la que mantiene buenas relaciones comerciales, a fin de que le ceda uno de sus semirremolques para este transporte.\nResponda a las siguientes cuestiones: ¿Qué cantidad, IVA no incluido, puede reflejar el vendedor en la factura en concepto de transporte de la mercancía, si lo lleva a cabo como transporte privado complementario? ¿Qué implicaciones tiene la utilización en este transporte de un semirremolque cedido?",
+      "solucion": "F",
+      "norma": "Ley 16/1987, art. 102",
+      "opciones": {
+        "A": {
+          "A": "Ninguna, el transporte privado complementario no puede ser facturado de modo independiente.",
+          "B": "Ninguna, pues los remolques y semirremolques no están adscritos a la autorización de transporte. Solo se requiere que estén integrados en la organización de la empresa titular de la autorización los vehículos con capacidad de tracción."
+        },
+        "B": {
+          "A": "400 euros, si bien deberá integrar esta cantidad con el resto de conceptos facturados para determinar la base imponible de la operación.",
+          "B": "El vendedor debe comunicar previamente a la Administración que va a utilizar un semirremolque ajeno para evitar ser sancionado, indicando las circunstancias que lo justifican."
+        },
+        "C": {
+          "A": "484 euros.",
+          "B": "El transporte quedará sujeto al régimen del transporte público, pues los semirremolques utilizados en servicios de carácter privado complementario deben estar integrados en la organización de la empresa a título de propiedad, arrendamiento financiero u arrendamiento ordinario."
+        },
+        "D": {
+          "A": "Ninguna, el transporte privado complementario no puede ser facturado de modo independiente.",
+          "B": "El vendedor debe comunicar previamente a la Administración que va a utilizar un semirremolque ajeno para evitar ser sancionado, indicando las circunstancias que lo justifican."
+        },
+        "E": {
+          "A": "400 euros, si bien deberá integrar esta cantidad con el resto de conceptos facturados para determinar la base imponible de la operación.",
+          "B": "Ninguna, pues los remolques y semirremolques no están adscritos a la autorización de transporte. Solo se requiere que estén integrados en la organización de la empresa titular de la autorización los vehículos con capacidad de tracción."
+        },
+        "F": {
+          "A": "400 euros, si bien deberá integrar esta cantidad con el resto de conceptos facturados para determinar la base imponible de la operación.",
+          "B": "El transporte quedará sujeto al régimen del transporte público, pues los semirremolques utilizados en servicios de carácter privado complementario deben estar integrados en la organización de la empresa a título de propiedad, arrendamiento financiero u arrendamiento ordinario."
+        },
+        "G": {
+          "A": "Ninguna, el transporte privado complementario no puede ser facturado de modo independiente.",
+          "B": "El transporte quedará sujeto al régimen del transporte público, pues los semirremolques utilizados en servicios de carácter privado complementario deben estar integrados en la organización de la empresa a título de propiedad, arrendamiento financiero u arrendamiento ordinario."
+        },
+        "H": {
+          "A": "484 euros.",
+          "B": "Ninguna, pues los remolques y semirremolques no están adscritos a la autorización de transporte. Solo se requiere que estén integrados en la organización de la empresa titular de la autorización los vehículos con capacidad de tracción."
+        }
+      }
+    },
+    {
+      "cod": "1F02008",
+      "pregunta": "Una sociedad limitada consigue un contrato para cubrir las necesidades de transporte de dinero de las sucursales del Banco de Santander en la isla de Tenerife, para lo que adquiere, en principio, tres vehículos usados, con antigüedades que oscilan entre dos años el más nuevo y cinco años el más antiguo. Los tres vehículos están acondicionados para el transporte de fondos y tienen en los tres casos una masa máxima autorizada de cuatro toneladas.\nResponda a las siguientes cuestiones: ¿Necesita autorización de transporte para desarrollar su actividad?  ¿Deberá acreditar el cumplimiento del requisito de competencia profesional?",
+      "solucion": "B",
+      "norma": "Ley 16/1987, art. 42; Ley 16/1987, art. 43; RD 1211/1990, art. 33",
+      "opciones": {
+        "A": {
+          "A": "No, dado que el transporte se va a efectuar en una isla que no está unida de forma permanente al territorio peninsular.",
+          "B": "No, pues el cumplimiento de este requisito es una condición para el otorgamiento de la autorización de transporte, la cual no resulta preceptiva en este caso."
+        },
+        "B": {
+          "A": "No, ya que se trata de transportes de dinero en vehículos especialmente acondicionados para ello.",
+          "B": "No, pues el cumplimiento de este requisito es una condición para el otorgamiento de la autorización de transporte, la cual no resulta preceptiva en este caso."
+        },
+        "C": {
+          "A": "No, salvo que en algún momento se utilicen más de tres vehículos para cubrir el servicio.",
+          "B": "No, pues el cumplimiento de este requisito es una condición para el otorgamiento de la autorización de transporte, la cual no resulta preceptiva mientras no se utilicen más de tres vehículos."
+        },
+        "D": {
+          "A": "Sí, pues se trata de un transporte de carácter público.",
+          "B": "Sí, es un requisito contenido en la normativa de la Unión Europea para todos los transportes públicos de mercancías efectuados en vehículos de más de 3,5 toneladas de masa máxima autorizada."
+        },
+        "E": {
+          "A": "Sí, pues, al tratarse de vehículos usados, quien adquiere los vehículos debe adquirir también la titularidad de la autorización a la que estaban adscritos.",
+          "B": "Sí, es un requisito contenido en la normativa de la Unión Europea para todos los transportes públicos de mercancías efectuados en vehículos de más de 3,5 toneladas de masa máxima autorizada."
+        },
+        "F": {
+          "A": "Sí, pues se trata de un transporte de carácter público.",
+          "B": "La sociedad no es preciso que lo acredite, pero sí deberá hacerlo uno de los socios o alguno de los trabajadores contratados por la misma."
+        },
+        "G": {
+          "A": "No, salvo que en algún momento se utilicen más de tres vehículos para cubrir el servicio.",
+          "B": "Sí, es un requisito contenido en la normativa de la Unión Europea para todos los transportes públicos de mercancías efectuados en vehículos de más de 3,5 toneladas de masa máxima autorizada."
+        },
+        "H": {
+          "A": "Sí, pues, al tratarse de vehículos usados, quien adquiere los vehículos debe adquirir también la titularidad de la autorización a la que estaban adscritos.",
+          "B": "La sociedad no es preciso que lo acredite, pero sí deberá hacerlo uno de los socios o alguno de los trabajadores contratados por la misma."
+        }
+      }
+    },
+    {
+      "cod": "1F02009",
+      "pregunta": "La titular de una explotación ganadera ubicada en Jaca (Huesca), dedicada a la cría y engorde de ganado vacuno, decide adquirir un furgón jaula para transportar por sus propios medios los animales, tanto con destino a las instalaciones de la explotación como con destino a matadero, teniendo previsto efectuar ocasionalmente algún transporte con origen en localidades francesas. El vehículo se adquiere usado, con una antigüedad de cuatro años, y tiene una masa máxima autorizada de 3,5 toneladas.\nResponda a las siguientes cuestiones: ¿Se necesita autorización de transporte para utilizar el vehículo en los términos descritos?  ¿Se deberá acreditar el cumplimiento del requisito de honorabilidad?",
+      "solucion": "F",
+      "norma": "Sin referencia",
+      "opciones": {
+        "A": {
+          "A": "No, pues, aunque se trata de un transporte de carácter público, se va a utilizar un vehículo que no supera 3,5 toneladas de masa máxima autorizada.",
+          "B": "No, dado que el vehículo no supera 3,5 toneladas de masa máxima autorizada."
+        },
+        "B": {
+          "A": "Sí, pues, aunque se trata de un transporte de carácter privado complementario, se va a efectuar con un vehículo usado y en ese caso es necesario adquirir, junto con el vehículo, la titularidad de la autorización a la que estaba adscrito el mismo.",
+          "B": "Sí, dado que se van a efectuar algunos transportes de ámbito internacional."
+        },
+        "C": {
+          "A": "Sí, pues se trata de un transporte de carácter público.",
+          "B": "No, dado que el vehículo no supera 3,5 toneladas de masa máxima autorizada."
+        },
+        "D": {
+          "A": "Sí, pues se trata de un transporte de carácter público.",
+          "B": "Sí, es un requisito contenido en la normativa de la Unión Europea para todos los transportes públicos de mercancías de ámbito internacional efectuados en vehículos de más de 2,5 toneladas de masa máxima autorizada."
+        },
+        "E": {
+          "A": "No, pues se trata de un transporte de carácter privado complementario efectuado con un vehículo que no supera 3,5 toneladas de masa máxima autorizada.",
+          "B": "Sí, dado que se van a efectuar algunos transportes de ámbito internacional."
+        },
+        "F": {
+          "A": "No, pues se trata de un transporte de carácter privado complementario efectuado con un vehículo que no supera 3,5 toneladas de masa máxima autorizada.",
+          "B": "No, ya que el requisito de honorabilidad no se exige en el transporte de carácter privado complementario."
+        },
+        "G": {
+          "A": "Sí, pues, aunque se trata de un transporte de carácter privado complementario, se va a efectuar con un vehículo usado y en ese caso es necesario adquirir, junto con el vehículo, la titularidad de la autorización a la que estaba adscrito el mismo.",
+          "B": "No, ya que el requisito de honorabilidad no se exige en el transporte de carácter privado complementario."
+        },
+        "H": {
+          "A": "No, pues, aunque se trata de un transporte de carácter público, se va a utilizar un vehículo que no supera 3,5 toneladas de masa máxima autorizada.",
+          "B": "No, ya que el requisito de honorabilidad no se exige en los transportes públicos que no precisan autorización."
+        }
+      }
+    },
+    {
+      "cod": "1F05001",
+      "pregunta": "Un comerciante español de vinos y licores encomienda a un transitario la realización de todos los trámites relacionados con la importación de una partida de vodka, cuya compra ha concertado con un fabricante ruso de San Petersburgo.\nEl transporte de la mercancía se va a llevar a cabo por carretera, para lo cual el transitario ha contratado a una empresa que efectúa habitualmente portes entre España y Rusia. El transporte no se efectúa al amparo de ningún régimen de tránsito aduanero.\nA la llegada del vehículo a territorio aduanero de la Unión Europea, los agentes de aduanas impiden su paso porque, debido a un malentendido entre el transitario y el transportista, no ha sido presentada la correspondiente declaración sumaria de entrada.\nResponda a las siguientes cuestiones: ¿Cuándo se debió presentar la declaración sumaria de entrada? ¿Puede ser sustituida la declaración sumaria de entrada por otro documento?",
+      "solucion": "E",
+      "norma": "Reglamento Comunitario (UE) 952/2013, art. 130; Reglamento Comunitario (UE) 2015/2446, art. 108",
+      "opciones": {
+        "A": {
+          "A": "Como muy tarde, una hora antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración de levante de las mercancías."
+        },
+        "B": {
+          "A": "Como muy tarde, 24 horas antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración de levante de las mercancías."
+        },
+        "C": {
+          "A": "Como muy tarde, tres horas antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración de levante de las mercancías."
+        },
+        "D": {
+          "A": "Como muy tarde, 48 horas antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración de levante de las mercancías."
+        },
+        "E": {
+          "A": "Como muy tarde, una hora antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración en aduana o por una declaración de depósito temporal."
+        },
+        "F": {
+          "A": "Como muy tarde, 24 horas antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración en aduana o por una declaración de depósito temporal."
+        },
+        "G": {
+          "A": "Como muy tarde, tres horas antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración en aduana o por una declaración de depósito temporal."
+        },
+        "H": {
+          "A": "Como muy tarde, 48 horas antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración en aduana o por una declaración de depósito temporal."
+        }
+      }
+    },
+    {
+      "cod": "1F05002",
+      "pregunta": "Un distribuidor español de semillas y abonos importa desde Marruecos 100.000 kg de abono mineral, compuesto de nitrógeno, fósforo y potasio, para su venta en España. El transporte se hace por carretera, con embarque rodado de los camiones que transportan la mercancía para efectuar el paso del Estrecho.\nAl llegar a la aduana española, la mercancía es puesta bajo vigilancia aduanera para la realización de los controles oportunos. En ese momento, y debido a que el tiempo de retención en la aduana se va a alargar más de lo que estaba previsto, el transportista se pone en contacto con el importador para comunicarle esta circunstancia y pedirle un incremento en el precio del porte que compense el mayor tiempo empleado.\nAl no aceptar el importador pagar más de lo que inicialmente se había acordado, el transportista da instrucciones a sus conductores para que descarguen la mercancía en el lugar en el que se encuentran, dando por resuelto el contrato de transporte.\nResponda a las siguientes cuestiones: ¿Permite la normativa aduanera efectuar la descarga que ordena el transportista? ¿Qué régimen aduanero se debe asignar a la mercancía para poder ser comercializada en España?",
+      "solucion": "B",
+      "norma": "Reglamento Comunitario (UE) 952/2013, art. 140; Reglamento Comunitario (UE) 952/2013, art. 201",
+      "opciones": {
+        "A": {
+          "A": "Sí, siempre que las mercancías no salgan del recinto o depósito designado por las autoridades aduaneras.",
+          "B": "El régimen de despacho a libre práctica."
+        },
+        "B": {
+          "A": "Solo se puede hacer con permiso previo de las autoridades aduaneras.",
+          "B": "El régimen de despacho a libre práctica."
+        },
+        "C": {
+          "A": "En ningún caso se pueden descargar o transbordar las mercancías mientras se encuentren bajo vigilancia aduanera.",
+          "B": "El régimen de despacho a libre práctica."
+        },
+        "D": {
+          "A": "Sí, siempre que quede una muestra suficiente de la mercancía sin mover, de modo que no se impida la realización de los controles procedentes.",
+          "B": "El régimen de despacho a libre práctica."
+        },
+        "E": {
+          "A": "Sí, siempre que las mercancías no salgan del recinto o depósito designado por las autoridades aduaneras.",
+          "B": "El régimen de mercancía comunitaria."
+        },
+        "F": {
+          "A": "Solo se puede hacer con permiso previo de las autoridades aduaneras.",
+          "B": "El régimen de mercancía comunitaria."
+        },
+        "G": {
+          "A": "En ningún caso se pueden descargar o transbordar las mercancías mientras se encuentren bajo vigilancia aduanera.",
+          "B": "El régimen de mercancía comunitaria."
+        },
+        "H": {
+          "A": "Sí, siempre que quede una muestra suficiente de la mercancía sin mover, de modo que no se impida la realización de los controles procedentes.",
+          "B": "El régimen de mercancía comunitaria."
+        }
+      }
+    },
+    {
+      "cod": "1F05003",
+      "pregunta": "Un fabricante español de repuestos para automóviles vende a un comerciante marroquí una partida de filtros de aceite. El transporte se hace por carretera, con embarque rodado de los camiones que transportan la mercancía para efectuar el paso del Estrecho.\nA la llegada del vehículo a la aduana española, los agentes de aduanas inmovilizan la mercancía porque no les consta la presentación de ninguna información relativa a esta salida del territorio aduanero de la Unión Europea.\nResponda a las siguientes cuestiones: ¿Qué documento o declaración se debió presentar? ¿Qué régimen aduanero se debe asignar a la mercancía para poder ser comercializada fuera de la Unión Europea?",
+      "solucion": "G",
+      "norma": "Reglamento Comunitario (UE) 952/2013, art. 263; Reglamento Comunitario (UE) 952/2013, art. 269",
+      "opciones": {
+        "A": {
+          "A": "Una declaración previa a la salida.",
+          "B": "El régimen de mercancía no comunitaria."
+        },
+        "B": {
+          "A": "Una declaración de exportación.",
+          "B": "El régimen de mercancía no comunitaria."
+        },
+        "C": {
+          "A": "Una declaración de compromiso de pago de los derechos de exportación.",
+          "B": "El régimen de despacho a libre práctica."
+        },
+        "D": {
+          "A": "Una declaración previa a la salida.",
+          "B": "El régimen de despacho a libre práctica."
+        },
+        "E": {
+          "A": "Una declaración de exportación.",
+          "B": "El régimen de despacho a libre práctica."
+        },
+        "F": {
+          "A": "Una declaración de compromiso de pago de los derechos de exportación.",
+          "B": "El régimen de exportación."
+        },
+        "G": {
+          "A": "Una declaración previa a la salida.",
+          "B": "El régimen de exportación."
+        },
+        "H": {
+          "A": "Una declaración de exportación.",
+          "B": "El régimen de exportación."
+        }
+      }
+    },
+    {
+      "cod": "1F05004",
+      "pregunta": "Una empresa española dedicada a la comercialización de prendas de vestir importa un lote de productos fabricados en China. La mercancía viaja por vía marítima, desde Shanghái hasta Róterdam, en contenedor que la empresa española ha contratado por el total de su capacidad. Una vez desembarcado, el contenedor será transportado por carretera hasta el centro de distribución que la empresa tiene en Zaragoza.\nA fin de agilizar el traslado desde Róterdam, el transitario a quien la empresa ha encomendado la gestión de este transporte se plantea la utilización de un régimen de tránsito aduanero para lo que se le exige la constitución de una garantía que asegure el pago de los derechos aduaneros y otros posibles tributos. A estos efectos, decide utilizar títulos emitidos por un fiador autorizado.\nResponda a las siguientes cuestiones: ¿Qué régimen de tránsito puede utilizar? ¿Qué valor individual tienen cada uno de los títulos de fianza que se utilizan con esta finalidad?",
+      "solucion": "C",
+      "norma": "Reglamento Comunitario (UE) 952/2013, art. 226; Reglamento Comunitario (UE) 2015/2447, art. 160",
+      "opciones": {
+        "A": {
+          "A": "El régimen ATA.",
+          "B": "10.000 euros."
+        },
+        "B": {
+          "A": "El régimen de tránsito interno de la Unión.",
+          "B": "10.000 euros."
+        },
+        "C": {
+          "A": "El régimen de tránsito externo de la Unión.",
+          "B": "10.000 euros."
+        },
+        "D": {
+          "A": "El régimen TIR.",
+          "B": "10.000 euros."
+        },
+        "E": {
+          "A": "El régimen ATA.",
+          "B": "6.000 euros."
+        },
+        "F": {
+          "A": "El régimen de tránsito interno de la Unión.",
+          "B": "6.000 euros."
+        },
+        "G": {
+          "A": "El régimen de tránsito externo de la Unión.",
+          "B": "6.000 euros."
+        },
+        "H": {
+          "A": "El régimen TIR.",
+          "B": "6.000 euros."
+        }
+      }
+    },
+    {
+      "cod": "1F05005",
+      "pregunta": "Un fabricante español de equipos industriales vende, con destino a una planta de Moscú, una máquina especialmente voluminosa que no es factible dividir en piezas para su transporte, teniendo en cuenta su complejidad técnica y el coste que supondría tal operación.\nSe desea efectuar el transporte de este equipo por carretera, y en régimen de tránsito aduanero, a fin de agilizar el paso por las distintas aduanas por lo que el transportista contratado para llevar a cabo el traslado solicita un cuaderno TIR para dar cobertura a esta operación e instala la identificación TIR sobre el vehículo que piensa utilizar.\nResponda a las siguientes cuestiones: ¿Se podrá autorizar la utilización del régimen TIR en este caso? En caso de que sea posible, ¿cuántas placas de identificación TIR deberá llevar el vehículo?",
+      "solucion": "D",
+      "norma": "Convenio TIR, art. 16; Convenio TIR, art. 29",
+      "opciones": {
+        "A": {
+          "A": "Se puede autorizar si es posible identificar con facilidad la máquina transportada.",
+          "B": "Una placa en la parte delantera del vehículo y, opcionalmente, otra en la parte trasera."
+        },
+        "B": {
+          "A": "Se puede autorizar si es posible identificar con facilidad la máquina transportada.",
+          "B": "Una placa en la parte trasera del vehículo y, opcionalmente, otra en la parte delantera."
+        },
+        "C": {
+          "A": "Se puede autorizar si es posible identificar con facilidad la máquina transportada.",
+          "B": "Una placa en la parte delantera del vehículo, una en la parte trasera y otras dos en los laterales."
+        },
+        "D": {
+          "A": "Se puede autorizar si es posible identificar con facilidad la máquina transportada.",
+          "B": "Una placa en la parte delantera del vehículo y otra en la parte trasera."
+        },
+        "E": {
+          "A": "No, porque, al tratarse de una mercancía voluminosa, no sirve un vehículo cerrado y, por tanto, la mercancía no puede viajar bajo precinto aduanero, como exige el Convenio TIR.",
+          "B": "Una placa en la parte delantera del vehículo y, opcionalmente, otra en la parte trasera."
+        },
+        "F": {
+          "A": "No, porque, al tratarse de una mercancía voluminosa, no sirve un vehículo cerrado y, por tanto, la mercancía no puede viajar bajo precinto aduanero, como exige el Convenio TIR.",
+          "B": "Una placa en la parte trasera del vehículo y, opcionalmente, otra en la parte delantera."
+        },
+        "G": {
+          "A": "No, porque, al tratarse de una mercancía voluminosa, no sirve un vehículo cerrado y, por tanto, la mercancía no puede viajar bajo precinto aduanero, como exige el Convenio TIR.",
+          "B": "Una placa en la parte delantera del vehículo, una en la parte trasera y otras dos en los laterales."
+        },
+        "H": {
+          "A": "No, porque, al tratarse de una mercancía voluminosa, no sirve un vehículo cerrado y, por tanto, la mercancía no puede viajar bajo precinto aduanero, como exige el Convenio TIR.",
+          "B": "Una placa en la parte delantera del vehículo y otra en la parte trasera."
+        }
+      }
+    },
+    {
+      "cod": "1F05006",
+      "pregunta": "Una empresa de transporte de mercancías de Polonia efectúa el transporte de una partida de prendas de vestir de piel entre Ucrania y España, en régimen de tránsito aduanero, utilizando para ello un cuaderno TIR expedido por una asociación garante extranjera que está afiliada a la misma organización internacional que la asociación garante española.\nAl llegar a la aduana de destino española, las autoridades aduaneras inspeccionan el vehículo y comprueban que los precintos están rotos y falta un 60 % de la mercancía que se declaró en la aduana de salida al iniciar el viaje. Ante esta situación, deciden no efectuar el descargo de la operación, notificándolo así al titular del cuaderno TIR y a la asociación garante correspondiente, y reclamar a ambos el pago de los derechos e impuestos de importación dejados de percibir, que valoran en 114.000 euros.\nResponda a las siguientes cuestiones: ¿A qué asociación garante dirigirán su reclamación las autoridades aduaneras en este caso? En caso de que la reclamación resulte procedente, ¿qué cantidad deberá asumir la asociación garante?",
+      "solucion": "A",
+      "norma": "Reglamento Comunitario (UE) 2015/2447, art. 163; Convenio TIR, art. 6; Convenio TIR, art. 8",
+      "opciones": {
+        "A": {
+          "A": "A la asociación garante española, pues esta debe responder de las cantidades que se exijan en su país por cuadernos expedidos por otra asociación afiliada a la misma organización internacional.",
+          "B": "100.000 euros."
+        },
+        "B": {
+          "A": "A la asociación garante española, pues esta debe responder de las cantidades que se exijan en su país por cuadernos expedidos por otra asociación afiliada a la misma organización internacional.",
+          "B": "114.000 euros."
+        },
+        "C": {
+          "A": "A la asociación garante española, pues esta debe responder de las cantidades que se exijan en su país por cuadernos expedidos por otra asociación afiliada a la misma organización internacional.",
+          "B": "60.000 euros."
+        },
+        "D": {
+          "A": "A la asociación garante española, pues esta debe responder de las cantidades que se exijan en su país por cuadernos expedidos por otra asociación afiliada a la misma organización internacional.",
+          "B": "10.000 euros."
+        },
+        "E": {
+          "A": "A la asociación garante que expidió el cuaderno TIR al amparo del cual se efectuó la operación de tránsito.",
+          "B": "100.000 euros."
+        },
+        "F": {
+          "A": "A la asociación garante que expidió el cuaderno TIR al amparo del cual se efectuó la operación de tránsito.",
+          "B": "114.000 euros."
+        },
+        "G": {
+          "A": "A la asociación garante que expidió el cuaderno TIR al amparo del cual se efectuó la operación de tránsito.",
+          "B": "60.000 euros."
+        },
+        "H": {
+          "A": "A la asociación garante que expidió el cuaderno TIR al amparo del cual se efectuó la operación de tránsito.",
+          "B": "10.000 euros."
+        }
+      }
+    }
+  ]
+}

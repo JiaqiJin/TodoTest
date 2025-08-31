@@ -1,0 +1,661 @@
+{
+  "tema": "cm1G",
+  "preguntas": [
+    {
+      "cod": "1G07001",
+      "pregunta": "Un fabricante español de calzado ha firmado un contrato con una empresa de distribución sueca para suministrarle una remesa de zapatillas deportivas. La mercancía viajará contenerizada, utilizando un servicio de transporte intermodal carretera-barco, pero el fabricante no quiere contratar un contenedor para su uso exclusivo, pues sólo utilizará un tercio de su capacidad.\nEl contenedor que se va a emplear en este transporte fue fabricado en diciembre de 2005 y ha pasado todas las inspecciones de seguridad obligatorias agotando al máximo los plazos reglamentarios.\nResponda a las siguientes cuestiones: ¿Qué régimen de servicio se aplicará a este envío? ¿De qué modo se debe acreditar que este contenedor cumple las prescripciones de seguridad? ¿Cuándo ha debido pasar el contenedor su última inspección?",
+      "solucion": "G",
+      "norma": "Glosario de términos logísticos, Universidad Politécnica de Cartagena",
+      "opciones": {
+        "A": {
+          "A": "FCL.",
+          "B": "Con la placa de aprobación.",
+          "C": "En el año 2020."
+        },
+        "B": {
+          "A": "FCL.",
+          "B": "Con el certificado de conformidad.",
+          "C": "En el año 2019."
+        },
+        "C": {
+          "A": "FCL.",
+          "B": "Con el certificado de conformidad y la placa de aprobación.",
+          "C": "En el año 2019."
+        },
+        "D": {
+          "A": "FCL.",
+          "B": "Con el certificado de conformidad y la placa de aprobación.",
+          "C": "En el año 2020."
+        },
+        "E": {
+          "A": "LCL.",
+          "B": "Con la placa de aprobación.",
+          "C": "En el año 2019."
+        },
+        "F": {
+          "A": "LCL.",
+          "B": "Con el certificado de conformidad.",
+          "C": "En el año 2020."
+        },
+        "G": {
+          "A": "LCL.",
+          "B": "Con el certificado de conformidad y la placa de aprobación.",
+          "C": "En el año 2020."
+        },
+        "H": {
+          "A": "LCL.",
+          "B": "Con el certificado de conformidad y la placa de aprobación.",
+          "C": "En el año 2019."
+        }
+      }
+    },
+    {
+      "cod": "1G07002",
+      "pregunta": "Se proyecta efectuar un transporte de mercancía contenerizada mediante un servicio intermodal carretera-ferrocarril. Las unidades intermodales no viajarán apiladas ya que lo impide el gálibo de la línea férrea por la que tiene que transcurrir el transporte.\nEl operador que organiza este transporte tiene disponibles de contenedores ISO y de cajas móviles no apilables, en ambos casos con una longitud interior de 5,90 metros, y el cargador le pide que utilice el tipo de unidad intermodal que optimice mejor la capacidad de los vehículos de carretera, teniendo en cuenta que la mercancía ha sido paletizada utilizando europalés de medidas 1.200 x 800 mm.\nResponda a las siguientes cuestiones: ¿Qué unidad intermodal se debe elegir? ¿Cuántos palés se podrán transportar sin apilar en cada tipo de unidad?",
+      "solucion": "C",
+      "norma": "El lenguaje del transporte intermodal, Ministerio de Fomento",
+      "opciones": {
+        "A": {
+          "A": "La caja móvil.",
+          "B": "12 palés en caja móvil y 10 palés en contenedor ISO."
+        },
+        "B": {
+          "A": "La caja móvil.",
+          "B": "14 palés en caja móvil y 10 palés en contenedor ISO."
+        },
+        "C": {
+          "A": "La caja móvil.",
+          "B": "14 palés en caja móvil y 8 palés en contenedor ISO."
+        },
+        "D": {
+          "A": "La caja móvil.",
+          "B": "12 palés en caja móvil y 8 palés en contenedor ISO."
+        },
+        "E": {
+          "A": "El contenedor ISO.",
+          "B": "12 palés en contenedor ISO y 10 palés en caja móvil."
+        },
+        "F": {
+          "A": "El contenedor ISO.",
+          "B": "14 palés en contenedor ISO y 10 palés en caja móvil."
+        },
+        "G": {
+          "A": "El contenedor ISO.",
+          "B": "12 palés en contenedor ISO y 8 palés en caja móvil."
+        },
+        "H": {
+          "A": "El contenedor ISO.",
+          "B": "14 palés en contenedor ISO y 8 palés en caja móvil."
+        }
+      }
+    },
+    {
+      "cod": "1G07003",
+      "pregunta": "Una empresa de transporte de mercancías por carretera, cuya actividad principal consiste en servicios de carácter internacional, es contratada para transportar una partida de muebles de cocina desde Toledo hasta Milán.\nLos muebles viajan estibados en el interior de un contenedor, que ha sido cargado sobre un semirremolque, y el transportista decide efectuar el encargo utilizando un servicio intermodal carretera-ferrocarril del tipo ROLA en una parte del recorrido.\nResponda a las siguientes cuestiones: ¿Hasta dónde debe viajar el conductor del vehículo de carretera? ¿Qué elementos de la unidad de carretera se embarcarán en el tren?",
+      "solucion": "D",
+      "norma": "Estudio para el desarrollo de autopistas ferroviarias en la Península Ibérica, Ministerio de Fomento",
+      "opciones": {
+        "A": {
+          "A": "Hasta el punto de embarque de la unidad de carretera en el tren.",
+          "B": "Todos los elementos que la componen."
+        },
+        "B": {
+          "A": "Hasta el punto de embarque de la unidad de carretera en el tren.",
+          "B": "El contenedor soportado sobre el semirremolque."
+        },
+        "C": {
+          "A": "Hasta el punto de embarque de la unidad de carretera en el tren.",
+          "B": "Exclusivamente el contenedor, pues el chasis del vagón ferroviario sustituye al semirremolque."
+        },
+        "D": {
+          "A": "Hasta el final del trayecto, ya que es un sistema de transporte acompañado.",
+          "B": "Todos los elementos que la componen."
+        },
+        "E": {
+          "A": "Hasta el final del trayecto, ya que es un sistema de transporte acompañado.",
+          "B": "El contenedor soportado sobre el semirremolque."
+        },
+        "F": {
+          "A": "Hasta el final del trayecto, ya que es un sistema de transporte acompañado.",
+          "B": "Exclusivamente el contenedor, pues el chasis del vagón ferroviario sustituye al semirremolque."
+        },
+        "G": {
+          "A": "Hasta el punto de desembarque del tren.",
+          "B": "Todos los elementos que la componen."
+        },
+        "H": {
+          "A": "Hasta el punto de desembarque del tren.",
+          "B": "El contenedor soportado sobre el semirremolque."
+        }
+      }
+    },
+    {
+      "cod": "1G09001",
+      "pregunta": "Una empresa dedicada a la elaboración de productos cárnicos dispone de cinco vehículos en propiedad para la distribución de los mismos a sus clientes, dos de ellos tienen 3,5 toneladas de masa máxima autorizada y los otros tres tienen 10 toneladas. Entre los productos que distribuyen se incluyen varios que contienen carne roja y carne picada.\nTodos los clientes a los que distribuyen con sus propios vehículos tienen sus puntos de venta en territorio español, por lo que en ningún caso los vehículos efectúan recorridos internacionales con la mercancía. No obstante, la empresa tiene también clientes extranjeros, a los que se hacen llegar los productos cárnicos utilizando el transporte ferroviario.\nResponda a las siguientes cuestiones: ¿Se aplican las normas del ATP (Acuerdo sobre transportes internacionales de mercancías perecederas y sobre vehículos especiales utilizados en estos transportes) a los transportes que efectúa esta empresa con sus vehículos? ¿Se aplican las normas del ATP a los transportes que hace utilizando el ferrocarril?",
+      "solucion": "A",
+      "norma": "Acuerdo ATP, art. 3; RD 1202/2005, art. 1",
+      "opciones": {
+        "A": {
+          "A": "Sí, las normas del Acuerdo ATP se aplican también al transporte interior en virtud del Real Decreto 1202/2005, tanto al realizado por cuenta ajena como al efectuado por cuenta propia.",
+          "B": "Sí, las normas del Acuerdo ATP se aplican a los transportes por carretera y por ferrocarril."
+        },
+        "B": {
+          "A": "No, las normas del Acuerdo ATP no se aplican al transporte por cuenta propia.",
+          "B": "Sí, las normas del Acuerdo ATP se aplican a los transportes por carretera y por ferrocarril."
+        },
+        "C": {
+          "A": "No, las normas del Acuerdo ATP solo se aplican al transporte internacional.",
+          "B": "Sí, las normas del Acuerdo ATP se aplican a los transportes por carretera y por ferrocarril."
+        },
+        "D": {
+          "A": "Se aplican a los transportes realizados con vehículos de 10 toneladas de masa máxima autorizada, pero no a los realizados con los de 3,5 toneladas, dado que estos últimos no necesitan autorización de transporte.",
+          "B": "Sí, las normas del Acuerdo ATP se aplican a los transportes por carretera y por ferrocarril."
+        },
+        "E": {
+          "A": "Sí, las normas del Acuerdo ATP se aplican también al transporte interior en virtud del Real Decreto 1202/2005, tanto al realizado por cuenta ajena como al efectuado por cuenta propia.",
+          "B": "No, las normas del Acuerdo ATP no se aplican a los transportes por ferrocarril."
+        },
+        "F": {
+          "A": "No, las normas del Acuerdo ATP no se aplican al transporte por cuenta propia.",
+          "B": "No, las normas del Acuerdo ATP no se aplican a los transportes por ferrocarril."
+        },
+        "G": {
+          "A": "No, las normas del Acuerdo ATP solo se aplican al transporte internacional.",
+          "B": "No, las normas del Acuerdo ATP no se aplican a los transportes por ferrocarril."
+        },
+        "H": {
+          "A": "Se aplican a los transportes realizados con vehículos de 10 toneladas de masa máxima autorizada, pero no a los realizados con los de 3,5 toneladas, dado que estos últimos no necesitan autorización de transporte.",
+          "B": "No, las normas del Acuerdo ATP no se aplican a los transportes por ferrocarril."
+        }
+      }
+    },
+    {
+      "cod": "1G09002",
+      "pregunta": "Una empresa marroquí domiciliada en Casablanca, dedicada a la comercialización de diversas variedades de pescado congelado, contrata a un transportista español para que transporte una carga de este producto, desde su almacén hasta Sevilla, en vehículo de temperatura regulada.\nPara el porte se utiliza un vehículo frigorífico de clase E y el tramo marítimo se efectúa mediante embarque rodado del vehículo de carretera completo (cabeza tractora y semirremolque con la carga).\nResponda a las siguientes cuestiones: ¿Se aplican las normas del ATP (Acuerdo sobre transportes internacionales de mercancías perecederas y sobre vehículos especiales utilizados en estos transportes) a este transporte? ¿Qué marca de identificación debe figurar en el vehículo?",
+      "solucion": "F",
+      "norma": "Acuerdo ATP, art. 3; Acuerdo ATP, Anejo I",
+      "opciones": {
+        "A": {
+          "A": "Sí, pero solo a los trayectos efectuados por carretera.",
+          "B": "FNE."
+        },
+        "B": {
+          "A": "Sí, a todo el recorrido, incluido el tramo marítimo.",
+          "B": "FNE."
+        },
+        "C": {
+          "A": "Sí, pero solo al recorrido efectuado en España.",
+          "B": "FNE."
+        },
+        "D": {
+          "A": "No, porque Marruecos no forma parte de la Unión Europea.",
+          "B": "Ninguna."
+        },
+        "E": {
+          "A": "Sí, pero solo a los trayectos efectuados por carretera.",
+          "B": "FRE."
+        },
+        "F": {
+          "A": "Sí, a todo el recorrido, incluido el tramo marítimo.",
+          "B": "FRE."
+        },
+        "G": {
+          "A": "Sí, pero solo al recorrido efectuado en España.",
+          "B": "FRE."
+        },
+        "H": {
+          "A": "No, porque Marruecos no forma parte de la Unión Europea.",
+          "B": "Ninguna."
+        }
+      }
+    },
+    {
+      "cod": "1G09003",
+      "pregunta": "Se contrata a un transportista para que efectúe un transporte de mercancía que debe viajar a temperatura controlada entre Mairena del Alcor y Segovia. El transportista, a la vista del tipo del tipo de producto que debe trasladar, decide utilizar un vehículo frigorífico de clase B cuyo equipo de producción de frío funciona con un compresor alimentado por el motor del propio vehículo.\nResponda a las siguientes cuestiones: ¿Qué marca de identificación debe figurar en el vehículo? ¿En qué zona llevará el vehículo la marca de identificación?",
+      "solucion": "H",
+      "norma": "Acuerdo ATP, Anejo I",
+      "opciones": {
+        "A": {
+          "A": "FNB.",
+          "B": "A ambos lados y en la parte trasera."
+        },
+        "B": {
+          "A": "FNBX.",
+          "B": "A ambos lados y en la parte trasera."
+        },
+        "C": {
+          "A": "FRB.",
+          "B": "A ambos lados y en la parte trasera."
+        },
+        "D": {
+          "A": "FRBX.",
+          "B": "A ambos lados y en la parte trasera."
+        },
+        "E": {
+          "A": "FNB.",
+          "B": "Al menos, a ambos lados."
+        },
+        "F": {
+          "A": "FNBX.",
+          "B": "Al menos, a ambos lados."
+        },
+        "G": {
+          "A": "FRB.",
+          "B": "Al menos, a ambos lados."
+        },
+        "H": {
+          "A": "FRBX.",
+          "B": "Al menos, a ambos lados."
+        }
+      }
+    },
+    {
+      "cod": "1G09004",
+      "pregunta": "En un control de carretera la Inspección del Transporte revisa un vehículo de temperatura regulada que transporta productos congelados. El inspector solicita al conductor que le muestre el certificado de conformidad del vehículo (certificado ATP) y este último no puede atender dicho requerimiento, pues no encuentra el certificado entre la documentación que lleva a bordo.\nNo obstante, el inspector puede comprobar que el vehículo dispone de placa de certificación de conformidad (placa ATP), constatando, asimismo, que en dicha placa figura como fecha límite de validez 11-2023.\nEn el permiso de circulación del vehículo se constata que tiene como fecha de primera matriculación noviembre de 2014.\nResponda a las siguientes cuestiones: ¿Cómo debe proceder el inspector ante la no exhibición del certificado de conformidad por parte del conductor? ¿En qué fecha debió pasar este vehículo su última inspección por lo que se refiere al control de conformidad con las normas de unidades de transporte de mercancías perecederas?",
+      "solucion": "E",
+      "norma": "Acuerdo ATP, Anejo I; RD 237/2000, Anejo 1",
+      "opciones": {
+        "A": {
+          "A": "El inspector debe aceptar la placa ATP como certificado de conformidad.",
+          "B": "En febrero de 2020."
+        },
+        "B": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original del certificado de conformidad.",
+          "B": "En noviembre de 2017."
+        },
+        "C": {
+          "A": "El inspector debe aceptar la placa ATP como certificado de conformidad.",
+          "B": "En noviembre de 2017."
+        },
+        "D": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original del certificado de conformidad.",
+          "B": "En noviembre de 2020."
+        },
+        "E": {
+          "A": "El inspector debe aceptar la placa ATP como certificado de conformidad.",
+          "B": "En noviembre de 2020."
+        },
+        "F": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original del certificado de conformidad.",
+          "B": "En febrero de 2020."
+        },
+        "G": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original o una fotocopia compulsada del certificado de conformidad.",
+          "B": "En noviembre de 2017."
+        },
+        "H": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original o una fotocopia compulsada del certificado de conformidad.",
+          "B": "En noviembre de 2020."
+        }
+      }
+    },
+    {
+      "cod": "1G09005",
+      "pregunta": "En un control de carretera, la Inspección del Transporte revisa un vehículo de temperatura regulada que transporta carne de pollo fresca. El inspector solicita al conductor el certificado de conformidad del vehículo y este únicamente le muestra una fotocopia sin compulsar de dicho certificado.\nPor otra parte, el inspector comprueba que el vehículo dispone de placa de certificación de conformidad con fecha de validez no vencida y que la caja cuenta con placa de identificación.\nResponda a las siguientes cuestiones: ¿Cómo debe proceder el inspector ante la exhibición de una fotocopia sin compulsar del certificado de conformidad por parte del conductor? ¿Qué indicación figurará en la placa de identificación?",
+      "solucion": "B",
+      "norma": "Acuerdo ATP, Anejo I",
+      "opciones": {
+        "A": {
+          "A": "El inspector debe aceptar la fotocopia del certificado de conformidad como documento suficiente.",
+          "B": "Mes y año de fabricación."
+        },
+        "B": {
+          "A": "Si bien la fotocopia sin compulsar del certificado de conformidad no es válida, el inspector debe aceptar la placa ATP como certificado de conformidad.",
+          "B": "Mes y año de fabricación."
+        },
+        "C": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original del certificado de conformidad.",
+          "B": "Mes y año de fabricación."
+        },
+        "D": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original o una fotocopia compulsada del certificado de conformidad.",
+          "B": "Mes y año de fabricación."
+        },
+        "E": {
+          "A": "El inspector debe aceptar la fotocopia del certificado de conformidad como documento suficiente.",
+          "B": "Mes y año límite de validez de la última revisión."
+        },
+        "F": {
+          "A": "Si bien la fotocopia sin compulsar del certificado de conformidad no es válida, el inspector debe aceptar la placa ATP como certificado de conformidad.",
+          "B": "Mes y año límite de validez de la última revisión."
+        },
+        "G": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original del certificado de conformidad.",
+          "B": "Mes y año límite de validez de la última revisión."
+        },
+        "H": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original o una fotocopia compulsada del certificado de conformidad.",
+          "B": "Mes y año límite de validez de la última revisión."
+        }
+      }
+    },
+    {
+      "cod": "1G09006",
+      "pregunta": "El propietario de una granja de vacas lecheras se encuentra efectuando un transporte de leche cruda obtenida en su instalación, con destino a una planta de tratamiento situada en las proximidades, con un vehículo de su propiedad que reúne los requisitos técnicos exigidos por el ATP (Acuerdo sobre transportes internacionales de mercancías perecederas y sobre vehículos especiales utilizados en estos transportes) para el transporte de mercancías perecederas, del tipo frigorífico normal clase A.\nDurante la realización de este transporte es parado por agentes de la Inspección del Transporte en el curso de una operación de control de vehículos en carretera, quienes comprueban que el vehículo no lleva operativos los equipos de producción de frío para conseguir la temperatura que exige el producto transportado, que es de, como máximo, 6 grados centígrados.\nLa temperatura exterior es de -2 grados centígrados en ese momento y, de acuerdo con los partes meteorológicos, no ha subido en ningún momento del día de 0 grados centígrados, ni hay previsión de que lo haga.\nResponda a las siguientes cuestiones: ¿Debe cumplir este transporte las normas del ATP? ¿Debe ser objeto de sanción el hecho de no llevar operativos los sistemas de producción de frío? ¿Qué marca de identificación llevará el vehículo?",
+      "solucion": "G",
+      "norma": "RD 1202/2005, art. 1; Acuerdo ATP, art. 3; Acuerdo ATP, art. 4; Acuerdo ATP, Anejo I",
+      "opciones": {
+        "A": {
+          "A": "No, pues las normas del Acuerdo ATP solo se aplican al transporte internacional.",
+          "B": "Sí.",
+          "C": "RNA."
+        },
+        "B": {
+          "A": "No, pues las normas del Acuerdo ATP no se aplican al transporte por cuenta propia.",
+          "B": "Sí.",
+          "C": "FNA."
+        },
+        "C": {
+          "A": "No, pues las normas del Acuerdo ATP solo se aplican al transporte internacional.",
+          "B": "No, pues no resulta necesario para asegurar que el transporte se realiza a la temperatura correcta.",
+          "C": "RNA."
+        },
+        "D": {
+          "A": "No, pues las normas del Acuerdo ATP no se aplican al transporte por cuenta propia.",
+          "B": "Sí.",
+          "C": "RNA."
+        },
+        "E": {
+          "A": "No, pues las normas del Acuerdo ATP solo se aplican al transporte internacional.",
+          "B": "No, pues no resulta necesario para asegurar que el transporte se realiza a la temperatura correcta.",
+          "C": "FNA."
+        },
+        "F": {
+          "A": "No, pues las normas del Acuerdo ATP no se aplican al transporte por cuenta propia.",
+          "B": "No, pues no resulta necesario para asegurar que el transporte se realiza a la temperatura exigida por el ATP.",
+          "C": "FNA."
+        },
+        "G": {
+          "A": "Sí, pues las normas del Acuerdo ATP se aplican al transporte interior, tanto al realizado por cuenta ajena como por cuenta propia.",
+          "B": "No, pues no resulta necesario para asegurar que el transporte se realiza a la temperatura exigida por el ATP.",
+          "C": "FNA."
+        },
+        "H": {
+          "A": "Sí, pues las normas del Acuerdo ATP se aplican al transporte interior, tanto al realizado por cuenta ajena como por cuenta propia.",
+          "B": "Sí.",
+          "C": "RNA."
+        }
+      }
+    },
+    {
+      "cod": "1G10001",
+      "pregunta": "Un ganadero dedicado a la cría y engorde de terneros dispone en propiedad de un camión jaula, de 5 toneladas de masa máxima autorizada, que dedica al traslado de sus propios animales.\nA fin de trasladar una partida de terneros desde su explotación al lugar de sacrificio, que se encuentra a 170 kilómetros, organiza el viaje con ese vehículo, recopilando la documentación veterinaria correspondiente. La duración estimada para este viaje es de dos horas y quince minutos.\nResponda a las siguientes cuestiones: ¿Está sujeto este transporte a la normativa comunitaria sobre transporte de animales vivos? En caso de estar sujeto, ¿tendría este desplazamiento el carácter de viaje largo?",
+      "solucion": "C",
+      "norma": "Reglamento Comunitario (CE) 1/2005, art. 1; Reglamento Comunitario (CE) 1/2005, art. 2",
+      "opciones": {
+        "A": {
+          "A": "Solo parcialmente, porque lo lleva a cabo un ganadero con su propio medio de transporte.",
+          "B": "No, porque no supera las ocho horas de duración."
+        },
+        "B": {
+          "A": "Sí, ya que se realiza sobre una distancia igual o superior a 100 kilómetros.",
+          "B": "No, porque no supera las ocho horas de duración."
+        },
+        "C": {
+          "A": "Sí, ya que se realiza sobre una distancia igual o superior a 50 kilómetros.",
+          "B": "No, porque no supera las ocho horas de duración."
+        },
+        "D": {
+          "A": "No, porque se realiza con un vehículo que no supera las cinco toneladas de masa máxima autorizada.",
+          "B": "No, porque no supera las ocho horas de duración."
+        },
+        "E": {
+          "A": "Solo parcialmente, porque lo lleva a cabo un ganadero con su propio medio de transporte.",
+          "B": "No, porque no supera las cuatro horas de duración."
+        },
+        "F": {
+          "A": "Sí, ya que se realiza sobre una distancia igual o superior a 100 kilómetros.",
+          "B": "No, porque no supera las cuatro horas de duración."
+        },
+        "G": {
+          "A": "Sí, ya que se realiza sobre una distancia igual o superior a 50 kilómetros.",
+          "B": "No, porque no supera las cuatro horas de duración."
+        },
+        "H": {
+          "A": "No, porque se realiza con un vehículo que no supera las cinco toneladas de masa máxima autorizada.",
+          "B": "No, porque no supera las cuatro horas de duración."
+        }
+      }
+    },
+    {
+      "cod": "1G10002",
+      "pregunta": "Un ganadero de Torrelavega, que es propietario de un semental de fama internacional, acuerda con un ganadero francés, cuya explotación se ubica en Nantes, la cesión temporal del semental.\nPara efectuar el traslado, utilizará un vehículo de su propiedad de 3,5 toneladas de masa máxima autorizada. El viaje lo organiza con una parada intermedia en Burdeos, a fin de asegurar el bienestar del animal y reducir su estrés. A tal efecto, será descargado del vehículo en este punto y albergado durante cuarenta y ocho horas en un establo donde recibirá alimentación y podrá descansar.\nResponda a las siguientes cuestiones: ¿Está sujeto este transporte a la normativa comunitaria sobre transporte de animales vivos? En caso de estar sujeto, ¿qué consideración recibiría la estancia en Burdeos?",
+      "solucion": "D",
+      "norma": "Reglamento Comunitario (CE) 1/2005, art. 1; Reglamento Comunitario (CE) 1/2005, art. 2",
+      "opciones": {
+        "A": {
+          "A": "No, porque se realiza con un vehículo que no supera las 3,5 toneladas de masa máxima autorizada y que, por tanto, no requiere autorización de transporte.",
+          "B": "Lugar de destino."
+        },
+        "B": {
+          "A": "Solo parcialmente, porque lo lleva a cabo un ganadero con su propio medio de transporte.",
+          "B": "Lugar de destino."
+        },
+        "C": {
+          "A": "Sí, ya que se trata de un transporte internacional.",
+          "B": "Lugar de destino."
+        },
+        "D": {
+          "A": "Sí, ya que se realiza sobre una distancia igual o superior a 50 kilómetros.",
+          "B": "Lugar de destino."
+        },
+        "E": {
+          "A": "No, porque se realiza con un vehículo que no supera las 3,5 toneladas de masa máxima autorizada y que, por tanto, no requiere autorización de transporte.",
+          "B": "Lugar de descanso."
+        },
+        "F": {
+          "A": "Solo parcialmente, porque lo lleva a cabo un ganadero con su propio medio de transporte.",
+          "B": "Lugar de descanso."
+        },
+        "G": {
+          "A": "Sí, ya que se trata de un transporte internacional.",
+          "B": "Lugar de descanso."
+        },
+        "H": {
+          "A": "Sí, ya que se realiza sobre una distancia igual o superior a 50 kilómetros.",
+          "B": "Lugar de descanso."
+        }
+      }
+    },
+    {
+      "cod": "1G10003",
+      "pregunta": "Un ganadero que ha comprado veinte cerdas de cría necesita efectuar el traslado de las mismas hasta su explotación, situada a 145 kilómetros. Para ello, contrata los servicios de un transportista especializado en el transporte de animales vivos.\nEntre los animales adquiridos se incluyen dos que han parido hace cinco y seis días respectivamente, por lo que el transportista pone reparos a su transporte, considerando que pueden no estar recuperadas para efectuar el viaje. No obstante, el ganadero insiste en cargarlas, argumentando que es un viaje de corta duración, si bien pide al transportista que las coloque en un compartimento separado del resto.\nDurante la operación de carga se aplica a algunos animales descargas eléctricas, dado que rehúsan moverse y están retrasando la partida del vehículo.\nResponda a las siguientes cuestiones: ¿Es correcto el transporte de las dos cerdas recién paridas? ¿Está permitida en este caso la aplicación de descargas eléctricas?",
+      "solucion": "A",
+      "norma": "Reglamento Comunitario (CE) 1/2005, Anexo I; Reglamento Comunitario (CE) 1/2005, art. 1",
+      "opciones": {
+        "A": {
+          "A": "No, las hembras que hayan parido en la semana anterior no se consideran aptas para el transporte.",
+          "B": "Sí, se permite aplicar descargas a animales adultos de las especies bovina y porcina que rehúsen moverse."
+        },
+        "B": {
+          "A": "No, las hembras que hayan parido en los últimos quince días no se consideran aptas para el transporte.",
+          "B": "Sí, se permite aplicar descargas a animales adultos de las especies bovina y porcina que rehúsen moverse."
+        },
+        "C": {
+          "A": "Sí, dado que se ubican en un compartimento separado.",
+          "B": "Sí, se permite aplicar descargas a animales adultos de las especies bovina y porcina que rehúsen moverse."
+        },
+        "D": {
+          "A": "Sí, dado que el recorrido no supera 150 kilómetros y se ubican en un compartimento separado.",
+          "B": "Sí, se permite aplicar descargas a animales adultos de las especies bovina y porcina que rehúsen moverse."
+        },
+        "E": {
+          "A": "No, las hembras que hayan parido en la semana anterior no se consideran aptas para el transporte.",
+          "B": "No, las descargas eléctricas están prohibidas en todos los supuestos."
+        },
+        "F": {
+          "A": "No, las hembras que hayan parido en los últimos quince días no se consideran aptas para el transporte.",
+          "B": "No, las descargas eléctricas están prohibidas en todos los supuestos."
+        },
+        "G": {
+          "A": "Sí, dado que se ubican en un compartimento separado.",
+          "B": "No, las descargas eléctricas están prohibidas en todos los supuestos."
+        },
+        "H": {
+          "A": "Sí, dado que el recorrido no supera 150 kilómetros y se ubican en un compartimento separado.",
+          "B": "No, las descargas eléctricas están prohibidas en todos los supuestos."
+        }
+      }
+    },
+    {
+      "cod": "1G10004",
+      "pregunta": "Un ganadero compra en una feria una partida de animales adultos de la especie ovina, tanto hembras como machos, y contrata los servicios de un transportista especializado en el transporte de animales vivos para efectuar el traslado de los mismos hasta su explotación, situada a 95 kilómetros.\nEl transportista pone reparos al transporte mezclado de machos y hembras. No obstante, por falta de espacio y para evitar tener que realizar dos viajes, el ganadero insiste en cargarlos juntos, argumentando que es un viaje de corta duración.\nDurante la operación de carga se utilizan instrumentos de pincho para conseguir que los animales se muevan con más rapidez, reduciendo el tiempo empleado, aunque ningún animal se resiste a moverse.\nResponda a las siguientes cuestiones: ¿Es correcto el transporte de todos los animales mezclados? ¿Está permitido en este caso el uso de pinchos?",
+      "solucion": "F",
+      "norma": "Reglamento Comunitario (CE) 1/2005, Anexo I; Reglamento Comunitario (CE) 1/2005, art. 1",
+      "opciones": {
+        "A": {
+          "A": "Sí, se puede hacer en el caso de animales de la especie ovina.",
+          "B": "No, su uso está prohibido, salvo para las especies bobina y porcina."
+        },
+        "B": {
+          "A": "Sí, se puede hacer en el caso de animales de la especie ovina.",
+          "B": "No, su uso está prohibido salvo con animales que rehúsen moverse, circunstancia que no se da en este caso."
+        },
+        "C": {
+          "A": "Sí, se puede hacer en el caso de animales de la especie ovina y para recorridos inferiores a 100 kilómetros.",
+          "B": "No, su uso está prohibido en todos los casos."
+        },
+        "D": {
+          "A": "Sí, se puede hacer en el caso de animales de la especie ovina y para recorridos inferiores a 100 kilómetros.",
+          "B": "No, su uso está prohibido, salvo para las especies bobina y porcina."
+        },
+        "E": {
+          "A": "Sí, se puede hacer en el caso de animales de la especie ovina y para recorridos inferiores a 100 kilómetros.",
+          "B": "No, su uso está prohibido, salvo con animales que rehúsen moverse, circunstancia que no se da en este caso."
+        },
+        "F": {
+          "A": "No, en el caso de animales adultos, machos y hembras deben transportarse de modo separado.",
+          "B": "No, su uso está prohibido en todos los casos."
+        },
+        "G": {
+          "A": "No, en el caso de animales adultos, machos y hembras deben transportarse de modo separado.",
+          "B": "No, su uso está prohibido, salvo para las especies bobina y porcina."
+        },
+        "H": {
+          "A": "No, en el caso de animales adultos, machos y hembras deben transportarse de modo separado.",
+          "B": "No, su uso está prohibido, salvo con animales que rehúsen moverse, circunstancia que no se da en este caso."
+        }
+      }
+    },
+    {
+      "cod": "1G10005",
+      "pregunta": "El responsable de una instalación de cría de caballos vende tres ejemplares, asumiendo la organización del transporte de los animales. A tal efecto, contrata a un transportista que cuenta con autorización de tipo 2 y vehículos debidamente acondicionados.\nSegún se determina en la preparación, el viaje, que no es de carácter internacional, tendrá una duración de diez horas.\nResponda a las siguientes cuestiones: ¿Es válida la autorización del transportista para realizar este servicio? ¿Debe contar el vehículo que se va a utilizar con alguna autorización específica?",
+      "solucion": "G",
+      "norma": "RD 990/2022, art. 5; RD 990/2022, art. 6",
+      "opciones": {
+        "A": {
+          "A": "No, se necesita autorización de tipo 1.",
+          "B": "No, la autorización del transportista implica también la autorización de sus vehículos."
+        },
+        "B": {
+          "A": "No, se necesita autorización de tipo 1.",
+          "B": "Sí, autorización para viajes de hasta doce horas de duración o autorización para viajes de más de ocho horas."
+        },
+        "C": {
+          "A": "No, se necesita autorización de tipo 3.",
+          "B": "No, la autorización del transportista implica también la autorización de sus vehículos."
+        },
+        "D": {
+          "A": "No, se necesita autorización de tipo 3.",
+          "B": "Sí, autorización para viajes de hasta doce horas de duración o autorización para viajes de más de ocho horas."
+        },
+        "E": {
+          "A": "No, se necesita autorización de tipo 3.",
+          "B": "Sí, autorización para viajes de más de ocho horas; no se expide ningún tipo de autorización que sea para viajes de hasta doce horas."
+        },
+        "F": {
+          "A": "Sí, es la autorización necesaria para viajes de más de ocho horas de duración.",
+          "B": "No, la autorización del transportista implica también la autorización de sus vehículos."
+        },
+        "G": {
+          "A": "Sí, es la autorización necesaria para viajes de más de ocho horas de duración.",
+          "B": "Sí, autorización para viajes de hasta doce horas de duración o autorización para viajes de más de ocho horas."
+        },
+        "H": {
+          "A": "Sí, es la autorización necesaria para viajes de más de ocho horas de duración.",
+          "B": "Sí, autorización para viajes de más de ocho horas; no se expide ningún tipo de autorización que sea para viajes de hasta doce horas."
+        }
+      }
+    },
+    {
+      "cod": "1G10006",
+      "pregunta": "El titular de una granja situada en Calatayud, dedicada a la producción de leche de vaca, compra en Francia cinco vacas, siendo de su cuenta la organización del transporte de los animales a España. A tal efecto, contrata a un transportista que cuenta con vehículos, debidamente acondicionados y autorizados, y con autorización como transportista de tipo 2, expedida hace dos años y medio.\nSegún se determina en la preparación, el viaje tendrá una duración de once horas.\nResponda a las siguientes cuestiones: ¿Es válida la autorización del transportista para realizar este servicio? ¿Debe preparar el organizador cuaderno de a bordo para este transporte?",
+      "solucion": "E",
+      "norma": "Reglamento Comunitario (CE) 1/2005, art. 5; RD 990/2022, art. 5; RD 990/2022, art. 8",
+      "opciones": {
+        "A": {
+          "A": "No, pues la autorización no se encuentra en vigor, ya que ha sido expedida hace más de dos años.",
+          "B": "Sí, dado que se trata de un transporte internacional."
+        },
+        "B": {
+          "A": "No, pues la autorización no se encuentra en vigor, ya que ha sido expedida hace más de dos años.",
+          "B": "Sí, dado que se trata de un transporte con duración superior a ocho horas."
+        },
+        "C": {
+          "A": "No, pues la autorización no se encuentra en vigor, ya que ha sido expedida hace más de dos años.",
+          "B": "No, dado que se trata de un transporte con duración inferior a doce horas."
+        },
+        "D": {
+          "A": "No, pues la autorización no se encuentra en vigor, ya que ha sido expedida hace más de dos años.",
+          "B": "No, dado que, aunque se trata de un transporte internacional, se efectúa entre Estados miembros de la Unión Europea."
+        },
+        "E": {
+          "A": "Sí, es la autorización necesaria para viajes de más de ocho horas de duración y se encuentra en vigor, pues ha sido expedida hace menos de cinco años.",
+          "B": "Sí, dado que se trata de un transporte internacional."
+        },
+        "F": {
+          "A": "Sí, es la autorización necesaria para viajes de más de ocho horas de duración y se encuentra en vigor, pues ha sido expedida hace menos de cinco años.",
+          "B": "Sí, dado que se trata de un transporte con duración superior a ocho horas."
+        },
+        "G": {
+          "A": "Sí, es la autorización necesaria para viajes de más de ocho horas de duración y se encuentra en vigor, pues ha sido expedida hace menos de cinco años.",
+          "B": "No, dado que se trata de un transporte con duración inferior a doce horas."
+        },
+        "H": {
+          "A": "Sí, es la autorización necesaria para viajes de más de ocho horas de duración y se encuentra en vigor, pues ha sido expedida hace menos de cinco años.",
+          "B": "No, dado que, aunque se trata de un transporte internacional, se efectúa entre Estados miembros de la Unión Europea."
+        }
+      }
+    },
+    {
+      "cod": "1G10007",
+      "pregunta": "Un transportista especializado en el transporte de animales vivos es contratado para llevar a cabo el transporte de un centenar de cerdas de cría desde Villarreal hasta Oporto (Portugal).\nPara asegurar su mejor realización, lo asigna a un conductor con formación en la materia y que cuenta con certificado de competencia en el manejo de animales. No obstante, al llegar el vehículo a la granja para recoger a los animales, el ganadero rechaza efectuar su carga tras saber que el vehículo no cuenta con un sistema de navegación por satélite.\nEl vehículo puesto a disposición por el transportista fue matriculado en diciembre de 2006.\nSegún prevé el organizador de este transporte, el viaje tendrá una duración de catorce horas.\nResponda a las siguientes cuestiones: ¿Es necesario que el conductor de este transporte disponga de certificado de competencia? ¿Está justificada la negativa del ganadero a permitir el transporte en ese vehículo?",
+      "solucion": "B",
+      "norma": "Reglamento Comunitario (CE) 1/2005, art. 6; RD 990/2022, art. 9",
+      "opciones": {
+        "A": {
+          "A": "Sí, es necesario para el transporte de animales vivos de cualquier especie.",
+          "B": "Sí, porque se trata de un transporte con duración superior a doce horas."
+        },
+        "B": {
+          "A": "Sí, es necesario para el transporte de animales de la especie porcina, entre otras.",
+          "B": "Sí, porque se trata de un transporte con duración superior a doce horas."
+        },
+        "C": {
+          "A": "Sí, es necesario por tratarse de un viaje internacional.",
+          "B": "Sí, porque se trata de un transporte con duración superior a doce horas."
+        },
+        "D": {
+          "A": "No, solo es necesario para el transporte de animales de las especies equina y bobina.",
+          "B": "Sí, porque se trata de un transporte con duración superior a doce horas."
+        },
+        "E": {
+          "A": "Sí, es necesario para el transporte de animales vivos de cualquier especie.",
+          "B": "No, porque, aunque se trata de un transporte con duración superior a doce horas, el vehículo queda exento de contar con este dispositivo al haber sido matriculado antes de 2007."
+        },
+        "F": {
+          "A": "Sí, es necesario para el transporte de animales de la especie porcina, entre otras.",
+          "B": "No, porque, aunque se trata de un transporte con duración superior a doce horas, el vehículo queda exento de contar con este dispositivo al haber sido matriculado antes de 2007."
+        },
+        "G": {
+          "A": "Sí, es necesario por tratarse de un viaje internacional.",
+          "B": "No, porque, aunque se trata de un transporte con duración superior a doce horas, el vehículo queda exento de contar con este dispositivo al haber sido matriculado antes de 2007."
+        },
+        "H": {
+          "A": "No, solo es necesario para el transporte de animales de las especies equina y bobina.",
+          "B": "No, porque, aunque se trata de un transporte con duración superior a doce horas, el vehículo queda exento de contar con este dispositivo al haber sido matriculado antes de 2007."
+        }
+      }
+    }
+  ]
+}
