@@ -1,12 +1,13 @@
 const CACHE_NAME = 'quiz-cache-v1';
 const urlsToCache = [
-    '/',
-    '/index.html',
-    '/script.js',
-    '/style.css',
-    '/manifest.json',
-    '/No_Traducido/index.json',
-    '/No_Traducido_casos/index.json'
+    './',
+    './index.html',
+    './script.js',
+    './style.css',
+    './manifest.json',
+    './icon.png',
+    './No_Traducido/index.json',
+    './No_Traducido_casos/index.json'
 ];
 
 // Instalación del Service Worker
