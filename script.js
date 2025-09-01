@@ -126,7 +126,7 @@ function loadTopics() {
     examenes.forEach(t => {
         const progreso = JSON.parse(localStorage.getItem(`progreso_${t.tema}`)) || {currentIndex:0, score:0, respuestas:{}};
         const button = document.createElement('button');
-        button.textContent = `${t.tema} (${progreso.currentIndex} de ${t.preguntas.length})`;
+        button.textContent = `${t.tema} (${progreso.currentIndex + 1} de ${t.preguntas.length})`;
         button.classList.add('option-button');
         button.onclick = () => startQuizArchivo(t);
         topicButtonsContainer.appendChild(button);
@@ -141,7 +141,7 @@ function loadTopics() {
     casos.forEach(t => {
         const progreso = JSON.parse(localStorage.getItem(`progreso_${t.tema}`)) || {currentIndex:0, score:0, respuestas:{}};
         const button = document.createElement('button');
-        button.textContent = `${t.tema} (${progreso.currentIndex} de ${t.preguntas.length})`;
+        button.textContent = `${t.tema} (${progreso.currentIndex + 1} de ${t.preguntas.length})`;
         button.classList.add('option-button');
         button.onclick = () => startQuizArchivo(t);
         topicButtonsContainer.appendChild(button);
@@ -154,8 +154,8 @@ function startQuizArchivo(temaObj) {
     currentQuestions = temaObj.preguntas;
 
     let progreso = JSON.parse(localStorage.getItem(`progreso_${currentTema}`)) || {currentIndex:0, score:0, respuestas:{}};
-    currentQuestionIndex = progreso.currentIndex;
-    score = progreso.score;
+    currentQuestionIndex = progreso.currentIndex || 0;
+    score = progreso.score || 0;
 
     topicsContainer.classList.add('hidden');
     quizContainer.classList.remove('hidden');
@@ -163,9 +163,13 @@ function startQuizArchivo(temaObj) {
 
     showQuestion();
     updateProgressText();
+
+    // Guardar índice al entrar
+    progreso.currentIndex = currentQuestionIndex;
+    localStorage.setItem(`progreso_${currentTema}`, JSON.stringify(progreso));
 }
 
-// Mostrar pregunta
+// Mostrar pregunta (siempre marcada la correcta)
 function showQuestion() {
     optionsContainer.innerHTML = '';
     feedback.textContent = '';
@@ -173,46 +177,17 @@ function showQuestion() {
     const question = currentQuestions[currentQuestionIndex];
     questionText.textContent = question.pregunta;
 
-    const isCaso = Object.values(question.opciones).some(opt => typeof opt === 'object');
-    const progreso = JSON.parse(localStorage.getItem(`progreso_${currentTema}`)) || {respuestas:{}};
-    const respuestaGuardada = progreso.respuestas[currentQuestionIndex];
-
     for (const option in question.opciones) {
         const button = document.createElement('div');
         button.classList.add('option-button');
         button.style.marginBottom = '8px';
+        button.textContent = `${option}: ${question.opciones[option]}`;
 
-        if (isCaso) {
-            const title = document.createElement('strong');
-            title.textContent = option;
-            button.appendChild(title);
-
-            const subList = document.createElement('ul');
-            for (const subKey in question.opciones[option]) {
-                const subItem = document.createElement('li');
-                subItem.textContent = `${subKey}: ${question.opciones[option][subKey]}`;
-                subItem.style.cursor = 'pointer';
-                subItem.onclick = () => checkAnswer(option, question.solucion, button);
-                subList.appendChild(subItem);
-            }
-            button.appendChild(subList);
-
-            // Si ya se respondió, deshabilitar y marcar
-            if (respuestaGuardada) {
-                button.querySelectorAll('li').forEach(li => li.style.pointerEvents = 'none');
-                if (respuestaGuardada === question.solucion) button.classList.add('correct');
-                else if (respuestaGuardada === option) button.classList.add('incorrect');
-            }
+        // Marcar la correcta en verde automáticamente
+        if (option === question.solucion) {
+            button.classList.add('correct');
         } else {
-            button.textContent = `${option}: ${question.opciones[option]}`;
-            button.onclick = () => checkAnswer(option, question.solucion, button);
-
-            // Si ya se respondió
-            if (respuestaGuardada) {
-                button.disabled = true;
-                if (respuestaGuardada === question.solucion) button.classList.add('correct');
-                else if (respuestaGuardada === option) button.classList.add('incorrect');
-            }
+            button.classList.add('disabled-option'); // gris para no seleccionables
         }
 
         optionsContainer.appendChild(button);
@@ -221,34 +196,12 @@ function showQuestion() {
     prevButton.classList.toggle('hidden', currentQuestionIndex === 0);
     nextButton.classList.remove('hidden');
     updateProgressText();
-}
 
-// Comprobar respuesta
-function checkAnswer(selectedOption, correctAnswer, buttonElement) {
-    // Deshabilitar todos los botones
-    Array.from(optionsContainer.children).forEach(btn => btn.querySelectorAll ? btn.querySelectorAll('li').forEach(li => li.style.pointerEvents = 'none') : btn.disabled = true);
-
-    // Guardar respuesta
-    let progreso = JSON.parse(localStorage.getItem(`progreso_${currentTema}`)) || {currentIndex: 0, score: 0, respuestas: {}};
-    progreso.respuestas[currentQuestionIndex] = selectedOption;
-
-    // Comprobar
-    if (selectedOption === correctAnswer) {
-        score++;
-        feedback.textContent = translations[currentLanguage].correctFeedback;
-        buttonElement.classList.add('correct');
-    } else {
-        feedback.textContent = translations[currentLanguage].incorrectFeedback + correctAnswer + " ❌";
-        buttonElement.classList.add('incorrect');
-        const correctButton = Array.from(optionsContainer.children).find(btn => btn.firstChild && btn.firstChild.textContent === correctAnswer);
-        if (correctButton) correctButton.classList.add('correct');
-    }
-
+    // Guardar progreso actual
+    let progreso = JSON.parse(localStorage.getItem(`progreso_${currentTema}`)) || {respuestas:{}};
     progreso.currentIndex = currentQuestionIndex;
     progreso.score = score;
-
     localStorage.setItem(`progreso_${currentTema}`, JSON.stringify(progreso));
-    updateProgressText();
 }
 
 // Botones siguiente/anterior
@@ -270,7 +223,7 @@ prevButton.addEventListener('click', () => {
 // Actualizar progreso
 function updateProgressText() {
     if (!currentQuestions.length) return;
-    progressText.textContent = translations[currentLanguage].progressText(currentQuestionIndex, currentQuestions.length);
+    progressText.textContent = translations[currentLanguage].progressText(currentQuestionIndex + 1, currentQuestions.length);
 }
 
 // Mostrar resultados
