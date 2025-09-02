@@ -83,3 +83,40 @@ button.hidden {
 .hidden {
     display: none;
 }
+
+/* Contenedor del tema */
+.tema-container {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+}
+
+/* Recuadro de navegación */
+.nav-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 10px;
+    padding: 10px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    justify-content: center;
+}
+
+/* Botones numerados */
+.num-button {
+    width: 32px;
+    height: 32px;
+    border: none;
+    border-radius: 50%;
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.num-button:hover {
+    background-color: #0056b3;
+}

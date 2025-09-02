@@ -2,47 +2,52 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Test de Conocimientos</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="manifest" href="manifest.json">
 </head>
 <body>
     <div class="container">
-        <!-- Selección de idioma -->
-        <div class="language-selector">
-            <button onclick="setLanguage('es')">Español</button>
-            <button onclick="setLanguage('zh')">中文 (Chino)</button>
-        </div>
 
+        <!-- Título principal -->
         <h1 id="main-title">Test de Conocimientos</h1>
 
-        <!-- Temas -->
-        <div id="topics-container">
-            <h2 id="topics-title">Selecciona un tema para empezar:</h2>
-            <div id="topic-buttons-container" class="options-container"></div>
+        <!-- Selector de idioma -->
+        <div style="margin-bottom: 20px;">
+            <button onclick="setLanguage('es')">🇪🇸 Español</button>
+            <button onclick="setLanguage('zh')">🇨🇳 中文</button>
         </div>
 
-        <!-- Quiz -->
+        <!-- Pantalla de selección de temas -->
+        <div id="topics-container">
+            <h2 id="select-topic">Selecciona un tema para empezar:</h2>
+            <div id="topic-buttons-container"></div>
+        </div>
+
+        <!-- Pantalla del quiz -->
         <div id="quiz-container" class="hidden">
-            <p id="progress-text"></p>
             <h2 id="question-text"></h2>
             <div id="options-container" class="options-container"></div>
             <p id="feedback"></p>
+
             <button id="prev-button" class="hidden">Pregunta Anterior</button>
-            <button id="next-button" class="hidden">Siguiente Pregunta</button>
+            <button id="next-button">Siguiente Pregunta</button>
+            <p id="progress-text"></p>
+
             <button id="home-button-quiz">Volver al Inicio</button>
         </div>
 
-        <!-- Resultados -->
+        <!-- Pantalla de resultados -->
         <div id="results-container" class="hidden">
             <h2 id="results-title">Resultados</h2>
             <p id="score-text"></p>
+
             <button id="restart-button">Volver a Empezar</button>
             <button id="home-button-results">Volver al Inicio</button>
         </div>
+
     </div>
 
+    <!-- Script principal -->
     <script src="script.js"></script>
 </body>
 </html>

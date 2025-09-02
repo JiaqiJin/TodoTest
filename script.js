@@ -14,7 +14,8 @@ const translations = {
         homeButtonQuiz: "Volver al Inicio",
         homeButtonResults: "Volver al Inicio",
         examTitle: "Exámenes",
-        casoTitle: "Casos"
+        casoTitle: "Casos",
+        jumpLabel: "Ir a pregunta:"
     },
     zh: {
         title: "知识测试",
@@ -30,7 +31,8 @@ const translations = {
         homeButtonQuiz: "返回主页",
         homeButtonResults: "返回主页",
         examTitle: "考试",
-        casoTitle: "案例"
+        casoTitle: "案例",
+        jumpLabel: "跳到题目:"
     }
 };
 
@@ -60,6 +62,12 @@ const scoreText = document.getElementById('score-text');
 const restartButton = document.getElementById('restart-button');
 const homeButtonQuiz = document.getElementById('home-button-quiz');
 const homeButtonResults = document.getElementById('home-button-results');
+
+// Nuevo contenedor para enumeraciones
+let jumpContainer = document.createElement("div");
+jumpContainer.id = "jump-container";
+jumpContainer.style.marginTop = "15px";
+quizContainer.appendChild(jumpContainer);
 
 // Cambiar idioma
 function setLanguage(lang) {
@@ -169,7 +177,7 @@ function startQuizArchivo(temaObj) {
     localStorage.setItem(`progreso_${currentTema}`, JSON.stringify(progreso));
 }
 
-// Mostrar pregunta (siempre marcada la correcta)
+// Mostrar pregunta con enumeraciones
 function showQuestion() {
     optionsContainer.innerHTML = '';
     feedback.textContent = '';
@@ -182,14 +190,8 @@ function showQuestion() {
         button.classList.add('option-button');
         button.style.marginBottom = '8px';
         button.textContent = `${option}: ${question.opciones[option]}`;
-
-        // Marcar la correcta en verde automáticamente
-        if (option === question.solucion) {
-            button.classList.add('correct');
-        } else {
-            button.classList.add('disabled-option'); // gris para no seleccionables
-        }
-
+        if (option === question.solucion) button.classList.add('correct');
+        else button.classList.add('disabled-option');
         optionsContainer.appendChild(button);
     }
 
@@ -197,11 +199,32 @@ function showQuestion() {
     nextButton.classList.remove('hidden');
     updateProgressText();
 
+    // Actualizar enumeraciones
+    renderJumpButtons();
+
     // Guardar progreso actual
     let progreso = JSON.parse(localStorage.getItem(`progreso_${currentTema}`)) || {respuestas:{}};
     progreso.currentIndex = currentQuestionIndex;
     progreso.score = score;
     localStorage.setItem(`progreso_${currentTema}`, JSON.stringify(progreso));
+}
+
+// Crear botones enumerados para saltar a preguntas
+function renderJumpButtons() {
+    jumpContainer.innerHTML = `<p><strong>${translations[currentLanguage].jumpLabel}</strong></p>`;
+    currentQuestions.forEach((q, index) => {
+        const numBtn = document.createElement("button");
+        numBtn.textContent = index + 1;
+        numBtn.style.margin = "2px";
+        if (index === currentQuestionIndex) {
+            numBtn.style.backgroundColor = "#28a745"; // verde si es la actual
+        }
+        numBtn.onclick = () => {
+            currentQuestionIndex = index;
+            showQuestion();
+        };
+        jumpContainer.appendChild(numBtn);
+    });
 }
 
 // Botones siguiente/anterior
