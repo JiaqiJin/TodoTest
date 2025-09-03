@@ -44,7 +44,6 @@ let currentQuestionIndex = 0;
 let score = 0;
 let currentLanguage = 'es';
 let currentTema = null;
-let mostrarRespuestasDirectas = false; // false = Test, true = Ver Respuestas
 
 // Elementos DOM
 const mainTitle = document.getElementById('main-title');
@@ -63,19 +62,14 @@ const scoreText = document.getElementById('score-text');
 const restartButton = document.getElementById('restart-button');
 const homeButtonQuiz = document.getElementById('home-button-quiz');
 const homeButtonResults = document.getElementById('home-button-results');
-const modeContainer = document.getElementById('mode-container');
-const modoTestBtn = document.getElementById('modo-test');
-const modoRespuestasBtn = document.getElementById('modo-respuestas');
-const volverModosBtn = document.getElementById('volver-modos');
 
-// Contenedor para botones numerados
+// Nuevo contenedor para enumeraciones
 let jumpContainer = document.createElement("div");
 jumpContainer.id = "jump-container";
 jumpContainer.style.marginTop = "15px";
 quizContainer.appendChild(jumpContainer);
 
-// --- Funciones ---
-
+// Cambiar idioma
 function setLanguage(lang) {
     currentLanguage = lang;
     mainTitle.textContent = translations[lang].title;
@@ -98,8 +92,10 @@ function updateTopicsTitles() {
     if (casoTitle) casoTitle.textContent = translations[currentLanguage].casoTitle;
 }
 
+// Cargar todos los temas y casos
 async function cargarTodosTemas() {
     try {
+        // Exámenes
         const respIndexExamen = await fetch('No_Traducido/index.json');
         const archivosExamen = await respIndexExamen.json();
         examenes = [];
@@ -109,6 +105,7 @@ async function cargarTodosTemas() {
             examenes.push(data);
         }
 
+        // Casos
         const respIndexCasos = await fetch('No_Traducido_casos/index.json');
         const archivosCasos = await respIndexCasos.json();
         casos = [];
@@ -124,51 +121,47 @@ async function cargarTodosTemas() {
     }
 }
 
+// Mostrar botones de temas y casos
 function loadTopics() {
     topicButtonsContainer.innerHTML = '';
 
-    // Exámenes
+    // Título Exámenes
     const examTitle = document.createElement('h3');
     examTitle.classList.add('examen');
     examTitle.textContent = translations[currentLanguage].examTitle;
     topicButtonsContainer.appendChild(examTitle);
 
     examenes.forEach(t => {
-        const progresoTest = JSON.parse(localStorage.getItem(`progreso_${t.tema}_test`)) || {respuestas:{}};
-        const progresoVer = JSON.parse(localStorage.getItem(`progreso_${t.tema}_ver`)) || {respuestas:{}};
-        const doneCount = mostrarRespuestasDirectas ? Object.keys(progresoVer.respuestas).length : Object.keys(progresoTest.respuestas).length;
+        const progreso = JSON.parse(localStorage.getItem(`progreso_${t.tema}`)) || {currentIndex:0, score:0, respuestas:{}};
         const button = document.createElement('button');
-        button.textContent = `${t.tema} (${doneCount} de ${t.preguntas.length})`;
+        button.textContent = `${t.tema} (${progreso.currentIndex + 1} de ${t.preguntas.length})`;
         button.classList.add('option-button');
         button.onclick = () => startQuizArchivo(t);
         topicButtonsContainer.appendChild(button);
     });
 
-    // Casos
+    // Título Casos
     const casoTitle = document.createElement('h3');
     casoTitle.classList.add('caso');
     casoTitle.textContent = translations[currentLanguage].casoTitle;
     topicButtonsContainer.appendChild(casoTitle);
 
     casos.forEach(t => {
-        const progresoTest = JSON.parse(localStorage.getItem(`progreso_${t.tema}_test`)) || {respuestas:{}};
-        const progresoVer = JSON.parse(localStorage.getItem(`progreso_${t.tema}_ver`)) || {respuestas:{}};
-        const doneCount = mostrarRespuestasDirectas ? Object.keys(progresoVer.respuestas).length : Object.keys(progresoTest.respuestas).length;
+        const progreso = JSON.parse(localStorage.getItem(`progreso_${t.tema}`)) || {currentIndex:0, score:0, respuestas:{}};
         const button = document.createElement('button');
-        button.textContent = `${t.tema} (${doneCount} de ${t.preguntas.length})`;
+        button.textContent = `${t.tema} (${progreso.currentIndex + 1} de ${t.preguntas.length})`;
         button.classList.add('option-button');
         button.onclick = () => startQuizArchivo(t);
         topicButtonsContainer.appendChild(button);
     });
 }
 
+// Iniciar quiz/caso
 function startQuizArchivo(temaObj) {
     currentTema = temaObj.tema;
     currentQuestions = temaObj.preguntas;
 
-    const storageKey = mostrarRespuestasDirectas ? `progreso_${currentTema}_ver` : `progreso_${currentTema}_test`;
-    const progreso = JSON.parse(localStorage.getItem(storageKey)) || {respuestas:{}, currentIndex:0, score:0};
-
+    let progreso = JSON.parse(localStorage.getItem(`progreso_${currentTema}`)) || {currentIndex:0, score:0, respuestas:{}};
     currentQuestionIndex = progreso.currentIndex || 0;
     score = progreso.score || 0;
 
@@ -178,32 +171,43 @@ function startQuizArchivo(temaObj) {
 
     showQuestion();
     updateProgressText();
-}
 
-// Guardar progreso
-function saveProgress(option = null) {
-    const storageKey = mostrarRespuestasDirectas ? `progreso_${currentTema}_ver` : `progreso_${currentTema}_test`;
-    const progreso = JSON.parse(localStorage.getItem(storageKey)) || {respuestas:{}, score:0, currentIndex:0};
-
-    if (option !== null && !mostrarRespuestasDirectas) {
-        progreso.respuestas[currentQuestionIndex] = option;
-        if (option === currentQuestions[currentQuestionIndex].solucion) {
-            progreso.score = (progreso.score || 0) + 1;
-        }
-    } else if (mostrarRespuestasDirectas) {
-        progreso.respuestas[currentQuestionIndex] = "vista";
-    }
-
+    // Guardar índice al entrar
     progreso.currentIndex = currentQuestionIndex;
-    localStorage.setItem(storageKey, JSON.stringify(progreso));
+    localStorage.setItem(`progreso_${currentTema}`, JSON.stringify(progreso));
 }
 
-// Mostrar pregunta
+// Botón para volver al menú de modos
+const volverModosBtn = document.getElementById('volver-modos');
+volverModosBtn.addEventListener('click', () => {
+    topicsContainer.classList.add('hidden');
+    modeContainer.classList.remove('hidden');
+});
+
+// Variable para modo
+let mostrarRespuestasDirectas = false;
+
+// Botones de modo
+const modoTestBtn = document.getElementById('modo-test');
+const modoRespuestasBtn = document.getElementById('modo-respuestas');
+const modeContainer = document.getElementById('mode-container');
+
+modoTestBtn.addEventListener('click', () => {
+    mostrarRespuestasDirectas = false;
+    modeContainer.classList.add('hidden');
+    topicsContainer.classList.remove('hidden');
+});
+
+modoRespuestasBtn.addEventListener('click', () => {
+    mostrarRespuestasDirectas = true;
+    modeContainer.classList.add('hidden');
+    topicsContainer.classList.remove('hidden');
+});
+
+// Función para mostrar pregunta (modo test colorea según acierto)
 function showQuestion() {
     optionsContainer.innerHTML = '';
     feedback.textContent = '';
-
-    saveProgress(); // marca vista
 
     const question = currentQuestions[currentQuestionIndex];
     questionText.textContent = question.pregunta;
@@ -214,17 +218,32 @@ function showQuestion() {
         div.classList.add('option-button');
         div.style.marginBottom = '8px';
 
-        if (typeof value === 'string') {
+        if (typeof value === "string") {
             div.textContent = `${option}: ${value}`;
-            if (mostrarRespuestasDirectas && option === question.solucion) div.classList.add('correct');
-            if (!mostrarRespuestasDirectas) {
+
+            if (mostrarRespuestasDirectas) {
+                if (option === question.solucion) div.classList.add('correct'); // verde
+            } else {
                 div.addEventListener('click', () => {
-                    handleAnswer(option, question);
-                    renderJumpButtons();
+                    if (option === question.solucion) {
+                        div.classList.add('correct');
+                        feedback.textContent = translations[currentLanguage].correctFeedback;
+                        score++;
+                    } else {
+                        div.classList.add('incorrect'); // rojo
+                        feedback.textContent = translations[currentLanguage].incorrectFeedback + question.solucion;
+                        // marcar la correcta en verde
+                        const botones = Array.from(optionsContainer.querySelectorAll('.option-button'));
+                        const correcta = botones.find(b => b.textContent.startsWith(question.solucion + ":"));
+                        if (correcta) correcta.classList.add('correct');
+                    }
+                    // bloquear todas las opciones
+                    Array.from(optionsContainer.querySelectorAll('.option-button')).forEach(b => b.style.pointerEvents = 'none');
                 });
             }
+
         } else {
-            // Subopciones (casos)
+            // Para bloques de casos
             const bloqueDiv = document.createElement('div');
             bloqueDiv.style.border = "1px solid #ccc";
             bloqueDiv.style.padding = "8px";
@@ -241,13 +260,25 @@ function showQuestion() {
                 subDiv.textContent = `${subKey}: ${value[subKey]}`;
 
                 if (mostrarRespuestasDirectas && option === question.solucion) {
-                    subDiv.classList.add('correct');
+                    subDiv.classList.add('correct'); // verde
                 }
 
                 if (!mostrarRespuestasDirectas) {
                     subDiv.addEventListener('click', () => {
-                        handleAnswer(option, question);
-                        renderJumpButtons();
+                        if (option === question.solucion) {
+                            subDiv.classList.add('correct');
+                            feedback.textContent = translations[currentLanguage].correctFeedback;
+                            score++;
+                        } else {
+                            subDiv.classList.add('incorrect');
+                            feedback.textContent = translations[currentLanguage].incorrectFeedback + question.solucion;
+                            // marcar bloque correcto en verde
+                            Array.from(bloqueDiv.querySelectorAll('.option-button')).forEach(b => {
+                                if (option === question.solucion) b.classList.add('correct');
+                            });
+                        }
+                        // bloquear todas las opciones
+                        Array.from(bloqueDiv.querySelectorAll('.option-button')).forEach(b => b.style.pointerEvents = 'none');
                     });
                 }
 
@@ -266,34 +297,48 @@ function showQuestion() {
     renderJumpButtons();
 }
 
-// Manejar respuesta
+// Manejo de respuesta
 function handleAnswer(option, question) {
-    const botones = Array.from(optionsContainer.querySelectorAll(".option-button"));
-    botones.forEach(b => b.style.pointerEvents = 'none');
+    // Bloquear todos los botones
+    const botones = Array.from(optionsContainer.querySelectorAll("button"));
+    botones.forEach(b => b.classList.add("disabled"));
+
+    // Marcar correcta en verde
+    botones.forEach(b => {
+        if (b.textContent.startsWith(question.solucion + ":")) {
+            b.classList.add("correct");
+        }
+    });
 
     if (option === question.solucion) {
         feedback.textContent = translations[currentLanguage].correctFeedback;
         score++;
     } else {
         feedback.textContent = translations[currentLanguage].incorrectFeedback + question.solucion;
-        const botonCorrecto = botones.find(b => b.textContent.startsWith(question.solucion + ":"));
-        if (botonCorrecto) botonCorrecto.classList.add('correct');
+
+        // Marcar la que pulsó en rojo
+        const botonElegido = botones.find(b => b.textContent.startsWith(option + ":"));
+        if (botonElegido) botonElegido.classList.add("incorrect");
     }
 
-    const botonElegido = botones.find(b => b.textContent.startsWith(option + ":"));
-    if (botonElegido && option !== question.solucion) botonElegido.classList.add('incorrect');
-
-    saveProgress(option);
+    // Guardar progreso
+    let progreso = JSON.parse(localStorage.getItem(`progreso_${currentTema}`)) || {respuestas:{}};
+    progreso.respuestas[currentQuestionIndex] = option;
+    progreso.currentIndex = currentQuestionIndex;
+    progreso.score = score;
+    localStorage.setItem(`progreso_${currentTema}`, JSON.stringify(progreso));
 }
 
-// Botones jump
+// Crear botones enumerados para saltar a preguntas
 function renderJumpButtons() {
     jumpContainer.innerHTML = `<p><strong>${translations[currentLanguage].jumpLabel}</strong></p>`;
     currentQuestions.forEach((q, index) => {
         const numBtn = document.createElement("button");
         numBtn.textContent = index + 1;
         numBtn.style.margin = "2px";
-        if (index === currentQuestionIndex) numBtn.style.backgroundColor = "#28a745";
+        if (index === currentQuestionIndex) {
+            numBtn.style.backgroundColor = "#28a745"; // verde si es la actual
+        }
         numBtn.onclick = () => {
             currentQuestionIndex = index;
             showQuestion();
@@ -302,9 +347,9 @@ function renderJumpButtons() {
     });
 }
 
-// Siguiente/Anterior
+// Botones siguiente/anterior
 nextButton.addEventListener('click', () => {
-    if (currentQuestionIndex < currentQuestions.length - 1) {
+    if (currentQuestionIndex < currentQuestions.length -1) {
         currentQuestionIndex++;
         showQuestion();
     } else {
@@ -318,29 +363,27 @@ prevButton.addEventListener('click', () => {
     }
 });
 
-// Progreso
+// Actualizar progreso
 function updateProgressText() {
     if (!currentQuestions.length) return;
-    const storageKey = mostrarRespuestasDirectas ? `progreso_${currentTema}_ver` : `progreso_${currentTema}_test`;
-    const progreso = JSON.parse(localStorage.getItem(storageKey)) || {respuestas:{}};
-    const doneCount = Object.keys(progreso.respuestas).length;
-    progressText.textContent = translations[currentLanguage].progressText(doneCount, currentQuestions.length);
+    progressText.textContent = translations[currentLanguage].progressText(currentQuestionIndex + 1, currentQuestions.length);
 }
 
-// Resultados
+// Mostrar resultados
 function showResults() {
     quizContainer.classList.add('hidden');
     resultsContainer.classList.remove('hidden');
     updateResultsText();
 }
+
+// Actualizar resultados
 function updateResultsText() {
     scoreText.textContent = translations[currentLanguage].scoreText(score, currentQuestions.length);
 }
 
 // Botones inicio/restart
 restartButton.addEventListener('click', () => {
-    const key = mostrarRespuestasDirectas ? `progreso_${currentTema}_ver` : `progreso_${currentTema}_test`;
-    localStorage.removeItem(key);
+    localStorage.removeItem(`progreso_${currentTema}`);
     resultsContainer.classList.add('hidden');
     topicsContainer.classList.remove('hidden');
     loadTopics();
@@ -356,28 +399,11 @@ homeButtonResults.addEventListener('click', () => {
     loadTopics();
 });
 
-// Modo botones
-modoTestBtn.addEventListener('click', () => {
-    mostrarRespuestasDirectas = false;
-    modeContainer.classList.add('hidden');
-    topicsContainer.classList.remove('hidden');
-    loadTopics();
-});
-modoRespuestasBtn.addEventListener('click', () => {
-    mostrarRespuestasDirectas = true;
-    modeContainer.classList.add('hidden');
-    topicsContainer.classList.remove('hidden');
-    loadTopics();
-});
-volverModosBtn.addEventListener('click', () => {
-    topicsContainer.classList.add('hidden');
-    modeContainer.classList.remove('hidden');
-});
-
 // Inicialización
 window.onload = () => {
     cargarTodosTemas();
     setLanguage('es');
+
     if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('sw.js')
             .then(() => console.log('Service Worker registrado'))
