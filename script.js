@@ -37,13 +37,10 @@ const translations = {
 };
 
 // Variables
-let examenes = [];
-let casos = [];
-let currentQuestions = [];
-let currentQuestionIndex = 0;
-let score = 0;
-let currentLanguage = 'es';
-let currentTema = null;
+let examenes = [], casos = [], currentQuestions = [];
+let currentQuestionIndex = 0, score = 0;
+let currentLanguage = 'es', currentTema = null;
+let mostrarRespuestasDirectas = false;
 
 // Elementos DOM
 const mainTitle = document.getElementById('main-title');
@@ -63,14 +60,19 @@ const restartButton = document.getElementById('restart-button');
 const homeButtonQuiz = document.getElementById('home-button-quiz');
 const homeButtonResults = document.getElementById('home-button-results');
 
-// Nuevo contenedor para enumeraciones
+const modeContainer = document.getElementById('mode-container');
+const modoTestBtn = document.getElementById('modo-test');
+const modoRespuestasBtn = document.getElementById('modo-respuestas');
+const volverModosBtn = document.getElementById('volver-modos');
+
+// Contenedor de saltos
 let jumpContainer = document.createElement("div");
 jumpContainer.id = "jump-container";
 jumpContainer.style.marginTop = "15px";
 quizContainer.appendChild(jumpContainer);
 
-// Cambiar idioma
-function setLanguage(lang) {
+// --- Funciones de idioma ---
+function setLanguage(lang){
     currentLanguage = lang;
     mainTitle.textContent = translations[lang].title;
     updateTopicsTitles();
@@ -81,89 +83,79 @@ function setLanguage(lang) {
     homeButtonQuiz.textContent = translations[lang].homeButtonQuiz;
     homeButtonResults.textContent = translations[lang].homeButtonResults;
     updateProgressText();
-    if (!quizContainer.classList.contains('hidden')) showQuestion();
-    if (!resultsContainer.classList.contains('hidden')) updateResultsText();
 }
 
-function updateTopicsTitles() {
+// Actualizar títulos de secciones
+function updateTopicsTitles(){
     const examTitle = document.querySelector('#topic-buttons-container h3.examen');
     const casoTitle = document.querySelector('#topic-buttons-container h3.caso');
     if (examTitle) examTitle.textContent = translations[currentLanguage].examTitle;
     if (casoTitle) casoTitle.textContent = translations[currentLanguage].casoTitle;
 }
 
-// Cargar todos los temas y casos
-async function cargarTodosTemas() {
-    try {
+// --- Cargar temas y casos ---
+async function cargarTodosTemas(){
+    try{
         // Exámenes
         const respIndexExamen = await fetch('No_Traducido/index.json');
         const archivosExamen = await respIndexExamen.json();
         examenes = [];
-        for (const archivo of archivosExamen) {
+        for(const archivo of archivosExamen){
             const respTema = await fetch(`No_Traducido/${archivo}`);
-            const data = await respTema.json();
-            examenes.push(data);
+            examenes.push(await respTema.json());
         }
 
         // Casos
         const respIndexCasos = await fetch('No_Traducido_casos/index.json');
         const archivosCasos = await respIndexCasos.json();
         casos = [];
-        for (const archivo of archivosCasos) {
+        for(const archivo of archivosCasos){
             const respCaso = await fetch(`No_Traducido_casos/${archivo}`);
-            const data = await respCaso.json();
-            casos.push(data);
+            casos.push(await respCaso.json());
         }
 
         loadTopics();
-    } catch (error) {
-        console.error("Error cargando temas o casos:", error);
-    }
+    }catch(error){ console.error(error); }
 }
 
-// Mostrar botones de temas y casos
-function loadTopics() {
+// --- Mostrar botones de temas ---
+function loadTopics(){
     topicButtonsContainer.innerHTML = '';
 
-    // Título Exámenes
     const examTitle = document.createElement('h3');
     examTitle.classList.add('examen');
     examTitle.textContent = translations[currentLanguage].examTitle;
     topicButtonsContainer.appendChild(examTitle);
 
-    examenes.forEach(t => {
-        const progreso = JSON.parse(localStorage.getItem(`progreso_${t.tema}`)) || {currentIndex:0, score:0, respuestas:{}};
-        const button = document.createElement('button');
-        button.textContent = `${t.tema} (${progreso.currentIndex + 1} de ${t.preguntas.length})`;
-        button.classList.add('option-button');
-        button.onclick = () => startQuizArchivo(t);
-        topicButtonsContainer.appendChild(button);
+    examenes.forEach(t=>{
+        const progreso = JSON.parse(localStorage.getItem(`progreso_${t.tema}`)) || {currentIndex:0, score:0};
+        const btn = document.createElement('button');
+        btn.textContent = `${t.tema} (${progreso.currentIndex + 1} de ${t.preguntas.length})`;
+        btn.onclick = () => startQuizArchivo(t);
+        topicButtonsContainer.appendChild(btn);
     });
 
-    // Título Casos
     const casoTitle = document.createElement('h3');
     casoTitle.classList.add('caso');
     casoTitle.textContent = translations[currentLanguage].casoTitle;
     topicButtonsContainer.appendChild(casoTitle);
 
-    casos.forEach(t => {
-        const progreso = JSON.parse(localStorage.getItem(`progreso_${t.tema}`)) || {currentIndex:0, score:0, respuestas:{}};
-        const button = document.createElement('button');
-        button.textContent = `${t.tema} (${progreso.currentIndex + 1} de ${t.preguntas.length})`;
-        button.classList.add('option-button');
-        button.onclick = () => startQuizArchivo(t);
-        topicButtonsContainer.appendChild(button);
+    casos.forEach(t=>{
+        const progreso = JSON.parse(localStorage.getItem(`progreso_${t.tema}`)) || {currentIndex:0, score:0};
+        const btn = document.createElement('button');
+        btn.textContent = `${t.tema} (${progreso.currentIndex + 1} de ${t.preguntas.length})`;
+        btn.onclick = () => startQuizArchivo(t);
+        topicButtonsContainer.appendChild(btn);
     });
 }
 
-// Iniciar quiz/caso
-function startQuizArchivo(temaObj) {
+// --- Iniciar quiz ---
+function startQuizArchivo(temaObj){
     currentTema = temaObj.tema;
     currentQuestions = temaObj.preguntas;
-
-    let progreso = JSON.parse(localStorage.getItem(`progreso_${currentTema}`)) || {currentIndex:0, score:0, respuestas:{}};
-    currentQuestionIndex = progreso.currentIndex || 0;
-    score = progreso.score || 0;
+    const progreso = JSON.parse(localStorage.getItem(`progreso_${currentTema}`)) || {currentIndex:0, score:0};
+    currentQuestionIndex = progreso.currentIndex;
+    score = progreso.score;
 
     topicsContainer.classList.add('hidden');
     quizContainer.classList.remove('hidden');
@@ -171,198 +163,112 @@ function startQuizArchivo(temaObj) {
 
     showQuestion();
     updateProgressText();
-
-    // Guardar índice al entrar
-    progreso.currentIndex = currentQuestionIndex;
-    localStorage.setItem(`progreso_${currentTema}`, JSON.stringify(progreso));
 }
 
-// Mostrar pregunta con opciones resaltando directamente la correcta
-function showQuestion() {
+// --- Mostrar pregunta ---
+function showQuestion(){
     optionsContainer.innerHTML = '';
     feedback.textContent = '';
-
     const question = currentQuestions[currentQuestionIndex];
     questionText.textContent = question.pregunta;
 
-    // ✅ Detección: si las opciones son strings (examen) o bloques de objetos (casos)
-    for (const option in question.opciones) {
+    for(const option in question.opciones){
         const value = question.opciones[option];
+        const div = document.createElement('div');
+        div.classList.add('option-button');
+        div.style.marginBottom = '8px';
 
-        if (typeof value === "string") {
-            // ------------------------------
-            // CASO EXÁMEN (simple: A, B, C...)
-            // ------------------------------
-            const button = document.createElement('div');
-            button.classList.add('option-button');
-            button.style.marginBottom = '8px';
-            button.textContent = `${option}: ${value}`;
-
-            if (option === question.solucion) {
-                button.classList.add("correct"); // marcar verde
+        if(typeof value === 'string'){
+            div.textContent = `${option}: ${value}`;
+            if(mostrarRespuestasDirectas && option === question.solucion) div.classList.add('correct');
+            if(!mostrarRespuestasDirectas){
+                div.addEventListener('click', ()=>{
+                    if(option === question.solucion){
+                        div.classList.add('correct'); feedback.textContent = translations[currentLanguage].correctFeedback; score++;
+                    }else{
+                        div.classList.add('incorrect'); feedback.textContent = translations[currentLanguage].incorrectFeedback + question.solucion;
+                        const botones = Array.from(optionsContainer.querySelectorAll('.option-button'));
+                        const correcta = botones.find(b=>b.textContent.startsWith(question.solucion + ":"));
+                        if(correcta) correcta.classList.add('correct');
+                    }
+                    Array.from(optionsContainer.querySelectorAll('.option-button')).forEach(b=>b.style.pointerEvents='none');
+                });
             }
-
-            optionsContainer.appendChild(button);
-
-        } else if (typeof value === "object") {
-            // ------------------------------
-            // CASO CASOS (bloques A, B, C con subopciones)
-            // ------------------------------
-            const bloqueDiv = document.createElement('div');
-            bloqueDiv.classList.add('bloque-opciones');
-            bloqueDiv.style.border = "1px solid #ccc";
-            bloqueDiv.style.padding = "8px";
-            bloqueDiv.style.marginBottom = "10px";
-
-            const titulo = document.createElement('strong');
-            titulo.textContent = `Bloque ${option}`;
-            bloqueDiv.appendChild(titulo);
-
-            for (const subKey in value) {
-                const subDiv = document.createElement('div');
-                subDiv.classList.add('option-button');
-                subDiv.style.margin = "4px";
-                subDiv.textContent = `${subKey}: ${value[subKey]}`;
-
-                // marcar todo el bloque correcto en verde
-                if (option === question.solucion) {
-                    subDiv.classList.add("correct");
-                }
-
-                bloqueDiv.appendChild(subDiv);
-            }
-
-            optionsContainer.appendChild(bloqueDiv);
         }
+        optionsContainer.appendChild(div);
     }
 
-    // Mostrar nota de feedback con la solución
-    feedback.textContent = translations[currentLanguage].correctFeedback + " " + question.solucion;
-
-    prevButton.classList.toggle('hidden', currentQuestionIndex === 0);
+    prevButton.classList.toggle('hidden', currentQuestionIndex===0);
     nextButton.classList.remove('hidden');
     updateProgressText();
-
-    // Actualizar enumeraciones
     renderJumpButtons();
-
-    // Guardar progreso actual
-    let progreso = JSON.parse(localStorage.getItem(`progreso_${currentTema}`)) || {respuestas:{}};
-    progreso.currentIndex = currentQuestionIndex;
-    progreso.score = score;
-    localStorage.setItem(`progreso_${currentTema}`, JSON.stringify(progreso));
 }
 
-// Manejo de respuesta
-function handleAnswer(option, question) {
-    // Bloquear todos los botones
-    const botones = Array.from(optionsContainer.querySelectorAll("button"));
-    botones.forEach(b => b.classList.add("disabled"));
-
-    // Marcar correcta en verde
-    botones.forEach(b => {
-        if (b.textContent.startsWith(question.solucion + ":")) {
-            b.classList.add("correct");
-        }
-    });
-
-    if (option === question.solucion) {
-        feedback.textContent = translations[currentLanguage].correctFeedback;
-        score++;
-    } else {
-        feedback.textContent = translations[currentLanguage].incorrectFeedback + question.solucion;
-
-        // Marcar la que pulsó en rojo
-        const botonElegido = botones.find(b => b.textContent.startsWith(option + ":"));
-        if (botonElegido) botonElegido.classList.add("incorrect");
-    }
-
-    // Guardar progreso
-    let progreso = JSON.parse(localStorage.getItem(`progreso_${currentTema}`)) || {respuestas:{}};
-    progreso.respuestas[currentQuestionIndex] = option;
-    progreso.currentIndex = currentQuestionIndex;
-    progreso.score = score;
-    localStorage.setItem(`progreso_${currentTema}`, JSON.stringify(progreso));
-}
-
-// Crear botones enumerados para saltar a preguntas
-function renderJumpButtons() {
-    jumpContainer.innerHTML = `<p><strong>${translations[currentLanguage].jumpLabel}</strong></p>`;
-    currentQuestions.forEach((q, index) => {
-        const numBtn = document.createElement("button");
-        numBtn.textContent = index + 1;
-        numBtn.style.margin = "2px";
-        if (index === currentQuestionIndex) {
-            numBtn.style.backgroundColor = "#28a745"; // verde si es la actual
-        }
-        numBtn.onclick = () => {
-            currentQuestionIndex = index;
-            showQuestion();
-        };
-        jumpContainer.appendChild(numBtn);
-    });
-}
-
-// Botones siguiente/anterior
-nextButton.addEventListener('click', () => {
-    if (currentQuestionIndex < currentQuestions.length -1) {
+// --- Botones siguiente/anterior ---
+nextButton.addEventListener('click', ()=>{
+    if(currentQuestionIndex < currentQuestions.length-1){
         currentQuestionIndex++;
         showQuestion();
-    } else {
-        showResults();
-    }
+    }else showResults();
 });
-prevButton.addEventListener('click', () => {
-    if (currentQuestionIndex > 0) {
-        currentQuestionIndex--;
-        showQuestion();
-    }
+prevButton.addEventListener('click', ()=>{
+    if(currentQuestionIndex>0){ currentQuestionIndex--; showQuestion(); }
 });
 
-// Actualizar progreso
-function updateProgressText() {
-    if (!currentQuestions.length) return;
-    progressText.textContent = translations[currentLanguage].progressText(currentQuestionIndex + 1, currentQuestions.length);
+// --- Renderizar saltos ---
+function renderJumpButtons(){
+    jumpContainer.innerHTML = `<p><strong>${translations[currentLanguage].jumpLabel}</strong></p>`;
+    currentQuestions.forEach((q,i)=>{
+        const btn = document.createElement('button');
+        btn.textContent = i+1;
+        btn.style.margin='2px';
+        if(i===currentQuestionIndex) btn.style.backgroundColor="#28a745";
+        btn.onclick = ()=>{
+            currentQuestionIndex = i;
+            showQuestion();
+        };
+        jumpContainer.appendChild(btn);
+    });
 }
 
-// Mostrar resultados
-function showResults() {
+// --- Resultados ---
+function showResults(){
     quizContainer.classList.add('hidden');
     resultsContainer.classList.remove('hidden');
-    updateResultsText();
+    scoreText.textContent = translations[currentLanguage].scoreText(score,currentQuestions.length);
 }
 
-// Actualizar resultados
-function updateResultsText() {
-    scoreText.textContent = translations[currentLanguage].scoreText(score, currentQuestions.length);
-}
-
-// Botones inicio/restart
-restartButton.addEventListener('click', () => {
+// --- Botones menú ---
+modoTestBtn.addEventListener('click', ()=>{
+    mostrarRespuestasDirectas = false;
+    modeContainer.classList.add('hidden');
+    topicsContainer.classList.remove('hidden');
+});
+modoRespuestasBtn.addEventListener('click', ()=>{
+    mostrarRespuestasDirectas = true;
+    modeContainer.classList.add('hidden');
+    topicsContainer.classList.remove('hidden');
+});
+volverModosBtn.addEventListener('click', ()=>{
+    topicsContainer.classList.add('hidden');
+    modeContainer.classList.remove('hidden');
+});
+restartButton.addEventListener('click', ()=>{
     localStorage.removeItem(`progreso_${currentTema}`);
     resultsContainer.classList.add('hidden');
     topicsContainer.classList.remove('hidden');
-    loadTopics();
 });
-homeButtonQuiz.addEventListener('click', () => {
+homeButtonQuiz.addEventListener('click', ()=>{
     quizContainer.classList.add('hidden');
     topicsContainer.classList.remove('hidden');
-    loadTopics();
 });
-homeButtonResults.addEventListener('click', () => {
+homeButtonResults.addEventListener('click', ()=>{
     resultsContainer.classList.add('hidden');
     topicsContainer.classList.remove('hidden');
-    loadTopics();
 });
 
-// Inicialización
-window.onload = () => {
+// --- Inicialización ---
+window.onload = ()=>{
     cargarTodosTemas();
     setLanguage('es');
-
-    if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('sw.js')
-            .then(() => console.log('Service Worker registrado'))
-            .catch(err => console.error('Error SW:', err));
-    }
 };

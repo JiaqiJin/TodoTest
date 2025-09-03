@@ -17,10 +17,17 @@
             <button onclick="setLanguage('zh')">🇨🇳 中文</button>
         </div>
 
+        <!-- Menú de modos -->
+        <div id="mode-container">
+            <button id="modo-test">Hacer Test</button>
+            <button id="modo-respuestas">Ver Respuestas Correctas</button>
+        </div>
+
         <!-- Pantalla de selección de temas -->
-        <div id="topics-container">
+        <div id="topics-container" class="hidden">
             <h2 id="select-topic">Selecciona un tema para empezar:</h2>
             <div id="topic-buttons-container"></div>
+            <button id="volver-modos">Volver al Menú de Modos</button>
         </div>
 
         <!-- Pantalla del quiz -->
@@ -47,7 +54,6 @@
 
     </div>
 
-    <!-- Script principal -->
     <script src="script.js"></script>
 </body>
 </html>
