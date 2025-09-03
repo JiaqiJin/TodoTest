@@ -127,19 +127,20 @@ button.hidden {
     border: 1px solid #ccc;
 }
 
-#volver-modos {
-    background-color: #ff8800; /* color naranja distintivo */
+/* Botón "Volver al Menú de Modos" */
+.btn-volver {
+    background-color: #ff9800;   /* Naranja llamativo */
     color: white;
     font-weight: bold;
     border: none;
-    padding: 12px 25px;
+    padding: 12px 24px;
     font-size: 16px;
     border-radius: 8px;
     cursor: pointer;
-    transition: background-color 0.3s;
-    margin-top: 15px;
+    transition: background-color 0.3s, transform 0.2s;
 }
 
-#volver-modos:hover {
-    background-color: #cc6a00; /* naranja más oscuro al pasar el mouse */
+.btn-volver:hover {
+    background-color: #e68900;  /* Un tono más oscuro al pasar el mouse */
+    transform: scale(1.05);     /* Efecto de agrandarse un poco */
 }
