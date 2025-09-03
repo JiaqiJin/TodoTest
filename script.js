@@ -177,7 +177,7 @@ function startQuizArchivo(temaObj) {
     localStorage.setItem(`progreso_${currentTema}`, JSON.stringify(progreso));
 }
 
-// Mostrar pregunta con enumeraciones
+// Mostrar pregunta con opciones resaltando directamente la correcta
 function showQuestion() {
     optionsContainer.innerHTML = '';
     feedback.textContent = '';
@@ -185,15 +185,59 @@ function showQuestion() {
     const question = currentQuestions[currentQuestionIndex];
     questionText.textContent = question.pregunta;
 
+    // ✅ Detección: si las opciones son strings (examen) o bloques de objetos (casos)
     for (const option in question.opciones) {
-        const button = document.createElement('div');
-        button.classList.add('option-button');
-        button.style.marginBottom = '8px';
-        button.textContent = `${option}: ${question.opciones[option]}`;
-        if (option === question.solucion) button.classList.add('correct');
-        else button.classList.add('disabled-option');
-        optionsContainer.appendChild(button);
+        const value = question.opciones[option];
+
+        if (typeof value === "string") {
+            // ------------------------------
+            // CASO EXÁMEN (simple: A, B, C...)
+            // ------------------------------
+            const button = document.createElement('div');
+            button.classList.add('option-button');
+            button.style.marginBottom = '8px';
+            button.textContent = `${option}: ${value}`;
+
+            if (option === question.solucion) {
+                button.classList.add("correct"); // marcar verde
+            }
+
+            optionsContainer.appendChild(button);
+
+        } else if (typeof value === "object") {
+            // ------------------------------
+            // CASO CASOS (bloques A, B, C con subopciones)
+            // ------------------------------
+            const bloqueDiv = document.createElement('div');
+            bloqueDiv.classList.add('bloque-opciones');
+            bloqueDiv.style.border = "1px solid #ccc";
+            bloqueDiv.style.padding = "8px";
+            bloqueDiv.style.marginBottom = "10px";
+
+            const titulo = document.createElement('strong');
+            titulo.textContent = `Bloque ${option}`;
+            bloqueDiv.appendChild(titulo);
+
+            for (const subKey in value) {
+                const subDiv = document.createElement('div');
+                subDiv.classList.add('option-button');
+                subDiv.style.margin = "4px";
+                subDiv.textContent = `${subKey}: ${value[subKey]}`;
+
+                // marcar todo el bloque correcto en verde
+                if (option === question.solucion) {
+                    subDiv.classList.add("correct");
+                }
+
+                bloqueDiv.appendChild(subDiv);
+            }
+
+            optionsContainer.appendChild(bloqueDiv);
+        }
     }
+
+    // Mostrar nota de feedback con la solución
+    feedback.textContent = translations[currentLanguage].correctFeedback + " " + question.solucion;
 
     prevButton.classList.toggle('hidden', currentQuestionIndex === 0);
     nextButton.classList.remove('hidden');
@@ -204,6 +248,38 @@ function showQuestion() {
 
     // Guardar progreso actual
     let progreso = JSON.parse(localStorage.getItem(`progreso_${currentTema}`)) || {respuestas:{}};
+    progreso.currentIndex = currentQuestionIndex;
+    progreso.score = score;
+    localStorage.setItem(`progreso_${currentTema}`, JSON.stringify(progreso));
+}
+
+// Manejo de respuesta
+function handleAnswer(option, question) {
+    // Bloquear todos los botones
+    const botones = Array.from(optionsContainer.querySelectorAll("button"));
+    botones.forEach(b => b.classList.add("disabled"));
+
+    // Marcar correcta en verde
+    botones.forEach(b => {
+        if (b.textContent.startsWith(question.solucion + ":")) {
+            b.classList.add("correct");
+        }
+    });
+
+    if (option === question.solucion) {
+        feedback.textContent = translations[currentLanguage].correctFeedback;
+        score++;
+    } else {
+        feedback.textContent = translations[currentLanguage].incorrectFeedback + question.solucion;
+
+        // Marcar la que pulsó en rojo
+        const botonElegido = botones.find(b => b.textContent.startsWith(option + ":"));
+        if (botonElegido) botonElegido.classList.add("incorrect");
+    }
+
+    // Guardar progreso
+    let progreso = JSON.parse(localStorage.getItem(`progreso_${currentTema}`)) || {respuestas:{}};
+    progreso.respuestas[currentQuestionIndex] = option;
     progreso.currentIndex = currentQuestionIndex;
     progreso.score = score;
     localStorage.setItem(`progreso_${currentTema}`, JSON.stringify(progreso));
