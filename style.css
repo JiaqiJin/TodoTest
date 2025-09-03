@@ -144,3 +144,29 @@ button.hidden {
     background-color: #e68900;  /* Un tono más oscuro al pasar el mouse */
     transform: scale(1.05);     /* Efecto de agrandarse un poco */
 }
+
+.num-button {
+    min-width: 36px;      /* mínimo ancho */
+    height: 36px;
+    padding: 0 8px;       /* espacio horizontal extra para números grandes */
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+    margin: 2px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.num-button:hover {
+    background-color: #0056b3;
+}
+
+.num-button.current {
+    border: 2px solid #333; /* resalta la pregunta actual */
+    transform: scale(1.1);   /* un pequeño efecto */
+}
