@@ -35,21 +35,21 @@ export function setModo(newModo) {
 export async function cargarTodosTemas() {
     try {
         // Exámenes
-        const respIndexExamen = await fetch('No_Traducido/index.json');
+        const respIndexExamen = await fetch('test_chino/index.json');
         const archivosExamen = await respIndexExamen.json();
         examenes = [];
         for (const archivo of archivosExamen) {
-            const respTema = await fetch(`No_Traducido/${archivo}`);
+            const respTema = await fetch(`test_chino/${archivo}`);
             const data = await respTema.json();
             examenes.push(data);
         }
 
         // Casos
-        const respIndexCasos = await fetch('No_Traducido_casos/index.json');
+        const respIndexCasos = await fetch('caso_chino/index.json');
         const archivosCasos = await respIndexCasos.json();
         casos = [];
         for (const archivo of archivosCasos) {
-            const respCaso = await fetch(`No_Traducido_casos/${archivo}`);
+            const respCaso = await fetch(`caso_chino/${archivo}`);
             const data = await respCaso.json();
             casos.push(data);
         }

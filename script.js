@@ -96,11 +96,11 @@ function updateTopicsTitles() {
 async function cargarTodosTemas() {
     try {
         // Exámenes
-        const respIndexExamen = await fetch('No_Traducido/index.json');
+        const respIndexExamen = await fetch('test_chino/index.json');
         const archivosExamen = await respIndexExamen.json();
         examenes = [];
         for (const archivo of archivosExamen) {
-            const respTema = await fetch(`No_Traducido/${archivo}`);
+            const respTema = await fetch(`test_chino/${archivo}`);
             const data = await respTema.json();
             examenes.push(data);
         }

@@ -1,0 +1,4888 @@
+{
+  "tema": "pv2H",
+  "preguntas": [
+    {
+      "cod": "2H01001",
+      "pregunta": "Como regla general, ¿durante cuánto tiempo puede conducir en España una persona titular de un permiso de conducción extranjero no expedido por un país de la UE o el EEE?",
+      "pregunta_chino": "一般而言，持有欧盟国家或西班牙EEE驾驶的外国驾驶执照的人可以多长时间？",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 21",
+      "opciones": {
+        "A": "Tres meses desde su entrada en España.",
+        "B": "Seis meses desde su entrada en España.",
+        "C": "Un año desde su entrada en España.",
+        "D": "No puede conducir en España si no convalida el permiso antes."
+      },
+      "opciones_chino": {
+        "A": "从进入西班牙的三个月。",
+        "B": "从进入西班牙的六个月。",
+        "C": "自从进入西班牙以来一年。",
+        "D": "如果他以前不验证许可，他将无法在西班牙开车。"
+      }
+    },
+    {
+      "cod": "2H01002",
+      "pregunta": "Como regla general, ¿durante cuánto tiempo puede conducir en España una persona titular de un permiso de conducción extranjero no expedido por un país de la UE o el EEE?",
+      "pregunta_chino": "一般而言，持有欧盟国家或西班牙EEE驾驶的外国驾驶执照的人可以多长时间？",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 21",
+      "opciones": {
+        "A": "Tres meses desde que obtenga permiso de residencia en España.",
+        "B": "Seis meses desde su entrada en España.",
+        "C": "Un año desde que obtenga permiso de residencia en España.",
+        "D": "No puede conducir en España, debe examinarse y obtener un permiso español."
+      },
+      "opciones_chino": {
+        "A": "自获得西班牙的居留许可以来三个月。",
+        "B": "从进入西班牙的六个月。",
+        "C": "自从我在西班牙获得居留许可以来一年。",
+        "D": "它不能在西班牙开车，必须检查并获得西班牙许可证。"
+      }
+    },
+    {
+      "cod": "2H01003",
+      "pregunta": "Transcurrido el plazo de validez de un permiso extranjero, no UE ni EEE, ¿qué debe hacer su titular para poder seguir conduciendo en España?",
+      "pregunta_chino": "在外国许可证有效期（而不是欧盟或EEE）之后，其所有者应该在西班牙继续开车？",
+      "solucion": "D",
+      "norma": "RD 818/2009, art. 22",
+      "opciones": {
+        "A": "Debe examinarse y obtener un permiso español.",
+        "B": "Puede solicitar la prórroga de la validez de su permiso por seis meses más.",
+        "C": "Puede solicitar la prórroga de validez hasta un año más.",
+        "D": "Deber solicitar el canje de su permiso por su equivalente español."
+      },
+      "opciones_chino": {
+        "A": "您必须检查并获得西班牙许可证。",
+        "B": "您可以要求延长许可证的有效性六个月。",
+        "C": "您可以要求将有效性延长长达一年。",
+        "D": "您必须要求交换您的西班牙语同等学历。"
+      }
+    },
+    {
+      "cod": "2H01004",
+      "pregunta": "En el permiso español procedente de un canje de un permiso extranjero no comunitario se hará constar…",
+      "pregunta_chino": "在交换非社区外国许可证的西班牙许可证中，将记录下来...",
+      "solucion": "C",
+      "norma": "RD 818/2009, art. 23",
+      "opciones": {
+        "A": "una validez reducida de tres años.",
+        "B": "la fecha de expedición del permiso extranjero.",
+        "C": "el hecho de que procede de un canje de permiso no comunitario.",
+        "D": "No tendrá ninguna mención especial."
+      },
+      "opciones_chino": {
+        "A": "有效性降低了三年。",
+        "B": "外国许可证的探险日期。",
+        "C": "它来自非社区许可证交换的事实。",
+        "D": "它不会特别提及。"
+      }
+    },
+    {
+      "cod": "2H01005",
+      "pregunta": "¿Qué documento puede sustuir temporalmente, cuando sea necesario, un permiso de circulación con los mismos efectos que este?",
+      "pregunta_chino": "在必要时，哪些文件可以暂时替代具有与此相同的效果的循环允许？",
+      "solucion": "C",
+      "norma": "RD 818/2009, art. 1",
+      "opciones": {
+        "A": "Una licencia provisional.",
+        "B": "Un permiso provisional.",
+        "C": "Una autorización temporal.",
+        "D": "No existe ese tipo de documento."
+      },
+      "opciones_chino": {
+        "A": "临时许可。",
+        "B": "临时许可证。",
+        "C": "临时授权。",
+        "D": "没有这样的文件。"
+      }
+    },
+    {
+      "cod": "2H01006",
+      "pregunta": "¿De cuántos permisos de conducción puede ser titular una persona?",
+      "pregunta_chino": "一个人持有多少驾驶许可？",
+      "solucion": "A",
+      "norma": "RD 818/2009, art. 1",
+      "opciones": {
+        "A": "Uno por categoría de vehículo que esté habilitado para conducir.",
+        "B": "Dos, el propio de su país y otro temporal en el país donde resida más de seis meses continuados.",
+        "C": "Puede llegar a tener hasta tres si es titular del permiso ADR.",
+        "D": "Puede ser titular de dos si uno de ellos es el permiso ADR."
+      },
+      "opciones_chino": {
+        "A": "一个乘车类别可以驾驶。",
+        "B": "第二，他自己的国家，另一个在他居住超过六个月的国家的临时人。",
+        "C": "如果您是ADR许可证的持有人，则最多可以拥有三个。",
+        "D": "如果其中一个是ADR许可，则可以是两个的持有人。"
+      }
+    },
+    {
+      "cod": "2H01007",
+      "pregunta": "¿Qué requisito es necesario para obtener un permiso de conducción?",
+      "pregunta_chino": "获得驾驶执照需要什么要求？",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 7",
+      "opciones": {
+        "A": "Ser nacional español o de un país de la UE.",
+        "B": "No ser titular de un permiso de conducción expedido en otro Estado miembro de la Unión Europea.",
+        "C": "No ser titular de otro permiso de conducción expedido por cualquier Estado firmante del Convenio de Viena.",
+        "D": "No haber obtenido otro permiso, de clase diferente, en el último año natural."
+      },
+      "opciones_chino": {
+        "A": "成为西班牙国民或欧盟国家。",
+        "B": "不要成为在欧盟另一个会员国签发的驾驶执照的持有人。",
+        "C": "不要成为维也纳协议任何签名状态签发的另一个驾驶许可证的持有人。",
+        "D": "在最后一年，没有获得另一个不同的许可。"
+      }
+    },
+    {
+      "cod": "2H01008",
+      "pregunta": "Los permisos de conducción expedidos en países de la UE o del EEE …",
+      "pregunta_chino": "在欧盟或EEE国家颁发的驾驶许可证...",
+      "solucion": "C",
+      "norma": "RD 818/2009, art. 15",
+      "opciones": {
+        "A": "deben ser convalidados para ser usados en España.",
+        "B": "son válidos en España, pero deben ser prorrogados cada dos años.",
+        "C": "son válidos en España, en las condiciones en que hubieran sido expedidos en su lugar de origen.",
+        "D": "solo son válidos en España los equivalentes a las clases B. C1 y D1."
+      },
+      "opciones_chino": {
+        "A": "必须对它们进行验证以在西班牙使用。",
+        "B": "它们在西班牙有效，但必须每两年延长一次。",
+        "C": "在西班牙，它们在原产地发行的条件下是有效的。",
+        "D": "B. C1和D1仅在西班牙有效。"
+      }
+    },
+    {
+      "cod": "2H01009",
+      "pregunta": "Según el Reglamento General de Conductores, ¿qué permiso complementario necesitan los conductores de vehículos que realicen transporte escolar?",
+      "pregunta_chino": "根据一般驾驶员法规，车辆驾驶员需要哪些补充许可才能进行学校运输？",
+      "solucion": "D",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "Obtener una autorización especial que habilite para ello.",
+        "B": "Obtener un certificado médico especial.",
+        "C": "Realizar un curso especial que imparte el Ministerio de Transportes.",
+        "D": "No necesitan obtener ningún permiso complementario especial que les habilite para ello."
+      },
+      "opciones_chino": {
+        "A": "获得可以实现它的特殊授权。",
+        "B": "获得特殊的医疗证明。",
+        "C": "执行交通部教授的特殊课程。",
+        "D": "他们不需要获得任何使其为此提供的特殊补充许可证。"
+      }
+    },
+    {
+      "cod": "2H01010",
+      "pregunta": "¿Qué período de vigencia tendrán los permisos de conducción de las clases D1 y D1+E cuando el titular tenga 25 años?",
+      "pregunta_chino": "D1和D1+E类的驾驶许可将在25岁时拥有什么驾驶许可证？",
+      "solucion": "C",
+      "norma": "RD 818/2009, art. 12",
+      "opciones": {
+        "A": "2 años.",
+        "B": "3 años.",
+        "C": "5 años.",
+        "D": "10 años."
+      },
+      "opciones_chino": {
+        "A": "2年。",
+        "B": "3年。",
+        "C": "5年。",
+        "D": "10年。"
+      }
+    },
+    {
+      "cod": "2H01011",
+      "pregunta": "El permiso de conducción de la clase D+E solo podrá expedirse a los conductores que ya sean titulares de un permiso en vigor de la clase:",
+      "pregunta_chino": "D+E类驾驶许可只能向班级持有人持有班级许可的驾驶员：",
+      "solucion": "C",
+      "norma": "RD 818/2009, art. 5",
+      "opciones": {
+        "A": "B.",
+        "B": "D1.",
+        "C": "D.",
+        "D": "C."
+      },
+      "opciones_chino": {
+        "A": "B",
+        "B": "D1。",
+        "C": "D",
+        "D": "C"
+      }
+    },
+    {
+      "cod": "2H01012",
+      "pregunta": "El permiso de conducción de la clase D1+E solo podrá expedirse a los conductores que ya sean titulares de un permiso en vigor de la clase:",
+      "pregunta_chino": "D1+E类驾驶许可只能向持有班级许可证的驾驶员发行：",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 5",
+      "opciones": {
+        "A": "B.",
+        "B": "D1.",
+        "C": "C1.",
+        "D": "C."
+      },
+      "opciones_chino": {
+        "A": "B",
+        "B": "D1。",
+        "C": "C1。",
+        "D": "C"
+      }
+    },
+    {
+      "cod": "2H01013",
+      "pregunta": "¿Qué automóviles autoriza a conducir el permiso de la clase D1?",
+      "pregunta_chino": "什么汽车授权D1类许可？",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "Automóviles diseñados y construidos para el transporte de más de 16 pasajeros, además del conductor, y cuya longitud máxima no exceda de 8 metros.",
+        "B": "Automóviles diseñados y construidos para el transporte de no más de 16 pasajeros, además del conductor, y cuya longitud máxima no exceda de 8 metros.",
+        "C": "Automóviles diseñados y construidos para el transporte de no más de 16 pasajeros, además del conductor, y cuya longitud máxima exceda de 8 metros.",
+        "D": "Automóviles diseñados y construidos para el transporte de más de 16 pasajeros, además del conductor, y cuya longitud máxima exceda de 8 metros."
+      },
+      "opciones_chino": {
+        "A": "除驾驶员外，为超过16名乘客运输而设计和制造的汽车，其最大长度不超过8米。",
+        "B": "除驾驶员外，设计和制造的汽车旨在运输不超过16名乘客，其最大长度不超过8米。",
+        "C": "除驾驶员外，旨在运输不超过16名乘客的汽车，其最大长度超过8米。",
+        "D": "除驾驶员外，设计和制造的汽车专为16多名乘客运输，其最大长度超过8米。"
+      }
+    },
+    {
+      "cod": "2H01014",
+      "pregunta": "¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D si no se ha obtenido el CAP?",
+      "pregunta_chino": "如果没有获得CAP，获得D级驾驶许可证所需的最低年龄是多少？",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "18 años.",
+        "B": "24 años.",
+        "C": "21 años.",
+        "D": "20 años."
+      },
+      "opciones_chino": {
+        "A": "18年。",
+        "B": "24年。",
+        "C": "21年。",
+        "D": "20年。"
+      }
+    },
+    {
+      "cod": "2H01015",
+      "pregunta": "¿Qué organismo será competente para expedir los permisos y licencias de conducción?",
+      "pregunta_chino": "哪些机构将有能力签发驾驶许可证和许可证？",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 2",
+      "opciones": {
+        "A": "El Ministerio de Transportes.",
+        "B": "Las Jefaturas Provinciales de Tráfico con las excepciones que se establezcan reglamentariamente.",
+        "C": "La Dirección General de la Guardia Civil.",
+        "D": "La Dirección General de la Policía."
+      },
+      "opciones_chino": {
+        "A": "运输部。",
+        "B": "省级交通领导人与法规规定的例外。",
+        "C": "民事警卫队总局。",
+        "D": "警察局总局。"
+      }
+    },
+    {
+      "cod": "2H01016",
+      "pregunta": "¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D1+E si no se ha obtenido el CAP en la modalidad de cualificación inicial ordinaria?",
+      "pregunta_chino": "如果在普通初始资格的方式中未获得CAP，获得D1+E类驾驶许可证所需的最低年龄是多少？",
+      "solucion": "A",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "21 años.",
+        "B": "24 años.",
+        "C": "18 años.",
+        "D": "16 años."
+      },
+      "opciones_chino": {
+        "A": "21年。",
+        "B": "24年。",
+        "C": "18年。",
+        "D": "16年。"
+      }
+    },
+    {
+      "cod": "2H01017",
+      "pregunta": "¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D+E si no se ha obtenido el CAP?",
+      "pregunta_chino": "如果没有获得CAP，获得D+E类驾驶许可证所需的最低年龄将是多少？",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "21 años.",
+        "B": "24 años.",
+        "C": "18 años.",
+        "D": "16 años."
+      },
+      "opciones_chino": {
+        "A": "21年。",
+        "B": "24年。",
+        "C": "18年。",
+        "D": "16年。"
+      }
+    },
+    {
+      "cod": "2H01018",
+      "pregunta": "Cualquier variación de los datos que figuran en el permiso o licencia de conducción deberá ser comunicada por el titular a la Jefatura Provincial de Tráfico dentro del plazo de:",
+      "pregunta_chino": "持有人必须在以下时期内通信驾驶许可证或许可证中列出的数据的任何变化。",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 10",
+      "opciones": {
+        "A": "10 días.",
+        "B": "15 días.",
+        "C": "20 días.",
+        "D": "5 días."
+      },
+      "opciones_chino": {
+        "A": "10天。",
+        "B": "15天。",
+        "C": "20天。",
+        "D": "5天。"
+      }
+    },
+    {
+      "cod": "2H01019",
+      "pregunta": "¿Qué vehículos autoriza a conducir el permiso de la clase D1+E?",
+      "pregunta_chino": "哪些车辆授权推动D1+E类的许可？",
+      "solucion": "C",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D y un remolque cuya Masa Máxima Autorizada exceda de 750 kg.",
+        "B": "Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D y un remolque cuya Masa Máxima Autorizada no exceda de 750 kg.",
+        "C": "Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D1 y un remolque cuya Masa Máxima Autorizada exceda de 750 kg.",
+        "D": "Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D1 y un remolque cuya Masa Máxima Autorizada exceda de 3.500 kg."
+      },
+      "opciones_chino": {
+        "A": "由拖拉机车辆组成的一组耦合车辆，该车辆授权驾驶D级和拖车的许可，其最高授权质量超过750公斤。",
+        "B": "由授权授权批准的拖拉机车辆组成的一组耦合车辆和最高授权质量的拖车的许可不超过750公斤。",
+        "C": "由拖拉机车辆组成的一组耦合车辆，该车辆授权驾驶D1类的许可和最高授权质量的拖车超过750公斤。",
+        "D": "由拖拉机车辆组成的一组耦合车辆，该车辆授权驾驶D1类的许可和最高授权质量的拖车超过3,500公斤。"
+      }
+    },
+    {
+      "cod": "2H01020",
+      "pregunta": "Señale la afirmación correcta.",
+      "pregunta_chino": "指出正确的语句。",
+      "solucion": "C",
+      "norma": "RD 818/2009, art. 5",
+      "opciones": {
+        "A": "La obtención del permiso de las clases D y C implica la concesión del de las clases C1 y D1, respectivamente.",
+        "B": "La obtención del permiso de las clases C+E y D implica la concesión del de las clases C1 y D1, respectivamente.",
+        "C": "La obtención del permiso de las clases C y D implica la concesión del de las clases C1 y D1, respectivamente.",
+        "D": "La obtención del permiso de las clases C y D+E implica la concesión del de las clases C1 y D1, respectivamente."
+      },
+      "opciones_chino": {
+        "A": "获得D和C类的许可分别意味着C1和D1类的特许权。",
+        "B": "获得C+E和D类的许可分别意味着C1和D1类的特许权。",
+        "C": "获得C和D类的许可分别意味着C1和D1类的特许权。",
+        "D": "获得C和D+类的许可，分别意味着C1和D1类的特许权。"
+      }
+    },
+    {
+      "cod": "2H01021",
+      "pregunta": "Las pruebas de aptitud psicofísica tendrán por objeto dejar constancia de que no existe enfermedad o deficiencia que pueda suponer incapacidad para conducir asociada con:",
+      "pregunta_chino": "心理物理能力测试将有证据表明没有疾病或缺陷可能无法驱动与：",
+      "solucion": "D",
+      "norma": "RD 818/2009, art. 43",
+      "opciones": {
+        "A": "la capacidad neolectora.",
+        "B": "la capacidad intelectual.",
+        "C": "la posición socio-cultural.",
+        "D": "la capacidad visual y auditiva."
+      },
+      "opciones_chino": {
+        "A": "NEO领导能力。",
+        "B": "智力能力",
+        "C": "社会文化地位。",
+        "D": "视觉和听觉能力。"
+      }
+    },
+    {
+      "cod": "2H01022",
+      "pregunta": "¿A qué organismo se le deberá comunicar la variación de los datos que figuran en el permiso de conducción?",
+      "pregunta_chino": "应该将哪些生物传达给驾驶许可证中列出的数据的变化？",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 10",
+      "opciones": {
+        "A": "A cualquier ITV.",
+        "B": "A la Jefatura Provincial de Tráfico correspondiente.",
+        "C": "A la Jefatura Central de Tráfico.",
+        "D": "Al Ayuntamiento de residencia del titular del permiso."
+      },
+      "opciones_chino": {
+        "A": "到任何ITV。",
+        "B": "到相应的省级交通领导。",
+        "C": "到中央交通领导。",
+        "D": "到许可证负责人居住市议会。"
+      }
+    },
+    {
+      "cod": "2H01023",
+      "pregunta": "¿En qué caso se podrán expedir duplicados del permiso de conducción?",
+      "pregunta_chino": "在哪种情况下，可以颁发驾驶许可证的重复项？",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 11",
+      "opciones": {
+        "A": "Siempre que lo solicite el titular, previo pago de la tasa.",
+        "B": "Cuando haya variación de algún dato de los que deben constar en el permiso.",
+        "C": "Solamente en caso de deterioro del original que lo haga ilegible.",
+        "D": "No exiten los duplicacos de permiso de conducción, solo las nuevas expediciones."
+      },
+      "opciones_chino": {
+        "A": "只要持有人要求提前支付费用。",
+        "B": "当某些数据的变化时，应记录在许可中。",
+        "C": "只有在原始原件恶化的情况下，这使其难以辨认。",
+        "D": "不要将驾驶许可证的重复，只有新的探险。"
+      }
+    },
+    {
+      "cod": "2H01024",
+      "pregunta": "¿En qué casos se podrán expedir duplicados del permiso de conducción?",
+      "pregunta_chino": "在什么情况下，可以颁发驾驶许可证的重复项？",
+      "solucion": "C",
+      "norma": "RD 818/2009, art. 11",
+      "opciones": {
+        "A": "En cualquier caso, previa solicitud del interesado ante las Jefaturas Provinciales de Tráfico.",
+        "B": "Solamente en caso de deterioro del original.",
+        "C": "En los casos de sustracción, extravío o deterioro del original.",
+        "D": "En ningún caso."
+      },
+      "opciones_chino": {
+        "A": "无论如何，应有兴趣的一方在省级交通领导者面前的要求。",
+        "B": "仅在原始原件恶化的情况下。",
+        "C": "在减法的情况下，原始的损失或恶化。",
+        "D": "在任何情况下。"
+      }
+    },
+    {
+      "cod": "2H01025",
+      "pregunta": "¿Qué período de vigencia tendrá el permiso de conducción de la clase D cuando el titular haya cumplido 66 años?",
+      "pregunta_chino": "当持有人年满66岁时，哪个有效期将有D类驾驶许可证？",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 12",
+      "opciones": {
+        "A": "5 años.",
+        "B": "3 años.",
+        "C": "2 años.",
+        "D": "1 año."
+      },
+      "opciones_chino": {
+        "A": "5年。",
+        "B": "3年。",
+        "C": "2年。",
+        "D": "1年。"
+      }
+    },
+    {
+      "cod": "2H01026",
+      "pregunta": "¿Qué vehículos autoriza a conducir el permiso de la clase D+E?",
+      "pregunta_chino": "哪些车辆授权推动D+E类的许可？",
+      "solucion": "A",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D y un remolque cuya Masa Máxima Autorizada exceda de 750 kg.",
+        "B": "Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D1 y un remolque cuya Masa Máxima Autorizada exceda de 750 kg.",
+        "C": "Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D y un remolque cuya Masa Máxima Autorizada no exceda de 750 kg.",
+        "D": "Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D y un remolque cuya Masa Máxima Autorizada exceda de 3.500 kg."
+      },
+      "opciones_chino": {
+        "A": "由拖拉机车辆组成的一组耦合车辆，该车辆授权驾驶D级和拖车的许可，其最高授权质量超过750公斤。",
+        "B": "由拖拉机车辆组成的一组耦合车辆，该车辆授权驾驶D1类的许可和最高授权质量的拖车超过750公斤。",
+        "C": "由授权授权批准的拖拉机车辆组成的一组耦合车辆和最高授权质量的拖车的许可不超过750公斤。",
+        "D": "由拖拉机车辆组成的一组耦合车辆，该车辆授权驾驶D级和拖车的许可，其最高授权质量超过3,500公斤。"
+      }
+    },
+    {
+      "cod": "2H01027",
+      "pregunta": "¿Qué vehículos autoriza a conducir el permiso de la clase D?",
+      "pregunta_chino": "什么车辆授权驾驶D级？",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "Automóviles diseñados y construidos para el transporte de más de 9 pasajeros, además del conductor.",
+        "B": "Automóviles diseñados y construidos para el transporte de más de 8 pasajeros, además del conductor.",
+        "C": "Automóviles diseñados y construidos para el transporte de sOlo 8 pasajeros, además del conductor.",
+        "D": "Automóviles diseñados y construidos para el transporte de 9 pasajeros, además del conductor."
+      },
+      "opciones_chino": {
+        "A": "除驾驶员外，设计和制造了为9多名乘客运输的汽车。",
+        "B": "除驾驶员外，设计和制造了为8位乘客运输的汽车。",
+        "C": "除驾驶员外，仅专为仅8位乘客运输的汽车设计和制造。",
+        "D": "除驾驶员外，为9名乘客运输设计和制造的汽车。"
+      }
+    },
+    {
+      "cod": "2H01028",
+      "pregunta": "¿Qué requisitos son necesarios para obtener un permiso de conducción?",
+      "pregunta_chino": "获得驾驶许可证需要什么要求？",
+      "solucion": "D",
+      "norma": "RD 818/2009, art. 7",
+      "opciones": {
+        "A": "Reunir las actitudes psíquicas requeridas en relación con la clase del permiso o licencia de conducción que se solicite.",
+        "B": "En el caso de extranjeros, acreditar la situación de residencia normal o estancia por estudios en España de, al menos, tres meses y haber cumplido la edad requerida.",
+        "C": "Reunir las actitudes físicas requeridas en relación con la clase del permiso o licencia de conducción que se solicite.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "收集与要求的许可证或驾驶执照有关的所需的心理态度。",
+        "B": "就外国人而言，证明正常居住的情况或在西班牙留下至少三个月的时间，并满足了所需的年龄。",
+        "C": "收集与要求的许可证或驾驶执照有关的所需的身体态度。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2H01029",
+      "pregunta": "¿Qué período de vigencia tiene el permiso de conducir de la clase B si su titular tiene menos de 65 años?",
+      "pregunta_chino": "如果其持有人不到65岁，则B级驾驶执照的有效性有什么样的时期？",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 12",
+      "opciones": {
+        "A": "5 años.",
+        "B": "10 años.",
+        "C": "4 años.",
+        "D": "3 años."
+      },
+      "opciones_chino": {
+        "A": "5年。",
+        "B": "10年。",
+        "C": "4年。",
+        "D": "3年。"
+      }
+    },
+    {
+      "cod": "2H01030",
+      "pregunta": "¿Qué documentos deben adjuntarse a la solicitud de duplicado del permiso de conducción?",
+      "pregunta_chino": "驾驶执照的重复要求应附上哪些文件？",
+      "solucion": "C",
+      "norma": "RD 818/2009, Anexo III.A y C",
+      "opciones": {
+        "A": "El permiso original cuando la causa de la solicitud sea por sustracción.",
+        "B": "Una fotografía del solicitante de 30 por 25 mm.",
+        "C": "El documento que acredite la variación de los datos que figuran en el permiso cuando la causa sea la variación de datos.",
+        "D": "El documento original acreditativo del código de identificación fiscal o CIF."
+      },
+      "opciones_chino": {
+        "A": "当申请的原因是用于减法时的原始许可证。",
+        "B": "申请人的照片30 x 25毫米。",
+        "C": "当原因是数据变化时，证明了许可证中出现的数据变化的文档。",
+        "D": "财政身份代码或CIF的原始文件。"
+      }
+    },
+    {
+      "cod": "2H01031",
+      "pregunta": "La solicitud de prórroga de vigencia del permiso podrá presentarse:",
+      "pregunta_chino": "可以提交延长许可证的请求：",
+      "solucion": "D",
+      "norma": "RD 818/2009, art. 13",
+      "opciones": {
+        "A": "con una antelación máxima de dos meses a su fecha de caducidad, computándose desde esta última fecha el nuevo período de vigencia de la autorización. En supuestos excepcionales debidamente justificados, se podrá solicitar con una antelación mayor.",
+        "B": "con una antelación máxima de seis meses a su fecha de caducidad, computándose desde esta última fecha el nuevo período de vigencia de la autorización. En supuestos excepcionales debidamente justificados, se podrá solicitar con una antelación mayor.",
+        "C": "con una antelación mínima de tres meses a su fecha de caducidad, computándose desde esta última fecha el nuevo período de vigencia de la autorización. En supuestos excepcionales debidamente justificados, se podrá solicitar con una antelación menor.",
+        "D": "con una antelación máxima de tres meses a su fecha de caducidad, computándose desde esta última fecha el nuevo período de vigencia de la autorización. En supuestos excepcionales debidamente justificados, se podrá solicitar con una antelación mayor."
+      },
+      "opciones_chino": {
+        "A": "在两个月的到期日期之前，该日期的授权有效期的新有效期。在适当合理的特殊假设中，可以提前要求。",
+        "B": "在六个月之前，该日期起了六个月的到期日期。在适当合理的特殊假设中，可以提前要求。",
+        "C": "至少三个月到期日期，从最后一个日期开始计算授权的新有效期。在适当合理的特殊假设中，可以要求较低的进步。",
+        "D": "在三个月到期日期之前，该日期的授权有效期的新有效期。在适当合理的特殊假设中，可以提前要求。"
+      }
+    },
+    {
+      "cod": "2H01032",
+      "pregunta": "¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D+E cuando se haya obtenido el CAP previamente?",
+      "pregunta_chino": "先前获得CAP后，获得D+E类驾驶执照所需的最低年龄是多少？",
+      "solucion": "A",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "18 años.",
+        "B": "24 años.",
+        "C": "21 años.",
+        "D": "20 años."
+      },
+      "opciones_chino": {
+        "A": "18年。",
+        "B": "24年。",
+        "C": "21年。",
+        "D": "20年。"
+      }
+    },
+    {
+      "cod": "2H01033",
+      "pregunta": "¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D cuando se haya obtenido el CAP previamente?",
+      "pregunta_chino": "先前获得CAP后获得D级驾驶许可证所需的最低年龄是多少？",
+      "solucion": "A",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "21 años.",
+        "B": "24 años.",
+        "C": "18 años.",
+        "D": "16 años."
+      },
+      "opciones_chino": {
+        "A": "21年。",
+        "B": "24年。",
+        "C": "18年。",
+        "D": "16年。"
+      }
+    },
+    {
+      "cod": "2H01034",
+      "pregunta": "¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D1 si se ha obtenido previamente el CAP realizando la modalidad de cualificación inicial ordinaria?",
+      "pregunta_chino": "如果以前通过执行普通初始资格模式获得了CAP，获得D1驾驶许可证的最低年龄是多少？",
+      "solucion": "C",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "21 años.",
+        "B": "24 años.",
+        "C": "18 años.",
+        "D": "16 años."
+      },
+      "opciones_chino": {
+        "A": "21年。",
+        "B": "24年。",
+        "C": "18年。",
+        "D": "16年。"
+      }
+    },
+    {
+      "cod": "2H01035",
+      "pregunta": "Un conductor que haya obtenido el permiso de conducir de clase D a los 18 años no puede…",
+      "pregunta_chino": "在18年获得D级驾驶执照的驾驶员无法...",
+      "solucion": "D",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "efectuar transporte internacional.",
+        "B": "realizar un transporte escolar con un trayecto superior a 50 km.",
+        "C": "realizar un transporte regular con un trayecto superior a 100 km.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "进行国际运输。",
+        "B": "用大于50公里的路线进行学校交通。",
+        "C": "用大于100 km的路径执行正常运输。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2H01036",
+      "pregunta": "Un conductor que haya obtenido el permiso de conducir de clase D+E a los 18 años no puede…",
+      "pregunta_chino": "在18岁时获得了D+E级驾驶执照的驾驶员无法...",
+      "solucion": "D",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "efectuar transporte internacional.",
+        "B": "realizar un transporte escolar con un trayecto superior a 50 km.",
+        "C": "realizar un transporte regular con un trayecto superior a 100 km.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "进行国际运输。",
+        "B": "用大于50公里的路线进行学校交通。",
+        "C": "用大于100 km的路径执行正常运输。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2H01037",
+      "pregunta": "Un conductor que tenga la edad de 20 años y que haya obtenido el permiso de conducir de clase D+E a los 18 años no puede…",
+      "pregunta_chino": "拥有20岁并在18岁获得D+E级驾驶执照的驾驶员无法...",
+      "solucion": "D",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "efectuar un transporte de menores con un trayecto superior a 200 km.",
+        "B": "realizar un transporte escolar con un trayecto superior a 50 km.",
+        "C": "realizar un transporte regular con un trayecto superior a 100 km.",
+        "D": "efectuar transporte internacional."
+      },
+      "opciones_chino": {
+        "A": "用大于200公里的路线进行未成年人的运输。",
+        "B": "用大于50公里的路线进行学校交通。",
+        "C": "用大于100 km的路径执行正常运输。",
+        "D": "进行国际运输。"
+      }
+    },
+    {
+      "cod": "2H01038",
+      "pregunta": "Un conductor que tenga la edad de 20 años y que haya obtenido el permiso de conducir de clase D a los 18 años no puede…",
+      "pregunta_chino": "一个20岁，在18岁获得D级驾驶执照的驾驶员无法...",
+      "solucion": "D",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "efectuar un transporte de menores con un trayecto superior a 200 km.",
+        "B": "realizar un transporte escolar con un trayecto superior a 50 km.",
+        "C": "realizar un transporte regular con un trayecto superior a 100 km.",
+        "D": "efectuar transporte internacional."
+      },
+      "opciones_chino": {
+        "A": "用大于200公里的路线进行未成年人的运输。",
+        "B": "用大于50公里的路线进行学校交通。",
+        "C": "用大于100 km的路径执行正常运输。",
+        "D": "进行国际运输。"
+      }
+    },
+    {
+      "cod": "2H01039",
+      "pregunta": "¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D si se ha obtenido previamente el CAP realizando la modalidad de cualificación inicial acelerada?",
+      "pregunta_chino": "如果以前通过执行初始资格模式获得了CAP，获得D级驾驶许可证所需的最低年龄是多少？",
+      "solucion": "C",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "24 años.",
+        "B": "23 años.",
+        "C": "21 años.",
+        "D": "18 años."
+      },
+      "opciones_chino": {
+        "A": "24年。",
+        "B": "23年。",
+        "C": "21年。",
+        "D": "18年。"
+      }
+    },
+    {
+      "cod": "2H01040",
+      "pregunta": "¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D+E si se ha obtenido previamente el CAP realizando la modalidad de cualificación inicial acelerada?",
+      "pregunta_chino": "如果先前通过执行初始资格模式获得了CAP，则获得D+E类驾驶许可证所需的最低年龄是多少？",
+      "solucion": "C",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "24 años.",
+        "B": "23 años.",
+        "C": "21 años.",
+        "D": "18 años."
+      },
+      "opciones_chino": {
+        "A": "24年。",
+        "B": "23年。",
+        "C": "21年。",
+        "D": "18年。"
+      }
+    },
+    {
+      "cod": "2H01041",
+      "pregunta": "¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D1+E si se ha obtenido previamente el CAP realizando la modalidad de cualificación inicial ordinaria?",
+      "pregunta_chino": "如果以前通过执行普通初始资格模式获得了CAP，获得D1+E类驾驶许可证所需的最低年龄是多少？",
+      "solucion": "C",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "21 años.",
+        "B": "24 años.",
+        "C": "18 años.",
+        "D": "16 años."
+      },
+      "opciones_chino": {
+        "A": "21年。",
+        "B": "24年。",
+        "C": "18年。",
+        "D": "16年。"
+      }
+    },
+    {
+      "cod": "2H01042",
+      "pregunta": "Un conductor que haya obtenido el CAP realizando la modalidad de cualificación inicial acelerada y el permiso de conducir de clase D a los 21 años no puede…",
+      "pregunta_chino": "通过执行初始加速资格模式而获得CAP的驾驶员，而D级驾驶执照在21岁则无法...",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "efectuar un transporte de menores con un trayecto superior a 200 km.",
+        "B": "realizar un transporte escolar con un trayecto superior a 50 km.",
+        "C": "realizar un transporte regular con un trayecto superior a 40 km.",
+        "D": "efectuar transporte internacional."
+      },
+      "opciones_chino": {
+        "A": "用大于200公里的路线进行未成年人的运输。",
+        "B": "用大于50公里的路线进行学校交通。",
+        "C": "用大于40 km的路径执行正常运输。",
+        "D": "进行国际运输。"
+      }
+    },
+    {
+      "cod": "2H01043",
+      "pregunta": "Un conductor que haya obtenido el CAP realizando la modalidad de cualificación inicial acelerada y el permiso de conducir de clase D+E a los 21 años no puede…",
+      "pregunta_chino": "通过执行初始加速资格模式和21岁的D+E类驾驶执照来获得上限的驾驶员无法...",
+      "solucion": "B",
+      "norma": "RD 818/2009, art. 4",
+      "opciones": {
+        "A": "efectuar un transporte de menores con un trayecto superior a 200 km.",
+        "B": "realizar un transporte escolar con un trayecto superior a 50 km.",
+        "C": "realizar un transporte regular con un trayecto superior a 40 km.",
+        "D": "efectuar transporte internacional."
+      },
+      "opciones_chino": {
+        "A": "用大于200公里的路线进行未成年人的运输。",
+        "B": "用大于50公里的路线进行学校交通。",
+        "C": "用大于40 km的路径执行正常运输。",
+        "D": "进行国际运输。"
+      }
+    },
+    {
+      "cod": "2H02001",
+      "pregunta": "¿Cuál es la velocidad máxima a la que podrán circular los vehículos dedicados al transporte escolar por carretera convencional?",
+      "pregunta_chino": "传统道路专用于学校运输的车辆的最大速度是多少？",
+      "solucion": "D",
+      "norma": "RD 443/2001, art. 9",
+      "opciones": {
+        "A": "100 kilómetros/hora.",
+        "B": "60 kilómetros/hora.",
+        "C": "50 kilómetros/hora.",
+        "D": "80 kilómetros/hora."
+      },
+      "opciones_chino": {
+        "A": "100公里/小时。",
+        "B": "60公里/小时。",
+        "C": "50公里/小时。",
+        "D": "80公里/小时。"
+      }
+    },
+    {
+      "cod": "2H02002",
+      "pregunta": "¿Cuál es la velocidad máxima a la que pueden circular los vehículos que realicen transporte escolar o de menores en una autopista?",
+      "pregunta_chino": "哪些使学校或高速公路上的未成年人可以流通的车辆的最大速度是多少？",
+      "solucion": "D",
+      "norma": "RD 443/2001, art. 9",
+      "opciones": {
+        "A": "100 kilómetros/hora.",
+        "B": "120 kilómetros/hora.",
+        "C": "80 kilómetros/hora.",
+        "D": "90 kilómetros/hora."
+      },
+      "opciones_chino": {
+        "A": "100公里/小时。",
+        "B": "120公里/小时。",
+        "C": "80公里/小时。",
+        "D": "90公里/小时。"
+      }
+    },
+    {
+      "cod": "2H02003",
+      "pregunta": "¿Cuál es la velocidad máxima a la que pueden circular los vehículos que realicen transporte escolar o de menores en vías urbanas y travesías?",
+      "pregunta_chino": "哪些执行学校或城市以及穿越的车辆的最大速度是多少？",
+      "solucion": "B",
+      "norma": "RD 443/2001, art. 9",
+      "opciones": {
+        "A": "60 kilómetros/hora.",
+        "B": "50 kilómetros/hora.",
+        "C": "40 kilómetros/hora.",
+        "D": "30 kilómetros/hora."
+      },
+      "opciones_chino": {
+        "A": "60公里/小时。",
+        "B": "50公里/小时。",
+        "C": "40公里/小时。",
+        "D": "30公里/小时。"
+      }
+    },
+    {
+      "cod": "2H02004",
+      "pregunta": "¿Quiénes quedan obligados a someterse a las pruebas para la detección de posibles intoxicaciones por alcohol?",
+      "pregunta_chino": "谁必须接受检测可能的酒精中毒的测试？",
+      "solucion": "A",
+      "norma": "RD 1428/2003, art. 21",
+      "opciones": {
+        "A": "Todos conductores de vehículos.",
+        "B": "Solo los conductores de vehículos con signos de embriaguez.",
+        "C": "Solo aquellos conductores que estén implicados directa o indirectamente en algún accidente.",
+        "D": "Solo aquellos conductores que estén implicados directamente en algún accidente."
+      },
+      "opciones_chino": {
+        "A": "所有车辆驾驶员。",
+        "B": "只有带有醉酒的车辆驾驶员。",
+        "C": "只有那些直接或间接涉及事故的指挥。",
+        "D": "只有那些直接卷入事故的司机。"
+      }
+    },
+    {
+      "cod": "2H02005",
+      "pregunta": "Por razones de fluidez del tráfico, la autoridad competente puede establecer …",
+      "pregunta_chino": "由于交通流动性的原因，主管当局可以建立...",
+      "solucion": "D",
+      "norma": "RD 1428/2003, art. 37",
+      "opciones": {
+        "A": "la utilización de arcenes para circular.",
+        "B": "la circulación en sentido opuesto al habitual .",
+        "C": "la prohibición del acceso a la vía a determinados usuarios.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "使用竖琴来循环。",
+        "B": "朝与通常的方向相反的循环。",
+        "C": "禁止通往某些用户的道路。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2H02006",
+      "pregunta": "¿Se pueden establecer restricciones a la circulación por una carretera a vehículos con Masa Máxima Autorizada superior a 3.500 kilogramos?",
+      "pregunta_chino": "是否可以建立具有最高授权质量的车辆道路的限制？",
+      "solucion": "B",
+      "norma": "RD 1428/2003, art. 37",
+      "opciones": {
+        "A": "Sí, por razones climatológicas.",
+        "B": "Sí, cuando se prevea una elevada intensidad de tráfico.",
+        "C": "Solo en tramos urbanos.",
+        "D": "No, nunca."
+      },
+      "opciones_chino": {
+        "A": "是的，出于天气原因。",
+        "B": "是的，当预见到高的交通强度时。",
+        "C": "仅在城市部分。",
+        "D": "不，永远不会。"
+      }
+    },
+    {
+      "cod": "2H02007",
+      "pregunta": "¿Qué consituye un delito contra la seguridad vial?",
+      "pregunta_chino": "什么是针对道路安全的犯罪？",
+      "solucion": "C",
+      "norma": "Ley Orgánica 10/1995, art. 379",
+      "opciones": {
+        "A": "Conducir un vehículo en vía interurbana 40 km por encima de la velocidad permitida.",
+        "B": "Conducir un vehículo en vía urbana 50 km por encima de la velocidad permitida.",
+        "C": "Conducir un vehículo en vía urbana 60 km por encima de la velocidad permitida.",
+        "D": "Todas las respuestas son faltas administrativas."
+      },
+      "opciones_chino": {
+        "A": "在允许速度上方40 km的城际城市间驾驶车辆。",
+        "B": "驾驶超过允许速度的50公里城市车辆。",
+        "C": "在允许速度高60公里的城市路上驾驶车辆。",
+        "D": "所有答案都是行政犯罪。"
+      }
+    },
+    {
+      "cod": "2H02008",
+      "pregunta": "¿Qué consituye un delito contra la seguridad vial?",
+      "pregunta_chino": "什么是针对道路安全的犯罪？",
+      "solucion": "B",
+      "norma": "Ley Orgánica 10/1995, art. 379",
+      "opciones": {
+        "A": "Conducir un vehículo en vía interurbana 60 km por encima de la velocidad permitida.",
+        "B": "Conducir un vehículo en vía interurbana 80 km por encima de la velocidad permitida.",
+        "C": "Conducir un vehículo en vía urbana 40 km por encima de la velocidad permitida.",
+        "D": "Conducir un vehículo en vía urbana 50 km por encima de la velocidad permitida."
+      },
+      "opciones_chino": {
+        "A": "在允许速度上方60 km的城市间驾驶车辆。",
+        "B": "在允许速度上方80 km的城市间驾驶车辆。",
+        "C": "在允许速度上方40公里处，在城市中驾驶车辆。",
+        "D": "驾驶超过允许速度的50公里城市车辆。"
+      }
+    },
+    {
+      "cod": "2H02009",
+      "pregunta": "¿Cuál es la tasa de alcohol en sangre a partir de la cual establece el Código Penal que un conductor ha cometido un delito contra la seguridad vial?",
+      "pregunta_chino": "《刑法》确定驾驶员对道路安全犯罪的血液酒精率是多少？",
+      "solucion": "B",
+      "norma": "Ley Orgánica 10/1995, art. 379",
+      "opciones": {
+        "A": "1 gr/l.",
+        "B": "1,2 gr/l.",
+        "C": "1,5 gr/l.",
+        "D": "1,8 gr/l."
+      },
+      "opciones_chino": {
+        "A": "1 gr/l。",
+        "B": "1.2 gr/l。",
+        "C": "1.5 gr/l。",
+        "D": "1.8 gr/l。"
+      }
+    },
+    {
+      "cod": "2H02010",
+      "pregunta": "Conducir un vehículo con temeridad manifiesta, sin poner en peligro concreto la vida o integridad de las personas, ¿es un delito contra la seguridad vial?",
+      "pregunta_chino": "进行明显的工具，而不会危害人们的生命或正直，这是针对道路安全的犯罪吗？",
+      "solucion": "A",
+      "norma": "Ley Orgánica 10/1995, art. 381",
+      "opciones": {
+        "A": "Sí, es un delito.",
+        "B": "No, es una falta penal.",
+        "C": "No, es una falta administrativa muy grave.",
+        "D": "No, es una falta administrativa grave."
+      },
+      "opciones_chino": {
+        "A": "是的，这是犯罪。",
+        "B": "不，这是刑事犯罪。",
+        "C": "不，这是一个非常严重的管理错误。",
+        "D": "不，这是一个严重的管理错误。"
+      }
+    },
+    {
+      "cod": "2H02011",
+      "pregunta": "Colocar en una vía un obstáculo imprevisto que altera la seguridad del tráfico:",
+      "pregunta_chino": "放置一个不可预见的障碍，以改变交通安全：",
+      "solucion": "C",
+      "norma": "Ley Orgánica 10/1995, art. 385",
+      "opciones": {
+        "A": "es una falta administrativa muy grave.",
+        "B": "es una falta administrativa grave.",
+        "C": "es un delito contra la seguridad del tráfico.",
+        "D": "Ninguna de las respuestas es correcta."
+      },
+      "opciones_chino": {
+        "A": "这是一个非常严重的行政犯罪。",
+        "B": "这是严重的管理错误。",
+        "C": "这是针对交通安全的犯罪。",
+        "D": "答案都不正确。"
+      }
+    },
+    {
+      "cod": "2H02012",
+      "pregunta": "Cuando se circule por carriles reversibles…",
+      "pregunta_chino": "当它通过可逆的车道循环时...",
+      "solucion": "A",
+      "norma": "RD 1428/2003, art. 40",
+      "opciones": {
+        "A": "los conductores deberán llevar encendida la luz de corto alcance o de cruce, tanto de día como de noche.",
+        "B": "los conductores deberán llevar encendida la luz de corto alcance o de cruce, solo de noche.",
+        "C": "no es necesario utilizar luces especiales.",
+        "D": "los conductores deberán circular a la mitad de la velocidad permitida en el sentido normal de la circulación."
+      },
+      "opciones_chino": {
+        "A": "驾驶员必须在白天和黑夜携带短或交叉的灯光。",
+        "B": "驾驶员只能在晚上携带短或交叉的灯光。",
+        "C": "不必使用特殊灯。",
+        "D": "驾驶员必须以正常的循环意义以允许速度的一半循环。"
+      }
+    },
+    {
+      "cod": "2H02013",
+      "pregunta": "El recorrido marcha atrás…",
+      "pregunta_chino": "后游...",
+      "solucion": "B",
+      "norma": "RD 1428/2003, art. 80",
+      "opciones": {
+        "A": "está prohibido en todos los casos.",
+        "B": "se permite como maniobra complementaria de la parada, el estacionamiento o la incorporación y no podrá ser superior a quince metros ni invadir un cruce de vías.",
+        "C": "Se permite como maniobra complementaria de cualquier otra que la exija y siempre con el recorrido mínimo indispensable para efectuarla.",
+        "D": "Está permitida en todos los casos sin limitaciones, siempre que se adopten las debidas precauciones."
+      },
+      "opciones_chino": {
+        "A": "在所有情况下都禁止它。",
+        "B": "它可以作为停车，停车场或公司的补充机动，不得超过15米或入侵十字路口。",
+        "C": "它可以作为其他需要它的其他任何需要的互补操作，并且始终以最小必不可少的路线进行操作。",
+        "D": "只要采用适当的预防措施，就可以在所有情况下都没有限制。"
+      }
+    },
+    {
+      "cod": "2H02014",
+      "pregunta": "Mientras conduce, ¿a qué está obligado el conductor por normativa?",
+      "pregunta_chino": "在开车时，驾驶员必须执行什么法规？",
+      "solucion": "D",
+      "norma": "RD 1428/2003, art. 18",
+      "opciones": {
+        "A": "A mantener su propia libertad de movimientos.",
+        "B": "A conservar el campo necesario de visión.",
+        "C": "A atender de manera constante a la conducción.",
+        "D": "Todas las respuestas son correctas"
+      },
+      "opciones_chino": {
+        "A": "保持自己的运动自由。",
+        "B": "保持必要的视觉字段。",
+        "C": "不断参加开车。",
+        "D": "所有答案都是正确的"
+      }
+    },
+    {
+      "cod": "2H02015",
+      "pregunta": "¿El uso de qué dispositivos prohíbe la normativa con el vehículo en movimiento?",
+      "pregunta_chino": "使用什么设备禁止使用车辆运行的法规？",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 18",
+      "opciones": {
+        "A": "Dispositivos GPS.",
+        "B": "Monitores de visión de cámaras de maniobras traseras.",
+        "C": "Cascos o auriculares conectados a aparatos receptores o reproductores de sonido.",
+        "D": "Todos los dispositivos anteriores están prohibidos."
+      },
+      "opciones_chino": {
+        "A": "GPS设备。",
+        "B": "后方操纵相机的视觉监视器。",
+        "C": "头盔或耳机连接到受体或声音玩家。",
+        "D": "所有以前的设备都被禁止。"
+      }
+    },
+    {
+      "cod": "2H02016",
+      "pregunta": "En ausencia de regulación para el paso de vehículos por puentes u obras en los que uno de ellos tenga que dar marcha atrás, los vehículos y transportes especiales que excedan de los pesos o dimensiones establecidos tendrán preferencia de paso:",
+      "pregunta_chino": "在没有法规的情况下，桥梁或作品中，其中一个必须退缩，超过已建立重量或尺寸的特殊车辆和运输将具有通行证的偏爱：",
+      "solucion": "A",
+      "norma": "RD 1428/2003, art. 62",
+      "opciones": {
+        "A": "sobre el resto de los vehículos.",
+        "B": "sobre el resto de los vehículos, a excepción de los que transporten viajeros.",
+        "C": "sobre los turismos y motocicletas, exclusivamente.",
+        "D": "sobre los que transporten mercancías peligrosas, exclusivamente."
+      },
+      "opciones_chino": {
+        "A": "关于其余的车辆。",
+        "B": "除了运输旅客的人外，还有其余的车辆。",
+        "C": "仅在汽车和摩托车上。",
+        "D": "独家运输危险货物的人。"
+      }
+    },
+    {
+      "cod": "2H02017",
+      "pregunta": "En calzadas con doble sentido de circulación y tres carriles separados por marcas longitudinales discontinuas, ¿en qué caso se puede utilizar el carril central?",
+      "pregunta_chino": "在循环双向双向的道路上，三个车道被不连续的纵向标记隔开，在这种情况下，可以使用中央车道？",
+      "solucion": "B",
+      "norma": "RD 1428/2003, art. 30",
+      "opciones": {
+        "A": "Solo para efectuar adelantamientos.",
+        "B": "Tan solo para efectuar adelantamientos precisos y para cambiar de dirección hacia la izquierda.",
+        "C": "Solo para cambiar de dirección hacia la izquierda.",
+        "D": "Para poder desplazarse al carril situado más a su izquierda."
+      },
+      "opciones_chino": {
+        "A": "只是为了提前。",
+        "B": "只是为了确切的进步并将方向转移到左边。",
+        "C": "只是为了改变向左的方向。",
+        "D": "能够搬到左边的车道。"
+      }
+    },
+    {
+      "cod": "2H02018",
+      "pregunta": "¿Qué vehículos deben circular por el arcén transitable de su derecha?",
+      "pregunta_chino": "哪些车辆应通过右边可通过的肩膀循环？",
+      "solucion": "A",
+      "norma": "RD 1428/2003, art. 36",
+      "opciones": {
+        "A": "Los vehículos cuya Masa Máxima Autorizada no exceda de 3.500 kilogramos y que, por razones de emergencia, lo hagan a velocidad anormalmente reducida.",
+        "B": "Los vehículos especiales con Masa Máxima Autorizada superior a 3.500 kilogramos.",
+        "C": "Los vehículos cuya Masa Máxima Autorizada exceda de 3.500 kilogramos y que, por razones de emergencia, lo hagan a velocidad anormalmente reducida.",
+        "D": "Solo los vehículos para personas de movilidad reducida."
+      },
+      "opciones_chino": {
+        "A": "最高授权质量的车辆不超过3500公斤，出于紧急原因，以异常降低的速度这样做。",
+        "B": "最大授权质量大于3500公斤的特殊车辆。",
+        "C": "最大授权质量的车辆超过3500公斤，出于紧急原因，以异常降低的速度进行。",
+        "D": "只有减少行动人士的车辆。"
+      }
+    },
+    {
+      "cod": "2H02019",
+      "pregunta": "En los tramos estrechos de gran pendiente, como norma general, tendrá preferencia de paso el vehículo que circule en sentido:",
+      "pregunta_chino": "在一般规则中，在大坡度的狭窄部分中，向方向循环的车辆将偏爱：",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 63",
+      "opciones": {
+        "A": "No se establecen preferencias en este caso.",
+        "B": "contrario.",
+        "C": "ascendente.",
+        "D": "descendente."
+      },
+      "opciones_chino": {
+        "A": "在这种情况下，没有建立偏好。",
+        "B": "相反。",
+        "C": "向上。",
+        "D": "跌倒。"
+      }
+    },
+    {
+      "cod": "2H02020",
+      "pregunta": "¿A qué velocidad máxima puede circular un autobús que realiza un transporte escolar por una autopista?",
+      "pregunta_chino": "以什么最大速度可以在高速公路上执行学校交通的公共汽车？",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 48",
+      "opciones": {
+        "A": "110 km/h.",
+        "B": "100 km/h.",
+        "C": "90 km/h.",
+        "D": "80 km/h."
+      },
+      "opciones_chino": {
+        "A": "110 km/h。",
+        "B": "100 km/h。",
+        "C": "90 km/h。",
+        "D": "80 km/h。"
+      }
+    },
+    {
+      "cod": "2H02021",
+      "pregunta": "¿A qué velocidad máxima puede circular un autobús que realiza un transporte escolar por un carretera convencional?",
+      "pregunta_chino": "在传统道路上执行学校运输的公共汽车可以以什么最大速度？",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 48",
+      "opciones": {
+        "A": "100 km/h.",
+        "B": "90 km/h.",
+        "C": "80 km/h.",
+        "D": "70 km/h."
+      },
+      "opciones_chino": {
+        "A": "100 km/h。",
+        "B": "90 km/h。",
+        "C": "80 km/h。",
+        "D": "70 km/h。"
+      }
+    },
+    {
+      "cod": "2H02022",
+      "pregunta": "La velocidad para no entorpecer la marcha normal de otros vehículos circulando no deberá ser inferior:",
+      "pregunta_chino": "不阻碍其他车辆循环的正常游行的速度不应较低：",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 49",
+      "opciones": {
+        "A": "a 60 km/h en carreteras convencionales.",
+        "B": "si es un autobús, a 50 km/h en carreteras convencionales.",
+        "C": "si es un autobús, a 45 km/h en carreteras convencionales.",
+        "D": "si es un autobús, a 40 km/h en carreteras convencionales."
+      },
+      "opciones_chino": {
+        "A": "在传统道路上为60 km/h。",
+        "B": "如果是公共汽车，则在传统道路上50 km/h。",
+        "C": "如果是公共汽车，则在常规道路上为45公里/小时。",
+        "D": "如果是公共汽车，则在传统道路上40 km/h。"
+      }
+    },
+    {
+      "cod": "2H02023",
+      "pregunta": "La velocidad para no entorpecer la marcha normal de otros vehículos circulando no deberá ser inferior a:",
+      "pregunta_chino": "不阻碍其他车辆循环的正常游行的速度不应少于：",
+      "solucion": "B",
+      "norma": "RD 1428/2003, art. 49",
+      "opciones": {
+        "A": "60 kilómetros por hora, en cualquier tipo de carretera.",
+        "B": "60 kilómetros por hora, en autopistas y autovías.",
+        "C": "60 kilómetros por hora, en autovías y carreteras de una sola calzada.",
+        "D": "la mitad de la genéricamente establecida para autovías y vías rápidas."
+      },
+      "opciones_chino": {
+        "A": "每小时60公里，在任何类型的道路上。",
+        "B": "每小时60公里，在高速公路和高速公路上。",
+        "C": "每小时60公里，在一条道路上的高速公路和道路上。",
+        "D": "一半是为高速公路和快速道路建立的一半。"
+      }
+    },
+    {
+      "cod": "2H02024",
+      "pregunta": "Los vehículos especiales o en régimen de transporte especial que no excedan las masas o dimensiones establecidas reglamentariamente y que no puedan desarrollar una velocidad superior a 60 km/h en autopistas…",
+      "pregunta_chino": "特殊的车辆或特殊运输制度不超过建立的质量或尺寸，并且无法在高速公路上产生大于60 km/h的速度...",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 38",
+      "opciones": {
+        "A": "solo podrán circular por la calzada y en ningún caso por el arcén.",
+        "B": "podrán circular siempre que sea de día.",
+        "C": "podrán ser transportados por vehículos de su misma categoría cuando excedan las masa o dimensiones establecidas y dispongan de autorización complementaria.",
+        "D": "podrán circular libremente sin ninguna restricción."
+      },
+      "opciones_chino": {
+        "A": "他们只能沿着道路循环，也没有通过肩膀循环。",
+        "B": "每天都可以循环。",
+        "C": "当它们超过既定质量或维度并具有互补授权时，它们可能会由同一类别的车辆运输。",
+        "D": "他们可以自由散发而无需任何限制。"
+      }
+    },
+    {
+      "cod": "2H02025",
+      "pregunta": "Para el cómputo de carriles:",
+      "pregunta_chino": "用于车道计算：",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 34",
+      "opciones": {
+        "A": "se tendrán en cuenta todos los que existan señalizados como tales y los arcenes.",
+        "B": "se tendrán en cuenta todos los que existan señalizados como tales, excepto los arcenes.",
+        "C": "no se tendrán en cuenta los reservados a determinados vehículos o a ciertas maniobras.",
+        "D": "No existe normativa legal al efecto del cómputo de carriles."
+      },
+      "opciones_chino": {
+        "A": "所有存在的人和弧元都将被考虑在内。",
+        "B": "除了Arcenes之外，所有存在的人都将被考虑在内。",
+        "C": "将不考虑用于某些车辆或某些操作的人。",
+        "D": "没有关于车道影响的法律法规"
+      }
+    },
+    {
+      "cod": "2H02026",
+      "pregunta": "Salvo causa justificada, se prohíbe la circulación por autopistas y autovías de vehículos a motor a una velocidad:",
+      "pregunta_chino": "除非有正当的原因，否则禁止高速公路和汽车高速公路的循环：",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 49",
+      "opciones": {
+        "A": "superior a 60 kilómetros por hora.",
+        "B": "de 60 kilómetros por hora.",
+        "C": "inferior a 60 kilómetros por hora.",
+        "D": "Solo se establecen límites de velocidad máxima para este tipo de vías."
+      },
+      "opciones_chino": {
+        "A": "每小时大于60公里。",
+        "B": "每小时60公里。",
+        "C": "每小时不到60公里。",
+        "D": "仅针对此类道路建立最大速度限制。"
+      }
+    },
+    {
+      "cod": "2H02027",
+      "pregunta": "Un carril delimitado por ambos lados por líneas dobles discontínuas es un carril:",
+      "pregunta_chino": "双层界线在两侧的界限都是一条车道：",
+      "solucion": "A",
+      "norma": "RD 1428/2003, art. 40",
+      "opciones": {
+        "A": "reversible.",
+        "B": "de preferencia para servicios públicos.",
+        "C": "VAO.",
+        "D": "de sentido provisional."
+      },
+      "opciones_chino": {
+        "A": "可逆。",
+        "B": "最好用于公共服务。",
+        "C": "vao。",
+        "D": "临时意义。"
+      }
+    },
+    {
+      "cod": "2H02028",
+      "pregunta": "¿Cómo debe circularse por un carril reversible?",
+      "pregunta_chino": "它应该如何通过可逆的车道循环？",
+      "solucion": "B",
+      "norma": "RD 1428/2003, art. 40",
+      "opciones": {
+        "A": "Con una velocidad máxima reducida en 20 km/h a la máxima permitida para la vía.",
+        "B": "Con las luces de cruce, tanto de día como de noche.",
+        "C": "Guardando una distancia de seguridad de, al menos, el doble de la normal.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "在20 km/h时，最大速度降至道路允许的最大速度。",
+        "B": "白天和黑夜都有十字路口。",
+        "C": "保持至少正常的两倍的安全距离。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2H02029",
+      "pregunta": "Se circulará a velocidad moderada y, si fuera preciso, se detendrá el vehículo cuando las circunstancias lo exijan, especialmente:",
+      "pregunta_chino": "它将以中等速度散发，如有必要，在情况需要时，车辆将停止，尤其是：",
+      "solucion": "D",
+      "norma": "RD 1428/2003, art. 46",
+      "opciones": {
+        "A": "al aproximarse a un autobús en situación de parada.",
+        "B": "cuando pueda salpicarse o proyectarse agua a los demás usuarios de la vía.",
+        "C": "en caso de deslumbramiento.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "在停下来接近公共汽车时。",
+        "B": "当他们可以溅出或向其他道路使用者投射水时。",
+        "C": "如果是眩光。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2H02030",
+      "pregunta": "Se circulará a velocidad moderada y, si fuera preciso, se detendrá el vehículo cuando las circunstancias lo exijan, especialmente:",
+      "pregunta_chino": "它将以中等速度散发，如有必要，在情况需要时，车辆将停止，尤其是：",
+      "solucion": "A",
+      "norma": "RD 1428/2003, art. 46",
+      "opciones": {
+        "A": "cuando haya peatones en la parte de la vía que se esté utilizando o pueda preverse racionalmente su irrupción en ella.",
+        "B": "cuando no haya animales en la parte de la vía que se esté utilizando o sea poco previsible su irrupción en ella.",
+        "C": "cuando no haya peatones en la parte de la vía que se esté utilizando o sea poco previsible su irrupción en ella.",
+        "D": "en los tramos con edificios sin inmediato acceso a la parte de la vía que se está utilizando."
+      },
+      "opciones_chino": {
+        "A": "当道路上有行人被使用或可以理性地预见到它的爆发时。",
+        "B": "当道路上没有动物或正在使用的动物时，它的爆发是无法预测的。",
+        "C": "当道路上没有行人时，正在使用或爆发它的爆发是无法预测的。",
+        "D": "在带有建筑物的部分中，没有立即进入所使用的道路部分。"
+      }
+    },
+    {
+      "cod": "2H02031",
+      "pregunta": "Según el orden de prioridad entre los distintos tipos de señales de circulación, las prescripciones indicadas por las señales verticales prevalecerán sobre las indicadas por:",
+      "pregunta_chino": "根据不同类型的循环信号之间的优先顺序，垂直信号指示的处方将比以下指示的那些指示。",
+      "solucion": "A",
+      "norma": "RD 1428/2003, art. 133",
+      "opciones": {
+        "A": "las marcas viales.",
+        "B": "los semáforos.",
+        "C": "la señalización circunstancial que modifique el régimen normal de utilización de la vía.",
+        "D": "las señales y órdenes de los agentes de circulación."
+      },
+      "opciones_chino": {
+        "A": "道路标记。",
+        "B": "交通信号灯。",
+        "C": "改变道路使用状态的间接标志。",
+        "D": "循环剂的信号和顺序。"
+      }
+    },
+    {
+      "cod": "2H02032",
+      "pregunta": "Según el orden de prioridad entre los distintos tipos de señales de circulación, las prescripciones indicadas por los semáforos prevalecerán sobre las indicadas por:",
+      "pregunta_chino": "根据不同类型的循环信号之间的优先级顺序，交通信号灯指示的处方将比以下指示占上风",
+      "solucion": "A",
+      "norma": "RD 1428/2003, art. 133",
+      "opciones": {
+        "A": "las señales verticales de circulación y las marcas viales.",
+        "B": "las señales y órdenes de los agentes de circulación.",
+        "C": "la señalización circunstancial.",
+        "D": "cualquier otra señalización."
+      },
+      "opciones_chino": {
+        "A": "循环和道路标记的垂直信号。",
+        "B": "循环剂的信号和顺序。",
+        "C": "间接信号传导。",
+        "D": "任何其他标牌。"
+      }
+    },
+    {
+      "cod": "2H02033",
+      "pregunta": "Conducir un vehículo sin poseer el permiso de conducción necesario es …",
+      "pregunta_chino": "在没有必要的驾驶许可的情况下驾驶车辆是...",
+      "solucion": "B",
+      "norma": "Ley Orgánica 10/1995, art. 384",
+      "opciones": {
+        "A": "una falta administrativa muy grave.",
+        "B": "un delito contra la seguridad vial.",
+        "C": "una falta penal.",
+        "D": "una falta administrativa grave."
+      },
+      "opciones_chino": {
+        "A": "非常严重的行政犯罪。",
+        "B": "针对道路安全的犯罪。",
+        "C": "刑事犯罪。",
+        "D": "严重的行政犯罪。"
+      }
+    },
+    {
+      "cod": "2H02034",
+      "pregunta": "Abandonar el lugar de los hechos tras causar un accidente en el que haya víctimas y heridos graves es ...",
+      "pregunta_chino": "造成严重受害者和受伤的事故后离开现场是...",
+      "solucion": "B",
+      "norma": "Ley Orgánica 10/1995, art. 382",
+      "opciones": {
+        "A": "una falta administrativa muy grave.",
+        "B": "un delito contra la seguridad vial.",
+        "C": "una falta penal.",
+        "D": "una falta administrativa grave."
+      },
+      "opciones_chino": {
+        "A": "非常严重的行政犯罪。",
+        "B": "针对道路安全的犯罪。",
+        "C": "刑事犯罪。",
+        "D": "严重的行政犯罪。"
+      }
+    },
+    {
+      "cod": "2H02035",
+      "pregunta": "Un conductor que, a requerimiento de un agente de la autoridad, se niegue a someterse a las pruebas legalmente establecidas para la comprobación de las tasas de alcoholemia:",
+      "pregunta_chino": "应当局代理要求的驾驶员拒绝接受合法确定的证据以验证呼气仪的费率：",
+      "solucion": "C",
+      "norma": "Ley Orgánica 10/1995, art. 383",
+      "opciones": {
+        "A": "comete un delito de imprudencia grave.",
+        "B": "comete un delito de desacato.",
+        "C": "comete un delito contra la seguridad vial.",
+        "D": "no comete ningún delito."
+      },
+      "opciones_chino": {
+        "A": "犯下严重鲁ck的罪行。",
+        "B": "他犯了鄙视罪。",
+        "C": "他对道路安全犯罪。",
+        "D": "他没有犯罪。"
+      }
+    },
+    {
+      "cod": "2H03001",
+      "pregunta": "¿Cuáles de los que se citan son elementos de seguridad activa de un vehículo?",
+      "pregunta_chino": "哪些引用的是车辆的主动安全元素？",
+      "solucion": "B",
+      "norma": "Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS",
+      "opciones": {
+        "A": "La dirección y el cinturón de seguridad.",
+        "B": "La dirección y los frenos.",
+        "C": "Los frenos y los apoyacabezas.",
+        "D": "Los neumáticos y el airbag."
+      },
+      "opciones_chino": {
+        "A": "地址和安全带。",
+        "B": "地址和制动器。",
+        "C": "刹车和支撑。",
+        "D": "轮胎和安全气囊。"
+      }
+    },
+    {
+      "cod": "2H03002",
+      "pregunta": "¿Cuáles de los que se citan son elementos de seguridad pasiva de un vehículo?",
+      "pregunta_chino": "哪些被引用的是车辆的被动安全元素？",
+      "solucion": "C",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "La carrocería y los frenos.",
+        "B": "El cinturón de seguridad y la dirección.",
+        "C": "El cinturón de seguridad y el airbag.",
+        "D": "Los neumáticos y el parabrisas."
+      },
+      "opciones_chino": {
+        "A": "身体和刹车。",
+        "B": "安全带和地址。",
+        "C": "安全带和安全气囊。",
+        "D": "轮胎和挡风玻璃。"
+      }
+    },
+    {
+      "cod": "2H03003",
+      "pregunta": "¿Cada cuánto es conveniente revisar el correcto funcionamiento de todas las lámparas del alumbrado?",
+      "pregunta_chino": "多久审查所有照明灯的正确功能多久方便？",
+      "solucion": "C",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Cada semana",
+        "B": "Cada dos semanas.",
+        "C": "Cada mes.",
+        "D": "Cada dos meses."
+      },
+      "opciones_chino": {
+        "A": "每周",
+        "B": "每两周一次。",
+        "C": "每个月。",
+        "D": "每两个月一次。"
+      }
+    },
+    {
+      "cod": "2H03004",
+      "pregunta": "¿Cada cuánto es conveniente revisar el correcto reglaje de los faros del vehículo?",
+      "pregunta_chino": "多久检查一次正确调整车辆前大灯的频率？",
+      "solucion": "A",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Cada mes.",
+        "B": "Cada dos meses.",
+        "C": "Cada tres meses.",
+        "D": "Cada seis meses."
+      },
+      "opciones_chino": {
+        "A": "每个月。",
+        "B": "每两个月一次。",
+        "C": "每三个月一次。",
+        "D": "每六个月一次。"
+      }
+    },
+    {
+      "cod": "2H03005",
+      "pregunta": "¿Qué debe hacerse en caso de que no funcionen las luces de gálibo?",
+      "pregunta_chino": "如果Galibo灯不起作用，该怎么办？",
+      "solucion": "A",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Deben cambiarse lo más rápidamente posible.",
+        "B": "Puede finalizarse el viaje ya que no afectan a la seguridad.",
+        "C": "Depende de las luces que se hayan fundido, se podrá continuar o no.",
+        "D": "Se debe parar inmediatamente y proceder al cambio."
+      },
+      "opciones_chino": {
+        "A": "他们必须尽快更改。",
+        "B": "旅行可以完成，因为它们不会影响安全性。",
+        "C": "这取决于融化的灯，可以继续与否。",
+        "D": "您必须立即停下来进行更改。"
+      }
+    },
+    {
+      "cod": "2H03006",
+      "pregunta": "¿Qué es aconsejable respecto de los dos neumáticos de un mismo eje?",
+      "pregunta_chino": "对于同一轴的两个轮胎，建议什么？",
+      "solucion": "D",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Sustituirlos a la vez.",
+        "B": "Que sean de la misma marca.",
+        "C": "Que sean de las mismas características",
+        "D": "Todas las respuestas son correctas"
+      },
+      "opciones_chino": {
+        "A": "同时更换它们。",
+        "B": "他们是同一品牌。",
+        "C": "具有相同特征的",
+        "D": "所有答案都是正确的"
+      }
+    },
+    {
+      "cod": "2H03007",
+      "pregunta": "¿En qué eje deben ir los neumáticos más nuevos?",
+      "pregunta_chino": "最新的轮胎应该走什么轴？",
+      "solucion": "D",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "No deben ir en el mismo eje.",
+        "B": "Es indiferente.",
+        "C": "En el eje delantero.",
+        "D": "En el eje trasero."
+      },
+      "opciones_chino": {
+        "A": "他们不应该沿相同的轴线。",
+        "B": "这是无动于衷的。",
+        "C": "在前桥上。",
+        "D": "在后轴上。"
+      }
+    },
+    {
+      "cod": "2H03008",
+      "pregunta": "Para tener una frenada eficaz, es conveniente…",
+      "pregunta_chino": "要进行有效的制动，这很方便...",
+      "solucion": "D",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "comprobar únicamente el freno de los ejes tándem.",
+        "B": "asegurarse que los ejes traseros frenan más que los delanteros.",
+        "C": "asegurarse que los ejes delanteros frenan más que los traseros.",
+        "D": "asegurarse que no hay ejes que frenen más que otros."
+      },
+      "opciones_chino": {
+        "A": "仅检查串联轴的制动器。",
+        "B": "确保后轴停止的距离超过前锋。",
+        "C": "确保前轴停止的比后轴更大。",
+        "D": "确保没有比其他轴更能停止的轴。"
+      }
+    },
+    {
+      "cod": "2H03009",
+      "pregunta": "¿Qué es un lecho de frenado?",
+      "pregunta_chino": "什么是制动床？",
+      "solucion": "C",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "La zona del taller en la que revisa el sistema de frenado.",
+        "B": "Una zona cerrada de prueba del estado de los frenos.",
+        "C": "Una pista para frenado de emergencia en carretera.",
+        "D": "Un tipo de cubierta que existe en carreteras de montaña para facilitar la acción del sistema de frenado de los vehículos."
+      },
+      "opciones_chino": {
+        "A": "审查制动系统的车间区域。",
+        "B": "制动状态的封闭测试区域。",
+        "C": "道路紧急制动轨道。",
+        "D": "在山路上存在的一种屋顶，以促进车辆制动系统的作用。"
+      }
+    },
+    {
+      "cod": "2H03010",
+      "pregunta": "Normalmente, ¿a qué distancia de su entrada encontraremos una señal que indique la existencia de un lecho de frenado?",
+      "pregunta_chino": "通常，我们离您的入口有多远，我们会找到一个表明存在制动床的信号吗？",
+      "solucion": "B",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "A 500 m.",
+        "B": "A 1 km.",
+        "C": "A 1,5 km.",
+        "D": "A 2 km."
+      },
+      "opciones_chino": {
+        "A": "在500 m。",
+        "B": "1公里。",
+        "C": "1.5公里。",
+        "D": "2公里。"
+      }
+    },
+    {
+      "cod": "2H03011",
+      "pregunta": "¿Dónde debe estar ubicada, si es posible, la parada de origen o destino en el transporte escolar?",
+      "pregunta_chino": "如果可能的话，应该将其定位在学校运输中的原点或目的地停止？",
+      "solucion": "B",
+      "norma": "RD 443/2001, art. 10",
+      "opciones": {
+        "A": "En la calle.",
+        "B": "En el interior del recinto escolar.",
+        "C": "En un aparcamiento público.",
+        "D": "Fuera del recinto escolar."
+      },
+      "opciones_chino": {
+        "A": "在街上。",
+        "B": "在学校内部。",
+        "C": "在公共停车场。",
+        "D": "在学校外。"
+      }
+    },
+    {
+      "cod": "2H03012",
+      "pregunta": "¿Está prevista la posibilidad de modificar la ubicación de paradas de un servicio de transporte escolar, contenida en la correspondiente autorización administrativa de transporte?",
+      "pregunta_chino": "是否有可能修改相应行政运输授权中包含的学校运输服务站点的位置？",
+      "solucion": "A",
+      "norma": "RD 443/2001, art. 10",
+      "opciones": {
+        "A": "Sí, si el órgano competente en la regulación del tráfico formula alguna observación en este sentido.",
+        "B": "Sí, si el Ministerio de Transportes lo propone.",
+        "C": "Sí, a propuesta del alcalde de la ciudad por donde discurra el transporte escolar.",
+        "D": "No, una vez que han sido autorizadas por el órgano competente."
+      },
+      "opciones_chino": {
+        "A": "是的，如果在交通法规中的有能力的机构在这方面提出了任何观察。",
+        "B": "是的，如果运输部提出了建议。",
+        "C": "是的，根据学校交通运输的城市市长的提议。",
+        "D": "不，一旦他们被胜任的机构授权。"
+      }
+    },
+    {
+      "cod": "2H03013",
+      "pregunta": "¿Qué establece la normativa respecto a los cinturones de seguridad en el transporte escolar y de menores?",
+      "pregunta_chino": "是什么制定了有关学校运输和未成年人安全带的法规？",
+      "solucion": "A",
+      "norma": "RD 1428/2003, Disposición Adicional 4ª",
+      "opciones": {
+        "A": "Que los asientos enfrentados a pasillo, en los vehículos de más de nueve plazas dedicados a esa clase de transporte, solo podrán ser ocupados por menores de dieciséis años cuando dichos asientos lleven instalados cinturones de seguridad.",
+        "B": "Que los asientos enfrentados a pasillo, en los vehículos de más de nueve plazas dedicados a esa clase de transporte, solo podrán ser ocupados por menores de seis años cuando dichos asientos lleven instalados cinturones de seguridad.",
+        "C": "Que el cinturón debe estar solo en el asiento del conductor y será de cualquier tipo.",
+        "D": "Que es válido cualquier tipo de cinturón, siempre que haya sido homologado."
+      },
+      "opciones_chino": {
+        "A": "面对走廊的座位，在九个座位以上的车辆中，只有在这些座位安装安全带时，只有16岁以下的儿童才能占用。",
+        "B": "面对走廊的座位，在专门用于这种运输工具的九个座位以上的车辆中，只有在这些座位安装安全带时，只有六岁以下的儿童才能占用。",
+        "C": "皮带必须独自在驾驶员座位上，并且将是任何一种。",
+        "D": "如果已获得批准，任何类型的皮带都是有效的。"
+      }
+    },
+    {
+      "cod": "2H03014",
+      "pregunta": "¿Qué se entiende por \"seguridad vial activa\"?",
+      "pregunta_chino": "“主动道路安全”是什么意思？",
+      "solucion": "A",
+      "norma": "Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS",
+      "opciones": {
+        "A": "La que depende o hace referencia al conductor.",
+        "B": "La que depende de factores externos a la conducción",
+        "C": "La que guarda relación con el motor y partes mecánicas del vehículo.",
+        "D": "La que hace referencia al estado de la carretera."
+      },
+      "opciones_chino": {
+        "A": "取决于或指驾驶员。",
+        "B": "这取决于外部传导因素",
+        "C": "与车辆的发动机和机械部件相关的一个。",
+        "D": "指的是道路状态。"
+      }
+    },
+    {
+      "cod": "2H03015",
+      "pregunta": "¿Quiénes están obligados a utilizar el cinturón de seguridad?",
+      "pregunta_chino": "谁必须使用安全带？",
+      "solucion": "C",
+      "norma": "RD 1428/2003, Art. 117",
+      "opciones": {
+        "A": "Solo los pasajeros menores de 12 años.",
+        "B": "Solo el conductor y los pasajeros cuya estatura sea inferior a 1,50 metros.",
+        "C": "El conductor y los pasajeros, tanto en circulación urbana como interurbana.",
+        "D": "Las personas provistas de un certificado de exención por razones médicas."
+      },
+      "opciones_chino": {
+        "A": "仅12年以下的乘客。",
+        "B": "只有高度小于1.50米的驾驶员和乘客。",
+        "C": "驾驶员和乘客，无论是城市和城市流通。",
+        "D": "出于医疗原因，获得豁免证书的人。"
+      }
+    },
+    {
+      "cod": "2H03016",
+      "pregunta": "Cuando no resulte posible que la parada correspondiente al centro escolar esté ubicada dentro del recinto del mismo,:",
+      "pregunta_chino": "当与学校相对应的停靠处不可能位于其房屋内：",
+      "solucion": "D",
+      "norma": "RD 443/2001, art. 10",
+      "opciones": {
+        "A": "se fijará lo más alejada del centro.",
+        "B": "se fijará en el lugar donde resulte más luminoso.",
+        "C": "se fijará en el lugar más cercano al destacamento de policía.",
+        "D": "Ninguna de las respuestas anteriores."
+      },
+      "opciones_chino": {
+        "A": "它将固定在远离中心的地方。",
+        "B": "它将固定在更明亮的地方。",
+        "C": "它将设置在最接近警察支队的地方。",
+        "D": "以前的答案都没有。"
+      }
+    },
+    {
+      "cod": "2H03017",
+      "pregunta": "Cuando no resulte posible que la parada correspondiente al centro escolar esté ubicada dentro del recinto del mismo,:",
+      "pregunta_chino": "当与学校相对应的停靠处不可能位于其房屋内：",
+      "solucion": "D",
+      "norma": "RD 443/2001, art. 10",
+      "opciones": {
+        "A": "se fijará lo más alejada del centro.",
+        "B": "se fijará en el lugar donde resulte más luminoso.",
+        "C": "se fijará en el lugar más cercano al destacamento de policía.",
+        "D": "se fijará de modo que las condiciones de acceso desde dicha parada al centro resulten lo más seguras posible, situándose siempre a la derecha en el sentido de la marcha."
+      },
+      "opciones_chino": {
+        "A": "它将固定在远离中心的地方。",
+        "B": "它将固定在更明亮的地方。",
+        "C": "它将设置在最接近警察支队的地方。",
+        "D": "它将设置为从该停止到中心的访问条件尽可能安全，始终朝行军的方向右边。"
+      }
+    },
+    {
+      "cod": "2H03018",
+      "pregunta": "El acceso y abandono de los menores a los vehículos que realicen transporte escolar deberá realizarse:",
+      "pregunta_chino": "应当将未成年人进入和放弃进行学校运输的车辆：",
+      "solucion": "A",
+      "norma": "RD 443/2001, art. 10",
+      "opciones": {
+        "A": "por la puerta más cercana al conductor.",
+        "B": "por la puerta más lejana al conductor.",
+        "C": "por la puerta más cercana a las ruedas motrices.",
+        "D": "Ninguna de las anteriores respuestas es correcta."
+      },
+      "opciones_chino": {
+        "A": "穿过驾驶员近门。",
+        "B": "穿过驾驶员最远的门。",
+        "C": "穿过靠近电动机车轮的门。",
+        "D": "以上答案都不正确。"
+      }
+    },
+    {
+      "cod": "2H03019",
+      "pregunta": "El acceso y abandono de los menores a los vehículos que realicen transporte escolar deberá realizarse:",
+      "pregunta_chino": "应当将未成年人进入和放弃进行学校运输的车辆：",
+      "solucion": "A",
+      "norma": "RD 443/2001, art. 10",
+      "opciones": {
+        "A": "por la puerta más cercana al conductor o, en su caso, al acompañante.",
+        "B": "por la puerta más lejana al conductor.",
+        "C": "por la puerta más cercana al centro escolar.",
+        "D": "Ninguna de las anteriores respuestas es correcta."
+      },
+      "opciones_chino": {
+        "A": "穿过驾驶员近的门，或者在适当的情况下，是同伴。",
+        "B": "穿过驾驶员最远的门。",
+        "C": "穿过最接近学校的门。",
+        "D": "以上答案都不正确。"
+      }
+    },
+    {
+      "cod": "2H03020",
+      "pregunta": "En el transporte de viajeros, en relación con la seguridad, debe prestarse atención a…",
+      "pregunta_chino": "在旅行者的运输中，与安全有关，必须注意...",
+      "solucion": "B",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "la distribución de los pasajeros en el habitáculo.",
+        "B": "la colocación del equipaje para evitar desplazamientos.",
+        "C": "la distribución de los bultos de mano en la zona de equipajes del habitáculo.",
+        "D": "la ubicación de los pasajeros menores de 10 años."
+      },
+      "opciones_chino": {
+        "A": "乘客在机舱中的分布。",
+        "B": "行李安置以避免流离失所。",
+        "C": "团队行李区的手包装分布。",
+        "D": "10年以下乘客的位置。"
+      }
+    },
+    {
+      "cod": "2H03021",
+      "pregunta": "En el transporte de viajeros, en relación con la seguridad, debe prestarse atención a…",
+      "pregunta_chino": "在旅行者的运输中，与安全有关，必须注意...",
+      "solucion": "A",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "conducir de acuerdo con las carácterísticas de las personas transportadas.",
+        "B": "la ocupación de vehículo.",
+        "C": "la distribución de los bultos de mano en la zona de equipajes del habitáculo.",
+        "D": "la ubicación de los pasajeros menores de 10 años."
+      },
+      "opciones_chino": {
+        "A": "根据运输人的特征开车。",
+        "B": "车辆职业。",
+        "C": "团队行李区的手包装分布。",
+        "D": "10年以下乘客的位置。"
+      }
+    },
+    {
+      "cod": "2H03022",
+      "pregunta": "En el transporte de viajeros, en relación con la seguridad, debe prestarse atención a…",
+      "pregunta_chino": "在旅行者的运输中，与安全有关，必须注意...",
+      "solucion": "C",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "la distribución de los pasajeros en el habitáculo.",
+        "B": "la distribución de los bultos de mano en la zona de equipajes del habitáculo.",
+        "C": "verificar que los pasajeros utilizan los medios de seguridad.",
+        "D": "la ubicación de los pasajeros menores de 10 años."
+      },
+      "opciones_chino": {
+        "A": "乘客在机舱中的分布。",
+        "B": "团队行李区的手包装分布。",
+        "C": "验证乘客使用安全手段。",
+        "D": "10年以下乘客的位置。"
+      }
+    },
+    {
+      "cod": "2H03023",
+      "pregunta": "En el transporte de viajeros, en relación con la seguridad, debe prestarse atención a…",
+      "pregunta_chino": "在旅行者的运输中，与安全有关，必须注意...",
+      "solucion": "D",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "la distribución de los pasajeros en el habitáculo.",
+        "B": "la distribución de los bultos de mano en las zonas correspondientes del habitáculo.",
+        "C": "la ocupación del vehículo.",
+        "D": "las curvas, la potencia del autobús puede producir derrapes."
+      },
+      "opciones_chino": {
+        "A": "乘客在机舱中的分布。",
+        "B": "颠簸在机舱相应区域的分布。",
+        "C": "车辆的职业。",
+        "D": "曲线，公交电源可以产生滑雪。"
+      }
+    },
+    {
+      "cod": "2H03024",
+      "pregunta": "¿Qué es la seguridad preventiva en relación con el vehículo?",
+      "pregunta_chino": "与车辆有关的预防安全是什么？",
+      "solucion": "C",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "La formación sobre el uso de los dispositivos de seguridad del vehículo.",
+        "B": "El conjunto de actuaciones de mantenimiento de los sistema de seguridad del vehículo.",
+        "C": "Cualquier sistema que ayude al conductor a mantener su atención en la conducción.",
+        "D": "No existe este concepto."
+      },
+      "opciones_chino": {
+        "A": "培训使用车辆安全设备。",
+        "B": "车辆安全系统的一系列维护操作。",
+        "C": "任何有助于驾驶员在驾驶中保持注意力的系统。",
+        "D": "这个概念不存在。"
+      }
+    },
+    {
+      "cod": "2H03025",
+      "pregunta": "¿Qué constituye parte de la seguridad preventiva del vehículo?",
+      "pregunta_chino": "什么构成了车辆预防保险的一部分？",
+      "solucion": "D",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Los espejos retrovisores.",
+        "B": "Los dispositivos de señalización.",
+        "C": "El sistema de climatización",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "后视镜。",
+        "B": "信号设备。",
+        "C": "空调系统",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2H03026",
+      "pregunta": "¿Debe informar la empresa de transportes a los viajeros del autobús en relación con los cinturones de seguridad?",
+      "pregunta_chino": "运输公司是否应该将与安全带有关的公共汽车旅行者告知公共汽车旅行者？",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 117",
+      "opciones": {
+        "A": "Sí, debe informar sobre su ubicación.",
+        "B": "Debe informar sobre la forma de uso.",
+        "C": "Debe informar sobre la obligatoriedad de su uso.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "是的，您必须告知您的位置。",
+        "B": "您必须告知使用方式。",
+        "C": "您必须告知其使用义务。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2H03027",
+      "pregunta": "¿En qué momento deben informar las empresas de transporte de viajeros en autobús sobre los elementos que cuenta el vehículo destinados a garantizar la seguridad de los pasajeros?",
+      "pregunta_chino": "公共汽车旅行公司何时应该将车辆必须保证乘客安全的要素告知这些要素？",
+      "solucion": "B",
+      "norma": "OM FOM/1230/2013, art. 4",
+      "opciones": {
+        "A": "En el momento de la compra del billete.",
+        "B": "Inmediatamente antes de acceder al vehículo.",
+        "C": "En el momento de ofertar el servicio.",
+        "D": "Ninguna es correcta."
+      },
+      "opciones_chino": {
+        "A": "在购买票时。",
+        "B": "立即进入车辆之前。",
+        "C": "在提供服务时。",
+        "D": "没有正确的。"
+      }
+    },
+    {
+      "cod": "2H03028",
+      "pregunta": "La información sobre las disposiciones de viaje más relevantes y sobre los elementos de seguridad con que cuenta el vehículo, que las empresas de transporte de viajeros en autobús deben facilitar a los viajeros desde el momento en que acceden al vehículo, deberá hacer referencia como mínimo a los siguientes extremos:",
+      "pregunta_chino": "有关车辆最相关的旅行规定以及有关安全元素的信息，公共汽车旅行者运输公司必须促进旅行者从访问车辆的那一刻起，至少必须至少提及以下目的：",
+      "solucion": "D",
+      "norma": "OM FOM/1230/2013, art. 4",
+      "opciones": {
+        "A": "ubicación de extintores.",
+        "B": "utilización de cinturones de seguridad, cuando el vehículo cuente con ellos.",
+        "C": "existencia de botiquín de primeros auxilios.",
+        "D": "Todas las respuestas anteriores son válidas."
+      },
+      "opciones_chino": {
+        "A": "灭火器的位置。",
+        "B": "使用安全带，当车辆拥有它们时。",
+        "C": "急救套件的存在。",
+        "D": "以上所有答案都是有效的。"
+      }
+    },
+    {
+      "cod": "2H03029",
+      "pregunta": "La información sobre las disposiciones de viaje más relevantes y sobre los elementos de seguridad con que cuenta el vehículo, que las empresas de transporte de viajeros en autobús deben facilitar a los viajeros desde el momento en que acceden al vehículo, deberá hacer referencia como mínimo a los siguientes extremos:",
+      "pregunta_chino": "有关车辆最相关的旅行规定以及有关安全元素的信息，公共汽车旅行者运输公司必须促进旅行者从访问车辆的那一刻起，至少必须至少提及以下目的：",
+      "solucion": "A",
+      "norma": "OM FOM/1230/2013, art. 4",
+      "opciones": {
+        "A": "existencia de botiquín de primeros auxilios.",
+        "B": "ubicación de sistemas audiovisuales.",
+        "C": "localización de frenos de emergencia.",
+        "D": "Todas las respuestas anteriores son válidas."
+      },
+      "opciones_chino": {
+        "A": "急救套件的存在。",
+        "B": "视听系统的位置。",
+        "C": "紧急制动位置。",
+        "D": "以上所有答案都是有效的。"
+      }
+    },
+    {
+      "cod": "2H03030",
+      "pregunta": "La seguridad activa se refiere a factores:",
+      "pregunta_chino": "主动安全是指因素：",
+      "solucion": "A",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "anteriores al accidente.",
+        "B": "posteriores al accidente.",
+        "C": "durante el accidente.",
+        "D": "anteriores y posteriores al accidente."
+      },
+      "opciones_chino": {
+        "A": "事故发生之前。",
+        "B": "事故发生后。",
+        "C": "事故发生。",
+        "D": "事故发生后。"
+      }
+    },
+    {
+      "cod": "2H03031",
+      "pregunta": "La seguridad pasiva se refiere a factores:",
+      "pregunta_chino": "被动安全是指因素：",
+      "solucion": "A",
+      "norma": "Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "durante el accidente.",
+        "B": "de la construcción del vehículo.",
+        "C": "anteriores al accidente.",
+        "D": "de a la señalización de la vía."
+      },
+      "opciones_chino": {
+        "A": "事故发生。",
+        "B": "车辆的建造。",
+        "C": "事故发生之前。",
+        "D": "从道路的信号传导。"
+      }
+    },
+    {
+      "cod": "2H04001",
+      "pregunta": "¿Cómo debe señalizarse la inmovilización por emergencia de un vehículo en la calzada?",
+      "pregunta_chino": "如何将车辆紧急固定在道路上？",
+      "solucion": "A",
+      "norma": "RD 1428/2003, art. 130",
+      "opciones": {
+        "A": "Mediante la luz de emergencia, si el vehículo la lleva, y, cuando proceda, con las luces de posición y de gálibo y obligatoriamente con los dispositivos de preseñalización de peligro.",
+        "B": "Con las luces de cruce y señales con el brazo.",
+        "C": "Con las luces de cruce y un trapo rojo.",
+        "D": "Mediante la colocación de cualquier obstáculo sobre la calzada que avise de nuestra presencia."
+      },
+      "opciones_chino": {
+        "A": "通过紧急灯，如果车辆携带，并且在适当的情况下，将其置于位置和galibo的位置，并且必然使用危险设备。",
+        "B": "带有十字路口和手臂信号。",
+        "C": "带有交叉灯和红布。",
+        "D": "通过在警告我们存在的道路上放置任何障碍。"
+      }
+    },
+    {
+      "cod": "2H04002",
+      "pregunta": "¿Cómo se debe comprobar que se ha producido una parada cardiaca?",
+      "pregunta_chino": "应该如何发现发生心脏骤停？",
+      "solucion": "C",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Mediante examen termodinámico.",
+        "B": "Tomando el pulso radial.",
+        "C": "Tomando el pulso en el cuello.",
+        "D": "Comprobando la temperatura de la víctima."
+      },
+      "opciones_chino": {
+        "A": "通过热力学检查。",
+        "B": "取径向脉冲。",
+        "C": "将脉搏放在脖子上。",
+        "D": "检查受害者的温度。"
+      }
+    },
+    {
+      "cod": "2H04003",
+      "pregunta": "¿Cómo se debe realizar la reanimación cardiopulmonar?",
+      "pregunta_chino": "如何进行心肺复苏？",
+      "solucion": "A",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Se harán treinta compresiones torácicas, seguidas de dos ventilaciones de aire.",
+        "B": "Se aplicarán dos respiraciones cada dos masajes cardíacos.",
+        "C": "Solo hay que aplicar ventilaciones boca a boca.",
+        "D": "Ninguna de las respuestas anteriores es correcta."
+      },
+      "opciones_chino": {
+        "A": "将进行30个胸部压缩，然后进行两个通风孔。",
+        "B": "两次呼吸将进行所有心脏按摩。",
+        "C": "您只需要涂口腔即可。",
+        "D": "以上答案都不正确。"
+      }
+    },
+    {
+      "cod": "2H04004",
+      "pregunta": "¿Con qué ritmo se debe realizar el masaje cardiaco en adultos?",
+      "pregunta_chino": "成人应进行哪些心脏按摩？",
+      "solucion": "C",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "30 compresiones torácicas por minuto.",
+        "B": "60 compresiones torácicas por minuto.",
+        "C": "100 compresiones torácicas por minuto.",
+        "D": "31 compresiones torácicas por hora."
+      },
+      "opciones_chino": {
+        "A": "每分钟30个胸部压缩。",
+        "B": "每分钟60个胸部压缩。",
+        "C": "每分钟100个胸部压缩。",
+        "D": "每小时31个胸部压缩。"
+      }
+    },
+    {
+      "cod": "2H04005",
+      "pregunta": "¿Cuál debe ser la relación entre las compresiones y ventilaciones en la reanimación cardiopulmonar?",
+      "pregunta_chino": "心肺复苏中的压缩与通风之间的关系应该是什么？",
+      "solucion": "D",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Cinco compresiones por una ventilación.",
+        "B": "Diez compresiones por tres ventilaciones.",
+        "C": "Diez compresiones por una ventilación.",
+        "D": "Treinta compresiones por dos ventilaciones."
+      },
+      "opciones_chino": {
+        "A": "通风的五个压缩。",
+        "B": "三个通风的十个压缩。",
+        "C": "通风的十种压缩。",
+        "D": "两次通风的30个压缩。"
+      }
+    },
+    {
+      "cod": "2H04006",
+      "pregunta": "¿Cuál es el segundo paso a realizar, tras preservar la seguridad de la circulación, ante un accidente de tráfico con víctimas?",
+      "pregunta_chino": "在与受害者发生交通事故之前，保留了流通的安全性后，要做的第二步是什么？",
+      "solucion": "C",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Socorrer a los heridos.",
+        "B": "No detenerse para no entorpecer el tráfico.",
+        "C": "Pedir ayuda especializada.",
+        "D": "Dar agua a los heridos."
+      },
+      "opciones_chino": {
+        "A": "帮助受伤者。",
+        "B": "不要停止以免阻碍流量。",
+        "C": "询问专业帮助。",
+        "D": "向受伤的人注入水。"
+      }
+    },
+    {
+      "cod": "2H04007",
+      "pregunta": "¿Cuáles son síntomas de que un accidentado entra en estado de shock o colapso?",
+      "pregunta_chino": "受伤者进入冲击或崩溃状态的症状是什么？",
+      "solucion": "B",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Piel enrojecida y pulso lento.",
+        "B": "Palidez y sudoración fría.",
+        "C": "Respiración lenta y confusión",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "皮肤发红，脉搏缓慢。",
+        "B": "帕伦西亚和寒冷的出汗。",
+        "C": "缓慢的呼吸和混乱",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2H04008",
+      "pregunta": "¿Cuál es la causa más frecuente de que un accidentado entre en estado de shock o colapso?",
+      "pregunta_chino": "受伤或崩溃之间受伤人的最常见原因是什么？",
+      "solucion": "A",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Las hemorragias.",
+        "B": "La fiebre.",
+        "C": "La insolación.",
+        "D": "La deshidratación."
+      },
+      "opciones_chino": {
+        "A": "出血。",
+        "B": "发烧",
+        "C": "暴发。",
+        "D": "脱水。"
+      }
+    },
+    {
+      "cod": "2H04009",
+      "pregunta": "¿Cuál es la mejor forma de trasladar a los heridos de un accidente de tráfico?",
+      "pregunta_chino": "搬到交通事故受伤的最佳方法是什么？",
+      "solucion": "B",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "En taxi.",
+        "B": "En ambulancia.",
+        "C": "En moto.",
+        "D": "En camión."
+      },
+      "opciones_chino": {
+        "A": "在出租车中。",
+        "B": "在救护车中。",
+        "C": "在摩托车中。",
+        "D": "在卡车中。"
+      }
+    },
+    {
+      "cod": "2H04010",
+      "pregunta": "¿Cuál es la posición más adecuada para practicar la reanimación cardiopulmonar (RCP) a un accidentado?",
+      "pregunta_chino": "练习受伤的心肺复苏（CPR）的最合适的位置是什么？",
+      "solucion": "A",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Boca arriba sobre una superficie dura.",
+        "B": "Semisentado.",
+        "C": "Acostado de lado, con la pierna superior flexionada.",
+        "D": "Boca abajo."
+      },
+      "opciones_chino": {
+        "A": "在坚硬的表面上的boca。",
+        "B": "半提及。",
+        "C": "侧身躺着，上腿弯曲。",
+        "D": "面朝下。"
+      }
+    },
+    {
+      "cod": "2H04011",
+      "pregunta": "¿Cuáles son las características de las hemorragias arteriales?",
+      "pregunta_chino": "动脉出血的特征是什么？",
+      "solucion": "B",
+      "norma": "Guía de primeros auxilios, Junta de Andalucía, Empresa Pública de Emergencias Sanitarias",
+      "opciones": {
+        "A": "La sangre es de color oscuro y sale de modo continuo.",
+        "B": "La sangre es de color rojo vivo y sale con fuerza o a borbotones.",
+        "C": "La sangre es oscura y sale a borbotones.",
+        "D": "La sangre mana de forma continua."
+      },
+      "opciones_chino": {
+        "A": "鲜血是黑暗的，不断出来。",
+        "B": "血液是鲜红色的，并带有力或bolbotone。",
+        "C": "鲜血是黑暗的，朝着果仁酮出去。",
+        "D": "血液不断地静止。"
+      }
+    },
+    {
+      "cod": "2H04012",
+      "pregunta": "¿Debemos evitar mover el cuello de los heridos en accidente de circulación?",
+      "pregunta_chino": "我们应该避免在循环事故中移动受伤的脖子吗？",
+      "solucion": "A",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Sí, siempre.",
+        "B": "Solo en el caso de conductores de motocicletas.",
+        "C": "Solo si están inconscientes.",
+        "D": "Únicamente si llevan el casco puesto."
+      },
+      "opciones_chino": {
+        "A": "是的，总是。",
+        "B": "仅在摩托车导体的情况下。",
+        "C": "只有当他们无意识。",
+        "D": "只有当他们戴上头盔时。"
+      }
+    },
+    {
+      "cod": "2H04013",
+      "pregunta": "¿Dónde se tomará el pulso carotídeo?",
+      "pregunta_chino": "颈动脉脉冲将在哪里？",
+      "solucion": "D",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "En el brazo.",
+        "B": "En la mano.",
+        "C": "En la pierna.",
+        "D": "En el cuello."
+      },
+      "opciones_chino": {
+        "A": "在手臂上。",
+        "B": "手头。",
+        "C": "在腿上。",
+        "D": "在脖子上。"
+      }
+    },
+    {
+      "cod": "2H04014",
+      "pregunta": "¿Qué actuación se debe tener ante un accidentado que presenta una hemorragia?",
+      "pregunta_chino": "在出现出血的受伤人员之前应采取什么行动？",
+      "solucion": "C",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Se le dará a beber agua porque la hemorragia da sed.",
+        "B": "Se le administrará líquidos para reponer las pérdidas por la hemorragia.",
+        "C": "No hay que dar de beber a un accidentado que esté sangrando.",
+        "D": "Se le dará de beber siempre que la víctima lo solicite."
+      },
+      "opciones_chino": {
+        "A": "由于口渴而流血，因此会喝水。",
+        "B": "液体将用于补充由于出血而补充损失。",
+        "C": "不要喝一个正在流血的受伤人。",
+        "D": "只要受害者要求它，就可以喝酒。"
+      }
+    },
+    {
+      "cod": "2H04015",
+      "pregunta": "¿Qué es la parada cardiorrespiratoria?",
+      "pregunta_chino": "什么是心肺逮捕？",
+      "solucion": "C",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Una asfixia, con pulso en el cuello.",
+        "B": "Un shock o colapso.",
+        "C": "La parada de la circulación sanguínea y de la respiración a la vez.",
+        "D": "La obstrucción de la vía aérea."
+      },
+      "opciones_chino": {
+        "A": "窒息，脖子上有一个脉搏。",
+        "B": "冲击或崩溃。",
+        "C": "血液循环停止并同时呼吸。",
+        "D": "气道阻塞。"
+      }
+    },
+    {
+      "cod": "2H04016",
+      "pregunta": "¿Qué es lo primero que debemos hacer en caso de encontrarnos con un accidente de tráfico con víctimas?",
+      "pregunta_chino": "在与受害者发现交通事故的情况下，我们应该做的第一件事是什么？",
+      "solucion": "C",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Ayudar a las víctimas.",
+        "B": "Solicitar ayuda especializada.",
+        "C": "Preservar la seguridad de la circulación.",
+        "D": "No hay prioridades."
+      },
+      "opciones_chino": {
+        "A": "帮助受害者。",
+        "B": "请求专门的帮助。",
+        "C": "保留循环安全性。",
+        "D": "没有优先事项。"
+      }
+    },
+    {
+      "cod": "2H04018",
+      "pregunta": "¿Quiénes están legalmente obligados a actuar ante un accidente de tráfico?",
+      "pregunta_chino": "谁在交通事故之前法律上必须采取行动？",
+      "solucion": "A",
+      "norma": "RD 1428/2003, art. 129",
+      "opciones": {
+        "A": "Cualquier usuario de la vía que lo presencie.",
+        "B": "Solo los servivios de emergencia.",
+        "C": "Únicamente las fuerzas de seguridad.",
+        "D": "Solo el conductor del vehículo causante del accidente si está en condiciones de prestar ayuda."
+      },
+      "opciones_chino": {
+        "A": "任何见证这条道路的用户。",
+        "B": "只有紧急服务。",
+        "C": "只有安全部队。",
+        "D": "只有车辆的驾驶员可以提供帮助，才会造成事故。"
+      }
+    },
+    {
+      "cod": "2H04019",
+      "pregunta": "¿Se debe tapar a los heridos de un accidente de tráfico?",
+      "pregunta_chino": "是否应涵盖受伤的交通事故？",
+      "solucion": "B",
+      "norma": "Primeros auxilios en conflictos armados y otras situaciones de violencia. CICR - GINEBRA, 2006",
+      "opciones": {
+        "A": "No, en ningún caso.",
+        "B": "Sí, para mantener la temperatura del cuerpo.",
+        "C": "Solo si la temperatura ambiente es inferior a 5 grados.",
+        "D": "Solo si sangran."
+      },
+      "opciones_chino": {
+        "A": "不，在没有情况下。",
+        "B": "是的，保持体温。",
+        "C": "只有环境温度小于5度。",
+        "D": "只有他们流血。"
+      }
+    },
+    {
+      "cod": "2H04020",
+      "pregunta": "¿Se deben desprender las ropas pegadas a la piel de una zona quemada?",
+      "pregunta_chino": "应该释放粘在燃烧区域的皮肤上的衣服吗？",
+      "solucion": "D",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Sí, es la primera medida a adoptar.",
+        "B": "Solo en el caso de que sean tejidos sintéticos.",
+        "C": "Sí, pero únicamente en las quemaduras de tercer grado.",
+        "D": "No, nunca."
+      },
+      "opciones_chino": {
+        "A": "是的，这是第一个采用的措施。",
+        "B": "仅在它们是合成组织的情况下。",
+        "C": "是的，但只有三年级的烧伤。",
+        "D": "不，永远不会。"
+      }
+    },
+    {
+      "cod": "2H04021",
+      "pregunta": "Al auxiliar a los heridos de un accidente, ¿debemos darles calmantes del dolor?",
+      "pregunta_chino": "对于事故受伤的辅助机构，我们应该给他们止痛药吗？",
+      "solucion": "A",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "No, en ningún caso.",
+        "B": "Sí, pues siempre hay que aliviar el dolor.",
+        "C": "Sí, siempre que sean medicamentos aprobados.",
+        "D": "Solo si no son alérgicos."
+      },
+      "opciones_chino": {
+        "A": "不，在没有情况下。",
+        "B": "是的，您总是必须缓解痛苦。",
+        "C": "是的，每当他们获得批准药物时。",
+        "D": "只有当它们不是过敏的时候。"
+      }
+    },
+    {
+      "cod": "2H04022",
+      "pregunta": "Al realizar una verificación de materias extrañas en la boca, ¿la cabeza en qué posición debe estar?",
+      "pregunta_chino": "在对口中的外国受试者进行验证时，头部应该是什么位置？",
+      "solucion": "D",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Inclinada hacia atrás.",
+        "B": "No importa la posición de la cabeza.",
+        "C": "Inclinada hacia delante.",
+        "D": "Ladeada."
+      },
+      "opciones_chino": {
+        "A": "向后倾斜。",
+        "B": "无论头部位置如何。",
+        "C": "向前倾斜。",
+        "D": "斜"
+      }
+    },
+    {
+      "cod": "2H04023",
+      "pregunta": "Ante la presencia de un accidente, atendiendo a la seguridad de la circulación, ¿dónde debemos estacionarnos?",
+      "pregunta_chino": "鉴于发生事故的存在，参与了流通的安全性，我们应该在哪里停车？",
+      "solucion": "A",
+      "norma": "Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS",
+      "opciones": {
+        "A": "Fuera de la calzada, con las luces de emergencia.",
+        "B": "No debemos estacionarnos para evitar más atropellos.",
+        "C": "Junto a los vehículos accidentados.",
+        "D": "Es indiferente el lugar donde nos detengamos."
+      },
+      "opciones_chino": {
+        "A": "在道路外，有应急灯。",
+        "B": "我们不应该停车以避免更多的虐待。",
+        "C": "在受伤的车辆旁边。",
+        "D": "我们停下来的地方。"
+      }
+    },
+    {
+      "cod": "2H04024",
+      "pregunta": "¿Cuáles son los síntomas de una posible lesión medular?",
+      "pregunta_chino": "可能的核心损伤的症状是什么？",
+      "solucion": "C",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Vómitos.",
+        "B": "Sudor frío.",
+        "C": "Modificación de la sensibilidad en alguna parte del cuerpo.",
+        "D": "Todas las respuestas son correctas"
+      },
+      "opciones_chino": {
+        "A": "呕吐",
+        "B": "冷汗。",
+        "C": "修饰体内某个地方的灵敏度。",
+        "D": "所有答案都是正确的"
+      }
+    },
+    {
+      "cod": "2H04025",
+      "pregunta": "¿Es habitual el politraumatismo en las víctimas de accidentes de tráfico?",
+      "pregunta_chino": "在交通事故的受害者中，多头会吗？",
+      "solucion": "A",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Sí.",
+        "B": "Solo en ciclistas y motociclistas.",
+        "C": "Solo en peatones.",
+        "D": "No."
+      },
+      "opciones_chino": {
+        "A": "是的。",
+        "B": "仅在骑自行车的人和摩托车手中。",
+        "C": "仅在行人中。",
+        "D": "不。"
+      }
+    },
+    {
+      "cod": "2H04026",
+      "pregunta": "¿Qué es una fractura cerrada?",
+      "pregunta_chino": "什么是闭合断裂？",
+      "solucion": "B",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Aquella en la que no hay separación entre las partes del hueso lindantes con la fractura.",
+        "B": "Aquella en la que no hay rotura de la piel.",
+        "C": "La que no supone rotura total del hueso.",
+        "D": "Todas las fracturas son cerradas."
+      },
+      "opciones_chino": {
+        "A": "骨骼骨骼的部分与骨折之间没有分离。",
+        "B": "没有皮肤休息的那个。",
+        "C": "不涉及总骨折的那个。",
+        "D": "所有骨折都关闭。"
+      }
+    },
+    {
+      "cod": "2H04027",
+      "pregunta": "Las fracturas abiertas…",
+      "pregunta_chino": "开放裂缝...",
+      "solucion": "B",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "se caracterizan por producirse un hematoma en la zona de la fractura.",
+        "B": "pueden ocasionar infección en la herida.",
+        "C": "no suponen la rotura total del hueso.",
+        "D": "Todas las fracturas son abiertas."
+      },
+      "opciones_chino": {
+        "A": "它们的特征是骨折区域的瘀伤。",
+        "B": "它们可能引起伤口感染。",
+        "C": "他们没有假设骨骼的总断裂。",
+        "D": "所有骨折都是开放的。"
+      }
+    },
+    {
+      "cod": "2H04028",
+      "pregunta": "Los síntomas característicos de la existencia de una fractura son:",
+      "pregunta_chino": "骨折存在的特征症状是：",
+      "solucion": "D",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "sudoración y piel fría.",
+        "B": "falta de sensibilidad en la zona.",
+        "C": "vómitos.",
+        "D": "edema o hematoma."
+      },
+      "opciones_chino": {
+        "A": "出汗和寒冷的皮肤。",
+        "B": "该地区缺乏灵敏度。",
+        "C": "呕吐",
+        "D": "水肿或血肿。"
+      }
+    },
+    {
+      "cod": "2H04029",
+      "pregunta": "Los síntomas característicos de la existencia de una fractura son:",
+      "pregunta_chino": "骨折存在的特征症状是：",
+      "solucion": "D",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "sudoración y piel fría.",
+        "B": "falta de sensibilidad en la zona.",
+        "C": "vómitos.",
+        "D": "deformidad o acortamiento."
+      },
+      "opciones_chino": {
+        "A": "出汗和寒冷的皮肤。",
+        "B": "该地区缺乏灵敏度。",
+        "C": "呕吐",
+        "D": "畸形或缩短。"
+      }
+    },
+    {
+      "cod": "2H04030",
+      "pregunta": "Ante la sospecha de que se ha producido una fractura, ¿qué se debe hacer?",
+      "pregunta_chino": "鉴于怀疑发生了骨折，该怎么办？",
+      "solucion": "D",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Mover la zona afectada levemente para comprobar si esta se ha producido y, si es así, esperar el auxilio de un experto.",
+        "B": "Presionar la fractura e inmovilizar el miembro.",
+        "C": "No inmovilizar el miembro afectado.",
+        "D": "Inmovilizar la zona fracturada."
+      },
+      "opciones_chino": {
+        "A": "稍微移动受影响的区域以检查是否发生过，如果是这样，请等待专家的帮助。",
+        "B": "按断裂并固定成员。",
+        "C": "不要固定受影响的成员。",
+        "D": "固定破裂的区域。"
+      }
+    },
+    {
+      "cod": "2H04031",
+      "pregunta": "Ante un quemado en un accidente, se debe extinguir el fuego que pueda haber en sus ropas …",
+      "pregunta_chino": "在发生事故发生之前，可能会扑灭衣服里的大火...",
+      "solucion": "A",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "únicamente cubriéndolo con una manta.",
+        "B": "preferiblemente con un extintor.",
+        "C": "preferiblemente con agua.",
+        "D": "Cualquier medio es bueno."
+      },
+      "opciones_chino": {
+        "A": "只是用毯子覆盖它。",
+        "B": "最好与灭火器一起使用。",
+        "C": "最好用水。",
+        "D": "任何媒介都是好的。"
+      }
+    },
+    {
+      "cod": "2H04032",
+      "pregunta": "Ante un quemado en un accidente:",
+      "pregunta_chino": "在发生事故之前被烧毁之前：",
+      "solucion": "D",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "se debe aplicar pomada sobre las quemaduras.",
+        "B": "deben dejarse al aire las quemaduras.",
+        "C": "se deben tapar las quemaduras con apósitos secos.",
+        "D": "se deben tapar las quemaduras con apósitos humedecidos en agua."
+      },
+      "opciones_chino": {
+        "A": "软膏应应用于燃烧。",
+        "B": "烧伤必须留在空中。",
+        "C": "燃烧应覆盖干敷料。",
+        "D": "烧伤应覆盖有愚蠢的敷料。"
+      }
+    },
+    {
+      "cod": "2H04033",
+      "pregunta": "Ante un quemado en un accidente:",
+      "pregunta_chino": "在发生事故之前被烧毁之前：",
+      "solucion": "B",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "debemos romper las ampollas para evitar que se hagan grandes.",
+        "B": "no hay que retirar los restos de ropa quemada.",
+        "C": "hay que darle pastillas para el dolor.",
+        "D": "no hay que taparlo porque ya está caliente."
+      },
+      "opciones_chino": {
+        "A": "我们必须打破水泡，以防止它们变得大。",
+        "B": "不要卸下燃烧的衣服的遗迹。",
+        "C": "你必须给止痛药。",
+        "D": "不要覆盖它，因为它已经很热了。"
+      }
+    },
+    {
+      "cod": "2H04034",
+      "pregunta": "Ante una hemorragia externa, ¿qué se debe hacer?",
+      "pregunta_chino": "在外部出血之前，该怎么办？",
+      "solucion": "A",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Cubrirla con un vendaje y aplicar una presión moderada.",
+        "B": "Aplicar una pomada antibiótica.",
+        "C": "Lavar abundantemente con cualquier líquido.",
+        "D": "Aplicar un torniquete en cualquier caso."
+      },
+      "opciones_chino": {
+        "A": "用绷带盖住它，并施加适度的压力。",
+        "B": "施加抗生素软膏。",
+        "C": "用任何液体大量洗涤。",
+        "D": "在任何情况下都使用止血带。"
+      }
+    },
+    {
+      "cod": "2H04035",
+      "pregunta": "Ante una hemorragia nasal, ¿qué se debe hacer?",
+      "pregunta_chino": "在鼻腔出血之前，该怎么办？",
+      "solucion": "B",
+      "norma": "Manauel de primeros auxilios, Cruz Roja",
+      "opciones": {
+        "A": "No se debe movilizar el herido.",
+        "B": "Se pinza la nariz con dos dedos con cierta fuerza, manteniendo la cabeza inclinada hacia delante.",
+        "C": "Como primera medida, se introducirán gasas a presión.",
+        "D": "La cabeza siempre deberá estar inclinada hacia atrás."
+      },
+      "opciones_chino": {
+        "A": "受伤不应动员。",
+        "B": "鼻子用两根手指冲突，使头向前倾斜。",
+        "C": "作为第一个措施，将引入压力纱布。",
+        "D": "头应始终倾斜。"
+      }
+    },
+    {
+      "cod": "2H04036",
+      "pregunta": "Cuando ponemos a un accidentado herido en posición de \"defensa\", lo hacemos para:",
+      "pregunta_chino": "当我们将受伤的受伤者置于“防御”职位时，我们会这样做：",
+      "solucion": "B",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "evitar que el herido vomite.",
+        "B": "evitar la obstrucción de las vías respiratorias y la aspiración del vómito.",
+        "C": "inmovilizar al herido.",
+        "D": "ayudar a recuperar la consciencia."
+      },
+      "opciones_chino": {
+        "A": "防止受伤的呕吐。",
+        "B": "避免呼吸道的阻塞和呕吐的抽吸。",
+        "C": "固定受伤的人。",
+        "D": "帮助恢复意识。"
+      }
+    },
+    {
+      "cod": "2H04037",
+      "pregunta": "Cuando quede inmovilizado un vehículo en un accidente, el conductor colocará dos dispositivos de preseñalización de peligro:",
+      "pregunta_chino": "当车辆被固定在事故中时，驾驶员将放置两个危险设备：",
+      "solucion": "B",
+      "norma": "RD 1428/2003, art. 130",
+      "opciones": {
+        "A": "a 100 metros del vehículo.",
+        "B": "a 50 metros del vehículo.",
+        "C": "a 80 metros del vehículo.",
+        "D": "a 25 metros del vehículo."
+      },
+      "opciones_chino": {
+        "A": "距车辆100米。",
+        "B": "距车辆50米。",
+        "C": "距车辆80米。",
+        "D": "距车辆25米。"
+      }
+    },
+    {
+      "cod": "2H04038",
+      "pregunta": "En caso de accidente con víctimas y heridos inconscientes:",
+      "pregunta_chino": "如果无意识的受害者和伤害发生意外：",
+      "solucion": "D",
+      "norma": "Primeros auxilios en conflictos armados y otras situaciones de violencia. CICR - GINEBRA, 2006",
+      "opciones": {
+        "A": "se colocará a estos últimos en la posición más cómoda posible.",
+        "B": "se sacará a los heridos del vehículo, aunque ello suponga un peligro para su seguridad o para la circulación.",
+        "C": "se deberán suministrar los primeros auxilios fuera de la calzada.",
+        "D": "no deberá moverse a los heridos, salvo si peligra su seguridad o la de la circulación."
+      },
+      "opciones_chino": {
+        "A": "后者将被放置在最舒适的位置。",
+        "B": "即使假定对其安全或循环构成危险，车辆受伤也将受到杀伤。",
+        "C": "必须在道路外提供急救。",
+        "D": "除非您的安全或循环处于危险之中，否则您不应该搬到受伤的情况下。"
+      }
+    },
+    {
+      "cod": "2H04039",
+      "pregunta": "En caso de accidente con víctimas, en relación con la actuación con los heridos,:",
+      "pregunta_chino": "如果与受害者发生事故，与受伤的表现有关",
+      "solucion": "C",
+      "norma": "Primeros auxilios en conflictos armados y otras situaciones de violencia. CICR - GINEBRA, 2006",
+      "opciones": {
+        "A": "únicamente se les suministrará agua a requerimiento de ellos.",
+        "B": "solo se le deben administrar alimentos sólidos.",
+        "C": "no se le debe dar ni bebida ni comida.",
+        "D": "se le dará de beber si lo desea."
+      },
+      "opciones_chino": {
+        "A": "他们只应要求提供水。",
+        "B": "仅应管理固体食品。",
+        "C": "您不应该给您喝酒或食物。",
+        "D": "如果您愿意，它将喝酒。"
+      }
+    },
+    {
+      "cod": "2H04040",
+      "pregunta": "En caso de accidente, en relación con la seguridad de la circulación, ¿cuáles son las primeras medidas que debemos adoptar al llegar al lugar de los hechos?",
+      "pregunta_chino": "在偶然的情况下，就流通的安全性而言，到达现场时必须采取什么措施？",
+      "solucion": "B",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Reconocer al accidentado y tranquilizarlo.",
+        "B": "Proteger el lugar y eliminar peligros.",
+        "C": "Poner ropa de abrigo al accidentado.",
+        "D": "Tomar el pulso y vigilar la respiración del accidentado."
+      },
+      "opciones_chino": {
+        "A": "认识受伤的人并向他保证。",
+        "B": "保护该地点并消除危害。",
+        "C": "穿上衣服给受伤者。",
+        "D": "取脉冲并监视受伤的伤害。"
+      }
+    },
+    {
+      "cod": "2H04041",
+      "pregunta": "En caso de tener que auxiliar a un accidentado que presente una herida sangrante con hemorragia externa abundante, ¿dónde se debe realizar la compresión directa?",
+      "pregunta_chino": "如果必须帮助一个受伤的人出现大量的外部出血出血，应该在哪里进行直接压缩？",
+      "solucion": "A",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "En el trayecto de la arteria, antes de la herida.",
+        "B": "En el trayecto de la arteria, después de la herida.",
+        "C": "Solo debe vendarse, no comprimirse.",
+        "D": "Hay que esperar a la asistencia médica."
+      },
+      "opciones_chino": {
+        "A": "在伤口之前的动脉旅程中。",
+        "B": "在动脉的旅程中，伤口之后。",
+        "C": "您应该只出售，而不是压缩。",
+        "D": "您必须等待医疗援助。"
+      }
+    },
+    {
+      "cod": "2H04042",
+      "pregunta": "En el caso de una herida arterial sangrante en la mitad superior del brazo de un accidentado, ¿dónde se aplicará la presión directa?",
+      "pregunta_chino": "如果在受伤的手臂上半部出血动脉伤口，将在哪里施加直接压力？",
+      "solucion": "A",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Por encima del codo.",
+        "B": "En la mano.",
+        "C": "En la muñeca.",
+        "D": "En la zona radial media."
+      },
+      "opciones_chino": {
+        "A": "在肘部上方。",
+        "B": "手头。",
+        "C": "在手腕上。",
+        "D": "在中等径向区域。"
+      }
+    },
+    {
+      "cod": "2H04043",
+      "pregunta": "En general, ¿hay que dar agua a los accidentados?",
+      "pregunta_chino": "通常，我们应该给受伤的人吗？",
+      "solucion": "B",
+      "norma": "Primeros auxilios en conflictos armados y otras situaciones de violencia. CICR - GINEBRA, 2006",
+      "opciones": {
+        "A": "Siempre.",
+        "B": "No, en general nunca hay que dar de beber a un accidentado.",
+        "C": "Solo hay que dar agua a los que presenten síntomas de asfixia.",
+        "D": "Solo pueden suministrarse líquidos a los heridos inconscientes."
+      },
+      "opciones_chino": {
+        "A": "总是。",
+        "B": "不，总的来说，您永远不必为受伤的人喝酒。",
+        "C": "您只需要向那些出现窒息症状的人提供水。",
+        "D": "液体只能提供给无意识的受伤。"
+      }
+    },
+    {
+      "cod": "2H04044",
+      "pregunta": "La forma más rápida, fácil y segura de detener inicialmente una hemorragia externa es:",
+      "pregunta_chino": "最初阻止外部出血的最快，最简单，最安全的方法是：",
+      "solucion": "D",
+      "norma": "Primeros auxilios en conflictos armados y otras situaciones de violencia. CICR - GINEBRA, 2006",
+      "opciones": {
+        "A": "aplicar alcohol sobre la parte afectada.",
+        "B": "el torniquete.",
+        "C": "inmovilizar al accidentado.",
+        "D": "la presión directa."
+      },
+      "opciones_chino": {
+        "A": "在受影响的部分上饮酒。",
+        "B": "止血带。",
+        "C": "固定受伤的人。",
+        "D": "直接压力。"
+      }
+    },
+    {
+      "cod": "2H04045",
+      "pregunta": "Los usuarios de las vías que se vean implicados en un accidente de tráfico, lo presencien o tengan conocimiento de él, ¿a qué estarán obligados?",
+      "pregunta_chino": "涉及交通事故，见证或了解这道路的道路的用户，他们将有什么义务？",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 129",
+      "opciones": {
+        "A": "Solo a solicitar auxilio.",
+        "B": "A auxiliar o solicitar auxilio, solo si se ha alterado la seguridad de la circulación como consecuencia de los hechos.",
+        "C": "A auxiliar o solicitar auxilio, prestar su colaboración para evitar mayores peligros o daños y restablecer, en la medida de lo posible, la seguridad de la circulación y esclarecer los hechos.",
+        "D": "A detenerse en cualquier caso, tratar de restablecer la seguridad de la circulación y auxiliar a los posibles heridos."
+      },
+      "opciones_chino": {
+        "A": "只是要求帮助。",
+        "B": "为了帮助或请求帮助，只有在事实导致循环的安全性发生了更改时。",
+        "C": "为了提供帮助或请求帮助，请提供他们的协作，以避免更多的危险或损害和恢复流通的安全性并澄清事实。",
+        "D": "要在任何情况下停止，请尝试恢复流通的安全并帮助可能的伤害。"
+      }
+    },
+    {
+      "cod": "2H04046",
+      "pregunta": "Respecto de la respiración de un accidentado, ¿qué hechos deben alertar?",
+      "pregunta_chino": "关于受伤的受伤的呼吸，应提醒哪些事实？",
+      "solucion": "C",
+      "norma": "Manauel de primeros auxilios, Cruz Roja",
+      "opciones": {
+        "A": "Únicamente nos debe preocupar el aumento de respiraciones por minuto, el enlentecimiento no es patológico.",
+        "B": "Que respire unas 12 veces por minuto.",
+        "C": "Que la respiración sea lenta o sea excesivamente rápida.",
+        "D": "Solo debemos alertarnos ante una respiración muy lenta, el aumento de ritmo no es valorable."
+      },
+      "opciones_chino": {
+        "A": "我们应该只担心每分钟呼吸的增加，放缓不是病理。",
+        "B": "每分钟呼吸约12次。",
+        "C": "呼吸缓慢或过快。",
+        "D": "我们只需要提醒自己的呼吸缓慢，节奏的增加并不是有价值的。"
+      }
+    },
+    {
+      "cod": "2H04047",
+      "pregunta": "Si el apósito con el que se comprime una hemorragia externa se empapa de sangre, ¿qué se debe hacer?",
+      "pregunta_chino": "如果压缩外出出血的敷料被血液浸透，该怎么办？",
+      "solucion": "D",
+      "norma": "Primeros auxilios en conflictos armados y otras situaciones de violencia. CICR - GINEBRA, 2006",
+      "opciones": {
+        "A": "Tirarlo y poner otro limpio en su lugar.",
+        "B": "Proceder a limpiar de nuevo la herida y comprimir en el punto de la hemorragia con un nuevo apósito.",
+        "C": "Aplicar alcohol sobre el apósito que teníamos.",
+        "D": "Añadir otro apósito encima del que teníamos."
+      },
+      "opciones_chino": {
+        "A": "扔掉它，然后将另一个干净放在原地。",
+        "B": "继续清洁伤口，并在出血时压缩新的调味料。",
+        "C": "在我们吃的敷料上饮酒。",
+        "D": "在我们吃的那件上加上另一个敷料。"
+      }
+    },
+    {
+      "cod": "2H04048",
+      "pregunta": "Si en un accidente de tráfico un herido sufre una hemorragia externa, ¿qué debemos hacer, entre otras cosas, para intentar que deje de sangrar?",
+      "pregunta_chino": "如果在交通事故中受伤的外部出血，我们应该做什么，以阻止流血？",
+      "solucion": "D",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "Lavar la herida con agua fría.",
+        "B": "Esperar a que coagule espontáneamente.",
+        "C": "Darle agua para que no se deshidrate y compensar la pérdida de líquido.",
+        "D": "Presionar con un trapo limpio sobre el punto que sangra."
+      },
+      "opciones_chino": {
+        "A": "用冷水清洗伤口。",
+        "B": "自发等待凝结物。",
+        "C": "给水，以免脱水并补偿流体损失。",
+        "D": "用干净的抹布按在流血的位置。"
+      }
+    },
+    {
+      "cod": "2H04049",
+      "pregunta": "Si existe fundada sospecha de que una víctima de accidente tiene una lesión en la columna vertebral…",
+      "pregunta_chino": "如果人们怀疑事故受害者对脊柱受伤...",
+      "solucion": "B",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "se la deberá colocar en posición de \"defensa\".",
+        "B": "no se deberá mover nunca al accidentado.",
+        "C": "se la colocará en posición semisentada.",
+        "D": "se deberá intentar que el accidentado camine para comprobar la extensión de la lesión."
+      },
+      "opciones_chino": {
+        "A": "必须将其置于“防御”位置。",
+        "B": "受伤的人永远不会移动。",
+        "C": "它将被放置在半输入位置。",
+        "D": "它应该尝试受伤的步行以检查病变延伸。"
+      }
+    },
+    {
+      "cod": "2H04050",
+      "pregunta": "Si fuera preciso pedir auxilio, ¿se utilizará el poste de socorro más próximo si la vía dispone de ellos?",
+      "pregunta_chino": "如果有必要寻求帮助，如果有道路有道路，是否可以使用最接近的救济职位？",
+      "solucion": "B",
+      "norma": "RD 1428/2003, art. 130",
+      "opciones": {
+        "A": "No, su uso está reservado a las fuerzas de seguridad.",
+        "B": "Sí, y en caso de no existir podrá solicitarse de otros usuarios o a través de cualquier otro medio.",
+        "C": "Sí, pero su uso está reservado para cuando existan víctimas mortales de accidentes de tráfico.",
+        "D": "No."
+      },
+      "opciones_chino": {
+        "A": "不，它的使用保留用于安全部队。",
+        "B": "是的，如果不存在，则可以要求其他用户或通过任何其他方式。",
+        "C": "是的，但是当有致命的交通事故受害者时，它的使用是保留的。",
+        "D": "不。"
+      }
+    },
+    {
+      "cod": "2H04051",
+      "pregunta": "Si nos encontramos ante un accidente de tráfico con heridos graves:",
+      "pregunta_chino": "如果我们面临严重伤害的交通事故：",
+      "solucion": "C",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "debemos movilizar a los heridos para que no se duerman.",
+        "B": "debemos trasladarlos en nuestro vehículo al hospital mas cercano.",
+        "C": "salvo peligro de incendio o atropello, no hay que mover a los heridos.",
+        "D": "no hay que detenerse para evitar obstáculos en la vía."
+      },
+      "opciones_chino": {
+        "A": "我们必须动员受伤者，以免他们睡觉。",
+        "B": "我们必须将它们在车辆中转移到最近的医院。",
+        "C": "除了处于火灾或愤怒的危险之外，您不必移动受伤的人。",
+        "D": "不要停下来避免道路上的障碍。"
+      }
+    },
+    {
+      "cod": "2H04052",
+      "pregunta": "Si se comprueba que el accidentado no respira una vez abiertas las vías respiratorias, …",
+      "pregunta_chino": "如果证明受伤的人在呼吸道打开后不会呼吸，...",
+      "solucion": "D",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "se deberá esperar la llegada de la ambulancia.",
+        "B": "se comenzará a efectuar el masaje cardiaco.",
+        "C": "se administrará agua a la víctima.",
+        "D": "se iniciará inmediatamente la RCP."
+      },
+      "opciones_chino": {
+        "A": "必须期望救护车的到来。",
+        "B": "心脏按摩将开始进行。",
+        "C": "水将向受害者管理。",
+        "D": "心肺复苏将立即开始。"
+      }
+    },
+    {
+      "cod": "2H04053",
+      "pregunta": "Si se sospecha de una lesión en la columna vertebral en un accidentado que solo manifiesta rigidez y dolor de cuello,:",
+      "pregunta_chino": "如果怀疑只表现出僵硬和颈部疼痛的受伤人士怀疑脊柱受伤：",
+      "solucion": "A",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "se le inmovilizará la cabeza, si es necesario con nuestras manos, todo el tiempo que haga falta.",
+        "B": "hay que situar a la víctima boca abajo.",
+        "C": "se debe colocar al lesionado acostado sobre su lado derecho.",
+        "D": "no es necesario hacer nada si no tiene mareos."
+      },
+      "opciones_chino": {
+        "A": "他将被固定在我们的手时，所有时间都需要。",
+        "B": "您必须将受害者面对面。",
+        "C": "必须放置在他右侧的受伤者。",
+        "D": "如果您没有头晕，则无需做任何事情。"
+      }
+    },
+    {
+      "cod": "2H04054",
+      "pregunta": "Teniendo en cuenta la gravedad de los accidentados, ¿qué elementos, de los que se citan, determinan el orden de actuación con los heridos?",
+      "pregunta_chino": "考虑到受伤​​者的严重性，他们引用了哪些因素，确定受伤者的行动顺序？",
+      "solucion": "A",
+      "norma": "Primeros auxilios en conflictos armados y otras situaciones de violencia. CICR - GINEBRA, 2006",
+      "opciones": {
+        "A": "El estado de consciencia, la respiración y la circulación sanguínea.",
+        "B": "La presencia de cualquier tipo de hemorragia.",
+        "C": "El presencia de dolor.",
+        "D": "Los procesos infecciosos."
+      },
+      "opciones_chino": {
+        "A": "意识，呼吸和血液循环的状态。",
+        "B": "任何类型的出血的存在。",
+        "C": "疼痛的存在。",
+        "D": "感染过程。"
+      }
+    },
+    {
+      "cod": "2H04055",
+      "pregunta": "Una quemadura de primer grado es:",
+      "pregunta_chino": "一级燃烧是：",
+      "solucion": "D",
+      "norma": "Manauel de primeros auxilios, Cruz Roja",
+      "opciones": {
+        "A": "aquella en la que la piel se calcina por completo, lesionando los tejidos que se encuentran por debajo de la misma llegando, en algunos casos, a destruir músculos y vasos sanguíneos.",
+        "B": "la que afecta la dermis formando ampollas.",
+        "C": "la que afecta exclusivamente el pelo o las uñas.",
+        "D": "aquella que se manifiesta como un enrojecimiento de la parte externa de la piel produciendo una ligera inflamación. Es muy dolorosa."
+      },
+      "opciones_chino": {
+        "A": "皮肤完全凝聚的那些，在某些情况下会伤害到达其下方的组织，以破坏血管和血管。",
+        "B": "影响真皮形成水泡的一种。",
+        "C": "仅影响头发或指甲。",
+        "D": "表现为皮肤外部发红的一种会产生轻微的炎症。这很痛苦。"
+      }
+    },
+    {
+      "cod": "2H04056",
+      "pregunta": "Una quemadura de tercer grado es:",
+      "pregunta_chino": "三年级的烧伤是：",
+      "solucion": "A",
+      "norma": "Manauel de primeros auxilios, Cruz Roja",
+      "opciones": {
+        "A": "aquella en la que la piel se calcina por completo, lesionando los tejidos que se encuentran por debajo de la misma llegando, en algunos casos, a destruir músculos y vasos sanguíneos.",
+        "B": "la que afecta la dermis formando ampollas.",
+        "C": "la que afecta exclusivamente el pelo o las uñas.",
+        "D": "aquella que se manifiesta como un enrojecimiento de la parte externa de la piel produciendo una ligera inflamación. Es muy dolorosa."
+      },
+      "opciones_chino": {
+        "A": "皮肤完全凝聚的那些，在某些情况下会伤害到达其下方的组织，以破坏血管和血管。",
+        "B": "影响真皮形成水泡的一种。",
+        "C": "仅影响头发或指甲。",
+        "D": "表现为皮肤外部发红的一种会产生轻微的炎症。这很痛苦。"
+      }
+    },
+    {
+      "cod": "2H04057",
+      "pregunta": "Una quemadura de segundo grado es:",
+      "pregunta_chino": "二级燃烧是：",
+      "solucion": "B",
+      "norma": "Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019",
+      "opciones": {
+        "A": "aquella en la que la piel se calcina por completo, lesionando los tejidos que se encuentran por debajo de la misma llegando, en algunos casos, a destruir músculos y vasos sanguíneos.",
+        "B": "la que afecta la dermis formando ampollas.",
+        "C": "la que afecta exclusivamente el pelo o las uñas.",
+        "D": "aquella que se manifiesta como un enrojecimiento de la parte externa de la piel produciendo una ligera inflamación. Es muy dolorosa."
+      },
+      "opciones_chino": {
+        "A": "皮肤完全凝聚的那些，在某些情况下会伤害到达其下方的组织，以破坏血管和血管。",
+        "B": "影响真皮形成水泡的一种。",
+        "C": "仅影响头发或指甲。",
+        "D": "表现为皮肤外部发红的一种会产生轻微的炎症。这很痛苦。"
+      }
+    },
+    {
+      "cod": "2H05001",
+      "pregunta": "¿Cómo se denomina a la colocación adecuada de la carga en el vehículo para evitar posibles daños, facilitar descargas y proteger a las personas y a los propios objetos transportados?",
+      "pregunta_chino": "什么称为车辆中的负载适当放置，以避免可能损坏，促进下载并保护人和运输的物体本身？",
+      "solucion": "B",
+      "norma": "Manual de estiba para mercancías sólidas, Ricardo González Blanco, Ediciones UPC",
+      "opciones": {
+        "A": "Manipulación.",
+        "B": "Estiba.",
+        "C": "Desestiba.",
+        "D": "Agrupamiento."
+      },
+      "opciones_chino": {
+        "A": "处理。",
+        "B": "存放。",
+        "C": "被解雇。",
+        "D": "分组。"
+      }
+    },
+    {
+      "cod": "2H05002",
+      "pregunta": "¿Qué se debe tener en cuenta al efectuar la carga de un autocar?",
+      "pregunta_chino": "执行教练时应该考虑什么？",
+      "solucion": "A",
+      "norma": "RD 2822/1998, art. 14",
+      "opciones": {
+        "A": "Las masas máximas permitidas.",
+        "B": "Los trámites administrativos.",
+        "C": "Calcular el teorema de Kamm.",
+        "D": "Hacer una comprobación previa del transporte."
+      },
+      "opciones_chino": {
+        "A": "允许的最大质量。",
+        "B": "行政程序。",
+        "C": "计算Kamm的定理。",
+        "D": "事先运输运输。"
+      }
+    },
+    {
+      "cod": "2H05003",
+      "pregunta": "¿Se pueden transportar animales en un autocar?",
+      "pregunta_chino": "可以在教练中运送动物吗？",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 11",
+      "opciones": {
+        "A": "Sí, cuando viajen junto a su dueño.",
+        "B": "Sí, cuando vayan debidamente sujetos.",
+        "C": "Sí, cuando exista en el vehículo un lugar para su transporte.",
+        "D": "En ningún caso."
+      },
+      "opciones_chino": {
+        "A": "是的，当他们与主人一起旅行时。",
+        "B": "是的，当它们适当主题时。",
+        "C": "是的，当车辆有运输工具时。",
+        "D": "在任何情况下。"
+      }
+    },
+    {
+      "cod": "2H05004",
+      "pregunta": "¿Cómo se denomina la acción de colocar la carga en un vehículo para su transporte?",
+      "pregunta_chino": "将负载放在车辆运输中的作用是什么？",
+      "solucion": "B",
+      "norma": "Manual de estiba para mercancías sólidas, Ricardo González Blanco, Ediciones UPC",
+      "opciones": {
+        "A": "Fuerza.",
+        "B": "Estiba.",
+        "C": "Carga.",
+        "D": "Cargamento."
+      },
+      "opciones_chino": {
+        "A": "力量。",
+        "B": "存放。",
+        "C": "负担。",
+        "D": "货物。"
+      }
+    },
+    {
+      "cod": "2H05005",
+      "pregunta": "¿En qué circunstancias se pueden transportar animales en un autocar?",
+      "pregunta_chino": "在什么情况下，可以在教练中运送动物？",
+      "solucion": "B",
+      "norma": "RD 1428/2003, art. 11",
+      "opciones": {
+        "A": "Cuando se trate de animales domésticos.",
+        "B": "Cuando se trate de perros lazarillos que acompañan a invidentes.",
+        "C": "Cuando tengan un peso inferior a 50 kg.",
+        "D": "Las respuestas A y B son correctas."
+      },
+      "opciones_chino": {
+        "A": "关于家畜。",
+        "B": "如果是盲人伴随的Lazarillos狗。",
+        "C": "当他们的重量小于50公斤时。",
+        "D": "响应A和B是正确的。"
+      }
+    },
+    {
+      "cod": "2H05006",
+      "pregunta": "¿Está prohibido transportar materias u objetos peligrosos en un autocar?",
+      "pregunta_chino": "是否禁止在教练中运输危险的材料或物体？",
+      "solucion": "B",
+      "norma": "RD 1428/2003, art. 11",
+      "opciones": {
+        "A": "Sí.",
+        "B": "Sí, salvo que se haga en las condiciones establecidas por la regulación específica de la materia.",
+        "C": "No.",
+        "D": "No, salvo que se superen determinados pesos."
+      },
+      "opciones_chino": {
+        "A": "是的。",
+        "B": "是的，除非在该问题的特定法规确定的条件下完成。",
+        "C": "不。",
+        "D": "不，除非克服某些权重。"
+      }
+    },
+    {
+      "cod": "2H05007",
+      "pregunta": "¿Qué es la masa por eje?",
+      "pregunta_chino": "什么是轴的质量？",
+      "solucion": "C",
+      "norma": "RD 2822/1998, Anexo IX",
+      "opciones": {
+        "A": "La masa que es capaz de soportar un eje en función de su construcción.",
+        "B": "La carga que es capaz de soportar un eje en función de su construcción.",
+        "C": "La masa que gravita sobre el suelo, transmitida por la totalidad de las ruedas acopladas a ese eje.",
+        "D": "La carga que gravita sobre el suelo, transmitida por la totalidad de las ruedas acopladas a ese eje."
+      },
+      "opciones_chino": {
+        "A": "能够根据其构造支撑轴的质量。",
+        "B": "能够根据其结构支撑轴的负载。",
+        "C": "在地面上引诱的质量，由所有车轮均连接到该轴。",
+        "D": "在地面上引诱的载荷，由所有车轮耦合到该轴。"
+      }
+    },
+    {
+      "cod": "2H05008",
+      "pregunta": "Una buena estiba requiere que la carga sea colocada:",
+      "pregunta_chino": "一个好的存放需要放置负载：",
+      "solucion": "D",
+      "norma": "Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea",
+      "opciones": {
+        "A": "de forma transversal al vehículo.",
+        "B": "de la forma que asegure una mayor rentabilidad económica.",
+        "C": "de forma que nunca se superpongan más de 5 bultos.",
+        "D": "de modo que se eviten desperfectos en la misma."
+      },
+      "opciones_chino": {
+        "A": "横向到车辆。",
+        "B": "以确保更大的经济盈利能力的方式。",
+        "C": "因此，超过5个包装永远不会重叠。",
+        "D": "这样他们避免损坏它。"
+      }
+    },
+    {
+      "cod": "2H05009",
+      "pregunta": "Una buena estiba requiere que la carga sea colocada:",
+      "pregunta_chino": "一个好的存放需要放置负载：",
+      "solucion": "D",
+      "norma": "Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea",
+      "opciones": {
+        "A": "de forma longitudinal al vehículo.",
+        "B": "con espacios de, al menos, cuatro centímetros entre los bultos.",
+        "C": "con espacios de, al menos, un centímetro entre los bultos.",
+        "D": "para ser transportada con un máximo de seguridad para el personal del vehículo."
+      },
+      "opciones_chino": {
+        "A": "纵向到车辆。",
+        "B": "包装中至少有四厘米的空间。",
+        "C": "包装之间至少有一厘米的空间。",
+        "D": "要为车辆人员提供最大安全性的运输。"
+      }
+    },
+    {
+      "cod": "2H05010",
+      "pregunta": "Una buena estiba requiere que la carga sea colocada:",
+      "pregunta_chino": "一个好的存放需要放置负载：",
+      "solucion": "A",
+      "norma": "Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea",
+      "opciones": {
+        "A": "para ser transportada con un máximo de seguridad para el vehículo.",
+        "B": "de forma transversal al vehículo.",
+        "C": "de forma longitudinal al vehículo.",
+        "D": "con espacios de, al menos, un centímetro entre los bultos."
+      },
+      "opciones_chino": {
+        "A": "以最大的安全性运输。",
+        "B": "横向到车辆。",
+        "C": "纵向到车辆。",
+        "D": "包装之间至少有一厘米的空间。"
+      }
+    },
+    {
+      "cod": "2H05011",
+      "pregunta": "¿Qué es la masa máxima autorizada por eje?",
+      "pregunta_chino": "轴授权的最大质量是什么？",
+      "solucion": "D",
+      "norma": "RD 2822/1998, Anexo IX",
+      "opciones": {
+        "A": "La masa especificada por el fabricante para cada eje.",
+        "B": "La carga especificada por el fabricante para cada eje.",
+        "C": "La carga máxima de un eje o grupo de ejes para utilización en circulación por las vías públicas.",
+        "D": "La masa máxima de un eje o grupo de ejes con carga para utilización en circulación por las vías públicas."
+      },
+      "opciones_chino": {
+        "A": "制造商为每个轴指定的质量。",
+        "B": "制造商为每个轴指定的负载。",
+        "C": "轴或一组轴的最大负载，可用于公共道路循环。",
+        "D": "轴或一组带负载的轴的最大质量可用于公共道路循环。"
+      }
+    },
+    {
+      "cod": "2H05012",
+      "pregunta": "¿En qué situaciones se permite que los dispositivos de alumbrado del vehículo sean ocultados por la carga?",
+      "pregunta_chino": "在什么情况下，允许车辆照明设备被负载隐藏？",
+      "solucion": "D",
+      "norma": "RD 1428/2003, art. 14",
+      "opciones": {
+        "A": "Cuando la carga es muy voluminosa.",
+        "B": "Cuando es de día.",
+        "C": "Cuando se circula por carreteras de más de dos carriles por sentido.",
+        "D": "En ninguno de los supuestos anteriores."
+      },
+      "opciones_chino": {
+        "A": "当负载非常笨重时。",
+        "B": "那天。",
+        "C": "当它沿着道路循环时，每个方向超过两个车道。",
+        "D": "在上述任何假设中都没有。"
+      }
+    },
+    {
+      "cod": "2H05013",
+      "pregunta": "¿Qué es la estiba?",
+      "pregunta_chino": "什么是存放？",
+      "solucion": "A",
+      "norma": "Manual de estiba para mercancías sólidas, Ricardo González Blanco, Ediciones UPC",
+      "opciones": {
+        "A": "Es la acción de colocar la carga para ser transportada de la mejor manera.",
+        "B": "Es la actividad que regula la aceleración del vehículo.",
+        "C": "Es la forma de ahorrar combustible.",
+        "D": "Es la manera de conducir."
+      },
+      "opciones_chino": {
+        "A": "这是将负载以最好的方式运输的作用。",
+        "B": "正是调节车辆加速度的活动。",
+        "C": "这是节省燃料的方法。",
+        "D": "这是驾驶方式。"
+      }
+    },
+    {
+      "cod": "2H05014",
+      "pregunta": "En un autobús, el desgaste prematuro de los neumáticos es un fenómeno típico:",
+      "pregunta_chino": "在公共汽车中，轮胎的过早磨损是一个典型的现象：",
+      "solucion": "B",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "de la sobrecarga en el eje delantero, no así en el trasero.",
+        "B": "de la sobrecarga en los ejes delantero y trasero.",
+        "C": "de la sobrecarga en el eje trasero, no así en el delantero.",
+        "D": "El desgaste prematuro de los neumáticos no tiene relación nunca con la sobrecarga."
+      },
+      "opciones_chino": {
+        "A": "前桥上的过载，但不在后方。",
+        "B": "前轴和后轴上的过载。",
+        "C": "后桥上的过载，但不在前锋中。",
+        "D": "轮胎的过早磨损与超负荷永远没有关系。"
+      }
+    },
+    {
+      "cod": "2H05015",
+      "pregunta": "¿Cómo se denomina el arte de colocar la carga para ser transportada de la mejor manera?",
+      "pregunta_chino": "将负载以最好的方式运输的艺术是什么？",
+      "solucion": "B",
+      "norma": "Manual de estiba para mercancías sólidas, Ricardo González Blanco, Ediciones UPC",
+      "opciones": {
+        "A": "Balanceo.",
+        "B": "Estiba.",
+        "C": "Cabeceo.",
+        "D": "Guiñada."
+      },
+      "opciones_chino": {
+        "A": "摇摆。",
+        "B": "存放。",
+        "C": "投球。",
+        "D": "偏航。"
+      }
+    },
+    {
+      "cod": "2H05016",
+      "pregunta": "¿Qué fenómeno es típico de una sobrecarga en el eje delantero de un autobús?",
+      "pregunta_chino": "公共汽车前桥上超负荷的典型现象是什么现象？",
+      "solucion": "A",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "La dureza de la dirección.",
+        "B": "El esfuerzo excesivo para la suspensión trasera.",
+        "C": "La suavidad de la dirección.",
+        "D": "La falta de apoyo en el eje delantero."
+      },
+      "opciones_chino": {
+        "A": "方向的硬度。",
+        "B": "后悬架的努力过多。",
+        "C": "方向的平稳性。",
+        "D": "前轴缺乏支撑。"
+      }
+    },
+    {
+      "cod": "2H05017",
+      "pregunta": "¿Qué fenómeno es típico en una sobrecarga del eje delantero del autobús?",
+      "pregunta_chino": "公交前轴超载的典型现象是什么现象？",
+      "solucion": "C",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "La falta de apoyo en el eje delantero.",
+        "B": "El esfuerzo excesivo para la suspensión trasera y la repercusión de golpes en el chasis.",
+        "C": "El desgaste prematuro de los neumáticos de ese eje.",
+        "D": "La suavidad de la dirección del vehículo."
+      },
+      "opciones_chino": {
+        "A": "前轴缺乏支撑。",
+        "B": "后悬架的过多努力以及对底盘的打击的影响。",
+        "C": "该轴轮胎的过早磨损。",
+        "D": "车辆方向的柔软度。"
+      }
+    },
+    {
+      "cod": "2H05018",
+      "pregunta": "La normativa obliga a que la carga esté correctamente sujetada a fin de que:",
+      "pregunta_chino": "法规要求负载正确遵守：",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 14",
+      "opciones": {
+        "A": "no se desplace en absoluto.",
+        "B": "no se desplace más de un tercio de su longitud.",
+        "C": "no se desplace de manera peligrosa.",
+        "D": "La normativa no contiene ninguna disposición sobre esa materia, solo existen recomendaciones."
+      },
+      "opciones_chino": {
+        "A": "完全不要动。",
+        "B": "不要移动其长度的三分之一。",
+        "C": "不要危险地移动。",
+        "D": "该法规不包含有关此事的任何规定，只有建议。"
+      }
+    },
+    {
+      "cod": "2H05019",
+      "pregunta": "¿El modo de estibar la carga tiene influencia en la estabilidad del vehículo?",
+      "pregunta_chino": "存放负载的方式是否会影响车辆的稳定性？",
+      "solucion": "A",
+      "norma": "RD 1428/2003, art. 14",
+      "opciones": {
+        "A": "Sí.",
+        "B": "No.",
+        "C": "Depende del tipo de carretera.",
+        "D": "Depende del tipo de vehículo."
+      },
+      "opciones_chino": {
+        "A": "是的。",
+        "B": "不。",
+        "C": "这取决于道路的类型。",
+        "D": "这取决于车辆的类型。"
+      }
+    },
+    {
+      "cod": "2H05020",
+      "pregunta": "¿El modo de estibar la carga en un vehículo tiene alguna incidencia sobre la seguridad vial?",
+      "pregunta_chino": "将负载放在车辆上的方式是否有道路安全性发生率？",
+      "solucion": "D",
+      "norma": "RD 1428/2003, art. 14",
+      "opciones": {
+        "A": "No, salvo que la carga caiga sobre otro vehículo durante su transporte.",
+        "B": "No, salvo que la carga se desprenda del vehículo durante su transporte.",
+        "C": "En ningún caso.",
+        "D": "Sí, porque puede afectar a la estabilidad del vehículo."
+      },
+      "opciones_chino": {
+        "A": "不，除非载荷在运输过程中落在另一辆车上。",
+        "B": "不，除非车辆在运输过程中来自车辆。",
+        "C": "在任何情况下。",
+        "D": "是的，因为它会影响车辆的稳定性。"
+      }
+    },
+    {
+      "cod": "2H05021",
+      "pregunta": "Indique cuál de las siguientes afirmaciones es correcta:",
+      "pregunta_chino": "指出以下哪些陈述是正确的：",
+      "solucion": "A",
+      "norma": "Código de buenas prácticas para la estiba segura de la carga en el transporte por carretera, IRU",
+      "opciones": {
+        "A": "El modo de estibar la carga incide en la estabilidad del vehículo.",
+        "B": "El modo de estibar la carga solo tiene incidencia para la protección de la propia carga.",
+        "C": "El modo de estibar la carga no incide en la protección del vehículo de posibles averías.",
+        "D": "El modo de estibar la carga no afecta al movimiento del vehículo."
+      },
+      "opciones_chino": {
+        "A": "存放负载的方式会影响车辆的稳定性。",
+        "B": "存放负载的方式仅对负载本身的保护有影响。",
+        "C": "存放负载的方式不会影响对可能故障的车辆的保护。",
+        "D": "放置负载的方式不会影响车辆的运动。"
+      }
+    },
+    {
+      "cod": "2H05022",
+      "pregunta": "¿Puede provocar efectos negativos la sobrecarga de alguno de los ejes de un autobús?",
+      "pregunta_chino": "公共汽车的任何轴都可以超载吗？",
+      "solucion": "A",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "Sí.",
+        "B": "No.",
+        "C": "Sí, pero solamente si el eje que se sobrecarga es alguno de los delanteros.",
+        "D": "Sí, pero solamente si el eje que se sobrecarga es alguno de los traseros."
+      },
+      "opciones_chino": {
+        "A": "是的。",
+        "B": "不。",
+        "C": "是的，但是只有超负荷的轴是前锋之一。",
+        "D": "是的，但是只有超负荷的车轴是后方之一。"
+      }
+    },
+    {
+      "cod": "2H05023",
+      "pregunta": "¿Qué tipo de fuerzas de inercia o aceleraciones experimenta un vehículo en movimiento con repercusión sobre su carga?",
+      "pregunta_chino": "什么样的惯性力量或加速度会经历带有影响的行驶车辆？",
+      "solucion": "D",
+      "norma": "Código de prácticas OMI/OIT/CEPE-Naciones Unidas sobre la arrumazón de las unidades de transporte",
+      "opciones": {
+        "A": "Longitudinales.",
+        "B": "Transversales.",
+        "C": "Verticales.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "纵向",
+        "B": "横。",
+        "C": "垂直的",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2H05024",
+      "pregunta": "A mayor altura del centro de gravedad, la estabilidad del autobús:",
+      "pregunta_chino": "在重心的较高高度，公共汽车的稳定性：",
+      "solucion": "A",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "disminuye.",
+        "B": "aumenta.",
+        "C": "aumenta, siempre que la parte más ligera de la carga permanezca en la base de la caja.",
+        "D": "No sufre alteraciones."
+      },
+      "opciones_chino": {
+        "A": "减少。",
+        "B": "增加。",
+        "C": "它增加了，只要负载的较轻部分留在盒子的底部。",
+        "D": "不要遭受改变。"
+      }
+    },
+    {
+      "cod": "2H05025",
+      "pregunta": "Para garantizar que el autobús reaccione correctamente durante una frenada, ¿qué se tendrá en cuenta respecto a su centro de gravedad?",
+      "pregunta_chino": "为了确保在制动过程中公共汽车在制动过程中做出正确的反应，将考虑到其重心的情况？",
+      "solucion": "A",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "Que el centro de gravedad esté lo más bajo posible.",
+        "B": "Que el centro de gravedad esté situado lo más a la izquierda posible del vehículo.",
+        "C": "Que el centro de gravedad esté lo más alto posible.",
+        "D": "Que el centro de gravedad esté situado lo más a la derecha posible del vehículo."
+      },
+      "opciones_chino": {
+        "A": "重心尽可能低。",
+        "B": "重心的位置尽可能多地位于车辆。",
+        "C": "重心尽可能高。",
+        "D": "重心位于车辆的右侧。"
+      }
+    },
+    {
+      "cod": "2H05026",
+      "pregunta": "¿Qué supone un incremento de la altura del centro de gravedad del vehículo?",
+      "pregunta_chino": "车辆重心的高度增加了什么？",
+      "solucion": "D",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "Un incremento de la estabilidad del vehículo.",
+        "B": "Menores probabilidades de que se produzca un vuelco.",
+        "C": "Una reducción del riesgo en las curvas.",
+        "D": "Un incremento de la inestabilidad del vehículo con mayores probabilidades de que se produzca un vuelco."
+      },
+      "opciones_chino": {
+        "A": "车辆稳定性的提高。",
+        "B": "未成年人可能会发生转弯。",
+        "C": "曲线风险的降低。",
+        "D": "随着周转的机会，车辆不稳定的增加。"
+      }
+    },
+    {
+      "cod": "2H05027",
+      "pregunta": "¿Qué supone un incremento de la altura del centro de gravedad del vehículo?",
+      "pregunta_chino": "车辆重心的高度增加了什么？",
+      "solucion": "C",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "Un incremento de la estabilidad del vehículo.",
+        "B": "Menores probabilidades de que se produzca un vuelco.",
+        "C": "Incrementa el riesgo en las curvas.",
+        "D": "Disminuye el riesgo en las curvas."
+      },
+      "opciones_chino": {
+        "A": "车辆稳定性的提高。",
+        "B": "未成年人可能会发生转弯。",
+        "C": "增加曲线的风险。",
+        "D": "降低曲线的风险。"
+      }
+    },
+    {
+      "cod": "2H05028",
+      "pregunta": "Un incremento de la altura del centro de gravedad del vehículo supone:",
+      "pregunta_chino": "假设车辆重心的高度增加：",
+      "solucion": "B",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "una disminución del riesgo en las curvas.",
+        "B": "mayores probabilidades de que se produzca un vuelco.",
+        "C": "una disminución del riesgo ante la necesidad de tener que realizar una maniobra brusca para esquivar un peligro.",
+        "D": "una mayor velocidad de crucero."
+      },
+      "opciones_chino": {
+        "A": "曲线风险降低。",
+        "B": "周转的机会更大。",
+        "C": "需要降低需要进行急剧操纵才能避免危险的风险。",
+        "D": "更高的巡航速度。"
+      }
+    },
+    {
+      "cod": "2H05029",
+      "pregunta": "¿Qué fuerzas en el sentido de marcha del vehículo, causadas por aceleración o deceleración, debe poder soportar la sujeción de una carga?",
+      "pregunta_chino": "由加速或减速引起的车辆方向的什么力应该能够支持负载的征服？",
+      "solucion": "A",
+      "norma": "RD 563/2017, Anexo III",
+      "opciones": {
+        "A": "El peso de la carga multiplicado por 0,8.",
+        "B": "El peso de la carga multiplicado por 0,5.",
+        "C": "El peso de la carga multiplicado por 2.",
+        "D": "No hay nada regulado al respecto."
+      },
+      "opciones_chino": {
+        "A": "负载的重量乘以0.8。",
+        "B": "负载的重量乘以0.5。",
+        "C": "负载的重量乘以2。",
+        "D": "没有任何监管。"
+      }
+    },
+    {
+      "cod": "2H05030",
+      "pregunta": "¿Qué fuerzas en sentido contrario al de marcha del vehículo, causadas por aceleración o deceleración, debe poder soportar la sujeción de una carga?",
+      "pregunta_chino": "由加速或减速引起的车辆相反方向的什么力必须能够支撑载荷的征服？",
+      "solucion": "B",
+      "norma": "RD 563/2017, Anexo III",
+      "opciones": {
+        "A": "El peso de la carga multiplicado por 0,8.",
+        "B": "El peso de la carga multiplicado por 0,5.",
+        "C": "El peso de la carga multiplicado por 2.",
+        "D": "No hay nada regulado al respecto."
+      },
+      "opciones_chino": {
+        "A": "负载的重量乘以0.8。",
+        "B": "负载的重量乘以0.5。",
+        "C": "负载的重量乘以2。",
+        "D": "没有任何监管。"
+      }
+    },
+    {
+      "cod": "2H05031",
+      "pregunta": "¿Qué fuerzas en sentido lateral, causadas por aceleración o deceleración, debe poder soportar la sujeción de una carga?",
+      "pregunta_chino": "由加速度或减速引起的横向上的什么力必须能够支持负载的征服？",
+      "solucion": "B",
+      "norma": "RD 563/2017, Anexo III",
+      "opciones": {
+        "A": "El peso de la carga multiplicado por 0,8.",
+        "B": "El peso de la carga multiplicado por 0,5.",
+        "C": "El peso de la carga multiplicado por 2.",
+        "D": "No hay nada regulado al respecto."
+      },
+      "opciones_chino": {
+        "A": "负载的重量乘以0.8。",
+        "B": "负载的重量乘以0.5。",
+        "C": "负载的重量乘以2。",
+        "D": "没有任何监管。"
+      }
+    },
+    {
+      "cod": "2H05032",
+      "pregunta": "Al efectuar la carga de un vehículo hay que asegurarse de que la sujeción de la misma:",
+      "pregunta_chino": "承载车辆的负载时，您必须确保它的征服：",
+      "solucion": "D",
+      "norma": "RD 563/2017, Anexo III",
+      "opciones": {
+        "A": "impide su inclinación longitudinal.",
+        "B": "impide su inclinación transversal.",
+        "C": "impide su inclinación vectorial.",
+        "D": "Las respuestas A y B son correctas."
+      },
+      "opciones_chino": {
+        "A": "防止其纵向倾斜。",
+        "B": "防止其横向倾斜。",
+        "C": "防止其矢量倾斜。",
+        "D": "响应A和B是正确的。"
+      }
+    },
+    {
+      "cod": "2H05033",
+      "pregunta": "La normativa obliga a que la carga esté correctamente sujetada a fin de que:",
+      "pregunta_chino": "法规要求负载正确遵守：",
+      "solucion": "D",
+      "norma": "RD 1428/2003, art. 14; RD  563/2017, art. 11",
+      "opciones": {
+        "A": "no se desplace en absoluto.",
+        "B": "no se desplace de manera peligrosa.",
+        "C": "no se desplace fuera del compartimento de carga.",
+        "D": "Las respuestas B y C son correctas."
+      },
+      "opciones_chino": {
+        "A": "完全不要动。",
+        "B": "不要危险地移动。",
+        "C": "不要在负载舱外移动。",
+        "D": "响应B和C是正确的。"
+      }
+    },
+    {
+      "cod": "2H05034",
+      "pregunta": "¿Qué supone un incremento de la altura del centro de gravedad del vehículo?",
+      "pregunta_chino": "车辆重心的高度增加了什么？",
+      "solucion": "A",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "Un incremento de la inestabilidad del vehículo.",
+        "B": "Mayor velocidad de crucero.",
+        "C": "Mejor aceleración.",
+        "D": "Un incremento de la estabilidad del vehículo."
+      },
+      "opciones_chino": {
+        "A": "车辆不稳定性的增加。",
+        "B": "更高的巡航速度。",
+        "C": "更好的加速。",
+        "D": "车辆稳定性的提高。"
+      }
+    },
+    {
+      "cod": "2H05035",
+      "pregunta": "¿Qué supone un incremento de la altura del centro de gravedad del vehículo?",
+      "pregunta_chino": "车辆重心的高度增加了什么？",
+      "solucion": "D",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "Mejor aceleración.",
+        "B": "Un incremento de la estabilidad del vehículo.",
+        "C": "Disminuye el riesgo en las curvas.",
+        "D": "Incrementa el riesgo ante la necesidad de tener que realizar una maniobra brusca para esquivar un peligro."
+      },
+      "opciones_chino": {
+        "A": "更好的加速。",
+        "B": "车辆稳定性的提高。",
+        "C": "降低曲线的风险。",
+        "D": "增加了必须进行急需操纵以躲避危险的风险。"
+      }
+    },
+    {
+      "cod": "2H05036",
+      "pregunta": "Un factor que puede afectar a la estabilidad del vehículo es:",
+      "pregunta_chino": "可能影响车辆稳定性的因素是：",
+      "solucion": "B",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "la fuerza termotecnia lateral.",
+        "B": "la posición del centro de gravedad.",
+        "C": "la masa radial.",
+        "D": "la masa neta que se puede levantar."
+      },
+      "opciones_chino": {
+        "A": "侧向热技术。",
+        "B": "重心的位置。",
+        "C": "径向质量",
+        "D": "可以举起的净质量。"
+      }
+    },
+    {
+      "cod": "2H05037",
+      "pregunta": "¿Qué factor puede afectar a la estabilidad del vehículo?",
+      "pregunta_chino": "什么因素会影响车辆的稳定性？",
+      "solucion": "C",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "La masa radial.",
+        "B": "La masa neta que se puede levantar.",
+        "C": "La resistencia al balanceo del chasis.",
+        "D": "La resistencia a la aceleración."
+      },
+      "opciones_chino": {
+        "A": "径向质量",
+        "B": "可以举起的净质量。",
+        "C": "底盘的平衡阻力。",
+        "D": "加速度抗性。"
+      }
+    },
+    {
+      "cod": "2H05038",
+      "pregunta": "Un factor que puede afectar a la estabilidad del vehículo es:",
+      "pregunta_chino": "可能影响车辆稳定性的因素是：",
+      "solucion": "D",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "la masa neta que se puede transportar.",
+        "B": "la masa de velocidad máxima.",
+        "C": "la fuerza termotecnia lateral.",
+        "D": "la rigidez torsional de la carrocería."
+      },
+      "opciones_chino": {
+        "A": "可以运输的净质量。",
+        "B": "最大速度质量。",
+        "C": "侧向热技术。",
+        "D": "身体的扭转僵硬。"
+      }
+    },
+    {
+      "cod": "2H05039",
+      "pregunta": "Al hablar de la distribución de la carga en un vehículo nos referimos:",
+      "pregunta_chino": "在谈论车辆中负载的分配时，我们会参考：",
+      "solucion": "C",
+      "norma": "Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea",
+      "opciones": {
+        "A": "al peso total de la carga.",
+        "B": "al peso total del vehículo cargado.",
+        "C": "a la parte del peso que soporta cada eje.",
+        "D": "Las respuestas A y B son correctas."
+      },
+      "opciones_chino": {
+        "A": "至负载的总重量。",
+        "B": "到装载车辆的总重量。",
+        "C": "每个轴支持的重量部分。",
+        "D": "响应A和B是正确的。"
+      }
+    },
+    {
+      "cod": "2H05040",
+      "pregunta": "La distribución incorrecta de la carga:",
+      "pregunta_chino": "负载的不正确分布：",
+      "solucion": "D",
+      "norma": "Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea",
+      "opciones": {
+        "A": "afecta positivamente a la estabilidad del vehículo.",
+        "B": "afecta a la maniobrabilidad de los operarios de descarga.",
+        "C": "reduce considerablemente el riesgo de accidente.",
+        "D": "afecta negativamente a la estabilidad del vehículo."
+      },
+      "opciones_chino": {
+        "A": "积极影响车辆的稳定性。",
+        "B": "它会影响放电操作员的可操作性。",
+        "C": "大大降低了事故的风险。",
+        "D": "负面影响车辆的稳定性。"
+      }
+    },
+    {
+      "cod": "2H05041",
+      "pregunta": "¿A qué afecta la incorrecta distribución de la carga?",
+      "pregunta_chino": "是什么影响负载的不正确分布？",
+      "solucion": "A",
+      "norma": "Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea",
+      "opciones": {
+        "A": "A la estabilidad del vehículo.",
+        "B": "Al peso específico de la carga.",
+        "C": "Al centro de gravedad de la carga.",
+        "D": "A la fuerza termotécnica lateral."
+      },
+      "opciones_chino": {
+        "A": "达到车辆的稳定性。",
+        "B": "达到负载的特定重量。",
+        "C": "到负载的重心。",
+        "D": "到侧向热力。"
+      }
+    },
+    {
+      "cod": "2H05042",
+      "pregunta": "¿Qué es distribuir la carga en el vehículo?",
+      "pregunta_chino": "什么是在车辆中分配负载？",
+      "solucion": "A",
+      "norma": "Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea",
+      "opciones": {
+        "A": "Repartir el peso total entre los ejes.",
+        "B": "Calcular el peso específico de la carga.",
+        "C": "Calcular la fuerza termotecnia lateral.",
+        "D": "Es lo mismo que calcular el centro de gravedad de la carga."
+      },
+      "opciones_chino": {
+        "A": "在轴之间分配总重量。",
+        "B": "计算负载的特定重量。",
+        "C": "计算侧面热剂力。",
+        "D": "它与计算负载重心的中心相同。"
+      }
+    },
+    {
+      "cod": "2H05043",
+      "pregunta": "¿A qué afecta directamente el incorrecto reparto de la carga?",
+      "pregunta_chino": "是什么直接影响负载的不正确分布？",
+      "solucion": "C",
+      "norma": "Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea",
+      "opciones": {
+        "A": "A la carga exclusivamente.",
+        "B": "Al tiempo necesario para realizar el transporte, que se ve incrementado.",
+        "C": "A la estabilidad y maniobrabilidad del vehículo.",
+        "D": "Al consumo de combustible, que aumenta."
+      },
+      "opciones_chino": {
+        "A": "专门为负载。",
+        "B": "在进行运输所需的时间（增加）。",
+        "C": "为了使车辆的稳定性和机动性。",
+        "D": "燃料消耗，增加。"
+      }
+    },
+    {
+      "cod": "2H05044",
+      "pregunta": "El conductor de un autocar debe procurar que el equipaje de los viajeros:",
+      "pregunta_chino": "教练的驾驶员必须确保旅行者的行李：",
+      "solucion": "A",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "viaje en el lugar específicamente destinado a ello, correctamente colocado.",
+        "B": "viaje, en todo caso, en el habitáculo de pasajeros, correctamente colocado.",
+        "C": "viaje al lado de su propietario.",
+        "D": "no viaje en el vehículo si supera 30 kg de peso."
+      },
+      "opciones_chino": {
+        "A": "该地方的旅程专门注定要正确地放置。",
+        "B": "无论如何，在乘客舱中行驶，正确放置。",
+        "C": "旅行在其所有者旁边。",
+        "D": "如果超过30公斤重量，请勿在车辆中行驶。"
+      }
+    },
+    {
+      "cod": "2H05045",
+      "pregunta": "¿En qué parte del autocar se ubica el equipaje de mano de los viajeros?",
+      "pregunta_chino": "旅行者的手行李是电动机的哪一部分？",
+      "solucion": "C",
+      "norma": "Ley 16/1987, art. 23",
+      "opciones": {
+        "A": "En la bodega.",
+        "B": "En la baca.",
+        "C": "En el habitáculo de los viajeros.",
+        "D": "En el remolque."
+      },
+      "opciones_chino": {
+        "A": "在酿酒厂。",
+        "B": "在Baca中。",
+        "C": "在乘客乘客中。",
+        "D": "在拖车中。"
+      }
+    },
+    {
+      "cod": "2H05046",
+      "pregunta": "El conductor de un autocar debe procurar que el equipaje de los viajeros:",
+      "pregunta_chino": "教练的驾驶员必须确保旅行者的行李：",
+      "solucion": "B",
+      "norma": "Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico",
+      "opciones": {
+        "A": "se coloque de modo que ocupe el menor espacio posible.",
+        "B": "se coloque de modo que no se desplace durante el viaje.",
+        "C": "se coloque junto al viajero.",
+        "D": "se coloque donde pueda estar controlado por su propietario."
+      },
+      "opciones_chino": {
+        "A": "它放置以使其占据最小可能的空间。",
+        "B": "放置，以使其在旅途中不会移动。",
+        "C": "它位于旅行者旁边。",
+        "D": "它被放置在可以由其所有者控制的地方。"
+      }
+    },
+    {
+      "cod": "2H05124",
+      "pregunta": "Se considera que la sujeción de la carga es correcta cuando, en cualquier situación de funcionamiento del vehículo:",
+      "pregunta_chino": "据认为，在车辆的任何操作情况下，负载的征服是正确的：",
+      "solucion": "A",
+      "norma": "RD 563/2017, art. 11",
+      "opciones": {
+        "A": "el cambio de posición de las cargas es mínimo.",
+        "B": "el cambio de posición de las cargas es nulo.",
+        "C": "el cambio de posición de las cargas no supera el 50 %.",
+        "D": "el cambio de posición de las cargas no supera el 50 %, salvo situaciones de emergencia."
+      },
+      "opciones_chino": {
+        "A": "负载位置的变化很小。",
+        "B": "负载位置的变化为空。",
+        "C": "负载位置的变化不超过50％。",
+        "D": "除紧急情况以外，费用的位置的变化不超过50％。"
+      }
+    },
+    {
+      "cod": "2H05125",
+      "pregunta": "Se considera que la sujeción de la carga es correcta cuando:",
+      "pregunta_chino": "据认为，当：",
+      "solucion": "C",
+      "norma": "RD 563/2017, art. 11",
+      "opciones": {
+        "A": "los equipajes no pueden desplazarse fuera de la superficie de carga, salvo situaciones de emergencia.",
+        "B": "los equipajes no pueden desplazarse fuera de la superficie de carga, salvo maniobras de arranque cuesta arriba.",
+        "C": "los equipajes no pueden desplazarse fuera de la superficie de carga, en cualquier situación de funcionamiento del vehículo.",
+        "D": "Las respuestas A y B son correctas."
+      },
+      "opciones_chino": {
+        "A": "行李无法在负载表面外移动，除了紧急情况。",
+        "B": "行李无法在负载表面外移动，除了上坡起步操作。",
+        "C": "在车辆的任何操作中，行李都不能在负载表面外移动。",
+        "D": "响应A和B是正确的。"
+      }
+    },
+    {
+      "cod": "2H05126",
+      "pregunta": "¿Las Fuerzas de Seguridad están habilitadas para inspeccionar la sujeción de la carga?",
+      "pregunta_chino": "安全部队是否能够检查负载的服从？",
+      "solucion": "B",
+      "norma": "RD 563/2017, art. 11",
+      "opciones": {
+        "A": "No.",
+        "B": "Sí, durante su recorrido en carretera.",
+        "C": "Sí, pero solo dirigiéndose al punto de carga.",
+        "D": "Sí, pero solo cuando haya signos manifiestos de estiba inadecuada."
+      },
+      "opciones_chino": {
+        "A": "不。",
+        "B": "是的，在您的公路旅行中。",
+        "C": "是的，但是只需解决加载点即可。",
+        "D": "是的，但是只有当有不适当的存放迹象时。"
+      }
+    },
+    {
+      "cod": "2H05127",
+      "pregunta": "¿Cómo se clasifican las deficiencias detectadas en la sujeción de la carga durante una inspección en carretera?",
+      "pregunta_chino": "在归类的道路检查期间，如何在负载的征服中检测到缺陷？",
+      "solucion": "D",
+      "norma": "RD 563/2017, Anexo III",
+      "opciones": {
+        "A": "Leves y graves.",
+        "B": "Graves y muy graves.",
+        "C": "Leves, graves y muy graves.",
+        "D": "Leves, graves y peligrosas."
+      },
+      "opciones_chino": {
+        "A": "轻度和严重。",
+        "B": "认真而非常认真。",
+        "C": "温和，严重，非常严重。",
+        "D": "温和，严重和危险。"
+      }
+    },
+    {
+      "cod": "2H05128",
+      "pregunta": "La deficiencia detectada durante una inspección en carretera que consiste en la posibilidad de un desplazamiento significativo de una parte de la carga se considera:",
+      "pregunta_chino": "在道路检查期间检测到的缺陷，该缺陷由一部分负载的可能性大量位移的可能性组成：",
+      "solucion": "B",
+      "norma": "RD 563/2017, Anexo III",
+      "opciones": {
+        "A": "leve.",
+        "B": "grave.",
+        "C": "muy grave.",
+        "D": "peligrosa."
+      },
+      "opciones_chino": {
+        "A": "温和的。",
+        "B": "严肃的。",
+        "C": "非常认真。",
+        "D": "危险的。"
+      }
+    },
+    {
+      "cod": "2H05129",
+      "pregunta": "La deficiencia detectada durante una inspección en carretera que consiste en riesgo de pérdida de una parte de la carga, poniendo en peligro la seguridad del tráfico, se considera:",
+      "pregunta_chino": "在道路检查期间检测到的缺陷，包括损失一部分负荷的风险，危害交通安全：",
+      "solucion": "D",
+      "norma": "RD 563/2017, Anexo III",
+      "opciones": {
+        "A": "leve.",
+        "B": "grave.",
+        "C": "muy grave.",
+        "D": "peligrosa."
+      },
+      "opciones_chino": {
+        "A": "温和的。",
+        "B": "严肃的。",
+        "C": "非常认真。",
+        "D": "危险的。"
+      }
+    },
+    {
+      "cod": "2H05130",
+      "pregunta": "¿Qué grado de deficiencia se da si, durante una inspección en carretera, se observa que la carga está sujetada correctamente, pero cabría formular recomendaciones en materia de seguridad?",
+      "pregunta_chino": "如果在道路检查期间观察到负载正确，但有可能提出安全建议，则会给出什么程度的缺陷？",
+      "solucion": "B",
+      "norma": "RD 563/2017, Anexo III",
+      "opciones": {
+        "A": "No hay deficiencia.",
+        "B": "Deficiencia leve.",
+        "C": "Deficiencia grave.",
+        "D": "Deficiencia muy grave."
+      },
+      "opciones_chino": {
+        "A": "没有缺陷。",
+        "B": "轻度缺乏。",
+        "C": "严重的缺陷。",
+        "D": "非常严重的缺陷。"
+      }
+    },
+    {
+      "cod": "2H05131",
+      "pregunta": "¿Qué grado de deficiencia se asignará si, durante una inspección en carretera, se observa que la sujeción de la carga presenta varias de ellas?",
+      "pregunta_chino": "如果在道路检查期间观察到负载的供应中有几个，将分配什么程度的缺陷？",
+      "solucion": "C",
+      "norma": "RD 563/2017, Anexo III",
+      "opciones": {
+        "A": "El del grupo de deficiencias más bajo.",
+        "B": "El del grupo de deficiencias intermedio.",
+        "C": "El del grupo de deficiencias más alto.",
+        "D": "El grado de deficiencia muy grave."
+      },
+      "opciones_chino": {
+        "A": "低缺陷组的。",
+        "B": "一组中间缺陷。",
+        "C": "最高缺陷组的组合。",
+        "D": "非常严重的缺乏程度。"
+      }
+    },
+    {
+      "cod": "2H06001",
+      "pregunta": "¿A qué distancia mínima de la intersección que indiquen se colocarán las señales de preseñalización?",
+      "pregunta_chino": "距交叉路口的最小距离为指示预密封信号的最小距离？",
+      "solucion": "D",
+      "norma": "RD 1428/2003, art. 162",
+      "opciones": {
+        "A": "5 km.",
+        "B": "2 km.",
+        "C": "1 km.",
+        "D": "500 m."
+      },
+      "opciones_chino": {
+        "A": "5公里。",
+        "B": "2公里。",
+        "C": "1公里。",
+        "D": "500 m。"
+      }
+    },
+    {
+      "cod": "2H06002",
+      "pregunta": "¿Cómo se clasifican las carreteras según sus características, según la normativa?",
+      "pregunta_chino": "根据法规，如何根据其特征对道路进行分类？",
+      "solucion": "C",
+      "norma": "Ley 37/2015, art. 2",
+      "opciones": {
+        "A": "Autovías, carretereras y caminos.",
+        "B": "Autopistas, autovías, carreteras convencionales.",
+        "C": "Autopistas, autovías, carreteras multicarril, carreteras convencionales.",
+        "D": "Carreteras multicarril y carreteras convencionales."
+      },
+      "opciones_chino": {
+        "A": "高速公路，卷轴和道路。",
+        "B": "高速公路，高速公路，传统道路。",
+        "C": "高速公路，高速公路，多港路，传统道路。",
+        "D": "多渠道和传统道路。"
+      }
+    },
+    {
+      "cod": "2H06003",
+      "pregunta": "¿Cuál es la función de las señales de localización?",
+      "pregunta_chino": "位置信号的功能是什么？",
+      "solucion": "B",
+      "norma": "RD 1428/2003, art. 162",
+      "opciones": {
+        "A": "La identificación de la carretera.",
+        "B": "La identificación del punto kilométrico.",
+        "C": "La indicación de la dirección de la próxima salida.",
+        "D": "Las poblaciones de varios itinerarios."
+      },
+      "opciones_chino": {
+        "A": "道路的标识。",
+        "B": "公里点的识别。",
+        "C": "下一个出口地址的指示。",
+        "D": "几个行程的人口。"
+      }
+    },
+    {
+      "cod": "2H06004",
+      "pregunta": "¿Cuál es una señal de orientación?",
+      "pregunta_chino": "什么是方向信号？",
+      "solucion": "D",
+      "norma": "RD 1428/2003, art. 162",
+      "opciones": {
+        "A": "Señal de identificación de carretera.",
+        "B": "Señal de dirección.",
+        "C": "Señal de localización.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "道路识别信号。",
+        "B": "管理信号。",
+        "C": "位置信号。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2H06005",
+      "pregunta": "En el Mapa Oficial de Carreteras, ¿aparece la ubicación de gasolineras?",
+      "pregunta_chino": "在官方路线图上，加油站的位置是否出现？",
+      "solucion": "C",
+      "norma": "Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.",
+      "opciones": {
+        "A": "Sí, pero solo las que están situadas en autopistas y autovías.",
+        "B": "Sí, pero solo de las que cuentan con servicio de cafetería.",
+        "C": "Sí.",
+        "D": "No."
+      },
+      "opciones_chino": {
+        "A": "是的，但只有那些位于高速公路和高速公路上的人。",
+        "B": "是的，但只有那些拥有自助餐厅服务的人。",
+        "C": "是的。",
+        "D": "不。"
+      }
+    },
+    {
+      "cod": "2H06006",
+      "pregunta": "En el Mapa Oficial de Carreteras, ¿aparece la ubicación de puestos de la Cruz Roja?",
+      "pregunta_chino": "在官方路线图上，红十字会位置的位置是否出现？",
+      "solucion": "A",
+      "norma": "Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.",
+      "opciones": {
+        "A": "Sí.",
+        "B": "Sí, pero solo los que cuentan con unidad de cuidados intensivos.",
+        "C": "Sí, pero solo los que están cerca de las capitales de provincia.",
+        "D": "No."
+      },
+      "opciones_chino": {
+        "A": "是的。",
+        "B": "是的，但只有那些拥有重症监护室的人。",
+        "C": "是的，但只有那些靠近省首都的人。",
+        "D": "不。"
+      }
+    },
+    {
+      "cod": "2H06007",
+      "pregunta": "En el Mapa Oficial de Carreteras, ¿se señalan las distancias kilométricas entre diversos puntos de las carreteras?",
+      "pregunta_chino": "在官方路线图中，道路上各种道路之间的距离是否距离？",
+      "solucion": "C",
+      "norma": "Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.",
+      "opciones": {
+        "A": "Sí, si se trata de distancias entre capitales de Comunidades Autónomas.",
+        "B": "Sí, pero solo las distancias existentes entre Madrid y las demás poblaciones.",
+        "C": "Sí.",
+        "D": "No."
+      },
+      "opciones_chino": {
+        "A": "是的，如果它是自治社区的首都之间的距离。",
+        "B": "是的，但只有马德里与其他人口之间的现有距离。",
+        "C": "是的。",
+        "D": "不。"
+      }
+    },
+    {
+      "cod": "2H06008",
+      "pregunta": "¿Los caminos de servicio deben abrirse al uso público?",
+      "pregunta_chino": "服务道路是否应该向公共使用开放？",
+      "solucion": "B",
+      "norma": "Ley 37/2015, art. 2",
+      "opciones": {
+        "A": "Sí.",
+        "B": "Sí, cuando lo exija el interés general.",
+        "C": "No, nunca.",
+        "D": "Ninguna respuesta es correcta."
+      },
+      "opciones_chino": {
+        "A": "是的。",
+        "B": "是的，当普遍的利益需要时。",
+        "C": "不，永远不会。",
+        "D": "没有答案是正确的。"
+      }
+    },
+    {
+      "cod": "2H06009",
+      "pregunta": "¿Qué caracteriza a las autopistas?",
+      "pregunta_chino": "什么是高速公路？",
+      "solucion": "D",
+      "norma": "Ley 37/2015, art. 2",
+      "opciones": {
+        "A": "Que no tienen acceso las popiedades colindantes.",
+        "B": "No cruzan ni son cruzadas al mismo nivel por otras vías.",
+        "C": "Tienen varios carriles para cada sentido de la circulación.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "他们无法访问相邻的人群。",
+        "B": "它们不会以其他方式越过或以相同的水平越过。",
+        "C": "他们有几条车道，每种流通感。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2H06010",
+      "pregunta": "¿Qué caracteriza a las autovías?",
+      "pregunta_chino": "什么是高速公路的特征？",
+      "solucion": "D",
+      "norma": "Ley 37/2015, art. 2",
+      "opciones": {
+        "A": "Que no tienen acceso las popiedades colindantes.",
+        "B": "No cruzan ni son cruzadas al mismo nivel por otras vías.",
+        "C": "Tienen varios carriles para cada sentido de la circulación.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "他们无法访问相邻的流行。",
+        "B": "它们不会以其他方式越过或以相同的水平越过。",
+        "C": "他们有几条车道，每种流通感。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2H06011",
+      "pregunta": "¿Qué es una carretera multicarril?",
+      "pregunta_chino": "什么是多道路？",
+      "solucion": "C",
+      "norma": "Ley 37/2015, art. 2",
+      "opciones": {
+        "A": "Un tipo de autopista.",
+        "B": "Un tipo de autovía.",
+        "C": "Una carretera que, sin ser autopista ni autovía, tiene varios carriles para la circulación en cada sentido.",
+        "D": "Cualquier carretera con más de un carril por sentido de circulación."
+      },
+      "opciones_chino": {
+        "A": "一种高速公路。",
+        "B": "一种高速公路。",
+        "C": "一条不在高速公路或高速公路的道路上有几条沿每个方向循环的车道。",
+        "D": "通过循环方向，任何具有多个车道的道路。"
+      }
+    },
+    {
+      "cod": "2H06012",
+      "pregunta": "¿Qué función puede tener una señal de preseñalización?",
+      "pregunta_chino": "什么功能可以具有预删除信号？",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 162",
+      "opciones": {
+        "A": "Indicar la existencia de señales de prohibición cercanas.",
+        "B": "Indicar la existencia de señales de limitación cercanas.",
+        "C": "Indicar direcciones en carreteras.",
+        "D": "Avisar de una zona de la carretera sin señalizar."
+      },
+      "opciones_chino": {
+        "A": "表示附近存在禁令信号。",
+        "B": "表示附近限制信号的存在。",
+        "C": "指示道路上的指示。",
+        "D": "无信号通知道路区域。"
+      }
+    },
+    {
+      "cod": "2H06013",
+      "pregunta": "¿Qué no encontraremos en los mapas de carreteras?",
+      "pregunta_chino": "我们在路线地图上找不到什么？",
+      "solucion": "D",
+      "norma": "Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.",
+      "opciones": {
+        "A": "Puertos de montaña.",
+        "B": "Ubicación de gasolineras.",
+        "C": "Lugares turísticos.",
+        "D": "Información meteorológica."
+      },
+      "opciones_chino": {
+        "A": "山港。",
+        "B": "加油站的位置。",
+        "C": "旅游胜地。",
+        "D": "气象信息"
+      }
+    },
+    {
+      "cod": "2H06014",
+      "pregunta": "¿Qué se considera itinerarios de interés general, según la normativa?",
+      "pregunta_chino": "根据法规，什么被认为是一般关注的行程？",
+      "solucion": "A",
+      "norma": "Ley 37/2015, art. 4",
+      "opciones": {
+        "A": "Constituyen acceso principal a un puerto o aeropuerto de interés general.",
+        "B": "Enlazan polígonos industriales de especial importancia con los núcleos de población cercanos.",
+        "C": "Tienen un aforo de vehículos superior a la media establecida en la norma.",
+        "D": "Constituyen acceso principal a una estación de ferrocarril con tráfico internacional."
+      },
+      "opciones_chino": {
+        "A": "它们构成了通往普遍关注的港口或机场的主要访问权限。",
+        "B": "它们将具有特殊重要性的工业多边形与附近的人口核联系起来。",
+        "C": "它们的车辆容量高于标准中建立的平均值。",
+        "D": "它们构成了通往国际交通的火车站的主要通道。"
+      }
+    },
+    {
+      "cod": "2H06015",
+      "pregunta": "¿Qué se considera itinerarios de interés general, según la normativa?",
+      "pregunta_chino": "根据法规，什么被认为是一般关注的行程？",
+      "solucion": "D",
+      "norma": "Ley 37/2015, art. 4",
+      "opciones": {
+        "A": "Constituyen acceso principal a una estación de ferrocarril con tráfico internacional.",
+        "B": "Tienen un aforo de vehículos superior a la media establecida en la norma.",
+        "C": "Enlazan polígonos industriales de especial importancia con los nucleos de población cercanos.",
+        "D": "Sirven de acceso a los principales pasos fronterizos."
+      },
+      "opciones_chino": {
+        "A": "它们构成了通往国际交通的火车站的主要通道。",
+        "B": "它们的车辆容量高于标准中建立的平均值。",
+        "C": "它们将具有特殊重要性的工业多边形与附近的人口核联系起来。",
+        "D": "他们服务于主要的边界步骤。"
+      }
+    },
+    {
+      "cod": "2H06016",
+      "pregunta": "¿Quién edita en España el Mapa Oficial de Carreteras?",
+      "pregunta_chino": "谁在西班牙编辑官方路线图？",
+      "solucion": "D",
+      "norma": "Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.",
+      "opciones": {
+        "A": "Distintos organismos públicos y entidades privadas colaboradoras.",
+        "B": "La Dirección General de Tráfico.",
+        "C": "Las Comunidades Autónomas.",
+        "D": "El Ministerio de Transportes."
+      },
+      "opciones_chino": {
+        "A": "不同的公共机构和私人实体。",
+        "B": "交通总局。",
+        "C": "自治社区。",
+        "D": "运输部。"
+      }
+    },
+    {
+      "cod": "2H06017",
+      "pregunta": "¿Tienen la consideración de carreteras los caminos de servicio?",
+      "pregunta_chino": "道路是否考虑？",
+      "solucion": "B",
+      "norma": "Ley 37/2015, art. 2",
+      "opciones": {
+        "A": "Sí, en todos los casos.",
+        "B": "No.",
+        "C": "Sí, cuando tienen origen en una carretera.",
+        "D": "Solo cuando su anchura es superior a 2 metros."
+      },
+      "opciones_chino": {
+        "A": "是的，在所有情况下。",
+        "B": "不。",
+        "C": "是的，当它们起源于道路时。",
+        "D": "只有当它的宽度大于2米时。"
+      }
+    },
+    {
+      "cod": "2H06019",
+      "pregunta": "El fondo de la placa de señalización de una carretera autonómica de segundo nivel será de color:",
+      "pregunta_chino": "第二层区域道路的信号板的背景将是颜色：",
+      "solucion": "C",
+      "norma": "RD 1428/2003, Anexo I.5.13",
+      "opciones": {
+        "A": "amarillo.",
+        "B": "blanco.",
+        "C": "marrón.",
+        "D": "rojo."
+      },
+      "opciones_chino": {
+        "A": "黄色的。",
+        "B": "白色的。",
+        "C": "棕色的。",
+        "D": "红色的。"
+      }
+    },
+    {
+      "cod": "2H06020",
+      "pregunta": "El fondo de la placa de señalización de una carretera autonómica de tercer nivel será de color:",
+      "pregunta_chino": "第三级区域道路的信号板的底部将是颜色：",
+      "solucion": "A",
+      "norma": "RD 1428/2003, Anexo I.5.13",
+      "opciones": {
+        "A": "amarillo.",
+        "B": "rojo.",
+        "C": "blanco.",
+        "D": "marrón."
+      },
+      "opciones_chino": {
+        "A": "黄色的。",
+        "B": "红色的。",
+        "C": "白色的。",
+        "D": "棕色的。"
+      }
+    },
+    {
+      "cod": "2H06021",
+      "pregunta": "El fondo de la señal de indicación de una vía para automóviles es de color:",
+      "pregunta_chino": "汽车路的指示信号的信号是颜色：",
+      "solucion": "A",
+      "norma": "RD 1428/2003, Anexo I.5.8",
+      "opciones": {
+        "A": "azul.",
+        "B": "amarilla.",
+        "C": "verde.",
+        "D": "naranja."
+      },
+      "opciones_chino": {
+        "A": "蓝色的。",
+        "B": "黄色的",
+        "C": "绿色的。",
+        "D": "橙子。"
+      }
+    },
+    {
+      "cod": "2H06022",
+      "pregunta": "La placa de señalización de una carretera autonómica de primer nivel contiene la letra C seguida de un número y el fondo es de color:",
+      "pregunta_chino": "顶部区域道路的信号板包含字母C，然后是一个数字，背景为颜色：",
+      "solucion": "A",
+      "norma": "RD 1428/2003, Anexo I.5.13",
+      "opciones": {
+        "A": "naranja.",
+        "B": "rojo.",
+        "C": "verde.",
+        "D": "azul."
+      },
+      "opciones_chino": {
+        "A": "橙子。",
+        "B": "红色的。",
+        "C": "绿色的。",
+        "D": "蓝色的。"
+      }
+    },
+    {
+      "cod": "2H06024",
+      "pregunta": "La red estatal de carreteras es identificable mediante señales con fondo de color:",
+      "pregunta_chino": "通过颜色底部信号可以识别州道路网络：",
+      "solucion": "A",
+      "norma": "RD 1428/2003, Anexo I.5.13",
+      "opciones": {
+        "A": "rojo.",
+        "B": "verde.",
+        "C": "amarillo.",
+        "D": "azul."
+      },
+      "opciones_chino": {
+        "A": "红色的。",
+        "B": "绿色的。",
+        "C": "黄色的。",
+        "D": "蓝色的。"
+      }
+    },
+    {
+      "cod": "2H06025",
+      "pregunta": "La señal de identificación de un itinerario europeo:",
+      "pregunta_chino": "欧洲行程的识别信号：",
+      "solucion": "D",
+      "norma": "RD 1428/2003, Anexo I.5.13",
+      "opciones": {
+        "A": "tiene el fondo de color azul.",
+        "B": "entró en vigor en el año 2009.",
+        "C": "solo aparece en autopistas de peaje.",
+        "D": "tiene el fondo de color verde."
+      },
+      "opciones_chino": {
+        "A": "它具有蓝色背景。",
+        "B": "他于2009年生效。",
+        "C": "它仅出现在收费公路上。",
+        "D": "它具有绿色背景。"
+      }
+    },
+    {
+      "cod": "2H06027",
+      "pregunta": "La señal de las autopistas de la red estatal se identifica por una señal con:",
+      "pregunta_chino": "状态网络信号由带有以下信号的信号识别：",
+      "solucion": "D",
+      "norma": "RD 1428/2003, Anexo I.5.10",
+      "opciones": {
+        "A": "fondo rojo, borde negro y letras blancas.",
+        "B": "fondo blanco, borde negro y letras negras.",
+        "C": "fondo amarillo, borde negro y letras negras.",
+        "D": "fondo azul, borde blanco y letras blancas."
+      },
+      "opciones_chino": {
+        "A": "红色背景，黑色边框和白色字母。",
+        "B": "白色背景，黑色边框和黑色歌词。",
+        "C": "黄色背景，黑色边框和黑色歌词。",
+        "D": "蓝色底部，白色边框和白色字母。"
+      }
+    },
+    {
+      "cod": "2H06028",
+      "pregunta": "La señal que identifica el fin de autovía es de fondo de color:",
+      "pregunta_chino": "识别高速公路末端的信号是颜色的：",
+      "solucion": "C",
+      "norma": "RD 1428/2003, Anexo I.5.8",
+      "opciones": {
+        "A": "azul con una franja diagonal negra.",
+        "B": "verde.",
+        "C": "azul con una franja diagonal roja.",
+        "D": "azul con dos franjas diagonales cruzadas de color rojo."
+      },
+      "opciones_chino": {
+        "A": "带有黑色对角条的蓝色。",
+        "B": "绿色的。",
+        "C": "带有红色对角条的蓝色。",
+        "D": "蓝色，有两个红色交叉对角线。"
+      }
+    },
+    {
+      "cod": "2H06029",
+      "pregunta": "La señal que indica la localización de un puesto de socorro tendrá fondo de color azul y el símbolo de:",
+      "pregunta_chino": "指示浮雕位置位置的信号将具有蓝色背景和符号：",
+      "solucion": "C",
+      "norma": "RD 1428/2003, Anexo I.5.10",
+      "opciones": {
+        "A": "un teléfono SOS.",
+        "B": "un hospital.",
+        "C": "una cruz roja.",
+        "D": "Esta señal no existe en el catálogo oficial de señales."
+      },
+      "opciones_chino": {
+        "A": "SOS电话。",
+        "B": "医院。",
+        "C": "红十字会。",
+        "D": "该信号在官方信号目录中不存在。"
+      }
+    },
+    {
+      "cod": "2H06030",
+      "pregunta": "Las áreas de servicio de una carretera:",
+      "pregunta_chino": "道路的服务区域：",
+      "solucion": "B",
+      "norma": "Ley 37/2015, art. 3",
+      "opciones": {
+        "A": "tienen la consideración de carretera.",
+        "B": "se consideran un elemento funcional de la carretera.",
+        "C": "no forman parte del dominio público.",
+        "D": "son gestionadas por los municipios."
+      },
+      "opciones_chino": {
+        "A": "他们有对道路的考虑。",
+        "B": "它们被认为是道路的功能元素。",
+        "C": "它们不是公共领域的一部分。",
+        "D": "他们由市政当局管理。"
+      }
+    },
+    {
+      "cod": "2H06031",
+      "pregunta": "Las áreas de servicio, ¿se pueden localizar en el Mapa Oficial de Carreteras?",
+      "pregunta_chino": "服务区域可以位于官方路线图上吗？",
+      "solucion": "A",
+      "norma": "Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.",
+      "opciones": {
+        "A": "Sí, con una letra S blanca dentro de un cuadrado azul.",
+        "B": "Sí, con el símbolo de un surtidor de gasolina.",
+        "C": "No.",
+        "D": "Ninguna respuesta es correcta."
+      },
+      "opciones_chino": {
+        "A": "是的，蓝色正方形内有一封白色的字母。",
+        "B": "是的，有汽油供应商的象征。",
+        "C": "不。",
+        "D": "没有答案是正确的。"
+      }
+    },
+    {
+      "cod": "2H06032",
+      "pregunta": "Las carreteras integradas en un itinerario de interés general dependen:",
+      "pregunta_chino": "以一般利益行程融合的道路取决于：",
+      "solucion": "C",
+      "norma": "Ley 37/2015, art. 4",
+      "opciones": {
+        "A": "del Ayuntamiento.",
+        "B": "de las Comunidades Autónomas.",
+        "C": "del Estado.",
+        "D": "de las Diputaciones Provinciales."
+      },
+      "opciones_chino": {
+        "A": "市议会。",
+        "B": "自治社区的建立。",
+        "C": "国家。",
+        "D": "省代表。"
+      }
+    },
+    {
+      "cod": "2H06033",
+      "pregunta": "Las carreteras que enlazan las Comunidades Autónomas, ¿son de interés general?",
+      "pregunta_chino": "将自治社区联系起来的道路，它们是否普遍关注？",
+      "solucion": "B",
+      "norma": "Ley 37/2015, art. 4",
+      "opciones": {
+        "A": "Sí, siempre.",
+        "B": "Sí, si conectan los principales núcleos de población del territorio del Estado, formando una red que soporta tráficos de largo recorrido.",
+        "C": "No.",
+        "D": "Ninguna respuesta es correcta."
+      },
+      "opciones_chino": {
+        "A": "是的，总是。",
+        "B": "是的，如果他们连接国家领土的主要人口中心，形成支持延长距离流量的网络。",
+        "C": "不。",
+        "D": "没有答案是正确的。"
+      }
+    },
+    {
+      "cod": "2H06034",
+      "pregunta": "Los puertos de montaña con problemas de nieve se señalan en el Mapa Oficial de Carreteras:",
+      "pregunta_chino": "在官方路线图上指示了有雪问题的山港：",
+      "solucion": "C",
+      "norma": "Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.",
+      "opciones": {
+        "A": "con el dibujo de una montaña.",
+        "B": "con un círculo rojo.",
+        "C": "con un círculo azul.",
+        "D": "No están señalados en el mapa."
+      },
+      "opciones_chino": {
+        "A": "用山的绘画。",
+        "B": "带有红色圆圈。",
+        "C": "用蓝色圆圈。",
+        "D": "它们没有在地图上指示。"
+      }
+    },
+    {
+      "cod": "2H06035",
+      "pregunta": "Según la normativa vigente, no se consideran carreteras…",
+      "pregunta_chino": "根据当前的规定，他们不认为道路...",
+      "solucion": "D",
+      "norma": "Ley 37/2015, art. 2",
+      "opciones": {
+        "A": "los caminos de servicio, entendiendo por tales los construidos como elementos auxiliares o complementarios de las actividades específicas de sus titulares.",
+        "B": "las carreteras convencionales que no reúnen las características propias de las autopistas, autovías y vías rápidas.",
+        "C": "los caminos construidos por las personas privadas con finalidad análoga a los caminos de servicio.",
+        "D": "Las respuestas A y C son correctas."
+      },
+      "opciones_chino": {
+        "A": "服务路径，例如其持有人的特定活动的辅助或互补要素。",
+        "B": "没有收集高速公路，高速公路和快速道路的特征的传统道路。",
+        "C": "由私人建造的道路，目的是采用类似的服务路径。",
+        "D": "响应A和C是正确的。"
+      }
+    },
+    {
+      "cod": "2H06036",
+      "pregunta": "Según la normativa vigente, se consideran carreteras:",
+      "pregunta_chino": "根据目前的规定，考虑道路：",
+      "solucion": "C",
+      "norma": "Ley 37/2015, art. 2",
+      "opciones": {
+        "A": "las vías interurbanas proyectadas y construidas fundamentalmente para la circulación de vehículos automóviles.",
+        "B": "las vías de dominio público o privado proyectadas y construidas fundamentalmente para la circulación de vehículos automóviles.",
+        "C": "las vías de dominio y uso público proyectadas y construidas fundamentalmente para la circulación de vehículos automóviles.",
+        "D": "los caminos de servicio, entendiendo por tales los construidos como elementos auxiliares o complementarios de las actividades específicas de sus titulares."
+      },
+      "opciones_chino": {
+        "A": "城市间路线投射和建造主要是为汽车循环的。",
+        "B": "公共或私人领域的道路主要用于汽车循环。",
+        "C": "域名和公共使用道路主要用于汽车循环。",
+        "D": "服务路径，例如其持有人的特定活动的辅助或互补要素。"
+      }
+    },
+    {
+      "cod": "2H06038",
+      "pregunta": "Si consultamos el Mapa Oficial de Carreteras, ¿podemos saber la distancia kilométrica total existente entre dos capitales de provincia españolas?",
+      "pregunta_chino": "如果我们咨询道路官方地图，我们能知道两座西班牙省首都之间的总距离吗？",
+      "solucion": "A",
+      "norma": "Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.",
+      "opciones": {
+        "A": "Sí, hay una tabla donde se indican distancias kilométricas aproximadas entre capitales de provincia.",
+        "B": "Sí, pero solo si disponemos de un escalímetro.",
+        "C": "Sí, pero solo se indican las distancias existentes entre capitales de Comunidades Autónomas.",
+        "D": "No."
+      },
+      "opciones_chino": {
+        "A": "是的，有一张桌子，其中指示省级首都之间的大约公里距离。",
+        "B": "是的，但是只有我们有步骤。",
+        "C": "是的，但是仅显示自治社区首都之间的现有距离。",
+        "D": "不。"
+      }
+    },
+    {
+      "cod": "2H06039",
+      "pregunta": "Son elementos funcionales de una carretera:",
+      "pregunta_chino": "它们是道路的功能元素：",
+      "solucion": "B",
+      "norma": "Ley 37/2015, art. 3",
+      "opciones": {
+        "A": "los equipamiento destinados al control del tráfico.",
+        "B": "las paradas de autobuses.",
+        "C": "las instalaciones de gestión del tráfico.",
+        "D": "Ninguna de las respuestas es correcta."
+      },
+      "opciones_chino": {
+        "A": "交通管制的设备。",
+        "B": "公共汽车停下来。",
+        "C": "交通管理设施。",
+        "D": "答案都不正确。"
+      }
+    },
+    {
+      "cod": "2H06040",
+      "pregunta": "Son elementos funcionales de una carretera:",
+      "pregunta_chino": "它们是道路的功能元素：",
+      "solucion": "B",
+      "norma": "Ley 37/2015, art. 3",
+      "opciones": {
+        "A": "los equipamiento destinados al control del tráfico.",
+        "B": "los lechos de frenado.",
+        "C": "las instalaciones de gestión del tráfico.",
+        "D": "Ninguna de las respuestas es correcta."
+      },
+      "opciones_chino": {
+        "A": "交通管制的设备。",
+        "B": "制动床。",
+        "C": "交通管理设施。",
+        "D": "答案都不正确。"
+      }
+    },
+    {
+      "cod": "2H06041",
+      "pregunta": "Son elementos funcionales de una carretera:",
+      "pregunta_chino": "它们是道路的功能元素：",
+      "solucion": "B",
+      "norma": "Ley 37/2015, art. 3",
+      "opciones": {
+        "A": "los equipamiento destinados al control del tráfico.",
+        "B": "las áreas de servicio.",
+        "C": "las instalaciones de gestión del tráfico.",
+        "D": "Ninguna de las respuestas es correcta."
+      },
+      "opciones_chino": {
+        "A": "交通管制的设备。",
+        "B": "服务区域。",
+        "C": "交通管理设施。",
+        "D": "答案都不正确。"
+      }
+    },
+    {
+      "cod": "2H06042",
+      "pregunta": "Una autovía en construcción se señala en el Mapa Oficial de Carreteras:",
+      "pregunta_chino": "公路高速公路在官方路线图上显示：",
+      "solucion": "B",
+      "norma": "Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.",
+      "opciones": {
+        "A": "con una línea gris.",
+        "B": "con trazo discontinuo rojo.",
+        "C": "con trazo discontinuo negro.",
+        "D": "con una línea verde."
+      },
+      "opciones_chino": {
+        "A": "用灰线。",
+        "B": "与红色不连续线。",
+        "C": "黑色不连续线。",
+        "D": "用绿线。"
+      }
+    }
+  ]
+}

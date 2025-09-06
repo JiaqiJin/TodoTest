@@ -1,0 +1,494 @@
+{
+  "tema": "cm1H",
+  "tema_chino": "CM1H",
+  "preguntas": [
+    {
+      "cod": "1H05001",
+      "pregunta": "Una empresa de distribución de pequeñas herramientas compra en el exterior una partida de estos productos, los cuales viajan en contenedor por vía marítima hasta España. El contenedor, junto con la mercancía que viaja en su interior, alcanza un peso de doce toneladas.\nUna vez llegado al puerto, el transitario a quien se encomendó la gestión del transporte y de los trámites aduaneros contrata a un transportista para su traslado por carretera hasta el lugar designado por el cliente.\nEl transportista, a la vista de la información facilitada por el transitario, selecciona un vehículo de veinte toneladas de carga útil, cuyo espacio de carga es una plataforma sin compuertas laterales ni trasera, que cuenta con varios puntos de amarre de cadenas o cables en ambos laterales, todos ellos suficientemente resistentes.\nResponda a las siguientes cuestiones: ¿Es adecuado el vehículo elegido por el transportista? ¿Qué sistema de sujeción se aconseja utilizar? ¿Cuántos puntos de sujeción se deben utilizar, como mínimo?",
+      "pregunta_chino": "一家小型工具分销公司在外面的这些产品上，这些产品在海洋容器中传播到西班牙。容器以及内部旅行的商品的重量达到了十二吨。\n一旦到达港口，将运输和海关程序运输的跨性别者托付给了承运人，以将其道路转移到客户指定的地方。\n鉴于Transitario提供的信息，该载体选择了20吨有效载荷的车辆，其负载空间是一个没有侧面或后门的平台，两侧都有几个链条或电缆的系泊点，它们都足够抗性。\n回答以下问题：运营商选择的车辆吗？建议使用哪种支持系统？至少应该使用多少个夹紧点？",
+      "solucion": "H",
+      "norma": "Código de buenas prácticas para la estiba segura de la carga en el transporte por carretera, IRU",
+      "norma_chino": "良好的实践代码，以安全地为欧盟公路运输的负载储存",
+      "opciones": {
+        "A": {
+          "A": "Sí, la sujeción mediante cadenas o cables es el sistema más adecuado para cualquier contenedor, siempre que los puntos de amarre tengan la resistencia suficiente.",
+          "B": "Amarre directo.",
+          "C": "Un mínimo de ocho."
+        },
+        "B": {
+          "A": "Sí, la sujeción mediante cadenas o cables, o mediante cierres giratorios en el caso de que el vehículo disponga de ellos, son ambos sistemas de sujeción adecuados para cualquier contenedor.",
+          "B": "Amarre directo o enganche.",
+          "C": "Un mínimo de ocho."
+        },
+        "C": {
+          "A": "Sí, la sujeción mediante cadenas o cables es el sistema más adecuado para cualquier contenedor, siempre que los puntos de amarre tengan la resistencia suficiente.",
+          "B": "Amarre directo.",
+          "C": "Un mínimo de cuatro."
+        },
+        "D": {
+          "A": "Sí, la sujeción mediante cadenas o cables, o mediante cierres giratorios en el caso de que el vehículo disponga de ellos, son ambos sistemas de sujeción adecuados para cualquier contenedor.",
+          "B": "Amarre directo o enganche.",
+          "C": "Un mínimo de cuatro."
+        },
+        "E": {
+          "A": "No, los contenedores cuya masa supere 5,5 toneladas solo se deben transportar en vehículos equipados con cierres giratorios.",
+          "B": "Enganche.",
+          "C": "Un mínimo de ocho."
+        },
+        "F": {
+          "A": "Sí, la sujeción mediante cadenas o cables es el sistema más adecuado para cualquier contenedor, siempre que los puntos de amarre tengan la resistencia suficiente.",
+          "B": "Amarre superior.",
+          "C": "Un mínimo de ocho."
+        },
+        "G": {
+          "A": "Sí, la sujeción mediante cadenas o cables, o mediante cierres giratorios en el caso de que el vehículo disponga de ellos, son ambos sistemas de sujeción adecuados para cualquier contenedor.",
+          "B": "Amarre superior o enganche.",
+          "C": "Un mínimo de cuatro."
+        },
+        "H": {
+          "A": "No, los contenedores cuya masa supere 5,5 toneladas solo se deben transportar en vehículos equipados con cierres giratorios.",
+          "B": "Enganche.",
+          "C": "Un mínimo de cuatro."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，只要系泊点具有足够的电阻，用链或电缆固定是最合适的系统。",
+          "B": "直接系泊。",
+          "C": "至少八个。"
+        },
+        "B": {
+          "A": "是的，如果车辆拥有车辆，则由链条或电缆固定，或者旋转封闭，都适用于任何容器的子注射系统。",
+          "B": "直接系泊或挂钩。",
+          "C": "至少八个。"
+        },
+        "C": {
+          "A": "是的，只要系泊点具有足够的电阻，用链或电缆固定是最合适的系统。",
+          "B": "直接系泊。",
+          "C": "至少四个。"
+        },
+        "D": {
+          "A": "是的，如果车辆拥有车辆，则由链条或电缆固定，或者旋转封闭，都适用于任何容器的子注射系统。",
+          "B": "直接系泊或挂钩。",
+          "C": "至少四个。"
+        },
+        "E": {
+          "A": "不，质量超过5.5吨的容器应仅在配备有旋转闭合的车辆中运输。",
+          "B": "拴住。",
+          "C": "至少八个。"
+        },
+        "F": {
+          "A": "是的，只要系泊点具有足够的电阻，用链或电缆固定是最合适的系统。",
+          "B": "上系泊。",
+          "C": "至少八个。"
+        },
+        "G": {
+          "A": "是的，如果车辆拥有车辆，则由链条或电缆固定，或者旋转封闭，都适用于任何容器的子注射系统。",
+          "B": "上系泊或搭便车。",
+          "C": "至少四个。"
+        },
+        "H": {
+          "A": "不，质量超过5.5吨的容器应仅在配备有旋转闭合的车辆中运输。",
+          "B": "拴住。",
+          "C": "至少四个。"
+        }
+      }
+    },
+    {
+      "cod": "1H05002",
+      "pregunta": "A una empresa dedicada a la construcción se le encarga levantar un edificio de oficinas y necesita desplazar hasta el lugar una máquina retroexcavadora de orugas para llevar a cabo el vaciado de la parcela. A tal efecto, contrata con un transportista que dispone del vehículo adecuado para el traslado.\nUna vez llegado el vehículo al punto de recogida, el conductor y el personal de la empresa constructora tratan sobre el modo más adecuado de posicionar y sujetar la máquina sobre el medio de transporte, proponiendo uno de los presentes que se sujete mediante cinchas amarradas a las cadenas que forman el mecanismo de oruga de la máquina. Habiendo opiniones enfrentadas sobre este punto, deciden consultar el manual de instrucciones facilitado por el fabricante de la máquina, en el que no encuentran ninguna indicación al respecto.\nResponda a las siguientes cuestiones: ¿Qué sistema de sujeción se aconseja utilizar? ¿Se recomienda utilizar las cadenas de la máquina en el sentido propuesto?",
+      "pregunta_chino": "致力于建设的公司负责提起办事处建筑物，并且需要将反铲纳税人取代到该地点的地点。为此，它聘请了具有合适车辆进行转移的航空母舰。\n一旦到达车辆到达收集点，建筑公司的驾驶员和工作人员就会采用最合适的方式来定位和将机器固定在运输工具上，并提出了一个被固定在构成机器机器的链条上的稻草固定的人。在这一点上面对意见后，他们决定咨询机器制造商提供的说明手册，在这方面他们没有发现任何迹象。\n回答以下问题：建议使用哪种主题系统？是否建议在拟议的意义上使用机器链？",
+      "solucion": "C",
+      "norma": "Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea",
+      "norma_chino": "欧洲公路运输货物支持的最佳实践指南，欧洲委员会",
+      "opciones": {
+        "A": {
+          "A": "Amarre.",
+          "B": "Solo si lo autoriza el fabricante."
+        },
+        "B": {
+          "A": "Bloqueo.",
+          "B": "Solo si lo autoriza el fabricante."
+        },
+        "C": {
+          "A": "Amarre o bloqueo.",
+          "B": "Solo si lo autoriza el fabricante."
+        },
+        "D": {
+          "A": "Amarre.",
+          "B": "No, pues están demasiado bajas respecto del centro de gravedad de la máquina."
+        },
+        "E": {
+          "A": "Amarre.",
+          "B": "Sí, pues es un elemento resistente."
+        },
+        "F": {
+          "A": "Bloqueo.",
+          "B": "Sí, pues es un elemento resistente."
+        },
+        "G": {
+          "A": "Amarre o bloqueo.",
+          "B": "No, pues están demasiado bajas respecto del centro de gravedad de la máquina."
+        },
+        "H": {
+          "A": "Bloqueo.",
+          "B": "No, pues están demasiado bajas respecto del centro de gravedad de la máquina."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "摩尔。",
+          "B": "只有由制造商授权。"
+        },
+        "B": {
+          "A": "封锁。",
+          "B": "只有由制造商授权。"
+        },
+        "C": {
+          "A": "系泊或阻塞。",
+          "B": "只有由制造商授权。"
+        },
+        "D": {
+          "A": "摩尔。",
+          "B": "不，相对于机器的重心太低。"
+        },
+        "E": {
+          "A": "摩尔。",
+          "B": "是的，这是一个抗性元素。"
+        },
+        "F": {
+          "A": "封锁。",
+          "B": "是的，这是一个抗性元素。"
+        },
+        "G": {
+          "A": "系泊或阻塞。",
+          "B": "不，相对于机器的重心太低。"
+        },
+        "H": {
+          "A": "封锁。",
+          "B": "不，相对于机器的重心太低。"
+        }
+      }
+    },
+    {
+      "cod": "1H05003",
+      "pregunta": "Un empresario dedicado a la compraventa de vehículos usados contrata los servicios de un transportista para que traslade hasta su punto de venta cinco turismos que ha adquirido en la subasta organizada por un organismo público.\nEl transporte se realiza en un camión portavehículos, que reúne todos los requisitos técnicos para este porte. Tras llegar a destino sin ninguna incidencia, se constata que los turismos habían viajado en las siguientes condiciones: -Tres de ellos fueron cargados en el sentido de avance y los otros dos en sentido contrario al avance, según resultara más cómodo el enganche de una u otra forma. -Todos tenían la palanca de selección de velocidades en posición de punto muerto y el freno manual accionado. -Todos tenían amarradas dos ruedas, la delantera del lado derecho y la trasera del lado izquierdo.\nResponda a las siguientes cuestiones: ¿Se debe efectuar la carga respetando algún sentido determinado? ¿Es correcta la posición de la palanca de cambio? ¿Es suficiente el amarre de dos ruedas?",
+      "pregunta_chino": "一位致力于销售二手车的企业家雇用了运营商的服务，以转移到其在公共机构组织的拍卖中获得的五辆汽车。\n运输是在运输车上进行的，该卡车汇集了该轴承的所有技术要求。在没有任何发生率的情况下到达目的地之后，发现汽车在以下条件下行驶： - 它们以进度的意义加载，而其他两个则朝着与进度相反的方向上，因为挂钩以一种或另一种方式更舒适。 - 他们在死点和手动制动器中都有速度选择杆。 - 他们都绑了两个轮子，右侧的前部和左侧的后部。\n回答以下问题：是否应该尊重任何特定意义？更换杆的位置正确吗？两个轮泊足够吗？",
+      "solucion": "D",
+      "norma": "Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea",
+      "norma_chino": "欧洲公路运输货物支持的最佳实践指南，欧洲委员会",
+      "opciones": {
+        "A": {
+          "A": "Sí, deben cargarse en sentido contrario al avance.",
+          "B": "No, debe tener engranada la primera marcha.",
+          "C": "No, el último vehículo que se carga debe tener tres ruedas sujetas."
+        },
+        "B": {
+          "A": "Sí, deben cargarse en el sentido de avance.",
+          "B": "No, debe tener engranada la primera marcha o la marcha atrás.",
+          "C": "Sí."
+        },
+        "C": {
+          "A": "Sí, deben cargarse en sentido contrario al avance.",
+          "B": "No, debe tener engranada la primera marcha o la marcha atrás.",
+          "C": "No, el último vehículo que se carga debe tener tres ruedas sujetas."
+        },
+        "D": {
+          "A": "Sí, deben cargarse en el sentido de avance.",
+          "B": "No, debe tener engranada la primera marcha o la marcha atrás.",
+          "C": "No, el último vehículo que se carga debe tener tres ruedas sujetas."
+        },
+        "E": {
+          "A": "No, el sentido en el que se carguen es indiferente.",
+          "B": "No, debe tener engranada la primera marcha o la marcha atrás.",
+          "C": "Sí."
+        },
+        "F": {
+          "A": "Sí, deben cargarse en sentido contrario al avance.",
+          "B": "No, debe tener engranada la primera marcha.",
+          "C": "Sí."
+        },
+        "G": {
+          "A": "Sí, deben cargarse en el sentido de avance.",
+          "B": "No, debe tener engranada la primera marcha.",
+          "C": "Sí."
+        },
+        "H": {
+          "A": "No, el sentido en el que se carguen es indiferente.",
+          "B": "No, debe tener engranada la primera marcha.",
+          "C": "Sí."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，必须将它们与进步相反。",
+          "B": "不，第一个游行一定有。",
+          "C": "不，最后装载的车辆必须有三个持有人。"
+        },
+        "B": {
+          "A": "是的，他们必须以进步意义被指控。",
+          "B": "不，应该订婚的第一个游行或反向。",
+          "C": "是的。"
+        },
+        "C": {
+          "A": "是的，必须将它们与进步相反。",
+          "B": "不，应该订婚的第一个游行或反向。",
+          "C": "不，最后装载的车辆必须有三个持有人。"
+        },
+        "D": {
+          "A": "是的，他们必须以进步意义被指控。",
+          "B": "不，应该订婚的第一个游行或反向。",
+          "C": "不，最后装载的车辆必须有三个持有人。"
+        },
+        "E": {
+          "A": "不，加载它们的意义是冷漠的。",
+          "B": "不，应该订婚的第一个游行或反向。",
+          "C": "是的。"
+        },
+        "F": {
+          "A": "是的，必须将它们与进步相反。",
+          "B": "不，第一个游行一定有。",
+          "C": "是的。"
+        },
+        "G": {
+          "A": "是的，他们必须以进步意义被指控。",
+          "B": "不，第一个游行一定有。",
+          "C": "是的。"
+        },
+        "H": {
+          "A": "不，加载它们的意义是冷漠的。",
+          "B": "不，第一个游行一定有。",
+          "C": "是的。"
+        }
+      }
+    },
+    {
+      "cod": "1H05004",
+      "pregunta": "El propietario de una plantación de eucaliptos efectúa una tala de árboles y solicita los servicios de un transportista para el traslado de la madera hasta un aserradero. El transportista tiene previsto utilizar un vehículo cuya zona de carga es una plataforma con compuerta delantera resistente, pero sin compuertas laterales ni trasera.\nLos árboles han sido cortados en troncos de una longitud de tres metros, si bien algunos de ellos tienen una longitud menor y no alcanzan la distancia existente entre los puntales laterales que sujetarán la carga. Por este motivo, el propietario de la plantación sugiere al transportista aplicar los troncos sobre el vehículo en sentido transversal para evitar, de ese modo, que los más cortos se puedan salir entre los puntales.\nTodos los troncos mantienen la corteza.\nResponda a las siguientes cuestiones: ¿Cuál es el modo de estiba recomendado para esta carga? ¿Cuántos amarres se aconseja utilizar para sujetarla, como mínimo?",
+      "pregunta_chino": "桉树种植园的所有者进行了树木伐木，并要求载体的服务将木材转移到锯木厂。载体计划使用其负载区是具有抵抗前门的平台，但没有侧面或后门的车辆。\n树木已切成三米长的树干，尽管其中一些的长度较低，并且没有达到将承受负载的横向支柱之间的距离。因此，种植园的所有者建议向载体施加横向方向上的行李箱，以避免最短的支柱之间的最短。\n所有的树干都保持树皮。\n回答以下问题：此负载推荐的存放模式是什么？至少建议使用多少系泊设备？",
+      "solucion": "A",
+      "norma": "Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea",
+      "norma_chino": "欧洲公路运输货物支持的最佳实践指南，欧洲委员会",
+      "opciones": {
+        "A": {
+          "A": "En sentido longitudinal, con los troncos más cortos colocados en el centro.",
+          "B": "Un amarre."
+        },
+        "B": {
+          "A": "En sentido longitudinal, con los troncos más cortos colocados en el centro.",
+          "B": "Dos amarres."
+        },
+        "C": {
+          "A": "En sentido longitudinal, con los troncos más cortos colocados en el centro.",
+          "B": "Tres amarres."
+        },
+        "D": {
+          "A": "En sentido longitudinal, con los troncos más cortos colocados en el centro.",
+          "B": "No son necesarios amarres; en troncos de esa longitud que conservan la corteza, basta con los pilares laterales para garantizar su sujeción."
+        },
+        "E": {
+          "A": "En sentido transversal.",
+          "B": "Un amarre."
+        },
+        "F": {
+          "A": "En sentido transversal.",
+          "B": "Dos amarres."
+        },
+        "G": {
+          "A": "En sentido transversal.",
+          "B": "Tres amarres."
+        },
+        "H": {
+          "A": "En sentido transversal.",
+          "B": "No son necesarios amarres; en troncos que conservan la corteza con apilamiento transversal, basta con los pilares laterales y traseros para garantizar su sujeción."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "沿纵向方向，最短的树干放在中间。",
+          "B": "系泊。"
+        },
+        "B": {
+          "A": "沿纵向方向，最短的树干放在中间。",
+          "B": "两个系泊。"
+        },
+        "C": {
+          "A": "沿纵向方向，最短的树干放在中间。",
+          "B": "三个系泊。"
+        },
+        "D": {
+          "A": "沿纵向方向，最短的树干放在中间。",
+          "B": "不需要系泊设备；在保留皮质的长度的树干中，侧支柱足以保证其支撑。"
+        },
+        "E": {
+          "A": "从横向意义上。",
+          "B": "系泊。"
+        },
+        "F": {
+          "A": "从横向意义上。",
+          "B": "两个系泊。"
+        },
+        "G": {
+          "A": "从横向意义上。",
+          "B": "三个系泊。"
+        },
+        "H": {
+          "A": "从横向意义上。",
+          "B": "不需要系泊设备；在用横向堆叠保留皮层的树干中，侧支柱和后支柱足以保证其支撑。"
+        }
+      }
+    },
+    {
+      "cod": "1H05005",
+      "pregunta": "Un camión de 24 toneladas de masa máxima autorizada, adscrito a una autorización de transporte privado complementario, es sometido a una inspección técnica en carretera, por agentes del cuerpo de seguridad encargado del control del tráfico, en el transcurso de la cual se efectúa también la inspección de la sujeción de la carga que transporta.\nMediante comprobación visual, los agentes constatan que la carga está sujeta con un sistema de amarre directo diagonal y que los elementos utilizados para el amarre no aportan la fuerza de sujeción requerida en el sentido de marcha, incurriendo en una deficiencia grave, lo que recogen en el correspondiente boletín de denuncia.\nResponda a las siguientes cuestiones: ¿Qué fuerza debería ser capaz de soportar la sujeción de esta carga en el sentido de la marcha? ¿Cuál es el plazo para subsanar esta deficiencia?",
+      "pregunta_chino": "由互补运输授权附加的24吨最大授权质量卡车，受到负责交通管制的安全机构的代理商的技术道路检查，在此期间检查运输货物的候机装备也进行了检查。\n通过视觉验证，代理商发现负载与直接对角线系泊系统相连，并且用于系泊的元素不会在3月的方向上提供所需的夹紧力，从而导致严重的缺陷，并在相应的投诉公告中收集。\n回答以下问题：哪种力量应该能够支持这一负担在游行方向上的征服？纠正这种缺陷的截止日期是什么？",
+      "solucion": "E",
+      "norma": "RD 563/2017, art. 12; RD 563/2017, Anexo III",
+      "norma_chino": "RD 563/2017，艺术。 12; RD 563/2017，附件III",
+      "opciones": {
+        "A": {
+          "A": "El equivalente al peso de la carga multiplicado por 0,8.",
+          "B": "Quince días."
+        },
+        "B": {
+          "A": "El equivalente al peso de la carga multiplicado por 0,5.",
+          "B": "Quince días."
+        },
+        "C": {
+          "A": "El equivalente a la masa máxima autorizada multiplicada por 0,8.",
+          "B": "Quince días."
+        },
+        "D": {
+          "A": "El equivalente a la masa máxima autorizada multiplicada por 0,5.",
+          "B": "Quince días."
+        },
+        "E": {
+          "A": "El equivalente al peso de la carga multiplicado por 0,8.",
+          "B": "Debe ser subsanada antes de que el vehículo vuelva a circular."
+        },
+        "F": {
+          "A": "El equivalente al peso de la carga multiplicado por 0,5.",
+          "B": "Debe ser subsanada antes de que el vehículo vuelva a circular."
+        },
+        "G": {
+          "A": "El equivalente a la masa máxima autorizada multiplicada por 0,8.",
+          "B": "Debe ser subsanada antes de que el vehículo vuelva a circular."
+        },
+        "H": {
+          "A": "El equivalente a la masa máxima autorizada multiplicada por 0,5.",
+          "B": "Debe ser subsanada antes de que el vehículo vuelva a circular."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "等效于负载的重量乘以0.8。",
+          "B": "十五天。"
+        },
+        "B": {
+          "A": "负载的重量等效乘以0.5。",
+          "B": "十五天。"
+        },
+        "C": {
+          "A": "最大授权质量的当量乘以0.8。",
+          "B": "十五天。"
+        },
+        "D": {
+          "A": "最大授权质量的当量乘以0.5。",
+          "B": "十五天。"
+        },
+        "E": {
+          "A": "等效于负载的重量乘以0.8。",
+          "B": "必须在车辆再次循环之前对其进行修复。"
+        },
+        "F": {
+          "A": "负载的重量等效乘以0.5。",
+          "B": "必须在车辆再次循环之前对其进行修复。"
+        },
+        "G": {
+          "A": "最大授权质量的当量乘以0.8。",
+          "B": "必须在车辆再次循环之前对其进行修复。"
+        },
+        "H": {
+          "A": "最大授权质量的当量乘以0.5。",
+          "B": "必须在车辆再次循环之前对其进行修复。"
+        }
+      }
+    },
+    {
+      "cod": "1H05006",
+      "pregunta": "Un vehículo de 8 toneladas de masa máxima autorizada, dedicado al transporte público de mercancías, es sometido a una inspección técnica en carretera, por agentes del cuerpo de seguridad encargado del control del tráfico, en el transcurso de la cual se efectúa también la inspección de la sujeción de la carga que transporta.\nMediante comprobación visual, los agentes constatan que la carga está sujeta mediante bloqueo sobre las compuertas laterales y que a dos de dichas compuertas les falta una bisagra. Los agentes consideran que esta circunstancia da lugar a un riesgo de pérdida de una parte de la carga, poniendo en peligro la seguridad del tráfico, por lo que efectúan denuncia de la infracción.\nResponda a las siguientes cuestiones: ¿Qué fuerza debería ser capaz de soportar la sujeción de esta carga en sentido lateral? ¿Cómo se calificará esta deficiencia?",
+      "pregunta_chino": "由专门用于货物公共交通的最大授权质量的8吨车辆，由负责交通管制的安全机构的代理商在道路上进行技术检查，在此过程中，还进行了检查其运输负载的供应。\n通过视觉验证，代理发现负载是通过阻塞横向大门的方式附着的，并且其中两个门缺乏铰链。代理商认为这种情况会导致损失一部分负载，危害交通安全的风险，因此他们会提出违规投诉。\n回答以下问题：什么力应该能够在横向方向上支持该负载的征服？将如何描述这种缺陷？",
+      "solucion": "H",
+      "norma": "RD 563/2017, Anexo III",
+      "norma_chino": "RD 563/2017，附件III",
+      "opciones": {
+        "A": {
+          "A": "El equivalente a la masa máxima autorizada multiplicada por 0,8.",
+          "B": "Como deficiencia muy grave."
+        },
+        "B": {
+          "A": "El equivalente a la masa máxima autorizada multiplicada por 0,5.",
+          "B": "Como deficiencia muy grave."
+        },
+        "C": {
+          "A": "El equivalente al peso de la carga multiplicado por 0,8.",
+          "B": "Como deficiencia muy grave."
+        },
+        "D": {
+          "A": "El equivalente al peso de la carga multiplicado por 0,5.",
+          "B": "Como deficiencia muy grave."
+        },
+        "E": {
+          "A": "El equivalente a la masa máxima autorizada multiplicada por 0,8.",
+          "B": "Como deficiencia peligrosa."
+        },
+        "F": {
+          "A": "El equivalente a la masa máxima autorizada multiplicada por 0,5.",
+          "B": "Como deficiencia peligrosa."
+        },
+        "G": {
+          "A": "El equivalente al peso de la carga multiplicado por 0,8.",
+          "B": "Como deficiencia peligrosa."
+        },
+        "H": {
+          "A": "El equivalente al peso de la carga multiplicado por 0,5.",
+          "B": "Como deficiencia peligrosa."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "最大授权质量的当量乘以0.8。",
+          "B": "非常严重的缺陷。"
+        },
+        "B": {
+          "A": "最大授权质量的当量乘以0.5。",
+          "B": "非常严重的缺陷。"
+        },
+        "C": {
+          "A": "等效于负载的重量乘以0.8。",
+          "B": "非常严重的缺陷。"
+        },
+        "D": {
+          "A": "负载的重量等效乘以0.5。",
+          "B": "非常严重的缺陷。"
+        },
+        "E": {
+          "A": "最大授权质量的当量乘以0.8。",
+          "B": "作为危险的缺陷。"
+        },
+        "F": {
+          "A": "最大授权质量的当量乘以0.5。",
+          "B": "作为危险的缺陷。"
+        },
+        "G": {
+          "A": "等效于负载的重量乘以0.8。",
+          "B": "作为危险的缺陷。"
+        },
+        "H": {
+          "A": "负载的重量等效乘以0.5。",
+          "B": "作为危险的缺陷。"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1254 @@
+{
+  "tema": "cm1G",
+  "tema_chino": "CM1G",
+  "preguntas": [
+    {
+      "cod": "1G07001",
+      "pregunta": "Un fabricante español de calzado ha firmado un contrato con una empresa de distribución sueca para suministrarle una remesa de zapatillas deportivas. La mercancía viajará contenerizada, utilizando un servicio de transporte intermodal carretera-barco, pero el fabricante no quiere contratar un contenedor para su uso exclusivo, pues sólo utilizará un tercio de su capacidad.\nEl contenedor que se va a emplear en este transporte fue fabricado en diciembre de 2005 y ha pasado todas las inspecciones de seguridad obligatorias agotando al máximo los plazos reglamentarios.\nResponda a las siguientes cuestiones: ¿Qué régimen de servicio se aplicará a este envío? ¿De qué modo se debe acreditar que este contenedor cumple las prescripciones de seguridad? ¿Cuándo ha debido pasar el contenedor su última inspección?",
+      "pregunta_chino": "一家西班牙鞋类制造商已与瑞典分销公司签订合同，以提供体育汇款。商品将使用模式的公路运输服务，但制造商不想租用一个容器作为独家使用，因为它只会使用其容量的三分之一。\n该运输中将使用的容器是在2005年12月制造的，所有强制性的安全检查都通过耗尽监管截止日期。\n回答以下问题：该货物将适用哪种服务制度？应该如何证明该容器符合安全处方？容器什么时候应该通过您的最后一次检查？",
+      "solucion": "G",
+      "norma": "Glosario de términos logísticos, Universidad Politécnica de Cartagena",
+      "norma_chino": "逻辑学术语，理工大学卡塔赫纳大学",
+      "opciones": {
+        "A": {
+          "A": "FCL.",
+          "B": "Con la placa de aprobación.",
+          "C": "En el año 2020."
+        },
+        "B": {
+          "A": "FCL.",
+          "B": "Con el certificado de conformidad.",
+          "C": "En el año 2019."
+        },
+        "C": {
+          "A": "FCL.",
+          "B": "Con el certificado de conformidad y la placa de aprobación.",
+          "C": "En el año 2019."
+        },
+        "D": {
+          "A": "FCL.",
+          "B": "Con el certificado de conformidad y la placa de aprobación.",
+          "C": "En el año 2020."
+        },
+        "E": {
+          "A": "LCL.",
+          "B": "Con la placa de aprobación.",
+          "C": "En el año 2019."
+        },
+        "F": {
+          "A": "LCL.",
+          "B": "Con el certificado de conformidad.",
+          "C": "En el año 2020."
+        },
+        "G": {
+          "A": "LCL.",
+          "B": "Con el certificado de conformidad y la placa de aprobación.",
+          "C": "En el año 2020."
+        },
+        "H": {
+          "A": "LCL.",
+          "B": "Con el certificado de conformidad y la placa de aprobación.",
+          "C": "En el año 2019."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "fcl。",
+          "B": "带有批准板。",
+          "C": "2020年。"
+        },
+        "B": {
+          "A": "fcl。",
+          "B": "带有一致性证书。",
+          "C": "2019年。"
+        },
+        "C": {
+          "A": "fcl。",
+          "B": "带有一致性证书和批准板。",
+          "C": "2019年。"
+        },
+        "D": {
+          "A": "fcl。",
+          "B": "带有一致性证书和批准板。",
+          "C": "2020年。"
+        },
+        "E": {
+          "A": "LCL",
+          "B": "带有批准板。",
+          "C": "2019年。"
+        },
+        "F": {
+          "A": "LCL",
+          "B": "带有一致性证书。",
+          "C": "2020年。"
+        },
+        "G": {
+          "A": "LCL",
+          "B": "带有一致性证书和批准板。",
+          "C": "2020年。"
+        },
+        "H": {
+          "A": "LCL",
+          "B": "带有一致性证书和批准板。",
+          "C": "2019年。"
+        }
+      }
+    },
+    {
+      "cod": "1G07002",
+      "pregunta": "Se proyecta efectuar un transporte de mercancía contenerizada mediante un servicio intermodal carretera-ferrocarril. Las unidades intermodales no viajarán apiladas ya que lo impide el gálibo de la línea férrea por la que tiene que transcurrir el transporte.\nEl operador que organiza este transporte tiene disponibles de contenedores ISO y de cajas móviles no apilables, en ambos casos con una longitud interior de 5,90 metros, y el cargador le pide que utilice el tipo de unidad intermodal que optimice mejor la capacidad de los vehículos de carretera, teniendo en cuenta que la mercancía ha sido paletizada utilizando europalés de medidas 1.200 x 800 mm.\nResponda a las siguientes cuestiones: ¿Qué unidad intermodal se debe elegir? ¿Cuántos palés se podrán transportar sin apilar en cada tipo de unidad?",
+      "pregunta_chino": "预计它将通过联运公路卫生员服务进行包含的商品运输。联运单元不会被堆叠起来，因为铁路线的加利博（Gálibo）阻止了该单元的运输方式。\n通过此运输组织的操作员可用于ISO容器和不可堆叠的移动箱，在这两种情况下，内部长度为5.90米，充电器要求您使用该模式类型的类型，可更好地优化道路车辆的容量，并考虑到商品已使用europales使用Europalés的europalésparte tuesers 1,200 x 800 x 800 mm mm。\n回答以下问题：您应该选择哪个联运单元？可以在每种类型的单元中堆放多少托盘可以运输多少托盘？",
+      "solucion": "C",
+      "norma": "El lenguaje del transporte intermodal, Ministerio de Fomento",
+      "norma_chino": "发展部的模式运输语言",
+      "opciones": {
+        "A": {
+          "A": "La caja móvil.",
+          "B": "12 palés en caja móvil y 10 palés en contenedor ISO."
+        },
+        "B": {
+          "A": "La caja móvil.",
+          "B": "14 palés en caja móvil y 10 palés en contenedor ISO."
+        },
+        "C": {
+          "A": "La caja móvil.",
+          "B": "14 palés en caja móvil y 8 palés en contenedor ISO."
+        },
+        "D": {
+          "A": "La caja móvil.",
+          "B": "12 palés en caja móvil y 8 palés en contenedor ISO."
+        },
+        "E": {
+          "A": "El contenedor ISO.",
+          "B": "12 palés en contenedor ISO y 10 palés en caja móvil."
+        },
+        "F": {
+          "A": "El contenedor ISO.",
+          "B": "14 palés en contenedor ISO y 10 palés en caja móvil."
+        },
+        "G": {
+          "A": "El contenedor ISO.",
+          "B": "12 palés en contenedor ISO y 8 palés en caja móvil."
+        },
+        "H": {
+          "A": "El contenedor ISO.",
+          "B": "14 palés en contenedor ISO y 8 palés en caja móvil."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "手机盒。",
+          "B": "在移动盒中的12托盘，ISO容器中的10件托盘。"
+        },
+        "B": {
+          "A": "手机盒。",
+          "B": "手机盒中的14个托盘，ISO容器中的10件托盘。"
+        },
+        "C": {
+          "A": "手机盒。",
+          "B": "手机盒中的14托盘和ISO容器中的8个托盘。"
+        },
+        "D": {
+          "A": "手机盒。",
+          "B": "在移动箱中的12托盘和ISO容器中的8个托盘。"
+        },
+        "E": {
+          "A": "ISO容器。",
+          "B": "ISO容器中的12个托盘和移动盒中的10托盘。"
+        },
+        "F": {
+          "A": "ISO容器。",
+          "B": "ISO容器中的14个托盘和移动盒中的10件托盘。"
+        },
+        "G": {
+          "A": "ISO容器。",
+          "B": "ISO容器中的12个托盘和移动盒中的8个托盘。"
+        },
+        "H": {
+          "A": "ISO容器。",
+          "B": "ISO容器中的14个托盘和移动盒中的8托盘。"
+        }
+      }
+    },
+    {
+      "cod": "1G07003",
+      "pregunta": "Una empresa de transporte de mercancías por carretera, cuya actividad principal consiste en servicios de carácter internacional, es contratada para transportar una partida de muebles de cocina desde Toledo hasta Milán.\nLos muebles viajan estibados en el interior de un contenedor, que ha sido cargado sobre un semirremolque, y el transportista decide efectuar el encargo utilizando un servicio intermodal carretera-ferrocarril del tipo ROLA en una parte del recorrido.\nResponda a las siguientes cuestiones: ¿Hasta dónde debe viajar el conductor del vehículo de carretera? ¿Qué elementos de la unidad de carretera se embarcarán en el tren?",
+      "pregunta_chino": "一家公路商品运输公司的主要活动由国际服务组成，被雇用用于将厨房家具从托莱多运送到米兰。\n家具旅行被存放在一个半拖车上的容器中，该容器被装载在半拖车上，并且承运人决定使用Rola类型的式路线 - 芝麻店在路线的一部分中进行订单。\n回答以下问题：公路车辆的驾驶员应该走多远？道路单元的哪些要素将登上火车？",
+      "solucion": "D",
+      "norma": "Estudio para el desarrollo de autopistas ferroviarias en la Península Ibérica, Ministerio de Fomento",
+      "norma_chino": "开发伊比利亚半岛铁路发展的研究",
+      "opciones": {
+        "A": {
+          "A": "Hasta el punto de embarque de la unidad de carretera en el tren.",
+          "B": "Todos los elementos que la componen."
+        },
+        "B": {
+          "A": "Hasta el punto de embarque de la unidad de carretera en el tren.",
+          "B": "El contenedor soportado sobre el semirremolque."
+        },
+        "C": {
+          "A": "Hasta el punto de embarque de la unidad de carretera en el tren.",
+          "B": "Exclusivamente el contenedor, pues el chasis del vagón ferroviario sustituye al semirremolque."
+        },
+        "D": {
+          "A": "Hasta el final del trayecto, ya que es un sistema de transporte acompañado.",
+          "B": "Todos los elementos que la componen."
+        },
+        "E": {
+          "A": "Hasta el final del trayecto, ya que es un sistema de transporte acompañado.",
+          "B": "El contenedor soportado sobre el semirremolque."
+        },
+        "F": {
+          "A": "Hasta el final del trayecto, ya que es un sistema de transporte acompañado.",
+          "B": "Exclusivamente el contenedor, pues el chasis del vagón ferroviario sustituye al semirremolque."
+        },
+        "G": {
+          "A": "Hasta el punto de desembarque del tren.",
+          "B": "Todos los elementos que la componen."
+        },
+        "H": {
+          "A": "Hasta el punto de desembarque del tren.",
+          "B": "El contenedor soportado sobre el semirremolque."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "到火车上的道路单位的登机点。",
+          "B": "构成它的所有元素。"
+        },
+        "B": {
+          "A": "到火车上的道路单位的登机点。",
+          "B": "支撑在半拖车上的容器。"
+        },
+        "C": {
+          "A": "到火车上的道路单位的登机点。",
+          "B": "仅当铁路汽车的底盘取代半拖车时，容器才完全由容器。"
+        },
+        "D": {
+          "A": "直到旅程结束，因为它是伴随的运输系统。",
+          "B": "构成它的所有元素。"
+        },
+        "E": {
+          "A": "直到旅程结束，因为它是伴随的运输系统。",
+          "B": "支撑在半拖车上的容器。"
+        },
+        "F": {
+          "A": "直到旅程结束，因为它是伴随的运输系统。",
+          "B": "仅当铁路汽车的底盘取代半拖车时，容器才完全由容器。"
+        },
+        "G": {
+          "A": "到火车着陆点。",
+          "B": "构成它的所有元素。"
+        },
+        "H": {
+          "A": "到火车着陆点。",
+          "B": "支撑在半拖车上的容器。"
+        }
+      }
+    },
+    {
+      "cod": "1G09001",
+      "pregunta": "Una empresa dedicada a la elaboración de productos cárnicos dispone de cinco vehículos en propiedad para la distribución de los mismos a sus clientes, dos de ellos tienen 3,5 toneladas de masa máxima autorizada y los otros tres tienen 10 toneladas. Entre los productos que distribuyen se incluyen varios que contienen carne roja y carne picada.\nTodos los clientes a los que distribuyen con sus propios vehículos tienen sus puntos de venta en territorio español, por lo que en ningún caso los vehículos efectúan recorridos internacionales con la mercancía. No obstante, la empresa tiene también clientes extranjeros, a los que se hacen llegar los productos cárnicos utilizando el transporte ferroviario.\nResponda a las siguientes cuestiones: ¿Se aplican las normas del ATP (Acuerdo sobre transportes internacionales de mercancías perecederas y sobre vehículos especiales utilizados en estos transportes) a los transportes que efectúa esta empresa con sus vehículos? ¿Se aplican las normas del ATP a los transportes que hace utilizando el ferrocarril?",
+      "pregunta_chino": "一家致力于阐述肉类产品的公司拥有五辆用于向客户分销的财产，其中两辆拥有3.5吨最高授权的质量，而其他三辆具有10吨。包括分发几种含有红肉和切碎肉的产品。\n他们用自己的车辆分发的所有客户都在西班牙领土上销售点，因此，车辆绝不会与商品进行国际旅行。但是，该公司还拥有外国客户，使用铁路运输派遣肉类产品。\n回答以下问题：ATP标准是否适用（国际运输商品协议，以及这些运输中使用的特殊车辆）对公司使用其车辆进行的运输？ ATP标准是否适用于您使用轨道的运输方式？",
+      "solucion": "A",
+      "norma": "Acuerdo ATP, art. 3; RD 1202/2005, art. 1",
+      "norma_chino": "ATP协议，艺术。 3; RD 1202/2005，艺术。 1",
+      "opciones": {
+        "A": {
+          "A": "Sí, las normas del Acuerdo ATP se aplican también al transporte interior en virtud del Real Decreto 1202/2005, tanto al realizado por cuenta ajena como al efectuado por cuenta propia.",
+          "B": "Sí, las normas del Acuerdo ATP se aplican a los transportes por carretera y por ferrocarril."
+        },
+        "B": {
+          "A": "No, las normas del Acuerdo ATP no se aplican al transporte por cuenta propia.",
+          "B": "Sí, las normas del Acuerdo ATP se aplican a los transportes por carretera y por ferrocarril."
+        },
+        "C": {
+          "A": "No, las normas del Acuerdo ATP solo se aplican al transporte internacional.",
+          "B": "Sí, las normas del Acuerdo ATP se aplican a los transportes por carretera y por ferrocarril."
+        },
+        "D": {
+          "A": "Se aplican a los transportes realizados con vehículos de 10 toneladas de masa máxima autorizada, pero no a los realizados con los de 3,5 toneladas, dado que estos últimos no necesitan autorización de transporte.",
+          "B": "Sí, las normas del Acuerdo ATP se aplican a los transportes por carretera y por ferrocarril."
+        },
+        "E": {
+          "A": "Sí, las normas del Acuerdo ATP se aplican también al transporte interior en virtud del Real Decreto 1202/2005, tanto al realizado por cuenta ajena como al efectuado por cuenta propia.",
+          "B": "No, las normas del Acuerdo ATP no se aplican a los transportes por ferrocarril."
+        },
+        "F": {
+          "A": "No, las normas del Acuerdo ATP no se aplican al transporte por cuenta propia.",
+          "B": "No, las normas del Acuerdo ATP no se aplican a los transportes por ferrocarril."
+        },
+        "G": {
+          "A": "No, las normas del Acuerdo ATP solo se aplican al transporte internacional.",
+          "B": "No, las normas del Acuerdo ATP no se aplican a los transportes por ferrocarril."
+        },
+        "H": {
+          "A": "Se aplican a los transportes realizados con vehículos de 10 toneladas de masa máxima autorizada, pero no a los realizados con los de 3,5 toneladas, dado que estos últimos no necesitan autorización de transporte.",
+          "B": "No, las normas del Acuerdo ATP no se aplican a los transportes por ferrocarril."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，《 ATP协议规则》也适用于根据1202/2005皇家法令的室内运输，均适用于代表自己的帐户进行的室内运输。",
+          "B": "是的，《 ATP协议规则》适用于道路和铁路运输。"
+        },
+        "B": {
+          "A": "不，ATP协议规则不适用于自我就业。",
+          "B": "是的，《 ATP协议规则》适用于道路和铁路运输。"
+        },
+        "C": {
+          "A": "不，ATP协议规则仅适用于国际运输。",
+          "B": "是的，《 ATP协议规则》适用于道路和铁路运输。"
+        },
+        "D": {
+          "A": "它们适用于用10吨最高授权质量的车辆制造的运输，但不使用3.5吨的车辆，因为后者不需要运输授权。",
+          "B": "是的，《 ATP协议规则》适用于道路和铁路运输。"
+        },
+        "E": {
+          "A": "是的，《 ATP协议规则》也适用于根据1202/2005皇家法令的室内运输，均适用于代表自己的帐户进行的室内运输。",
+          "B": "不，ATP协议规则不适用于铁路运输。"
+        },
+        "F": {
+          "A": "不，ATP协议规则不适用于自我就业。",
+          "B": "不，ATP协议规则不适用于铁路运输。"
+        },
+        "G": {
+          "A": "不，ATP协议规则仅适用于国际运输。",
+          "B": "不，ATP协议规则不适用于铁路运输。"
+        },
+        "H": {
+          "A": "它们适用于用10吨最高授权质量的车辆制造的运输，但不使用3.5吨的车辆，因为后者不需要运输授权。",
+          "B": "不，ATP协议规则不适用于铁路运输。"
+        }
+      }
+    },
+    {
+      "cod": "1G09002",
+      "pregunta": "Una empresa marroquí domiciliada en Casablanca, dedicada a la comercialización de diversas variedades de pescado congelado, contrata a un transportista español para que transporte una carga de este producto, desde su almacén hasta Sevilla, en vehículo de temperatura regulada.\nPara el porte se utiliza un vehículo frigorífico de clase E y el tramo marítimo se efectúa mediante embarque rodado del vehículo de carretera completo (cabeza tractora y semirremolque con la carga).\nResponda a las siguientes cuestiones: ¿Se aplican las normas del ATP (Acuerdo sobre transportes internacionales de mercancías perecederas y sobre vehículos especiales utilizados en estos transportes) a este transporte? ¿Qué marca de identificación debe figurar en el vehículo?",
+      "pregunta_chino": "一家摩洛哥公司在卡萨布兰卡（Casablanca）居住，致力于各种冰冻鱼类的商业化，雇用了西班牙运输工具，通过受管制的温度工具运输从其仓库到塞维利亚的一系列产品。\n对于轴承，使用了E类冰箱车辆，并且通过释放的全公路车辆（带负载的拖拉机和半拖车头）释放的船只制造海部。\n回答以下问题：ATP标准是否适用（关于易腐商品的国际运输协议以及这些运输中使用的特殊车辆的协议）？车辆中应该出现哪些识别品牌？",
+      "solucion": "F",
+      "norma": "Acuerdo ATP, art. 3; Acuerdo ATP, Anejo I",
+      "norma_chino": "ATP协议，艺术。 3; ATP协议，附件I",
+      "opciones": {
+        "A": {
+          "A": "Sí, pero solo a los trayectos efectuados por carretera.",
+          "B": "FNE."
+        },
+        "B": {
+          "A": "Sí, a todo el recorrido, incluido el tramo marítimo.",
+          "B": "FNE."
+        },
+        "C": {
+          "A": "Sí, pero solo al recorrido efectuado en España.",
+          "B": "FNE."
+        },
+        "D": {
+          "A": "No, porque Marruecos no forma parte de la Unión Europea.",
+          "B": "Ninguna."
+        },
+        "E": {
+          "A": "Sí, pero solo a los trayectos efectuados por carretera.",
+          "B": "FRE."
+        },
+        "F": {
+          "A": "Sí, a todo el recorrido, incluido el tramo marítimo.",
+          "B": "FRE."
+        },
+        "G": {
+          "A": "Sí, pero solo al recorrido efectuado en España.",
+          "B": "FRE."
+        },
+        "H": {
+          "A": "No, porque Marruecos no forma parte de la Unión Europea.",
+          "B": "Ninguna."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，但仅适用于道路的道路。",
+          "B": "fne。"
+        },
+        "B": {
+          "A": "是的，在整个路线上，包括海区。",
+          "B": "fne。"
+        },
+        "C": {
+          "A": "是的，但仅到西班牙采取的路线。",
+          "B": "fne。"
+        },
+        "D": {
+          "A": "不，因为摩洛哥不是欧盟的一部分。",
+          "B": "没有任何。"
+        },
+        "E": {
+          "A": "是的，但仅适用于道路的道路。",
+          "B": "fre。"
+        },
+        "F": {
+          "A": "是的，在整个路线上，包括海区。",
+          "B": "fre。"
+        },
+        "G": {
+          "A": "是的，但仅到西班牙采取的路线。",
+          "B": "fre。"
+        },
+        "H": {
+          "A": "不，因为摩洛哥不是欧盟的一部分。",
+          "B": "没有任何。"
+        }
+      }
+    },
+    {
+      "cod": "1G09003",
+      "pregunta": "Se contrata a un transportista para que efectúe un transporte de mercancía que debe viajar a temperatura controlada entre Mairena del Alcor y Segovia. El transportista, a la vista del tipo del tipo de producto que debe trasladar, decide utilizar un vehículo frigorífico de clase B cuyo equipo de producción de frío funciona con un compresor alimentado por el motor del propio vehículo.\nResponda a las siguientes cuestiones: ¿Qué marca de identificación debe figurar en el vehículo? ¿En qué zona llevará el vehículo la marca de identificación?",
+      "pregunta_chino": "它被雇用到载体中，以进行商品运输，必须在Mairena del Alcor和Segovia之间的受控温度下行驶。鉴于要转让的产品类型，该载体决定使用B级冰箱车辆，其冷生产设备与车辆本身电动机喂养的压缩机一起使用。\n回答以下问题：车辆中应该出现哪些识别品牌？车辆将在哪个区域采用标识品牌？",
+      "solucion": "H",
+      "norma": "Acuerdo ATP, Anejo I",
+      "norma_chino": "ATP协议，附件I",
+      "opciones": {
+        "A": {
+          "A": "FNB.",
+          "B": "A ambos lados y en la parte trasera."
+        },
+        "B": {
+          "A": "FNBX.",
+          "B": "A ambos lados y en la parte trasera."
+        },
+        "C": {
+          "A": "FRB.",
+          "B": "A ambos lados y en la parte trasera."
+        },
+        "D": {
+          "A": "FRBX.",
+          "B": "A ambos lados y en la parte trasera."
+        },
+        "E": {
+          "A": "FNB.",
+          "B": "Al menos, a ambos lados."
+        },
+        "F": {
+          "A": "FNBX.",
+          "B": "Al menos, a ambos lados."
+        },
+        "G": {
+          "A": "FRB.",
+          "B": "Al menos, a ambos lados."
+        },
+        "H": {
+          "A": "FRBX.",
+          "B": "Al menos, a ambos lados."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "FNB",
+          "B": "在两侧和背面。"
+        },
+        "B": {
+          "A": "fnbx",
+          "B": "在两侧和背面。"
+        },
+        "C": {
+          "A": "frb",
+          "B": "在两侧和背面。"
+        },
+        "D": {
+          "A": "FRBX",
+          "B": "在两侧和背面。"
+        },
+        "E": {
+          "A": "FNB",
+          "B": "至少在两边。"
+        },
+        "F": {
+          "A": "fnbx",
+          "B": "至少在两边。"
+        },
+        "G": {
+          "A": "frb",
+          "B": "至少在两边。"
+        },
+        "H": {
+          "A": "FRBX",
+          "B": "至少在两边。"
+        }
+      }
+    },
+    {
+      "cod": "1G09004",
+      "pregunta": "En un control de carretera la Inspección del Transporte revisa un vehículo de temperatura regulada que transporta productos congelados. El inspector solicita al conductor que le muestre el certificado de conformidad del vehículo (certificado ATP) y este último no puede atender dicho requerimiento, pues no encuentra el certificado entre la documentación que lleva a bordo.\nNo obstante, el inspector puede comprobar que el vehículo dispone de placa de certificación de conformidad (placa ATP), constatando, asimismo, que en dicha placa figura como fecha límite de validez 11-2023.\nEn el permiso de circulación del vehículo se constata que tiene como fecha de primera matriculación noviembre de 2014.\nResponda a las siguientes cuestiones: ¿Cómo debe proceder el inspector ante la no exhibición del certificado de conformidad por parte del conductor? ¿En qué fecha debió pasar este vehículo su última inspección por lo que se refiere al control de conformidad con las normas de unidades de transporte de mercancías perecederas?",
+      "pregunta_chino": "在道路控制中，运输检查审查了运输冷冻产品的受管制温度车辆。检查员要求驾驶员显示符合车辆的证书（ATP证书），而后者无法满足上述要求，因为他没有在船上的文件中找到证书。\n但是，检查员可以验证车辆是否具有合规性认证板（ATP板），还验证了该板中的合规性证明板是否为有效性11-2023的截止日期。\n在车辆流通许可证中，发现它是2014年11月的第一个注册日期。\n回答以下问题：检查员应在不适合驾驶员证明的合格证书之前进行？这辆车在什么日期必须根据易腐商品运输单元的标准进行控制的最后检查？",
+      "solucion": "E",
+      "norma": "Acuerdo ATP, Anejo I; RD 237/2000, Anejo 1",
+      "norma_chino": "ATP协议，附件I； RD 237/2000，附件1",
+      "opciones": {
+        "A": {
+          "A": "El inspector debe aceptar la placa ATP como certificado de conformidad.",
+          "B": "En febrero de 2020."
+        },
+        "B": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original del certificado de conformidad.",
+          "B": "En noviembre de 2017."
+        },
+        "C": {
+          "A": "El inspector debe aceptar la placa ATP como certificado de conformidad.",
+          "B": "En noviembre de 2017."
+        },
+        "D": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original del certificado de conformidad.",
+          "B": "En noviembre de 2020."
+        },
+        "E": {
+          "A": "El inspector debe aceptar la placa ATP como certificado de conformidad.",
+          "B": "En noviembre de 2020."
+        },
+        "F": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original del certificado de conformidad.",
+          "B": "En febrero de 2020."
+        },
+        "G": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original o una fotocopia compulsada del certificado de conformidad.",
+          "B": "En noviembre de 2017."
+        },
+        "H": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original o una fotocopia compulsada del certificado de conformidad.",
+          "B": "En noviembre de 2020."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "检查员必须接受ATP板作为合规证书。",
+          "B": "2020年2月。"
+        },
+        "B": {
+          "A": "检查员必须批准未携带合规证书的原件。",
+          "B": "2017年11月。"
+        },
+        "C": {
+          "A": "检查员必须接受ATP板作为合规证书。",
+          "B": "2017年11月。"
+        },
+        "D": {
+          "A": "检查员必须批准未携带合规证书的原件。",
+          "B": "2020年11月。"
+        },
+        "E": {
+          "A": "检查员必须接受ATP板作为合规证书。",
+          "B": "2020年11月。"
+        },
+        "F": {
+          "A": "检查员必须批准未携带合规证书的原件。",
+          "B": "2020年2月。"
+        },
+        "G": {
+          "A": "检查员必须批准承运人不承担合规证书的原始或强迫化复印。",
+          "B": "2017年11月。"
+        },
+        "H": {
+          "A": "检查员必须批准承运人，以不携带合规证书的原始或覆盖的影印本。",
+          "B": "2020年11月。"
+        }
+      }
+    },
+    {
+      "cod": "1G09005",
+      "pregunta": "En un control de carretera, la Inspección del Transporte revisa un vehículo de temperatura regulada que transporta carne de pollo fresca. El inspector solicita al conductor el certificado de conformidad del vehículo y este únicamente le muestra una fotocopia sin compulsar de dicho certificado.\nPor otra parte, el inspector comprueba que el vehículo dispone de placa de certificación de conformidad con fecha de validez no vencida y que la caja cuenta con placa de identificación.\nResponda a las siguientes cuestiones: ¿Cómo debe proceder el inspector ante la exhibición de una fotocopia sin compulsar del certificado de conformidad por parte del conductor? ¿Qué indicación figurará en la placa de identificación?",
+      "pregunta_chino": "在道路管制中，运输检查检查了运输新鲜鸡肉的管制温度车辆。检查员向驾驶员询问符合车辆的证书，这仅显示没有这样的证书的影印本。\n另一方面，检查员验证车辆是否根据未扣除的有效性日期具有认证板，并且该盒子有识别板。\n回答以下问题：检查员应该如何在不强迫驾驶员证明的情况下进行影印本的展览？身份板上会出现什么迹象？",
+      "solucion": "B",
+      "norma": "Acuerdo ATP, Anejo I",
+      "norma_chino": "ATP协议，附件I",
+      "opciones": {
+        "A": {
+          "A": "El inspector debe aceptar la fotocopia del certificado de conformidad como documento suficiente.",
+          "B": "Mes y año de fabricación."
+        },
+        "B": {
+          "A": "Si bien la fotocopia sin compulsar del certificado de conformidad no es válida, el inspector debe aceptar la placa ATP como certificado de conformidad.",
+          "B": "Mes y año de fabricación."
+        },
+        "C": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original del certificado de conformidad.",
+          "B": "Mes y año de fabricación."
+        },
+        "D": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original o una fotocopia compulsada del certificado de conformidad.",
+          "B": "Mes y año de fabricación."
+        },
+        "E": {
+          "A": "El inspector debe aceptar la fotocopia del certificado de conformidad como documento suficiente.",
+          "B": "Mes y año límite de validez de la última revisión."
+        },
+        "F": {
+          "A": "Si bien la fotocopia sin compulsar del certificado de conformidad no es válida, el inspector debe aceptar la placa ATP como certificado de conformidad.",
+          "B": "Mes y año límite de validez de la última revisión."
+        },
+        "G": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original del certificado de conformidad.",
+          "B": "Mes y año límite de validez de la última revisión."
+        },
+        "H": {
+          "A": "El inspector debe sancionar al transportista por no llevar el original o una fotocopia compulsada del certificado de conformidad.",
+          "B": "Mes y año límite de validez de la última revisión."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "检查员必须接受一致性证书的影印本作为足够的文件。",
+          "B": "制造的月和年。"
+        },
+        "B": {
+          "A": "尽管没有强迫合规证书的影印复制是无效的，但检查员必须接受ATP板作为合规证书。",
+          "B": "制造的月和年。"
+        },
+        "C": {
+          "A": "检查员必须批准未携带合规证书的原件。",
+          "B": "制造的月和年。"
+        },
+        "D": {
+          "A": "检查员必须批准承运人不承担合规证书的原始或强迫化复印。",
+          "B": "制造的月和年。"
+        },
+        "E": {
+          "A": "检查员必须接受一致性证书的影印本作为足够的文件。",
+          "B": "上次审查的月和年有效性限制。"
+        },
+        "F": {
+          "A": "尽管没有强迫合规证书的影印复制是无效的，但检查员必须接受ATP板作为合规证书。",
+          "B": "上次审查的月和年有效性限制。"
+        },
+        "G": {
+          "A": "检查员必须批准未携带合规证书的原件。",
+          "B": "上次审查的月和年有效性限制。"
+        },
+        "H": {
+          "A": "检查员必须批准承运人不承担合规证书的原始或强迫化复印。",
+          "B": "上次审查的月和年有效性限制。"
+        }
+      }
+    },
+    {
+      "cod": "1G09006",
+      "pregunta": "El propietario de una granja de vacas lecheras se encuentra efectuando un transporte de leche cruda obtenida en su instalación, con destino a una planta de tratamiento situada en las proximidades, con un vehículo de su propiedad que reúne los requisitos técnicos exigidos por el ATP (Acuerdo sobre transportes internacionales de mercancías perecederas y sobre vehículos especiales utilizados en estos transportes) para el transporte de mercancías perecederas, del tipo frigorífico normal clase A.\nDurante la realización de este transporte es parado por agentes de la Inspección del Transporte en el curso de una operación de control de vehículos en carretera, quienes comprueban que el vehículo no lleva operativos los equipos de producción de frío para conseguir la temperatura que exige el producto transportado, que es de, como máximo, 6 grados centígrados.\nLa temperatura exterior es de -2 grados centígrados en ese momento y, de acuerdo con los partes meteorológicos, no ha subido en ningún momento del día de 0 grados centígrados, ni hay previsión de que lo haga.\nResponda a las siguientes cuestiones: ¿Debe cumplir este transporte las normas del ATP? ¿Debe ser objeto de sanción el hecho de no llevar operativos los sistemas de producción de frío? ¿Qué marca de identificación llevará el vehículo?",
+      "pregunta_chino": "奶牛农场的所有者正在制造其在其装置中获得的生牛奶的运输，该牛奶定于附近的一个处理厂，其财产的车辆符合ATP所需的技术要求（在这些运输中使用国际运输商品和这些运输的特殊车辆协议），用于运输腐烂的冰箱类型类A.正常冰箱类型A. A.\n在实现此运输过程中，在道路控制操作过程中，它可以通过运输检查代理来制止，他们证明该车辆没有冷生产设备操作来达到运输产品所需的温度，最多是6摄氏度。\n当时的外部温度为-2摄氏度，根据天气部分，摄氏0摄氏度的任何时间都没有升高，也没有任何远见。\n回答以下问题：此运输是否符合ATP规则？不承担冷生产系统的事实应该吗？车辆将采用什么标识品牌？",
+      "solucion": "G",
+      "norma": "RD 1202/2005, art. 1; Acuerdo ATP, art. 3; Acuerdo ATP, art. 4; Acuerdo ATP, Anejo I",
+      "norma_chino": "RD 1202/2005，艺术。 1; ATP协议，艺术。 3; ATP协议，艺术。 4; ATP协议，附件I",
+      "opciones": {
+        "A": {
+          "A": "No, pues las normas del Acuerdo ATP solo se aplican al transporte internacional.",
+          "B": "Sí.",
+          "C": "RNA."
+        },
+        "B": {
+          "A": "No, pues las normas del Acuerdo ATP no se aplican al transporte por cuenta propia.",
+          "B": "Sí.",
+          "C": "FNA."
+        },
+        "C": {
+          "A": "No, pues las normas del Acuerdo ATP solo se aplican al transporte internacional.",
+          "B": "No, pues no resulta necesario para asegurar que el transporte se realiza a la temperatura correcta.",
+          "C": "RNA."
+        },
+        "D": {
+          "A": "No, pues las normas del Acuerdo ATP no se aplican al transporte por cuenta propia.",
+          "B": "Sí.",
+          "C": "RNA."
+        },
+        "E": {
+          "A": "No, pues las normas del Acuerdo ATP solo se aplican al transporte internacional.",
+          "B": "No, pues no resulta necesario para asegurar que el transporte se realiza a la temperatura correcta.",
+          "C": "FNA."
+        },
+        "F": {
+          "A": "No, pues las normas del Acuerdo ATP no se aplican al transporte por cuenta propia.",
+          "B": "No, pues no resulta necesario para asegurar que el transporte se realiza a la temperatura exigida por el ATP.",
+          "C": "FNA."
+        },
+        "G": {
+          "A": "Sí, pues las normas del Acuerdo ATP se aplican al transporte interior, tanto al realizado por cuenta ajena como por cuenta propia.",
+          "B": "No, pues no resulta necesario para asegurar que el transporte se realiza a la temperatura exigida por el ATP.",
+          "C": "FNA."
+        },
+        "H": {
+          "A": "Sí, pues las normas del Acuerdo ATP se aplican al transporte interior, tanto al realizado por cuenta ajena como por cuenta propia.",
+          "B": "Sí.",
+          "C": "RNA."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，因为ATP协议的规则仅适用于国际运输。",
+          "B": "是的。",
+          "C": "RNA"
+        },
+        "B": {
+          "A": "不，因为ATP协议的规则不适用于他们自己的运输。",
+          "B": "是的。",
+          "C": "FNA"
+        },
+        "C": {
+          "A": "不，因为ATP协议的规则仅适用于国际运输。",
+          "B": "不，没有必要确保在适当的温度下进行运输。",
+          "C": "RNA"
+        },
+        "D": {
+          "A": "不，因为ATP协议的规则不适用于他们自己的运输。",
+          "B": "是的。",
+          "C": "RNA"
+        },
+        "E": {
+          "A": "不，因为ATP协议的规则仅适用于国际运输。",
+          "B": "不，没有必要确保在适当的温度下进行运输。",
+          "C": "FNA"
+        },
+        "F": {
+          "A": "不，因为ATP协议的规则不适用于他们自己的运输。",
+          "B": "不，没有必要确保在ATP要求的温度下进行运输。",
+          "C": "FNA"
+        },
+        "G": {
+          "A": "是的，因为ATP协议的规则适用于室内运输，无论是代表他人而自行执行的规则。",
+          "B": "不，没有必要确保在ATP要求的温度下进行运输。",
+          "C": "FNA"
+        },
+        "H": {
+          "A": "是的，因为ATP协议的规则适用于室内运输，无论是代表他人而自行执行的规则。",
+          "B": "是的。",
+          "C": "RNA"
+        }
+      }
+    },
+    {
+      "cod": "1G10001",
+      "pregunta": "Un ganadero dedicado a la cría y engorde de terneros dispone en propiedad de un camión jaula, de 5 toneladas de masa máxima autorizada, que dedica al traslado de sus propios animales.\nA fin de trasladar una partida de terneros desde su explotación al lugar de sacrificio, que se encuentra a 170 kilómetros, organiza el viaje con ese vehículo, recopilando la documentación veterinaria correspondiente. La duración estimada para este viaje es de dos horas y quince minutos.\nResponda a las siguientes cuestiones: ¿Está sujeto este transporte a la normativa comunitaria sobre transporte de animales vivos? En caso de estar sujeto, ¿tendría este desplazamiento el carácter de viaje largo?",
+      "pregunta_chino": "一个致力于犊牛繁殖和徘徊的农民在一辆笼子里，有5吨最大授权质量，专门用于转移自己的动物。\n为了将犊牛的结合从其剥削转移到170公里的牺牲地，用该车辆组织旅行，收集相应的兽医文件。这次旅行的估计持续时间为两个小时15分钟。\n回答以下问题：这项运输到社区运输中有关活动物的运输法规吗？如果是主题，这种位移会具有长长的旅行特征吗？",
+      "solucion": "C",
+      "norma": "Reglamento Comunitario (CE) 1/2005, art. 1; Reglamento Comunitario (CE) 1/2005, art. 2",
+      "norma_chino": "社区法规（CE）1/2005，艺术。 1;社区法规（CE）1/2005，艺术。 2",
+      "opciones": {
+        "A": {
+          "A": "Solo parcialmente, porque lo lleva a cabo un ganadero con su propio medio de transporte.",
+          "B": "No, porque no supera las ocho horas de duración."
+        },
+        "B": {
+          "A": "Sí, ya que se realiza sobre una distancia igual o superior a 100 kilómetros.",
+          "B": "No, porque no supera las ocho horas de duración."
+        },
+        "C": {
+          "A": "Sí, ya que se realiza sobre una distancia igual o superior a 50 kilómetros.",
+          "B": "No, porque no supera las ocho horas de duración."
+        },
+        "D": {
+          "A": "No, porque se realiza con un vehículo que no supera las cinco toneladas de masa máxima autorizada.",
+          "B": "No, porque no supera las ocho horas de duración."
+        },
+        "E": {
+          "A": "Solo parcialmente, porque lo lleva a cabo un ganadero con su propio medio de transporte.",
+          "B": "No, porque no supera las cuatro horas de duración."
+        },
+        "F": {
+          "A": "Sí, ya que se realiza sobre una distancia igual o superior a 100 kilómetros.",
+          "B": "No, porque no supera las cuatro horas de duración."
+        },
+        "G": {
+          "A": "Sí, ya que se realiza sobre una distancia igual o superior a 50 kilómetros.",
+          "B": "No, porque no supera las cuatro horas de duración."
+        },
+        "H": {
+          "A": "No, porque se realiza con un vehículo que no supera las cinco toneladas de masa máxima autorizada.",
+          "B": "No, porque no supera las cuatro horas de duración."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "只有部分，因为它是由一个拥有自己的运输方式的农民进行的。",
+          "B": "不，因为它不超过八个小时。"
+        },
+        "B": {
+          "A": "是的，由于它在等于或大于100公里的距离上进行。",
+          "B": "不，因为它不超过八个小时。"
+        },
+        "C": {
+          "A": "是的，由于它的距离等于或大于50公里。",
+          "B": "不，因为它不超过八个小时。"
+        },
+        "D": {
+          "A": "不，因为它是使用不超过五吨最大授权质量的车辆来完成的。",
+          "B": "不，因为它不超过八个小时。"
+        },
+        "E": {
+          "A": "只有部分，因为它是由一个拥有自己的运输方式的农民进行的。",
+          "B": "不，因为它不超过四个小时。"
+        },
+        "F": {
+          "A": "是的，由于它在等于或大于100公里的距离上进行。",
+          "B": "不，因为它不超过四个小时。"
+        },
+        "G": {
+          "A": "是的，由于它的距离等于或大于50公里。",
+          "B": "不，因为它不超过四个小时。"
+        },
+        "H": {
+          "A": "不，因为它是使用不超过五吨最大授权质量的车辆来完成的。",
+          "B": "不，因为它不超过四个小时。"
+        }
+      }
+    },
+    {
+      "cod": "1G10002",
+      "pregunta": "Un ganadero de Torrelavega, que es propietario de un semental de fama internacional, acuerda con un ganadero francés, cuya explotación se ubica en Nantes, la cesión temporal del semental.\nPara efectuar el traslado, utilizará un vehículo de su propiedad de 3,5 toneladas de masa máxima autorizada. El viaje lo organiza con una parada intermedia en Burdeos, a fin de asegurar el bienestar del animal y reducir su estrés. A tal efecto, será descargado del vehículo en este punto y albergado durante cuarenta y ocho horas en un establo donde recibirá alimentación y podrá descansar.\nResponda a las siguientes cuestiones: ¿Está sujeto este transporte a la normativa comunitaria sobre transporte de animales vivos? En caso de estar sujeto, ¿qué consideración recibiría la estancia en Burdeos?",
+      "pregunta_chino": "拥有国际种马的一位来自Torrelavega的农民同意一位法国农民的剥削，其剥削位于南特，是种马的时间分配。\n为了进行转移，您将使用3.5吨最大授权质量的财产的车辆。这次旅行在波尔多的中间停留，以确保动物的福利并减轻其压力。为此，此时将从车辆下载它，并在一个稳定的稳定中安装41个小时，您将收到食物并可以休息。\n回答以下问题：这项运输到社区运输中有关活动物的运输法规吗？如果是主题，那么在波尔多的住宿将获得什么考虑？",
+      "solucion": "D",
+      "norma": "Reglamento Comunitario (CE) 1/2005, art. 1; Reglamento Comunitario (CE) 1/2005, art. 2",
+      "norma_chino": "社区法规（CE）1/2005，艺术。 1;社区法规（CE）1/2005，艺术。 2",
+      "opciones": {
+        "A": {
+          "A": "No, porque se realiza con un vehículo que no supera las 3,5 toneladas de masa máxima autorizada y que, por tanto, no requiere autorización de transporte.",
+          "B": "Lugar de destino."
+        },
+        "B": {
+          "A": "Solo parcialmente, porque lo lleva a cabo un ganadero con su propio medio de transporte.",
+          "B": "Lugar de destino."
+        },
+        "C": {
+          "A": "Sí, ya que se trata de un transporte internacional.",
+          "B": "Lugar de destino."
+        },
+        "D": {
+          "A": "Sí, ya que se realiza sobre una distancia igual o superior a 50 kilómetros.",
+          "B": "Lugar de destino."
+        },
+        "E": {
+          "A": "No, porque se realiza con un vehículo que no supera las 3,5 toneladas de masa máxima autorizada y que, por tanto, no requiere autorización de transporte.",
+          "B": "Lugar de descanso."
+        },
+        "F": {
+          "A": "Solo parcialmente, porque lo lleva a cabo un ganadero con su propio medio de transporte.",
+          "B": "Lugar de descanso."
+        },
+        "G": {
+          "A": "Sí, ya que se trata de un transporte internacional.",
+          "B": "Lugar de descanso."
+        },
+        "H": {
+          "A": "Sí, ya que se realiza sobre una distancia igual o superior a 50 kilómetros.",
+          "B": "Lugar de descanso."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，因为它是使用不超过3.5吨最高授权质量的车辆进行的，因此不需要运输授权。",
+          "B": "目的地。"
+        },
+        "B": {
+          "A": "只有部分，因为它是由一个拥有自己的运输方式的农民进行的。",
+          "B": "目的地。"
+        },
+        "C": {
+          "A": "是的，因为这是国际运输工具。",
+          "B": "目的地。"
+        },
+        "D": {
+          "A": "是的，由于它的距离等于或大于50公里。",
+          "B": "目的地。"
+        },
+        "E": {
+          "A": "不，因为它是使用不超过3.5吨最高授权质量的车辆进行的，因此不需要运输授权。",
+          "B": "休息地。"
+        },
+        "F": {
+          "A": "只有部分，因为它是由一个拥有自己的运输方式的农民进行的。",
+          "B": "休息地。"
+        },
+        "G": {
+          "A": "是的，因为这是国际运输工具。",
+          "B": "休息地。"
+        },
+        "H": {
+          "A": "是的，由于它的距离等于或大于50公里。",
+          "B": "休息地。"
+        }
+      }
+    },
+    {
+      "cod": "1G10003",
+      "pregunta": "Un ganadero que ha comprado veinte cerdas de cría necesita efectuar el traslado de las mismas hasta su explotación, situada a 145 kilómetros. Para ello, contrata los servicios de un transportista especializado en el transporte de animales vivos.\nEntre los animales adquiridos se incluyen dos que han parido hace cinco y seis días respectivamente, por lo que el transportista pone reparos a su transporte, considerando que pueden no estar recuperadas para efectuar el viaje. No obstante, el ganadero insiste en cargarlas, argumentando que es un viaje de corta duración, si bien pide al transportista que las coloque en un compartimento separado del resto.\nDurante la operación de carga se aplica a algunos animales descargas eléctricas, dado que rehúsan moverse y están retrasando la partida del vehículo.\nResponda a las siguientes cuestiones: ¿Es correcto el transporte de las dos cerdas recién paridas? ¿Está permitida en este caso la aplicación de descargas eléctricas?",
+      "pregunta_chino": "一位购买了二十种繁殖母猪的农民需要将它们转移到145公里处的剥削。为此，他聘请了专门从事活动物运输的航空公司的服务。\n在被收购的动物中，分别是两天和六天前，因此，考虑到可能无法追回旅行，承运人对运输进行了维修。但是，农民坚持要加载它们，认为这是一次短期旅行，尽管它要求承运人将它们与其他人分开的隔间。\n在负载操作期间，将电气排放量用于某些动物，因为它们拒绝移动并延迟车辆的游戏。\n回答以下问题：两个新鲜刺的运输是正确的吗？在这种情况下，是否允许使用电气放电？",
+      "solucion": "A",
+      "norma": "Reglamento Comunitario (CE) 1/2005, Anexo I; Reglamento Comunitario (CE) 1/2005, art. 1",
+      "norma_chino": "社区法规（CE）1/2005，附件I；社区法规（CE）1/2005，艺术。 1",
+      "opciones": {
+        "A": {
+          "A": "No, las hembras que hayan parido en la semana anterior no se consideran aptas para el transporte.",
+          "B": "Sí, se permite aplicar descargas a animales adultos de las especies bovina y porcina que rehúsen moverse."
+        },
+        "B": {
+          "A": "No, las hembras que hayan parido en los últimos quince días no se consideran aptas para el transporte.",
+          "B": "Sí, se permite aplicar descargas a animales adultos de las especies bovina y porcina que rehúsen moverse."
+        },
+        "C": {
+          "A": "Sí, dado que se ubican en un compartimento separado.",
+          "B": "Sí, se permite aplicar descargas a animales adultos de las especies bovina y porcina que rehúsen moverse."
+        },
+        "D": {
+          "A": "Sí, dado que el recorrido no supera 150 kilómetros y se ubican en un compartimento separado.",
+          "B": "Sí, se permite aplicar descargas a animales adultos de las especies bovina y porcina que rehúsen moverse."
+        },
+        "E": {
+          "A": "No, las hembras que hayan parido en la semana anterior no se consideran aptas para el transporte.",
+          "B": "No, las descargas eléctricas están prohibidas en todos los supuestos."
+        },
+        "F": {
+          "A": "No, las hembras que hayan parido en los últimos quince días no se consideran aptas para el transporte.",
+          "B": "No, las descargas eléctricas están prohibidas en todos los supuestos."
+        },
+        "G": {
+          "A": "Sí, dado que se ubican en un compartimento separado.",
+          "B": "No, las descargas eléctricas están prohibidas en todos los supuestos."
+        },
+        "H": {
+          "A": "Sí, dado que el recorrido no supera 150 kilómetros y se ubican en un compartimento separado.",
+          "B": "No, las descargas eléctricas están prohibidas en todos los supuestos."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，上周生育的女性不适合运输。",
+          "B": "是的，允许将拒绝移动的牛和猪物种的成年动物排放。"
+        },
+        "B": {
+          "A": "不，在过去的十五天内分娩的女性不适合运输。",
+          "B": "是的，允许将拒绝移动的牛和猪物种的成年动物排放。"
+        },
+        "C": {
+          "A": "是的，因为它们位于单独的隔间中。",
+          "B": "是的，允许将拒绝移动的牛和猪物种的成年动物排放。"
+        },
+        "D": {
+          "A": "是的，由于该路线不超过150公里，并且位于单独的隔间中。",
+          "B": "是的，允许将拒绝移动的牛和猪物种的成年动物排放。"
+        },
+        "E": {
+          "A": "不，上周生育的女性不适合运输。",
+          "B": "不，在所有情况下都禁止电气放电。"
+        },
+        "F": {
+          "A": "不，在过去的十五天内分娩的女性不适合运输。",
+          "B": "不，在所有情况下都禁止电气放电。"
+        },
+        "G": {
+          "A": "是的，因为它们位于单独的隔间中。",
+          "B": "不，在所有情况下都禁止电气放电。"
+        },
+        "H": {
+          "A": "是的，由于该路线不超过150公里，并且位于单独的隔间中。",
+          "B": "不，在所有情况下都禁止电气放电。"
+        }
+      }
+    },
+    {
+      "cod": "1G10004",
+      "pregunta": "Un ganadero compra en una feria una partida de animales adultos de la especie ovina, tanto hembras como machos, y contrata los servicios de un transportista especializado en el transporte de animales vivos para efectuar el traslado de los mismos hasta su explotación, situada a 95 kilómetros.\nEl transportista pone reparos al transporte mezclado de machos y hembras. No obstante, por falta de espacio y para evitar tener que realizar dos viajes, el ganadero insiste en cargarlos juntos, argumentando que es un viaje de corta duración.\nDurante la operación de carga se utilizan instrumentos de pincho para conseguir que los animales se muevan con más rapidez, reduciendo el tiempo empleado, aunque ningún animal se resiste a moverse.\nResponda a las siguientes cuestiones: ¿Es correcto el transporte de todos los animales mezclados? ¿Está permitido en este caso el uso de pinchos?",
+      "pregunta_chino": "一个农民在一个公平的羊皮动物和雄性的成年动物中购买，并雇用专门运输活体动物的载体的服务，直到剥削95公里。\n承运人对男性和女性的混合运输进行了维修。但是，由于缺乏空间并避免不得不进行两次旅行，农民坚持将它们加载在一起，认为这是短途旅行。\n在负载操作过程中，串仪器用于使动物移动更快，减少了所花费的时间，尽管没有动物抵抗动物移动。\n回答以下问题：所有混合动物的运输是否正确？在这种情况下，是否允许使用串。",
+      "solucion": "F",
+      "norma": "Reglamento Comunitario (CE) 1/2005, Anexo I; Reglamento Comunitario (CE) 1/2005, art. 1",
+      "norma_chino": "社区法规（CE）1/2005，附件I；社区法规（CE）1/2005，艺术。 1",
+      "opciones": {
+        "A": {
+          "A": "Sí, se puede hacer en el caso de animales de la especie ovina.",
+          "B": "No, su uso está prohibido, salvo para las especies bobina y porcina."
+        },
+        "B": {
+          "A": "Sí, se puede hacer en el caso de animales de la especie ovina.",
+          "B": "No, su uso está prohibido salvo con animales que rehúsen moverse, circunstancia que no se da en este caso."
+        },
+        "C": {
+          "A": "Sí, se puede hacer en el caso de animales de la especie ovina y para recorridos inferiores a 100 kilómetros.",
+          "B": "No, su uso está prohibido en todos los casos."
+        },
+        "D": {
+          "A": "Sí, se puede hacer en el caso de animales de la especie ovina y para recorridos inferiores a 100 kilómetros.",
+          "B": "No, su uso está prohibido, salvo para las especies bobina y porcina."
+        },
+        "E": {
+          "A": "Sí, se puede hacer en el caso de animales de la especie ovina y para recorridos inferiores a 100 kilómetros.",
+          "B": "No, su uso está prohibido, salvo con animales que rehúsen moverse, circunstancia que no se da en este caso."
+        },
+        "F": {
+          "A": "No, en el caso de animales adultos, machos y hembras deben transportarse de modo separado.",
+          "B": "No, su uso está prohibido en todos los casos."
+        },
+        "G": {
+          "A": "No, en el caso de animales adultos, machos y hembras deben transportarse de modo separado.",
+          "B": "No, su uso está prohibido, salvo para las especies bobina y porcina."
+        },
+        "H": {
+          "A": "No, en el caso de animales adultos, machos y hembras deben transportarse de modo separado.",
+          "B": "No, su uso está prohibido, salvo con animales que rehúsen moverse, circunstancia que no se da en este caso."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，可以在绵羊物种的动物中完成。",
+          "B": "不，除了线圈和猪种以外，禁止​​其使用。"
+        },
+        "B": {
+          "A": "是的，可以在绵羊物种的动物中完成。",
+          "B": "不，除了拒绝移动的动物外，它被禁止使用，这种情况在这种情况下不会发生。"
+        },
+        "C": {
+          "A": "是的，这可以在绵羊物种的动物和小于100公里的路线中进行。",
+          "B": "不，在所有情况下都禁止其使用。"
+        },
+        "D": {
+          "A": "是的，这可以在绵羊物种的动物和小于100公里的路线中进行。",
+          "B": "不，除了线圈和猪种以外，禁止​​其使用。"
+        },
+        "E": {
+          "A": "是的，这可以在绵羊物种的动物和小于100公里的路线中进行。",
+          "B": "不，除了拒绝移动的动物外，它的使用是禁止的，在这种情况下不会发生这种情况。"
+        },
+        "F": {
+          "A": "不，对于成年动物，雄性和女性，必须分别运输。",
+          "B": "不，在所有情况下都禁止其使用。"
+        },
+        "G": {
+          "A": "不，对于成年动物，雄性和女性，必须分别运输。",
+          "B": "不，除了线圈和猪种以外，禁止​​其使用。"
+        },
+        "H": {
+          "A": "不，对于成年动物，雄性和女性，必须分别运输。",
+          "B": "不，除了拒绝移动的动物外，它的使用是禁止的，在这种情况下不会发生这种情况。"
+        }
+      }
+    },
+    {
+      "cod": "1G10005",
+      "pregunta": "El responsable de una instalación de cría de caballos vende tres ejemplares, asumiendo la organización del transporte de los animales. A tal efecto, contrata a un transportista que cuenta con autorización de tipo 2 y vehículos debidamente acondicionados.\nSegún se determina en la preparación, el viaje, que no es de carácter internacional, tendrá una duración de diez horas.\nResponda a las siguientes cuestiones: ¿Es válida la autorización del transportista para realizar este servicio? ¿Debe contar el vehículo que se va a utilizar con alguna autorización específica?",
+      "pregunta_chino": "假设组织动物运输的组织，负责马匹育种装置的人出售三个标本。为此，它聘请了拥有2型授权和适当条件车辆的航空母舰。\n正如准备工作中确定的那样，不是国际的旅行将持续十个小时。\n回答以下问题：运营商执行此服务的运输是否有效？应使用任何特定授权计数的车辆吗？",
+      "solucion": "G",
+      "norma": "RD 990/2022, art. 5; RD 990/2022, art. 6",
+      "norma_chino": "RD 990/2022，艺术。 5; RD 990/2022，艺术。 6",
+      "opciones": {
+        "A": {
+          "A": "No, se necesita autorización de tipo 1.",
+          "B": "No, la autorización del transportista implica también la autorización de sus vehículos."
+        },
+        "B": {
+          "A": "No, se necesita autorización de tipo 1.",
+          "B": "Sí, autorización para viajes de hasta doce horas de duración o autorización para viajes de más de ocho horas."
+        },
+        "C": {
+          "A": "No, se necesita autorización de tipo 3.",
+          "B": "No, la autorización del transportista implica también la autorización de sus vehículos."
+        },
+        "D": {
+          "A": "No, se necesita autorización de tipo 3.",
+          "B": "Sí, autorización para viajes de hasta doce horas de duración o autorización para viajes de más de ocho horas."
+        },
+        "E": {
+          "A": "No, se necesita autorización de tipo 3.",
+          "B": "Sí, autorización para viajes de más de ocho horas; no se expide ningún tipo de autorización que sea para viajes de hasta doce horas."
+        },
+        "F": {
+          "A": "Sí, es la autorización necesaria para viajes de más de ocho horas de duración.",
+          "B": "No, la autorización del transportista implica también la autorización de sus vehículos."
+        },
+        "G": {
+          "A": "Sí, es la autorización necesaria para viajes de más de ocho horas de duración.",
+          "B": "Sí, autorización para viajes de hasta doce horas de duración o autorización para viajes de más de ocho horas."
+        },
+        "H": {
+          "A": "Sí, es la autorización necesaria para viajes de más de ocho horas de duración.",
+          "B": "Sí, autorización para viajes de más de ocho horas; no se expide ningún tipo de autorización que sea para viajes de hasta doce horas."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，需要类型1授权。",
+          "B": "不，承运人的授权也意味着其车辆的授权。"
+        },
+        "B": {
+          "A": "不，需要类型1授权。",
+          "B": "是的，授权旅行长达12个小时，或授权到八个多小时的旅行。"
+        },
+        "C": {
+          "A": "不，需要3型授权。",
+          "B": "不，承运人的授权也意味着其车辆的授权。"
+        },
+        "D": {
+          "A": "不，需要3型授权。",
+          "B": "是的，授权旅行长达12个小时，或授权到八个多小时的旅行。"
+        },
+        "E": {
+          "A": "不，需要3型授权。",
+          "B": "是的，授权超过八个小时；没有授权进行长达12个小时的旅行授权。"
+        },
+        "F": {
+          "A": "是的，这是八个多小时的旅行必要授权。",
+          "B": "不，承运人的授权也意味着其车辆的授权。"
+        },
+        "G": {
+          "A": "是的，这是八个多小时的旅行必要授权。",
+          "B": "是的，授权旅行长达12个小时，或授权到八个多小时的旅行。"
+        },
+        "H": {
+          "A": "是的，这是八个多小时的旅行必要授权。",
+          "B": "是的，授权超过八个小时；没有授权进行长达12个小时的旅行授权。"
+        }
+      }
+    },
+    {
+      "cod": "1G10006",
+      "pregunta": "El titular de una granja situada en Calatayud, dedicada a la producción de leche de vaca, compra en Francia cinco vacas, siendo de su cuenta la organización del transporte de los animales a España. A tal efecto, contrata a un transportista que cuenta con vehículos, debidamente acondicionados y autorizados, y con autorización como transportista de tipo 2, expedida hace dos años y medio.\nSegún se determina en la preparación, el viaje tendrá una duración de once horas.\nResponda a las siguientes cuestiones: ¿Es válida la autorización del transportista para realizar este servicio? ¿Debe preparar el organizador cuaderno de a bordo para este transporte?",
+      "pregunta_chino": "位于卡拉塔尤德（Calatayud）的一个农场的负责人致力于生产牛奶，在法国购买了五头牛，是将动物运输到西班牙的组织。为此，它聘请了一家拥有经过适当条件和授权的车辆，并以2型承运人的授权，两年半前发行。\n正如准备工作中确定的那样，旅行将持续11个小时。\n回答以下问题：运营商执行此服务的运输是否有效？板上笔记本组织者是否应该为这种运输做准备？",
+      "solucion": "E",
+      "norma": "Reglamento Comunitario (CE) 1/2005, art. 5; RD 990/2022, art. 5; RD 990/2022, art. 8",
+      "norma_chino": "社区法规（CE）1/2005，艺术。 5; RD 990/2022，艺术。 5; RD 990/2022，艺术。 8",
+      "opciones": {
+        "A": {
+          "A": "No, pues la autorización no se encuentra en vigor, ya que ha sido expedida hace más de dos años.",
+          "B": "Sí, dado que se trata de un transporte internacional."
+        },
+        "B": {
+          "A": "No, pues la autorización no se encuentra en vigor, ya que ha sido expedida hace más de dos años.",
+          "B": "Sí, dado que se trata de un transporte con duración superior a ocho horas."
+        },
+        "C": {
+          "A": "No, pues la autorización no se encuentra en vigor, ya que ha sido expedida hace más de dos años.",
+          "B": "No, dado que se trata de un transporte con duración inferior a doce horas."
+        },
+        "D": {
+          "A": "No, pues la autorización no se encuentra en vigor, ya que ha sido expedida hace más de dos años.",
+          "B": "No, dado que, aunque se trata de un transporte internacional, se efectúa entre Estados miembros de la Unión Europea."
+        },
+        "E": {
+          "A": "Sí, es la autorización necesaria para viajes de más de ocho horas de duración y se encuentra en vigor, pues ha sido expedida hace menos de cinco años.",
+          "B": "Sí, dado que se trata de un transporte internacional."
+        },
+        "F": {
+          "A": "Sí, es la autorización necesaria para viajes de más de ocho horas de duración y se encuentra en vigor, pues ha sido expedida hace menos de cinco años.",
+          "B": "Sí, dado que se trata de un transporte con duración superior a ocho horas."
+        },
+        "G": {
+          "A": "Sí, es la autorización necesaria para viajes de más de ocho horas de duración y se encuentra en vigor, pues ha sido expedida hace menos de cinco años.",
+          "B": "No, dado que se trata de un transporte con duración inferior a doce horas."
+        },
+        "H": {
+          "A": "Sí, es la autorización necesaria para viajes de más de ocho horas de duración y se encuentra en vigor, pues ha sido expedida hace menos de cinco años.",
+          "B": "No, dado que, aunque se trata de un transporte internacional, se efectúa entre Estados miembros de la Unión Europea."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，因为该授权没有生效，因为它已于两年多前发布。",
+          "B": "是的，因为这是国际运输工具。"
+        },
+        "B": {
+          "A": "不，因为该授权没有生效，因为它已于两年多前发布。",
+          "B": "是的，因为这是一辆超过八个小时的运输工具。"
+        },
+        "C": {
+          "A": "不，因为该授权没有生效，因为它已于两年多前发布。",
+          "B": "不，因为它是一辆持续时间不到十二个小时的运输工具。"
+        },
+        "D": {
+          "A": "不，因为该授权没有生效，因为它已于两年多前发布。",
+          "B": "不，因为尽管它是国际运输，但它是在欧盟成员国之间建立的。"
+        },
+        "E": {
+          "A": "是的，这是八个多小时以上的旅行的必要授权，并且已有生效，因为它已于五年前发布。",
+          "B": "是的，因为这是国际运输工具。"
+        },
+        "F": {
+          "A": "是的，这是八个多小时以上的旅行的必要授权，并且已有生效，因为它已于五年前发布。",
+          "B": "是的，因为这是一辆超过八个小时的运输工具。"
+        },
+        "G": {
+          "A": "是的，这是八个多小时以上的旅行的必要授权，并且已有生效，因为它已于五年前发布。",
+          "B": "不，因为它是一辆持续时间不到十二个小时的运输工具。"
+        },
+        "H": {
+          "A": "是的，这是八个多小时以上的旅行的必要授权，并且已有生效，因为它已于五年前发布。",
+          "B": "不，因为尽管它是国际运输，但它是在欧盟成员国之间建立的。"
+        }
+      }
+    },
+    {
+      "cod": "1G10007",
+      "pregunta": "Un transportista especializado en el transporte de animales vivos es contratado para llevar a cabo el transporte de un centenar de cerdas de cría desde Villarreal hasta Oporto (Portugal).\nPara asegurar su mejor realización, lo asigna a un conductor con formación en la materia y que cuenta con certificado de competencia en el manejo de animales. No obstante, al llegar el vehículo a la granja para recoger a los animales, el ganadero rechaza efectuar su carga tras saber que el vehículo no cuenta con un sistema de navegación por satélite.\nEl vehículo puesto a disposición por el transportista fue matriculado en diciembre de 2006.\nSegún prevé el organizador de este transporte, el viaje tendrá una duración de catorce horas.\nResponda a las siguientes cuestiones: ¿Es necesario que el conductor de este transporte disponga de certificado de competencia? ¿Está justificada la negativa del ganadero a permitir el transporte en ese vehículo?",
+      "pregunta_chino": "雇用专门从事活动物运输的载体来运输一百种繁殖母猪从比利亚雷亚尔到波尔图（葡萄牙）。\n为了确保其最佳实现，它将其分配给接受该领域培训的驾驶员，并具有动物管理能力证书。但是，当车辆到达农场捡起动物时，农民知道车辆没有卫星导航系统后拒绝承担负载。\n2006年12月，该车辆提供给航母的车辆。\n根据这辆运输的组织者的说法，这次旅行将持续14个小时。\n回答以下问题：该运输驾驶员是否有必要拥有竞赛证书？农民拒绝允许该车辆的运输是合理的吗？",
+      "solucion": "B",
+      "norma": "Reglamento Comunitario (CE) 1/2005, art. 6; RD 990/2022, art. 9",
+      "norma_chino": "社区法规（CE）1/2005，艺术。 6; RD 990/2022，艺术。 9",
+      "opciones": {
+        "A": {
+          "A": "Sí, es necesario para el transporte de animales vivos de cualquier especie.",
+          "B": "Sí, porque se trata de un transporte con duración superior a doce horas."
+        },
+        "B": {
+          "A": "Sí, es necesario para el transporte de animales de la especie porcina, entre otras.",
+          "B": "Sí, porque se trata de un transporte con duración superior a doce horas."
+        },
+        "C": {
+          "A": "Sí, es necesario por tratarse de un viaje internacional.",
+          "B": "Sí, porque se trata de un transporte con duración superior a doce horas."
+        },
+        "D": {
+          "A": "No, solo es necesario para el transporte de animales de las especies equina y bobina.",
+          "B": "Sí, porque se trata de un transporte con duración superior a doce horas."
+        },
+        "E": {
+          "A": "Sí, es necesario para el transporte de animales vivos de cualquier especie.",
+          "B": "No, porque, aunque se trata de un transporte con duración superior a doce horas, el vehículo queda exento de contar con este dispositivo al haber sido matriculado antes de 2007."
+        },
+        "F": {
+          "A": "Sí, es necesario para el transporte de animales de la especie porcina, entre otras.",
+          "B": "No, porque, aunque se trata de un transporte con duración superior a doce horas, el vehículo queda exento de contar con este dispositivo al haber sido matriculado antes de 2007."
+        },
+        "G": {
+          "A": "Sí, es necesario por tratarse de un viaje internacional.",
+          "B": "No, porque, aunque se trata de un transporte con duración superior a doce horas, el vehículo queda exento de contar con este dispositivo al haber sido matriculado antes de 2007."
+        },
+        "H": {
+          "A": "No, solo es necesario para el transporte de animales de las especies equina y bobina.",
+          "B": "No, porque, aunque se trata de un transporte con duración superior a doce horas, el vehículo queda exento de contar con este dispositivo al haber sido matriculado antes de 2007."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，有必要运输任何物种的活动物。",
+          "B": "是的，因为这是十二个小时的运输工具。"
+        },
+        "B": {
+          "A": "是的，有必要运输猪的动物。",
+          "B": "是的，因为这是十二个小时的运输工具。"
+        },
+        "C": {
+          "A": "是的，这是必要的，因为这是一次国际旅行。",
+          "B": "是的，因为这是十二个小时的运输工具。"
+        },
+        "D": {
+          "A": "不，仅需要运输马和线圈物种的动物。",
+          "B": "是的，因为这是十二个小时的运输工具。"
+        },
+        "E": {
+          "A": "是的，有必要运输任何物种的活动物。",
+          "B": "不，因为尽管这是十二个小时以上的运输，但该车辆通过在2007年之前被注册而免于拥有该设备。"
+        },
+        "F": {
+          "A": "是的，有必要运输猪的动物。",
+          "B": "不，因为尽管这是十二个小时以上的运输，但该车辆通过在2007年之前被注册而免于拥有该设备。"
+        },
+        "G": {
+          "A": "是的，这是必要的，因为这是一次国际旅行。",
+          "B": "不，因为尽管这是十二个小时以上的运输，但该车辆通过在2007年之前被注册而免于拥有该设备。"
+        },
+        "H": {
+          "A": "不，仅需要运输马和线圈物种的动物。",
+          "B": "不，因为尽管这是十二个小时以上的运输，但该车辆通过在2007年之前被注册而免于拥有该设备。"
+        }
+      }
+    }
+  ]
+}

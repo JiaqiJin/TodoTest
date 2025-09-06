@@ -1,0 +1,4698 @@
+{
+  "tema": "pm2b",
+  "preguntas": [
+    {
+      "cod": "2G01001",
+      "pregunta": "¿Cómo se denomina a la masa del vehículo en vacío con su dotación completa de agua, combustible, lubricante, accesorios y utensilios reglamentarios de uso normal?",
+      "pregunta_chino": "用水，燃料，润滑剂，配件和调节器用具正常使用的真空中的车辆质量是多少？",
+      "solucion": "A",
+      "norma": "RD 2822/1998, Anexo IX.1",
+      "opciones": {
+        "A": "Tara.",
+        "B": "Masa de servicio.",
+        "C": "Masa Máxima Autorizada.",
+        "D": "Masa técnica máxima admisible."
+      },
+      "opciones_chino": {
+        "A": "皮。",
+        "B": "服务质量",
+        "C": "最大授权质量。",
+        "D": "最大可允许的技术质量。"
+      }
+    },
+    {
+      "cod": "2G01002",
+      "pregunta": "¿Cómo se denomina a la masa efectiva del vehículo y de su carga, incluida la masa del personal de servicio y de los pasajeros?",
+      "pregunta_chino": "车辆及其负载的有效质量是什么，包括服务人员和乘客的质量？",
+      "solucion": "D",
+      "norma": "RD 2822/1998, Anexo IX.1",
+      "opciones": {
+        "A": "Masa en orden de marcha.",
+        "B": "Masa por eje.",
+        "C": "Masa Máxima Autorizada.",
+        "D": "Masa en carga."
+      },
+      "opciones_chino": {
+        "A": "三月命令。",
+        "B": "轴质量。",
+        "C": "最大授权质量。",
+        "D": "负载质量。"
+      }
+    },
+    {
+      "cod": "2G01003",
+      "pregunta": "¿Cómo se denomina a la masa que gravita sobre el suelo, transmitida por la totalidad de las ruedas acopladas a ese eje?",
+      "pregunta_chino": "所有的车轮均连接到该轴的车轮在地面上引诱的质量所谓的质量是什么？",
+      "solucion": "B",
+      "norma": "RD 2822/1998, Anexo IX.1",
+      "opciones": {
+        "A": "Tara.",
+        "B": "Masa por eje.",
+        "C": "Masa máxima técnica autorizada.",
+        "D": "MMR (Masa Máxima Remolcada)."
+      },
+      "opciones_chino": {
+        "A": "皮。",
+        "B": "轴质量。",
+        "C": "最大授权技术质量。",
+        "D": "MMR（最大牵引质量）。"
+      }
+    },
+    {
+      "cod": "2G01004",
+      "pregunta": "No se permite la circulación de vehículos o conjuntos de vehículos en los que la masa soportada por el eje motor o los eje motores sea inferior al:",
+      "pregunta_chino": "不允许车辆或车辆套装的循环，其中电动轴支撑的质量或电动轴低于：",
+      "solucion": "C",
+      "norma": "RD 2822/1998, Anexo IX.2",
+      "opciones": {
+        "A": "50 % de la masa total en carga.",
+        "B": "35 % de la masa total en carga.",
+        "C": "25 % de la masa total en carga.",
+        "D": "20 % de la masa total en carga."
+      },
+      "opciones_chino": {
+        "A": "负载总质量的50％。",
+        "B": "负载总质量的35％。",
+        "C": "负载总质量的25％。",
+        "D": "负载总质量的20％。"
+      }
+    },
+    {
+      "cod": "2G01005",
+      "pregunta": "Todo vehículo a motor o conjunto de vehículos deberá poder describir una trayectoria circular completa de 360 grados cuyos radios, exterior e interior, sean respectivamente de:",
+      "pregunta_chino": "每个机动车辆或车辆套件都应能够描述360度的完整圆形轨迹，其外部和内部的收音机分别为：",
+      "solucion": "B",
+      "norma": "RD 2822/1998, Anexo IX.3",
+      "opciones": {
+        "A": "5,3 metros y 12,5 metros.",
+        "B": "12,5 metros y 5,3 metros.",
+        "C": "20 metros y 5 metros.",
+        "D": "10 metros y 10 metros."
+      },
+      "opciones_chino": {
+        "A": "5.3米和12.5米。",
+        "B": "12.5米和5.3米。",
+        "C": "20米和5米。",
+        "D": "10米和10米。"
+      }
+    },
+    {
+      "cod": "2G01006",
+      "pregunta": "Un vehículo de tres ejes que utilice combustible alternativo puede incrementar su MMA, debido al peso adicional requerido por la tecnología de combustible, hasta un máximo de …",
+      "pregunta_chino": "使用替代燃料的三轴车辆可以增加其MMA，这是由于燃料技术所需的额外重量，最多可达...",
+      "solucion": "A",
+      "norma": "RD 2822/1998, Anexo IX.2",
+      "opciones": {
+        "A": "1 Tm.",
+        "B": "1,5 Tm.",
+        "C": "2 Tm.",
+        "D": "2,5 Tm."
+      },
+      "opciones_chino": {
+        "A": "1 TM。",
+        "B": "1.5 tm。",
+        "C": "2 TM。",
+        "D": "2.5 TM。"
+      }
+    },
+    {
+      "cod": "2G01007",
+      "pregunta": "¿Cuál podrá ser la Masa Máxima Autorizada para autobuses articulados de tres ejes?",
+      "pregunta_chino": "三轴铰接的公共汽车的最大授权质量是什么？",
+      "solucion": "C",
+      "norma": "RD 2822/1998, Anexo IX.2",
+      "opciones": {
+        "A": "30 toneladas.",
+        "B": "26 toneladas.",
+        "C": "28 toneladas.",
+        "D": "24 toneladas."
+      },
+      "opciones_chino": {
+        "A": "30吨。",
+        "B": "26吨。",
+        "C": "28吨。",
+        "D": "24吨。"
+      }
+    },
+    {
+      "cod": "2G01008",
+      "pregunta": "¿Cuál podrá ser la Masa Máxima Autorizada para autobuses de la clase I (autobuses urbanos) de dos ejes?",
+      "pregunta_chino": "两个轴I级公交车（Urban Bus）的最大授权质量是什么？",
+      "solucion": "C",
+      "norma": "RD 2822/1998, Anexo IX.2",
+      "opciones": {
+        "A": "24 toneladas.",
+        "B": "22 toneladas.",
+        "C": "20 toneladas.",
+        "D": "18 toneladas."
+      },
+      "opciones_chino": {
+        "A": "24吨。",
+        "B": "22吨。",
+        "C": "20吨。",
+        "D": "18吨。"
+      }
+    },
+    {
+      "cod": "2G01009",
+      "pregunta": "¿Cuál podrá ser la Masa Máxima Autorizada para el eje motor en los autobuses de la clase I (autobuses urbanos)?",
+      "pregunta_chino": "在I级公交车（Urban Bus）上，电动轴的最大授权质量是什么？",
+      "solucion": "A",
+      "norma": "RD 2822/1998, Anexo IX.1",
+      "opciones": {
+        "A": "13 toneladas.",
+        "B": "12 toneladas.",
+        "C": "11,5 toneladas.",
+        "D": "10 toneladas."
+      },
+      "opciones_chino": {
+        "A": "13吨。",
+        "B": "12吨。",
+        "C": "11.5吨。",
+        "D": "10吨。"
+      }
+    },
+    {
+      "cod": "2G01010",
+      "pregunta": "¿Cuál será la altura máxima autorizada para autobuses interurbanos?",
+      "pregunta_chino": "城市间巴士的最高授权高度是多少？",
+      "solucion": "D",
+      "norma": "RD 2822/1998, Anexo IX.3",
+      "opciones": {
+        "A": "5 metros.",
+        "B": "4,85 metros.",
+        "C": "4,50 metros.",
+        "D": "4 metros."
+      },
+      "opciones_chino": {
+        "A": "5米。",
+        "B": "4.85米。",
+        "C": "4.50米。",
+        "D": "4米。"
+      }
+    },
+    {
+      "cod": "2G01011",
+      "pregunta": "¿Cuál será la altura máxima autorizada para autobuses urbanos?",
+      "pregunta_chino": "城市巴士的最高授权高度是多少？",
+      "solucion": "C",
+      "norma": "RD 2822/1998, Anexo IX.3",
+      "opciones": {
+        "A": "4,50 metros.",
+        "B": "4,30 metros.",
+        "C": "4,20 metros.",
+        "D": "4 metros."
+      },
+      "opciones_chino": {
+        "A": "4.50米。",
+        "B": "4.30米。",
+        "C": "4.20米。",
+        "D": "4米。"
+      }
+    },
+    {
+      "cod": "2G01012",
+      "pregunta": "¿Cuál será la anchura máxima autorizada de autobuses especialmente acondicionados para el traslado de presos?",
+      "pregunta_chino": "专门为囚犯转让的最大授权广播宽度是什么？",
+      "solucion": "B",
+      "norma": "RD 2822/1998, Anexo IX.3",
+      "opciones": {
+        "A": "2,70 metros.",
+        "B": "2,60 metros.",
+        "C": "2,55 metros.",
+        "D": "2,50 metros."
+      },
+      "opciones_chino": {
+        "A": "2.70米。",
+        "B": "2.60米。",
+        "C": "2.55米。",
+        "D": "2.50米。"
+      }
+    },
+    {
+      "cod": "2G01013",
+      "pregunta": "¿Cuál será la longitud máxima autorizada para autobuses con remolque?",
+      "pregunta_chino": "公交车的最大授权长度是多少？",
+      "solucion": "B",
+      "norma": "RD 2822/1998, Anexo IX.3",
+      "opciones": {
+        "A": "20,50 metros de longitud.",
+        "B": "18,75 metros de longitud.",
+        "C": "16,50 metros de longitud.",
+        "D": "15 metros de longitud."
+      },
+      "opciones_chino": {
+        "A": "20.50米长。",
+        "B": "长18.75米。",
+        "C": "16.50米长。",
+        "D": "长15米。"
+      }
+    },
+    {
+      "cod": "2G01014",
+      "pregunta": "¿Cuál será la longitud máxima autorizada para un autobús articulado?",
+      "pregunta_chino": "铰接式巴士的最大授权长度是多少？",
+      "solucion": "B",
+      "norma": "RD 2822/1998, Anexo IX.3",
+      "opciones": {
+        "A": "20,55 metros.",
+        "B": "18,75 metros.",
+        "C": "16,50 metros.",
+        "D": "15 metros."
+      },
+      "opciones_chino": {
+        "A": "20.55米。",
+        "B": "18.75米。",
+        "C": "16.50米。",
+        "D": "15米。"
+      }
+    },
+    {
+      "cod": "2G01015",
+      "pregunta": "¿Cuál será la longitud máxima autorizada para un autobús rígido de dos ejes?",
+      "pregunta_chino": "刚性两轴总线的最大授权长度是多少？",
+      "solucion": "A",
+      "norma": "RD 2822/1998, Anexo IX.3",
+      "opciones": {
+        "A": "13,50 metros.",
+        "B": "13 metros.",
+        "C": "12,50 metros.",
+        "D": "12 metros."
+      },
+      "opciones_chino": {
+        "A": "13.50米。",
+        "B": "13米。",
+        "C": "12.50米。",
+        "D": "12米。"
+      }
+    },
+    {
+      "cod": "2G01016",
+      "pregunta": "¿Cuál será la longitud máxima autorizada para un autobús rígido de más de dos ejes?",
+      "pregunta_chino": "超过两个轴的刚性总线的最大授权长度是多少？",
+      "solucion": "A",
+      "norma": "RD 2822/1998, Anexo IX.3",
+      "opciones": {
+        "A": "15 metros.",
+        "B": "13,50 metros.",
+        "C": "13 metros.",
+        "D": "12 metros."
+      },
+      "opciones_chino": {
+        "A": "15米。",
+        "B": "13.50米。",
+        "C": "13米。",
+        "D": "12米。"
+      }
+    },
+    {
+      "cod": "2G01017",
+      "pregunta": "¿Cuál podrá ser la Masa Máxima Autorizada para un autobús articulado de tres ejes que use combustible alternativo?",
+      "pregunta_chino": "使用替代燃料的三轴公共汽车的最高授权质量是什么？",
+      "solucion": "A",
+      "norma": "RD 2822/1998, Anexo IX.2",
+      "opciones": {
+        "A": "29 toneladas.",
+        "B": "28 toneladas.",
+        "C": "26 toneladas.",
+        "D": "24 toneladas."
+      },
+      "opciones_chino": {
+        "A": "29吨。",
+        "B": "28吨。",
+        "C": "26吨。",
+        "D": "24吨。"
+      }
+    },
+    {
+      "cod": "2G01018",
+      "pregunta": "¿Puede circular un vehículo que excede las masas y dimensiones máximas establecidas reglamentariamente?",
+      "pregunta_chino": "车辆可以超过法规确定的最大质量和尺寸吗？",
+      "solucion": "A",
+      "norma": "RD 2822/1998, art. 14",
+      "opciones": {
+        "A": "No, en ningún caso.",
+        "B": "Sí, si circula por autopistas o autovías.",
+        "C": "Sí, siempre que pase la ITV.",
+        "D": "Sí, si así se especifica en la autorización de transporte."
+      },
+      "opciones_chino": {
+        "A": "不，在没有情况下。",
+        "B": "是的，如果您在高速公路或高速公路上循环。",
+        "C": "是的，每当ITV通过。",
+        "D": "是的，如果在运输授权中指定。"
+      }
+    },
+    {
+      "cod": "2G01019",
+      "pregunta": "¿Qué es la MMTA o Masa Máxima Técnicamente Admisible?",
+      "pregunta_chino": "什么是MMTA或最大在技术上可以接受的质量？",
+      "solucion": "A",
+      "norma": "RD 2822/1998, Anexo IX.1",
+      "opciones": {
+        "A": "La masa máxima del vehículo basada en su construcción y especificada por el fabricante.",
+        "B": "La masa del vehículo en vacío con su dotación completa y de uso normal.",
+        "C": "La máxima masa total con el que se permite la circulación del vehículo.",
+        "D": "La masa máxima remolcable."
+      },
+      "opciones_chino": {
+        "A": "车辆的最大质量基于其结构，并由制造商指定。",
+        "B": "真空车的质量具有完整的正常用途。",
+        "C": "允许使用车辆循环的最大总质量。",
+        "D": "最大牵引质量。"
+      }
+    },
+    {
+      "cod": "2G01020",
+      "pregunta": "¿Qué es la Masa Máxima Autorizada (MMA)?",
+      "pregunta_chino": "什么是最大授权质量（MMA）？",
+      "solucion": "B",
+      "norma": "RD 2822/1998, Anexo IX.1",
+      "opciones": {
+        "A": "La masa máxima para la utilización de un vehículo sin carga en circulación por vías públicas.",
+        "B": "La masa máxima para la utilización de un vehículo con carga en circulación por vías públicas.",
+        "C": "La masa efectiva del vehículo y de su carga, incluida la masa del personal de servicio y de los pasajeros.",
+        "D": "El máximo de la carga autorizada."
+      },
+      "opciones_chino": {
+        "A": "公共道路循环时使用车辆使用车辆的最大质量。",
+        "B": "公共道路循环中使用带负载的车辆的最大质量。",
+        "C": "车辆的有效质量及其负载，包括服务人员和乘客的质量。",
+        "D": "授权负载的最大值。"
+      }
+    },
+    {
+      "cod": "2G01021",
+      "pregunta": "¿Qué ocurre con un vehículo cuya masa, dimensión o presión sobre el pavimento supere las que determinen reglamentariamente?",
+      "pregunta_chino": "人行道上的质量，尺寸或压力超过确定调节的车辆的车辆会发生什么？",
+      "solucion": "B",
+      "norma": "RD 2822/1998, art. 14",
+      "opciones": {
+        "A": "Que no se permite su circulación en ningún caso.",
+        "B": "Que requiere de una autorización especial para circular.",
+        "C": "Que tiene que pasar una ITV específica.",
+        "D": "Las autorizaciones especiales solo afectan a las dimensione máximas de los vehículos y en ningún caso a la masa o presión sobre el pavimento."
+      },
+      "opciones_chino": {
+        "A": "在任何情况下都不允许其发行。",
+        "B": "这需要特殊授权才能流通。",
+        "C": "这必须通过特定的ITV。",
+        "D": "特殊授权只会影响车辆的最大尺寸，并且在任何情况下都会影响人行道上的质量或压力。"
+      }
+    },
+    {
+      "cod": "2G01022",
+      "pregunta": "¿Qué presión máxima podrán ejercer sobre el pavimento los vehículos con ruedas neumáticas o de elasticidad similar para poder circular?",
+      "pregunta_chino": "在人行道上施加带有气动车轮或类似弹性的车辆可以在循环中施加什么最大压力？",
+      "solucion": "C",
+      "norma": "RD 2822/1998, Anexo IX.2",
+      "opciones": {
+        "A": "10 kilogramos por centímetro cuadrado.",
+        "B": "9,5 kilogramos por centímetro cuadrado.",
+        "C": "9 kilogramos por centímetro cuadrado.",
+        "D": "8,5 kilogramos por centímetro cuadrado."
+      },
+      "opciones_chino": {
+        "A": "每平方厘米10公斤。",
+        "B": "每平方厘米9.5公斤。",
+        "C": "每平方厘米9公斤。",
+        "D": "每平方厘米8.5公斤。"
+      }
+    },
+    {
+      "cod": "2G01023",
+      "pregunta": "¿Qué se entiende por suspensión neumática?",
+      "pregunta_chino": "气动悬架对什么理解？",
+      "solucion": "D",
+      "norma": "RD 2822/1998, Anexo IX.1",
+      "opciones": {
+        "A": "Cuando al menos el 80 % del efecto elástico se debe a un dispositivo neumático (aire).",
+        "B": "Cuando al menos un 70 % del efecto elástico se debe a un dispositivo elástico (aire).",
+        "C": "Cuando al menos un 25 % del efecto elástico se debe a un dispositivo elástico (aire).",
+        "D": "Cuando al menos el 75 % del efecto elástico se debe a un dispositivo neumático."
+      },
+      "opciones_chino": {
+        "A": "当至少80％的弹性效应是由于气动（空气）设备引起的。",
+        "B": "当至少70％的弹性效应是由于弹性（空气）设备引起的。",
+        "C": "当至少25％的弹性效应是由于弹性装置（空气）引起的。",
+        "D": "当至少75％的弹性效应是由于气动装置引起的。"
+      }
+    },
+    {
+      "cod": "2G01024",
+      "pregunta": "¿Se puede dar el caso de que la Masa Técnica Máxima Admisible (MTMA) sea superior a la Masa Máxima Autorizada (MMA)?",
+      "pregunta_chino": "难道最大可允许的技术质量（MTMA）优于最大授权质量（MMA）吗？",
+      "solucion": "A",
+      "norma": "RD 2822/1998, Anexo IX.2",
+      "opciones": {
+        "A": "Sí.",
+        "B": "Sí, pero exclusivamente con autorizaciones especiales.",
+        "C": "No, puesto que la MMA de un vehículo nunca puede ser rebasada.",
+        "D": "Depende del tipo de vehículo."
+      },
+      "opciones_chino": {
+        "A": "是的。",
+        "B": "是的，但仅具有特殊授权。",
+        "C": "不，因为车辆的MMA永远无法超过。",
+        "D": "这取决于车辆的类型。"
+      }
+    },
+    {
+      "cod": "2G01025",
+      "pregunta": "Como norma general, ¿cuál es la anchura máxima autorizada para permitir la circulación de vehículos?",
+      "pregunta_chino": "通常，允许车辆循环的最大授权宽度是多少？",
+      "solucion": "D",
+      "norma": "RD 2822/1998, Anexo IX.3",
+      "opciones": {
+        "A": "2,40 metros.",
+        "B": "2,45 metros.",
+        "C": "2,50 metros.",
+        "D": "2,55 metros."
+      },
+      "opciones_chino": {
+        "A": "2.40米。",
+        "B": "2.45米。",
+        "C": "2.50米。",
+        "D": "2.55米。"
+      }
+    },
+    {
+      "cod": "2G01026",
+      "pregunta": "Como norma general, la anchura máxima autorizada para permitir la circulación de vehículos es de:",
+      "pregunta_chino": "通常，允许车辆循环的最大授权宽度是：",
+      "solucion": "C",
+      "norma": "RD 2822/1998, Anexo IX.3",
+      "opciones": {
+        "A": "2,45 metros.",
+        "B": "2,50 metros.",
+        "C": "2,55 metros.",
+        "D": "2,60 metros."
+      },
+      "opciones_chino": {
+        "A": "2.45米。",
+        "B": "2.50米。",
+        "C": "2.55米。",
+        "D": "2.60米。"
+      }
+    },
+    {
+      "cod": "2G01027",
+      "pregunta": "Con carácter general, ¿cuál es la Masa Máxima Autorizada para los autobuses de dos ejes?",
+      "pregunta_chino": "通常，两轴公交车的最大授权质量是什么？",
+      "solucion": "D",
+      "norma": "RD 2822/1998, Anexo IX.3",
+      "opciones": {
+        "A": "24 toneladas.",
+        "B": "Entre 20 y 21 toneladas, dependiendo de si son urbanos o interurbanos.",
+        "C": "20 toneladas.",
+        "D": "Entre 19,5 y 20 toneladas, dependiendo de si son inteurbanos o urbanos."
+      },
+      "opciones_chino": {
+        "A": "24吨。",
+        "B": "在20到21吨之间，具体取决于它们是城市还是城市间。",
+        "C": "20吨。",
+        "D": "在19.5至20吨之间，具体取决于它们是意向郊区还是城市。"
+      }
+    },
+    {
+      "cod": "2G01028",
+      "pregunta": "La normativa actual española sobre masas y dimensiones…",
+      "pregunta_chino": "当前有关群众和尺寸的法规...",
+      "solucion": "C",
+      "norma": "RD 2822/1998, Preámbulo",
+      "opciones": {
+        "A": "es exclusiva para España y no se acomoda a lo dispuesto por la Unión Europea.",
+        "B": "está de acuerdo con lo que determina la Conferencia Europea de Ministros de Transporte.",
+        "C": "está de acuerdo con lo establecido en la Directiva 96/53/CE.",
+        "D": "se regula por cada Comunidad Autónoma."
+      },
+      "opciones_chino": {
+        "A": "它是西班牙独有的，不适合欧盟的规定。",
+        "B": "它同意决定欧洲运输部长会议的原因。",
+        "C": "根据指令96/53/EC的规定。",
+        "D": "它是针对每个自治社区的。"
+      }
+    },
+    {
+      "cod": "2G02001",
+      "pregunta": "¿Cómo debe ser principalmente el revestimiento de los escalones en los autobuses?",
+      "pregunta_chino": "这些步骤的衬里应该如何主要在公共汽车上？",
+      "solucion": "C",
+      "norma": "Reglamento CEPE 107, Anexo 3; Reglamento CEPE 107, 7.7.7.6",
+      "opciones": {
+        "A": "De material reflectante.",
+        "B": "De material ingnífugo.",
+        "C": "De material antideslizante.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "反射材料。",
+        "B": "进气材料。",
+        "C": "非滑动材料的。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2G02002",
+      "pregunta": "¿Cómo debe ser el revestimiento de las vías de acceso de los autobuses?",
+      "pregunta_chino": "公共汽车通道的衬里应该如何？",
+      "solucion": "A",
+      "norma": "Reglamento CEPE 107, Anexo 3; Reglamento CEPE 107, 7.7.1.12",
+      "opciones": {
+        "A": "De material antideslizante.",
+        "B": "De material ingnífugo.",
+        "C": "De material reflectante.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "非滑动材料的。",
+        "B": "进气材料。",
+        "C": "反射材料。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2G02003",
+      "pregunta": "¿Cuál debe ser el número mínimo de puertas en un autobús?",
+      "pregunta_chino": "公共汽车上的最小门应该是多少？",
+      "solucion": "B",
+      "norma": "Reglamento CEPE 107, Anexo 3; Reglamento CEPE 107, 7.6.1.1",
+      "opciones": {
+        "A": "Una.",
+        "B": "Dos.",
+        "C": "Tres.",
+        "D": "Cuatro."
+      },
+      "opciones_chino": {
+        "A": "一个。",
+        "B": "二。",
+        "C": "三。",
+        "D": "四个。"
+      }
+    },
+    {
+      "cod": "2G02004",
+      "pregunta": "¿Cómo debe ser el revestimiento del suelo en los autobuses?",
+      "pregunta_chino": "公共汽车上的土壤衬里应该如何？",
+      "solucion": "B",
+      "norma": "Reglamento CEPE 107, Anexo 3; Reglamento CEPE 107, 7.7.5.9",
+      "opciones": {
+        "A": "De corcho.",
+        "B": "De material antideslizante.",
+        "C": "De madera.",
+        "D": "De PVC."
+      },
+      "opciones_chino": {
+        "A": "科克。",
+        "B": "非滑动材料的。",
+        "C": "木制的。",
+        "D": "PVC。"
+      }
+    },
+    {
+      "cod": "2G02005",
+      "pregunta": "¿Cómo se denomina al vehículo no autopropulsado diseñado y concebido para ser remolcado por un vehículo de motor y que cuya Masa Máxima Autorizada no exceda de 750 kg?",
+      "pregunta_chino": "非自身的车辆如何设计和构想由汽车拖曳，其最大授权质量不超过750公斤？",
+      "solucion": "C",
+      "norma": "RD 2822/1998, Anexo II.A",
+      "opciones": {
+        "A": "Semirremolque.",
+        "B": "Semirremolque ligero.",
+        "C": "Remolque.",
+        "D": "Furgón"
+      },
+      "opciones_chino": {
+        "A": "半拖船。",
+        "B": "光半拖车。",
+        "C": "拖车。",
+        "D": "面包车"
+      }
+    },
+    {
+      "cod": "2G02006",
+      "pregunta": "¿Cómo se denomina al vehículo no autopropulsado diseñado y concebido para ser remolcado por un vehículo de motor y que cuya Masa Máxima Autorizada no exceda de 750 kg?",
+      "pregunta_chino": "非自身的车辆如何设计和构想由汽车拖曳，其最大授权质量不超过750公斤？",
+      "solucion": "C",
+      "norma": "RD 2822/1998, Anexo II.B",
+      "opciones": {
+        "A": "Solo se consideran remolques a los que tienen una Masa Máxima Autorizada superior a 750 kilogramos.",
+        "B": "Semirremolque ligero.",
+        "C": "Remolque ligero.",
+        "D": "Remolque no ligero."
+      },
+      "opciones_chino": {
+        "A": "它们仅被视为最大授权质量大于750公斤的人的拖车。",
+        "B": "光半拖车。",
+        "C": "轻拖。",
+        "D": "非灯预告片。"
+      }
+    },
+    {
+      "cod": "2G02007",
+      "pregunta": "¿Cómo tienen que ser las puertas del vehículo en un transporte escolar?",
+      "pregunta_chino": "车门必须如何进行学校运输？",
+      "solucion": "C",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "Parte de ellas construidas en cristal o material translúcido.",
+        "B": "Con botón o dispositivo de apertura de emergencia.",
+        "C": "Del tipo operado por el conductor.",
+        "D": "De funcionamiento manual."
+      },
+      "opciones_chino": {
+        "A": "它们的一部分是用玻璃或半透明材料建造的。",
+        "B": "带有紧急打开按钮或打开设备。",
+        "C": "驾驶员操作的类型。",
+        "D": "手动操作。"
+      }
+    },
+    {
+      "cod": "2G02008",
+      "pregunta": "¿De qué deben estar provistos los vehículos que realicen transporte escolar?",
+      "pregunta_chino": "要提供学校运输的车辆应该提供什么？",
+      "solucion": "B",
+      "norma": "RD 443/2001, art. 2",
+      "opciones": {
+        "A": "De una alfombra en el pasillo central.",
+        "B": "De un martillo rompecristales, debidamente protegido, para utilizarlo solo en caso de emergencia.",
+        "C": "De aire acondicionado.",
+        "D": "De asientos reclinables."
+      },
+      "opciones_chino": {
+        "A": "中央大厅的地毯。",
+        "B": "只有在紧急情况下才能适当保护的粉红色果酱。",
+        "C": "空调。",
+        "D": "躺椅。"
+      }
+    },
+    {
+      "cod": "2G02009",
+      "pregunta": "¿Dónde deben encontrarse las puertas de servicio del autobús?",
+      "pregunta_chino": "公交服务门应该在哪里？",
+      "solucion": "C",
+      "norma": "Reglamento CEPE 107, Anexo 3; Reglamento CEPE 107, 7.6.2.11",
+      "opciones": {
+        "A": "Al menos una en la parte trasera del vehículo.",
+        "B": "Al menos una a cada lateral del vehículo.",
+        "C": "Al menos una en la mitad delantera del vehículo.",
+        "D": "La norma no indica nada al respecto."
+      },
+      "opciones_chino": {
+        "A": "在车辆后部至少一个。",
+        "B": "至少一个对车辆的每一侧。",
+        "C": "在车辆前部至少一个。",
+        "D": "该规则并未表示任何内容。"
+      }
+    },
+    {
+      "cod": "2G02010",
+      "pregunta": "Las formas de entretenimiento visual para los pasajeros en el autobús…",
+      "pregunta_chino": "公共汽车上乘客的视觉娱乐表格...",
+      "solucion": "D",
+      "norma": "Reglamento CEPE 107, Anexo 3; Reglamento CEPE 107, 7.15.1",
+      "opciones": {
+        "A": "deben ser siempre gratuitas.",
+        "B": "deben permitir una perfecta visualización desde todas las plazas.",
+        "C": "están prohibidas en servicios de corta distancia.",
+        "D": "deberán situarse fuera del campo de visión del conductor mientras conduce."
+      },
+      "opciones_chino": {
+        "A": "他们必须始终是自由的。",
+        "B": "他们必须允许从所有地方进行完美的可视化。",
+        "C": "他们被禁止在短距离服务中。",
+        "D": "他们必须在开车时位于驾驶员的视野之外。"
+      }
+    },
+    {
+      "cod": "2G02011",
+      "pregunta": "¿Dónde deben encontrarse las puertas de servicio del autobús?",
+      "pregunta_chino": "公交服务门应该在哪里？",
+      "solucion": "A",
+      "norma": "Reglamento CEPE 107, Anexo 3; Reglamento CEPE 107, 7.6.2.11",
+      "opciones": {
+        "A": "En el lado del vehículo más próximo al borde de la calzada correspondiente a la dirección del tráfico.",
+        "B": "Al menos una a cada lateral del vehículo.",
+        "C": "Al menos una en el lado del vehículo más próximo al borde de la calzada correspondiente a la dirección del tráfico.",
+        "D": "La norma no indica nada al respecto."
+      },
+      "opciones_chino": {
+        "A": "在最接近道路边缘的车辆侧面，与交通地址相对应。",
+        "B": "至少一个对车辆的每一侧。",
+        "C": "与交通地址相对应的道路边缘最接近的车辆侧面至少有一个。",
+        "D": "该规则并未表示任何内容。"
+      }
+    },
+    {
+      "cod": "2G02012",
+      "pregunta": "¿Qué deben tener en los huecos de las puertas de servicio los autobuses que realicen servicios urbanos?",
+      "pregunta_chino": "在服务差距中执行城市服务的公共汽车应该是什么？",
+      "solucion": "A",
+      "norma": "Reglamento CEPE 107, Anexo 3; Reglamento CEPE 107, 7.11.3.1",
+      "opciones": {
+        "A": "Deben tener barras o asideros de sujeción instalados a cada lado para ayudar a subir y bajar a los pasajeros.",
+        "B": "Deben tener piso bajo.",
+        "C": "Deben tener seis escalones como mínimo.",
+        "D": "Deben tener una rampa."
+      },
+      "opciones_chino": {
+        "A": "他们必须在两侧安装酒吧或持有人，以帮助上下乘客。",
+        "B": "他们必须有低地板。",
+        "C": "他们必须至少有六个步骤。",
+        "D": "他们必须有坡道。"
+      }
+    },
+    {
+      "cod": "2G02013",
+      "pregunta": "¿Qué es un tren de carretera?",
+      "pregunta_chino": "什么是公路火车？",
+      "solucion": "B",
+      "norma": "RD 2822/1998, Anexo II.A",
+      "opciones": {
+        "A": "Una unidad de transporte formada por un autobús articulado.",
+        "B": "Una unidad de transporte formada por un autobús y un remolque.",
+        "C": "Un conjunto de transporte formado por varios autobuses que realizan el mismo servicio compartiendo inicio y final del viaje.",
+        "D": "Un conjunto de transporte formado por varios autobuses que realizan el mismo servicio compartiendo únicamente el inicio del viaje."
+      },
+      "opciones_chino": {
+        "A": "由铰接式公共汽车形成的运输单元。",
+        "B": "由公共汽车和拖车形成的运输单元。",
+        "C": "由几辆公交车形成的运输套件，这些公交车执行相同的服务，共享旅行的起点和结束。",
+        "D": "由几辆公共汽车组成的运输组件仅执行相同的服务，仅共享旅行的开始。"
+      }
+    },
+    {
+      "cod": "2G02014",
+      "pregunta": "Los portaequipajes en la zona de pasajeros del vehículo…",
+      "pregunta_chino": "车辆乘客区的载体...",
+      "solucion": "B",
+      "norma": "Reglamento CEPE 107, Anexo 3; Reglamento CEPE 107, 7.1.3",
+      "opciones": {
+        "A": "deben ser suficientemente amplios para dar servicio a todos los pasajeros.",
+        "B": "deben estar diseñados de manera que se evite la caída del equipaje a causa de un frenazo repentino.",
+        "C": "deben tener una amplitud suficiente para un bulto de mano medio.",
+        "D": "deben permitir la fácil manipulación de los bultos por parte de los pasajeros."
+      },
+      "opciones_chino": {
+        "A": "他们必须足够宽，才能为所有乘客服务。",
+        "B": "必须设计它们，以便避免避免行李掉落。",
+        "C": "它们必须具有足够的振幅，以使中型肿块具有足够的幅度。",
+        "D": "他们必须允许乘客轻松操纵包裹。"
+      }
+    },
+    {
+      "cod": "2G02015",
+      "pregunta": "¿Qué personas deben poder utilizar los autobuses provistos de zonas destinadas a pasajeros de pie?",
+      "pregunta_chino": "哪些人应该能够将提供的公共汽车与原定为站立乘客的地区使用？",
+      "solucion": "C",
+      "norma": "Reglamento CEPE 107, 2.1.1.1; Reglamento CEPE 107, 5,2",
+      "opciones": {
+        "A": "Solo los menores de 14 años.",
+        "B": "Solo grupos y colectivos.",
+        "C": "Los viajeros en sillas de ruedas.",
+        "D": "Solo los mayores de 65 años."
+      },
+      "opciones_chino": {
+        "A": "只有14岁以下的人。",
+        "B": "只有组和组。",
+        "C": "坐在轮椅上的旅行者。",
+        "D": "只有65岁以上的人。"
+      }
+    },
+    {
+      "cod": "2G02016",
+      "pregunta": "¿Qué requisito debe cumplir el asiento del conductor en un transporte escolar?",
+      "pregunta_chino": "在学校交通工具中必须达到什么要求？",
+      "solucion": "B",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "Debe ser fijo y estar anclado de forma permanente.",
+        "B": "Debe estar protegido por una pantalla transparente.",
+        "C": "Debe estar situado a distinto nivel del resto de los asientos.",
+        "D": "No debe cumplir exigencias especiales."
+      },
+      "opciones_chino": {
+        "A": "它必须固定并永久锚定。",
+        "B": "必须通过透明屏幕保护。",
+        "C": "它必须位于与其余座位不同的水平。",
+        "D": "您不应该满足特殊要求。"
+      }
+    },
+    {
+      "cod": "2G02017",
+      "pregunta": "Como regla general, solo podrán efectuarse servicios de transporte regular de uso especial de escolares con autocares que tengan menos de:",
+      "pregunta_chino": "一般而言，只能进行定期运输服务，以特别使用小学生，该教练的教练少于：",
+      "solucion": "B",
+      "norma": "RD 443/2001, art. 3",
+      "opciones": {
+        "A": "10 años, desde su primer destino al transporte escolar.",
+        "B": "10 años, desde su primera matriculación.",
+        "C": "8 años, desde su primera matriculación.",
+        "D": "5 años."
+      },
+      "opciones_chino": {
+        "A": "从他的第一个目的地到学校交通工具10年。",
+        "B": "从他的第一次注册开始了10年。",
+        "C": "从他的第一次注册起了8年。",
+        "D": "5年。"
+      }
+    },
+    {
+      "cod": "2G02018",
+      "pregunta": "De las opciones siguientes, ¿qué caracteriza al transporte escolar?",
+      "pregunta_chino": "在以下选择中，什么是学校运输的特征？",
+      "solucion": "C",
+      "norma": "RD 443/2001, art. 3",
+      "opciones": {
+        "A": "Que es siempre un transporte regular de uso general.",
+        "B": "Que el conductor puede variar la ruta a conveniencia.",
+        "C": "Que el vehículo puede tener 13 años de antigüedad.",
+        "D": "Que es siempre un transporte discrecional."
+      },
+      "opciones_chino": {
+        "A": "这始终是常规运输。",
+        "B": "驾驶员可以改变方便的路线。",
+        "C": "车辆可以年13岁。",
+        "D": "这始终是一项酌情运输。"
+      }
+    },
+    {
+      "cod": "2G02019",
+      "pregunta": "De las opciones siguientes, ¿qué requisito deben cumplir los vehículos para la realización del transporte escolar?",
+      "pregunta_chino": "在以下选项中，必须有哪些要求车辆满足学校运输？",
+      "solucion": "B",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "Las puertas serán de apertura y cierre manual.",
+        "B": "La abertura practicable en las ventanas será, como máximo, del tercio superior de las mismas.",
+        "C": "El asiento del conductor estará aislado del resto de plazas, con instalación de una pantalla opaca.",
+        "D": "Deben llevar aire acondicionado."
+      },
+      "opciones_chino": {
+        "A": "门将打开和手动关闭。",
+        "B": "窗户上可行的开口最多将是上部的三分之一。",
+        "C": "驾驶员座椅将与其他正方形隔离，并安装不透明的屏幕。",
+        "D": "他们必须携带空调。"
+      }
+    },
+    {
+      "cod": "2G02020",
+      "pregunta": "En el transporte escolar, en los asientos para dos personas, de acuerdo con las medidas de la legislación vigente,:",
+      "pregunta_chino": "根据当前立法的措施，在学校运输中，在两个人的座位上：",
+      "solucion": "C",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "podrán sentarse tres niños menores de 14 años.",
+        "B": "podrán sentarse tres niños menores de 16 años.",
+        "C": "podrán sentarse solo dos niños.",
+        "D": "podrán sentarse tres niños menores de 6 años."
+      },
+      "opciones_chino": {
+        "A": "14岁以下的三个孩子可以坐。",
+        "B": "16岁以下的三个孩子可以坐下。",
+        "C": "他们可以独自坐两个孩子。",
+        "D": "6岁以下的三个孩子可以坐下。"
+      }
+    },
+    {
+      "cod": "2G02021",
+      "pregunta": "En los vehículos que efectúen transporte escolar y de menores, los asientos enfrentados a pasillos, cuando hayan de ser ocupados por menores de 16 años,:",
+      "pregunta_chino": "在使学校和次要运输的车辆中，席位面临着走廊，当他们必须被16岁以下的儿童占领时：",
+      "solucion": "A",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "deberán contar con un elemento fijo de protección.",
+        "B": "deberán contar con espejo retrovisor.",
+        "C": "No pueden ser ocupados por menores de 16 años.",
+        "D": "Ninguna de las respuestas anteriores es correcta."
+      },
+      "opciones_chino": {
+        "A": "他们必须具有固定保护元件。",
+        "B": "他们必须有后视镜。",
+        "C": "他们不能被16岁以下的儿童占领。",
+        "D": "以上答案都不正确。"
+      }
+    },
+    {
+      "cod": "2G02022",
+      "pregunta": "En un autocar dedicado al transporte escolar, los asientos que no estén protegidos por el respaldo de otro anterior, situado a 80 cm, como máximo,:",
+      "pregunta_chino": "在专门从事学校运输的教练中，没有受到另一个位于80厘米的前一个支持的座位，最多最多：",
+      "solucion": "A",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "deben contar con un elemento fijo de protección.",
+        "B": "deben colocarse en la última fila.",
+        "C": "deben ser individuales y dotados de cinturón de seguridad.",
+        "D": "deben estar vacíos."
+      },
+      "opciones_chino": {
+        "A": "他们必须具有固定保护元件。",
+        "B": "它们必须放在最后一行中。",
+        "C": "他们必须是个人的，并配备了安全带。",
+        "D": "他们一定是空的。"
+      }
+    },
+    {
+      "cod": "2G02023",
+      "pregunta": "Las puertas de servicio servoaccionadas de un autobús…",
+      "pregunta_chino": "公共汽车的伺服服务门...",
+      "solucion": "D",
+      "norma": "Reglamento CEPE 107, Anexo 3; Reglamento CEPE 107, 7.6.5.4; Reglamento CEPE 107, 7.6.5.5; Reglamento CEPE 107, 7.6.5.6",
+      "opciones": {
+        "A": "pondrán en funcionamiento un indicador visual fácilmente visible para el conductor.",
+        "B": "estarán construidas de forma que resulte improbable atrapar a un viajero cuando se cierren.",
+        "C": "si el conductor dispone de mandos para las mismas, podrá invertir fácilmente su movimiento.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "他们将为驾驶员提供易于可见的视觉指示器。",
+        "B": "它们将被建造，以便在关闭时不太可能抓住旅行者。",
+        "C": "如果驾驶员对他们有控制权，他可以轻松地投资自己的运动。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2G02024",
+      "pregunta": "Los vehículos utilizados para los transportes objeto del Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores, cumplirán, además de otras, una de las siguientes prescripciones técnicas.",
+      "pregunta_chino": "4月27日，用于学校和未成年人的安全条件443/2001的运输对象使用的车辆将符合以下技术处方之一。",
+      "solucion": "A",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "La abertura practicable de las ventanas será, como máximo, del tercio superior de las mismas.",
+        "B": "Los asientos deberán ser de colores vivos.",
+        "C": "Los cristales de las ventanas deberán estar debidamente oscurecidos para evitar que se produzcan deslumbramientos.",
+        "D": "Las banderolas de auxilio estarán debidamente señalizadas."
+      },
+      "opciones_chino": {
+        "A": "窗户的实际开口最多将是其中的上三分之一。",
+        "B": "座椅必须是鲜艳的色彩。",
+        "C": "窗户晶体必须适当遮盖以防止眩光。",
+        "D": "辅助横幅将被正确标记。"
+      }
+    },
+    {
+      "cod": "2G02025",
+      "pregunta": "Los vehículos utilizados para los transportes objeto del Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores, cumplirán, además de otras, una de las siguientes prescripciones técnicas.",
+      "pregunta_chino": "4月27日，用于学校和未成年人的安全条件443/2001的运输对象使用的车辆将符合以下技术处方之一。",
+      "solucion": "D",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "Los asientos deberán ser de colores vivos.",
+        "B": "Los cristales de las ventanas deberán estar debidamente oscurecidos para evitar que se produzcan deslumbramientos.",
+        "C": "Las banderolas de auxilio estarán debidamente señalizadas.",
+        "D": "Estarán dotados de martillos rompecritales."
+      },
+      "opciones_chino": {
+        "A": "座椅必须是鲜艳的色彩。",
+        "B": "窗户晶体必须适当遮盖以防止眩光。",
+        "C": "辅助横幅将被正确标记。",
+        "D": "他们将配备粉红色锤子。"
+      }
+    },
+    {
+      "cod": "2G02026",
+      "pregunta": "Los vehículos utilizados para los transportes objeto del Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores, cumplirán, además de otras, una de las siguientes prescripciones técnicas.",
+      "pregunta_chino": "4月27日，用于学校和未成年人的安全条件443/2001的运输对象使用的车辆将符合以下技术处方之一。",
+      "solucion": "B",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "La apertura practicable de las ventanas será, como mínimo, del tercio superior de las mismas.",
+        "B": "Deberán estar dotados de dos extintores si tienen más de 23 plazas.",
+        "C": "Los cristales de las ventanas deberán estar debidamente oscurecidos para evitar que se produzcan deslumbramientos.",
+        "D": "Las banderolas de auxilio estarán debidamente señalizadas."
+      },
+      "opciones_chino": {
+        "A": "窗户的切实可行的开口至少将是其中三分之一的开口。",
+        "B": "如果他们有23个以上的位置，则必须配备两个灭火器。",
+        "C": "窗户晶体必须适当遮盖以防止眩光。",
+        "D": "辅助横幅将被正确标记。"
+      }
+    },
+    {
+      "cod": "2G02027",
+      "pregunta": "Los vehículos utilizados para los transportes objeto del Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores, cumplirán, además de otras, una de las siguientes prescripciones técnicas.",
+      "pregunta_chino": "4月27日，用于学校和未成年人的安全条件443/2001的运输对象使用的车辆将符合以下技术处方之一。",
+      "solucion": "B",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "La apertura practicable de las ventanas será, como mínimo, del tercio superior de las mismas.",
+        "B": "Deberán estar dotados de dispositivos de frenado y antibloqueo (ABS), según la normativa correspondiente.",
+        "C": "Los cristales de las ventanas deberán estar debidamente oscurecidos para evitar que se produzcan deslumbramientos.",
+        "D": "En los autobuses de dos pisos deben contar con un sistema electrónico de estabilidad."
+      },
+      "opciones_chino": {
+        "A": "窗户的切实可行的开口至少将是其中三分之一的开口。",
+        "B": "根据相应的法规，它们必须配备制动和防锁设备（ABS）。",
+        "C": "窗户晶体必须适当遮盖以防止眩光。",
+        "D": "在两层公共汽车上，它们必须具有电子稳定系统。"
+      }
+    },
+    {
+      "cod": "2G02028",
+      "pregunta": "Los vehículos utilizados para los transportes objeto del Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores, cumplirán, además de otras, una de las siguientes prescripciones técnicas.",
+      "pregunta_chino": "4月27日，用于学校和未成年人的安全条件443/2001的运输对象使用的车辆将符合以下技术处方之一。",
+      "solucion": "D",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "La apertura practicable de las ventanas será, como mínimo, del tercio superior de las mismas.",
+        "B": "No podrán ir dotados de dispositivos de frenado y antibloqueo (ABS), en los supuestos y términos establecidos en el Real Decreto 2028/1986, de 6 de junio.",
+        "C": "Los cristales de las ventanas deberán estar debidamente oscurecidos para evitar que se produzcan deslumbramientos.",
+        "D": "El piso del vehículo no podrá ser deslizante."
+      },
+      "opciones_chino": {
+        "A": "窗户的切实可行的开口至少将是其中三分之一的开口。",
+        "B": "他们可能不配备制动和反锁设备（ABS），这是6月6日皇家法令规定的假设和条款。",
+        "C": "窗户晶体必须适当遮盖以防止眩光。",
+        "D": "车辆地板无法滑动。"
+      }
+    },
+    {
+      "cod": "2G02029",
+      "pregunta": "Los vehículos utilizados para los transportes objeto del Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores, cumplirán, además de otras, una de las siguientes prescripciones técnicas.",
+      "pregunta_chino": "4月27日，用于学校和未成年人的安全条件443/2001的运输对象使用的车辆将符合以下技术处方之一。",
+      "solucion": "B",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "El piso del vehículo deberá ser deslizante.",
+        "B": "Junto a las puertas de servicio habrá barras y asideros fácilmente accesibles desde el exterior para facilitar las operaciones del acceso/abandono.",
+        "C": "Los cristales de las ventanas deberán estar debidamente oscurecidos para evitar que se produzcan deslumbramientos.",
+        "D": "Las banderolas de auxilio estarán debidamente señalizadas."
+      },
+      "opciones_chino": {
+        "A": "车间必须滑动。",
+        "B": "与服务门一起，将有易于进入的酒吧和伴郎来促进访问/遗弃操作。",
+        "C": "窗户晶体必须适当遮盖以防止眩光。",
+        "D": "辅助横幅将被正确标记。"
+      }
+    },
+    {
+      "cod": "2G02030",
+      "pregunta": "Los vehículos utilizados para los transportes objeto del Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores, cumplirán, además de otras, una de las siguientes prescripciones técnicas.",
+      "pregunta_chino": "4月27日，用于学校和未成年人的安全条件443/2001的运输对象使用的车辆将符合以下技术处方之一。",
+      "solucion": "D",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "Los asientos deberán ser de colores vivos.",
+        "B": "Los cristales de las ventanas deberán estar debidamente oscurecidos para evitar que se produzcan deslumbramientos.",
+        "C": "Las banderolas de auxilio estarán debidamente señalizadas.",
+        "D": "Los bordes de los escalones serán de colores vivos."
+      },
+      "opciones_chino": {
+        "A": "座椅必须是鲜艳的色彩。",
+        "B": "窗户晶体必须适当遮盖以防止眩光。",
+        "C": "辅助横幅将被正确标记。",
+        "D": "步骤的边缘将是鲜艳的。"
+      }
+    },
+    {
+      "cod": "2G02031",
+      "pregunta": "Los vehículos utilizados para los transportes objeto del Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores, cumplirán, además de otras, una de las siguientes prescripciones técnicas.",
+      "pregunta_chino": "4月27日，用于学校和未成年人的安全条件443/2001的运输对象使用的车辆将符合以下技术处方之一。",
+      "solucion": "B",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "Los asientos deberán ser de colores vivos.",
+        "B": "En su caso, deberán reservarse las plazas que sean necesarias para personas con movilidad reducida, cercanas a las puertas de servicio.",
+        "C": "Las banderolas de auxilio estarán debidamente señalizadas.",
+        "D": "Estarán exentos de tacógrafo en todos los supuestos."
+      },
+      "opciones_chino": {
+        "A": "座椅必须是鲜艳的色彩。",
+        "B": "在您的情况下，必须保留必要的位置，以减少移动性，靠近服务门。",
+        "C": "辅助横幅将被正确标记。",
+        "D": "在所有情况下，它们都将免于快速仪。"
+      }
+    },
+    {
+      "cod": "2G02032",
+      "pregunta": "Los vehículos utilizados para los transportes objeto del Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores, cumplirán, además de otras, una de las siguientes prescripciones técnicas.",
+      "pregunta_chino": "4月27日，用于学校和未成年人的安全条件443/2001的运输对象使用的车辆将符合以下技术处方之一。",
+      "solucion": "A",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "Llevarán instalado un dispositivo acústico de señalización de marcha atrás.",
+        "B": "Los cristales de las ventanas deberán estar debidamente oscurecidos para evitar que se produzcan deslumbramientos.",
+        "C": "Las banderolas de auxilio estarán debidamente señalizadas.",
+        "D": "Estarán exentos de tacógrafo en todos los supuestos."
+      },
+      "opciones_chino": {
+        "A": "他们将安装一个声学反向信号设备。",
+        "B": "窗户晶体必须适当遮盖以防止眩光。",
+        "C": "辅助横幅将被正确标记。",
+        "D": "在所有情况下，它们都将免于快速仪。"
+      }
+    },
+    {
+      "cod": "2G02033",
+      "pregunta": "Los vehículos utilizados para los transportes objeto del Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores, cumplirán, además de otras, una de las siguientes prescripciones técnicas.",
+      "pregunta_chino": "4月27日，用于学校和未成年人的安全条件443/2001的运输对象使用的车辆将符合以下技术处方之一。",
+      "solucion": "D",
+      "norma": "RD 443/2001, art. 4",
+      "opciones": {
+        "A": "Estarán dotados de martillos rompecristales u otros dispositivos determinados reglamentariamente, debidamente protegidos, para su utilización únicamente en casos de emergencia.",
+        "B": "En su caso, deberán reservarse las plazas que sean necesarias para personas con movilidad reducida, cercanas a las puertas de servicio.",
+        "C": "Los bordes de los escalones serán de colores vivos.",
+        "D": "Todas las respuestas anteriores son correctas."
+      },
+      "opciones_chino": {
+        "A": "他们将配备粉红色果酱或其他特定设备法规，并适当保护，仅在紧急情况下使用。",
+        "B": "在您的情况下，必须保留必要的位置，以减少移动性，靠近服务门。",
+        "C": "步骤的边缘将是鲜艳的。",
+        "D": "以上所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2G02034",
+      "pregunta": "Teniendo en cuenta su Masa Máxima Autorizada, ¿cómo se clasifican los remolques?",
+      "pregunta_chino": "考虑到其最大授权质量，如何将拖车分类？",
+      "solucion": "A",
+      "norma": "RD 2822/1998, Anexo II.B",
+      "opciones": {
+        "A": "Ligeros y pesados.",
+        "B": "Semiligeros y pesados.",
+        "C": "Ligeros y semipesados.",
+        "D": "Semiligeros y semipesados."
+      },
+      "opciones_chino": {
+        "A": "轻而重。",
+        "B": "半角质和沉重。",
+        "C": "光和半衬套。",
+        "D": "半对和半标记。"
+      }
+    },
+    {
+      "cod": "2G02035",
+      "pregunta": "Como regla general, ¿hasta cuándo puede dedicarse a realizar servicios de transporte regular de uso especial de escolares un vehículo con once años de antigüedad que venía dedicándose con anterioridad a esta misma clase de transporte?",
+      "pregunta_chino": "一般而言，十一岁的车辆可以专用于这种运输的常规运输常规运输服务多长时间？",
+      "solucion": "C",
+      "norma": "RD 443/2001, art. 3",
+      "opciones": {
+        "A": "No puede en ningún caso.",
+        "B": "Hasta los quince años, siempre que supere una revisión extraordinaria y que acredite que el vehículo venía dedicándose a la realización de esta misma clase de transporte.",
+        "C": "Hasta los dieciséis años.",
+        "D": "Hasta los veinte años."
+      },
+      "opciones_chino": {
+        "A": "在任何情况下都不能。",
+        "B": "直到15年，前提是它超过了非凡的审查，并证明该车辆专门用于实现同一运输阶级。",
+        "C": "直到16岁。",
+        "D": "直到二十年。"
+      }
+    },
+    {
+      "cod": "2G02036",
+      "pregunta": "Un vehículo que el 6 de septiembre alcanza 16 años de antigüedad y se venía dedicando con anterioridad a servicios de transporte regular de uso especial de escolares, si el curso escolar comienza el 12 de septiembre, ¿podrá, como regla general, seguir realizando ese mismo tipo de servicio en la Península?",
+      "pregunta_chino": "9月6日达到16岁的车辆，并在定期运输服务之前专门用于特殊使用学童，如果学年于9月12日开始，作为一般规则，可以继续在半岛上执行相同类型的服务吗？",
+      "solucion": "A",
+      "norma": "RD 443/2001, art. 3",
+      "opciones": {
+        "A": "Sí, dado que no tiene la antigüedad máxima permitida el 1 se septiembre, fecha en la que se fija a estos efectos el inicio del curso escolar.",
+        "B": "No, ya que el 12 de septiembre, fecha en la que comienza el curso, tendrá más de 16 años.",
+        "C": "Sí, pero solo si las rutas que realiza son las mismas que en el curso anterior.",
+        "D": "No, salvo que la empresa acredite que no dispone de vehículo alguno que pueda hacer el servicio."
+      },
+      "opciones_chino": {
+        "A": "是的，由于它没有在9月1日允许的最高资历，因此为这些目的设定了学年开始的日期。",
+        "B": "不，自9月12日（课程开始的日期）以来，他将超过16岁。",
+        "C": "是的，但是只有当您的路线与上一年相同。",
+        "D": "不，除非公司证明其没有任何可以进行服务的车辆。"
+      }
+    },
+    {
+      "cod": "2G02037",
+      "pregunta": "Como regla general, un vehículo con una antigüedad superior a dieciocho años al inicio del curso escolar, ¿en qué condiciones puede realizar servicios de transporte regular de uso especial de escolares?",
+      "pregunta_chino": "通常，在学年开始时，具有古代古代的车辆大于18年，在哪些条件下可以定期运输特殊使用学校的情况？",
+      "solucion": "B",
+      "norma": "RD 443/2001, art. 3",
+      "opciones": {
+        "A": "Puede realizarlos únicamente si supera una revisión de ITV extraordinaria.",
+        "B": "No puede realizarlos.",
+        "C": "Puede realizarlos si contrata un seguro especial.",
+        "D": "Puede realizarlos si renueva la matrícula."
+      },
+      "opciones_chino": {
+        "A": "仅当您超过非凡的ITV评论时，才能执行它们。",
+        "B": "你不能做。",
+        "C": "如果您雇用特殊保险，则可以做。",
+        "D": "如果您续签注册，则可以执行它们。"
+      }
+    },
+    {
+      "cod": "2G03001",
+      "pregunta": "¿Quién puede solicitar la matriculación de un vehículo en España?",
+      "pregunta_chino": "谁可以要求在西班牙的车辆注册？",
+      "solucion": "A",
+      "norma": "RD 2822/1998, art. 28",
+      "opciones": {
+        "A": "El arrendatario por leasing del vehículo.",
+        "B": "Únicamente el propietario.",
+        "C": "El fabricante o el vendedor, según los casos.",
+        "D": "Cualquier poseedor legal del vehículo con título."
+      },
+      "opciones_chino": {
+        "A": "租赁车辆的较小者。",
+        "B": "只有所有者。",
+        "C": "制造商或卖方，具体取决于情况。",
+        "D": "带有所有权的任何合法持有人。"
+      }
+    },
+    {
+      "cod": "2G03002",
+      "pregunta": "¿Dónde debe solicitarse la matriculación?",
+      "pregunta_chino": "应该在哪里要求注册？",
+      "solucion": "A",
+      "norma": "RD 2822/1998, art. 28",
+      "opciones": {
+        "A": "En la Jefatura de Tráfico donde tenga su domicilio legal el solicitante.",
+        "B": "En el Registro General de Matriculaciones de la Dirección General de Tráfico.",
+        "C": "En la oficina provincial del Departamento de Industria del Comunidad Autónoma.",
+        "D": "En la Jefatura de Tráfico del lugar donde el solicitante quiera domiciliar el vehículo."
+      },
+      "opciones_chino": {
+        "A": "在申请人有其法律地址的交通领导者中。",
+        "B": "在通用交通总局的入学登记册中。",
+        "C": "在自治社区行业部省级办公室。",
+        "D": "在申请人想要区域车辆的地方的交通领导中。"
+      }
+    },
+    {
+      "cod": "2G03003",
+      "pregunta": "¿Qué documentos deben acompañar la solicitud de matriculación?",
+      "pregunta_chino": "哪些文件应随附什么文件？",
+      "solucion": "D",
+      "norma": "RD 2822/1998, art. 28",
+      "opciones": {
+        "A": "Los que acreditan el cumplimiento de los requisitos técnicos.",
+        "B": "Los que acreditan el cumplimiento de los requisitos para obtener autorización de transporte.",
+        "C": "Los que acreditan el domicilio del solicitante.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "那些证明符合技术要求的人。",
+        "B": "那些证明符合获得运输授权的要求的人。",
+        "C": "那些证明申请人地址的人。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2G03004",
+      "pregunta": "En relación con un vehículo que vaya a realizar transporte, ¿debe acreditarse el cumplimiento de los requisitos para la obtención de la autorización administrativa cuando esta sea necesaria?",
+      "pregunta_chino": "关于将要进行运输的车辆，是否应在必要时符合获得行政授权的要求？",
+      "solucion": "B",
+      "norma": "RD 2822/1998, art. 28",
+      "opciones": {
+        "A": "En el momento de la matriculación no es necesario.",
+        "B": "Debe acreditarse junto con la solicitud de matriculación.",
+        "C": "Solamente en el caso de vehículos pesados.",
+        "D": "Solo en el caso de vehículos importados."
+      },
+      "opciones_chino": {
+        "A": "在入学时，没有必要。",
+        "B": "必须与注册申请一起认可。",
+        "C": "仅在重型车辆的情况下。",
+        "D": "仅在进口车辆的情况下。"
+      }
+    },
+    {
+      "cod": "2G03005",
+      "pregunta": "¿Qué ocurre cuando la Jefatura de Tráfico competente autoriza la matriculación de un vehículo?",
+      "pregunta_chino": "当主管交通领导授权车辆注册时会发生什么？",
+      "solucion": "C",
+      "norma": "RD 2822/1998, art. 28",
+      "opciones": {
+        "A": "Que se entrega un certificado de matriculación necesario para que se puedan producir las placas de matrícula.",
+        "B": "Que se entrega un modelo gráfico de la placa de matrícula que debe ser copiado por el fabricante de las misma.",
+        "C": "Que se expide el permiso de circulación.",
+        "D": "Todas las respuestas son correctas"
+      },
+      "opciones_chino": {
+        "A": "提供必要的注册证书，以便可以发生注册板。",
+        "B": "交付了必须由制造商复制的登记板的图形模型。",
+        "C": "发行许可证。",
+        "D": "所有答案都是正确的"
+      }
+    },
+    {
+      "cod": "2G03006",
+      "pregunta": "¿En qué casos los vehículos matriculados causarán baja definitiva?",
+      "pregunta_chino": "在什么情况下，注册的车辆会导致明确下降？",
+      "solucion": "A",
+      "norma": "RD 2822/1998, art. 35",
+      "opciones": {
+        "A": "Cuando sus titulares soliciten voluntariamente la retirada permanente de la circulación.",
+        "B": "La baja será decretada por la autoridad competente por reiteradas infracciones a la normativa de tráfico.",
+        "C": "Cuando un organismo inspector acuerde de oficio su retirada definitiva de la circulación.",
+        "D": "Cuando la Jefatura de Tráfico acuerde de oficio su retirada definitiva de la circulación, aún sin disponer de informe del órgano competente en materia de industria que acredite que el vehículo constituye un peligro para la seguridad."
+      },
+      "opciones_chino": {
+        "A": "当您的头条新闻自愿要求永久退出流通。",
+        "B": "主管当局将通过对交通法规的反复违规行动来裁定下降。",
+        "C": "当一家监察机构同意其明确撤回发行量时。",
+        "D": "当交通总部同意官员们的发行权确定，即使没有报告工业问题的主管机构的报告，证明该车辆构成了对安全的危险。"
+      }
+    },
+    {
+      "cod": "2G03007",
+      "pregunta": "¿Puede un mismo vehículo matricularse en provincias diferentes a la vez?",
+      "pregunta_chino": "同一车能同时招募不同的省份吗？",
+      "solucion": "D",
+      "norma": "RD 2822/1998, art. 27",
+      "opciones": {
+        "A": "Sí, siempre que el vehículo tenga una masa inferior a 1.500 kilogramos.",
+        "B": "Sí, siempre que pertenezcan a Comunidades Autónomas diferentes.",
+        "C": "Sí, siempre que una de ellas sea insular.",
+        "D": "No, nunca."
+      },
+      "opciones_chino": {
+        "A": "是的，每当车辆的质量小于1500公斤时。",
+        "B": "是的，每当它们属于不同的自主社区时。",
+        "C": "是的，每当其中一个是孤立的。",
+        "D": "不，永远不会。"
+      }
+    },
+    {
+      "cod": "2G03008",
+      "pregunta": "¿Qué documento es imprescindible para la matriculación de un vehículo?",
+      "pregunta_chino": "什么文件对于车辆的注册至关重要？",
+      "solucion": "A",
+      "norma": "RD 2822/1998, Anexo XIII",
+      "opciones": {
+        "A": "La tarjeta de Inspección Técnica.",
+        "B": "El permiso de circulación.",
+        "C": "El permiso de conducción.",
+        "D": "El título de competencia profesional para el transporte."
+      },
+      "opciones_chino": {
+        "A": "技术检查卡。",
+        "B": "循环许可证。",
+        "C": "驾驶许可证。",
+        "D": "专业运输能力的标题。"
+      }
+    },
+    {
+      "cod": "2G03009",
+      "pregunta": "¿Qué se entiende por matricular un vehículo?",
+      "pregunta_chino": "注册车是什么意思？",
+      "solucion": "B",
+      "norma": "RD 2822/1998, art. 28",
+      "opciones": {
+        "A": "El acto de ponerle las placas de matrícula.",
+        "B": "La obtención de la correspondiente autorización para poder circular por las vías públicas que se documenta en el permiso de circulación.",
+        "C": "La inscripción en el registro de vehículos de Industria.",
+        "D": "Es la obtención de la tarjeta ITV (Inspección Técnica de Vehículos)."
+      },
+      "opciones_chino": {
+        "A": "放置注册板的行为。",
+        "B": "获得相应的授权，以便能够在流通许可证中记录的公共道路上流通。",
+        "C": "行业车辆注册中的注册。",
+        "D": "它正在获取ITV卡（技术车辆检查）。"
+      }
+    },
+    {
+      "cod": "2G03010",
+      "pregunta": "¿Qué vehículos deben estar dotados del certificado oficial que acredite sus características técnicas?",
+      "pregunta_chino": "哪些车辆应该配备证明其技术特征的官方证书？",
+      "solucion": "B",
+      "norma": "RD 2822/1998, art. 25",
+      "opciones": {
+        "A": "Aquellos vehículos que tengan más de dos años y sea preciso reconocerlos.",
+        "B": "Aquellos vehículos a motor que sea preciso matricular para permitirles circular.",
+        "C": "Únicamente los vehículos que realizan transporte.",
+        "D": "Los vehículos que tengan más de cinco años."
+      },
+      "opciones_chino": {
+        "A": "那些拥有超过两年的车辆，需要识别它们。",
+        "B": "那些允许它们循环所需的机动车辆。",
+        "C": "只有进行运输的车辆。",
+        "D": "超过五年的车辆。"
+      }
+    },
+    {
+      "cod": "2G03011",
+      "pregunta": "¿Quién establecerá el procedimiento para obtener la homologación de tipo y, en su caso, para someterse a la inspección técnica unitaria?",
+      "pregunta_chino": "谁将确定获得类型批准的程序，并在适当的情况下提交统一技术检查？",
+      "solucion": "C",
+      "norma": "RD 2822/1998, art. 5",
+      "opciones": {
+        "A": "El fabricante del vehículo.",
+        "B": "El Ministerio del Interior a través de la Dirección General de Tráfico.",
+        "C": "El Ministerio competente en materia de industria.",
+        "D": "El vendedor del vehículo."
+      },
+      "opciones_chino": {
+        "A": "车辆制造商。",
+        "B": "内政部通过总交通局。",
+        "C": "工业上有能力的事工。",
+        "D": "车辆卖家。"
+      }
+    },
+    {
+      "cod": "2G03012",
+      "pregunta": "¿A qué vehículos se aplican las normas relativas a la inspección técnica de vehículos?",
+      "pregunta_chino": "哪些车辆应用于车辆的技术检查？",
+      "solucion": "D",
+      "norma": "RD 920/2017, art. 1",
+      "opciones": {
+        "A": "A los vehículos pertenecientes a entidades privadas, exclusivamente.",
+        "B": "No se aplica a los vehículos pertenecientes a la Policía.",
+        "C": "No se aplica a los vehículos pertenecientes al Ejército.",
+        "D": "Se aplica a todos los vehículos matriculados en España que se empleen para circular por las vías públicas."
+      },
+      "opciones_chino": {
+        "A": "专门用于属于私人实体的车辆。",
+        "B": "它不适用于属于警察的车辆。",
+        "C": "它不适用于属于军队的车辆。",
+        "D": "它适用于用于在公共道路上循环的西班牙招收的所有车辆。"
+      }
+    },
+    {
+      "cod": "2G03013",
+      "pregunta": "¿A quién corresponde la responsabilidad del mantenimiento de la vigencia de la tarjeta ITV (Inspección Técnica de Vehículos)?",
+      "pregunta_chino": "谁与维持ITV卡的有效性（技术工具检查）的责任相对应？",
+      "solucion": "C",
+      "norma": "RD 920/2017, art. 4",
+      "opciones": {
+        "A": "En caso de leasing, a la financiera.",
+        "B": "Al conductor habitual del vehículo.",
+        "C": "Al arrendatario a largo plazo del vehículo.",
+        "D": "Al arrendador del vehículo."
+      },
+      "opciones_chino": {
+        "A": "如果是租赁，则是财务上的。",
+        "B": "给车辆的通常驾驶员。",
+        "C": "到车辆的长期承租人。",
+        "D": "到车主的房东。"
+      }
+    },
+    {
+      "cod": "2G03014",
+      "pregunta": "¿A quién corresponde la responsabilidad del mantenimiento de la vigencia de la tarjeta ITV (Inspección Técnica de Vehículos)?",
+      "pregunta_chino": "谁与维持ITV卡的有效性（技术工具检查）的责任相对应？",
+      "solucion": "D",
+      "norma": "RD 920/2017, art. 4",
+      "opciones": {
+        "A": "Al conductor del vehículo.",
+        "B": "Al operador de transporte que intervenga en la contratación.",
+        "C": "Al arrendador del vehículo.",
+        "D": "Al titular del vehículo."
+      },
+      "opciones_chino": {
+        "A": "给车辆的驾驶员。",
+        "B": "交通运营商干预招聘。",
+        "C": "到车主的房东。",
+        "D": "向车辆支架。"
+      }
+    },
+    {
+      "cod": "2G03015",
+      "pregunta": "¿A quién se atribuyen las competencias en materia de matriculación de vehículos de motor, remolques y semirremolques?",
+      "pregunta_chino": "谁归因于机动车，拖车和半拖车的注册能力？",
+      "solucion": "B",
+      "norma": "RD Legislativo 6/2015, art. 5",
+      "opciones": {
+        "A": "Al Ministerio competente en materia de industria.",
+        "B": "Al Ministerio del Interior.",
+        "C": "Conjuntamente a los Ministerios competentes en industria y tráfico.",
+        "D": "Al Ministerio de Transportes."
+      },
+      "opciones_chino": {
+        "A": "致力于工业的事工。",
+        "B": "到内政部。",
+        "C": "共同致力于行业和交通部门。",
+        "D": "到运输部。"
+      }
+    },
+    {
+      "cod": "2G03016",
+      "pregunta": "¿Con qué frecuencia se debe realizar la inspección técnica de las ambulancias y vehículos de servicio público dedicados al transporte de personas, incluido el transporte escolar, con capacidad de hasta 9 plazas incluido el conductor, con antigüedad superior a cinco años?",
+      "pregunta_chino": "多久应多久一次对公共服务救护车和专门用于人民运输的车辆，包括学校运输，最多可容纳9个位置，包括驾驶员，资历超过五年？",
+      "solucion": "C",
+      "norma": "RD 920/2017, art. 6",
+      "opciones": {
+        "A": "Bienalmente.",
+        "B": "Anualmente, en cualquier caso.",
+        "C": "Semestralmente.",
+        "D": "Estarán exentos."
+      },
+      "opciones_chino": {
+        "A": "出色地。",
+        "B": "每年，无论如何。",
+        "C": "半年。",
+        "D": "他们将被豁免。"
+      }
+    },
+    {
+      "cod": "2G03017",
+      "pregunta": "¿Con qué frecuencia se debe realizar la inspección técnica de las ambulancias y vehículos de servicio público dedicados al transporte de personas, incluido el transporte escolar, con capacidad de hasta 9 plazas incluido el conductor?",
+      "pregunta_chino": "多久应多久检查一次公共服务救护车和专门用于人民运输的车辆，包括学校运输，最多可容纳9个位置？",
+      "solucion": "D",
+      "norma": "RD 920/2017, art. 6",
+      "opciones": {
+        "A": "Cada seis meses.",
+        "B": "Anualmente, en cualquier caso.",
+        "C": "Bienalmente.",
+        "D": "Hasta los cinco años, anualmente."
+      },
+      "opciones_chino": {
+        "A": "每六个月一次。",
+        "B": "每年，无论如何。",
+        "C": "出色地。",
+        "D": "直到五年，每年。"
+      }
+    },
+    {
+      "cod": "2G03018",
+      "pregunta": "¿Con qué frecuencia se debe realizar la inspección técnica de los vehículos destinados a transporte escolar con 15 plazas, incluido el conductor?",
+      "pregunta_chino": "多久应多久检查一次有15个地方（包括驾驶员）的学校运输的车辆的技术检查？",
+      "solucion": "A",
+      "norma": "RD 920/2017, art. 6",
+      "opciones": {
+        "A": "Hasta los cinco años, anualmente.",
+        "B": "Cada seis meses.",
+        "C": "Anualmente.",
+        "D": "Bienalmente."
+      },
+      "opciones_chino": {
+        "A": "直到五年，每年。",
+        "B": "每六个月一次。",
+        "C": "每年。",
+        "D": "出色地。"
+      }
+    },
+    {
+      "cod": "2G03019",
+      "pregunta": "¿Con qué frecuencia se debe realizar la inspección técnica de los vehículos destinados al transporte de personas con capacidad para diez o más plazas, incluido el conductor, con una antigüedad no superior a cinco años?",
+      "pregunta_chino": "对于有十个或更多地方的人，包括驾驶员在内的，古代不超过五年的人，应该多久一次进行一次运输的车辆技术检查？",
+      "solucion": "B",
+      "norma": "RD 920/2017, art. 6",
+      "opciones": {
+        "A": "Trimestralmente.",
+        "B": "Anualmente.",
+        "C": "Bianualmente.",
+        "D": "Semestralmente."
+      },
+      "opciones_chino": {
+        "A": "季刊。",
+        "B": "每年。",
+        "C": "二个人。",
+        "D": "半年。"
+      }
+    },
+    {
+      "cod": "2G03020",
+      "pregunta": "¿Con qué frecuencia se debe realizar la inspección técnica de los vehículos destinados al transporte de personas con capacidad para diez o más plazas, incluido el conductor, con una antigüedad superior a cinco años?",
+      "pregunta_chino": "对于拥有十个或更多地方的人，包括驾驶员在内的驾驶员在内的人的运输的技术检查通常需要多久进行一次超过五年的驾驶员的运输？",
+      "solucion": "D",
+      "norma": "RD 920/2017, art. 6",
+      "opciones": {
+        "A": "Trimestralmente.",
+        "B": "Anualmente.",
+        "C": "Bianualmente.",
+        "D": "Semestralmente."
+      },
+      "opciones_chino": {
+        "A": "季刊。",
+        "B": "每年。",
+        "C": "二个人。",
+        "D": "半年。"
+      }
+    },
+    {
+      "cod": "2G03022",
+      "pregunta": "¿Cuál de las siguientes es una posibilidad contemplada por la normativa sobre homologación de vehículos?",
+      "pregunta_chino": "有关车辆交合法规的可能性是以下哪项？",
+      "solucion": "D",
+      "norma": "RD 2822/1998, art. 3",
+      "opciones": {
+        "A": "La homologación de tipo CE.",
+        "B": "La homologación de tipo nacional.",
+        "C": "La homologación individual.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "CE类型批准。",
+        "B": "国家类型批准。",
+        "C": "个人认可。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2G03023",
+      "pregunta": "¿Cuándo se comienza a contar el plazo de validez de las inspecciones técnicas del vehículo?",
+      "pregunta_chino": "车辆技术检查的有效期何时开始计算？",
+      "solucion": "A",
+      "norma": "RD 920/2017, art. 6",
+      "opciones": {
+        "A": "A partir de la fecha en que la inspección haya sido considerada favorable.",
+        "B": "A partir de la realización de la inspección, con independencia de su resultado.",
+        "C": "A partir de las 24 horas de realizada la inspección.",
+        "D": "A partir de los 30 días de la fecha de la inspección."
+      },
+      "opciones_chino": {
+        "A": "从被认为是有利的日期开始。",
+        "B": "从检查的实现，无论其结果如何。",
+        "C": "从检查的24小时开始。",
+        "D": "从检查日期的30天开始。"
+      }
+    },
+    {
+      "cod": "2G03024",
+      "pregunta": "¿De quién es competencia la expedición del permiso de circulación?",
+      "pregunta_chino": "谁是流通许可证能力的探险？",
+      "solucion": "D",
+      "norma": "RD Legislativo 6/2015, art. 5",
+      "opciones": {
+        "A": "Del fabricante.",
+        "B": "Del Ministerio de Transportes (Dirección General de Ferrocarriles y Transportes por Carretera).",
+        "C": "Del Ministerio de Industria, Energía y Turismo.",
+        "D": "Del Ministerio del Interior."
+      },
+      "opciones_chino": {
+        "A": "制造商。",
+        "B": "运输部（铁路总局和道路运输）。",
+        "C": "工业，能源和旅游部。",
+        "D": "内政部。"
+      }
+    },
+    {
+      "cod": "2G03025",
+      "pregunta": "¿Dónde se realizará la inspección previa a la matriculación y las inspecciones técnicas periódicas?",
+      "pregunta_chino": "注册和定期技术检查之前的检查将在哪里进行？",
+      "solucion": "D",
+      "norma": "RD 920/2017, art. 4",
+      "opciones": {
+        "A": "En cualquier taller autorizado.",
+        "B": "En las estaciones ITV, exclusivamente y en todos los casos.",
+        "C": "Solamente en las estaciones ITV de la residencia del vehículo.",
+        "D": "Como norma general, en las estaciones ITV autorizadas, si bien se permiten excepciones para los vehículos de cuerpos de seguridad, Ejército y otros, que se podrán llevar a cabo por los propios organismos."
+      },
+      "opciones_chino": {
+        "A": "在任何授权的研讨会中。",
+        "B": "在ITV站，仅在所有情况下。",
+        "C": "仅在车辆住宅的ITV站点。",
+        "D": "一般而言，在授权的ITV站中，尽管允许安全部队，陆军和其他人的车辆例外，这可以由生物本身进行。"
+      }
+    },
+    {
+      "cod": "2G03026",
+      "pregunta": "Deben corresponder a tipos previamente homologados, según la reglamentación vigente…",
+      "pregunta_chino": "根据当前法规，它们必须与先前批准的类型相对应...",
+      "solucion": "A",
+      "norma": "RD 2822/1998, art. 5",
+      "opciones": {
+        "A": "todos los vehículos de motor, sus remolques y semirremolques como condición indispensable para su matriculación ordinaria o turística.",
+        "B": "cualquier vehículo.",
+        "C": "solamente los remolques y semirremolques como condición indispensable para su matriculación turística.",
+        "D": "los vehículos que se hubiesen matriculado en España antes del año 2000."
+      },
+      "opciones_chino": {
+        "A": "所有机动车，拖车和半拖车都是普通或旅游注册的必不可少的条件。",
+        "B": "任何车辆。",
+        "C": "仅是拖车和半拖车作为其旅游注册必不可少的条件。",
+        "D": "在2000年之前将在西班牙注册的车辆。"
+      }
+    },
+    {
+      "cod": "2G03027",
+      "pregunta": "¿Puede el titular de un vehículo de transporte elegir libremente la estación ITV para pasar la inspección técnica?",
+      "pregunta_chino": "运输车辆的头可以自由选择ITV站以通过技术检查吗？",
+      "solucion": "A",
+      "norma": "RD 920/2017, art. 17",
+      "opciones": {
+        "A": "Sí, en todos los casos.",
+        "B": "Solo los vehículos de servicio público justificando que están de viaje.",
+        "C": "No.",
+        "D": "Solo en algunos casos."
+      },
+      "opciones_chino": {
+        "A": "是的，在所有情况下。",
+        "B": "只有公共服务工具才能证明他们正在旅行。",
+        "C": "不。",
+        "D": "仅在某些情况下。"
+      }
+    },
+    {
+      "cod": "2G03028",
+      "pregunta": "¿Puede sustituirse la revisión de un vehículo en la ITV por la justificación de su reforma y reparación en un taller oficial?",
+      "pregunta_chino": "可以用官方研讨会中的改革和维修理由代替对ITV中车辆的审查吗？",
+      "solucion": "D",
+      "norma": "RD 866/2010, art. 8",
+      "opciones": {
+        "A": "Sí, pero solo para los turismos.",
+        "B": "Sí.",
+        "C": "Sí, pero solo cuando se trate de vehículos con menos de 10 años.",
+        "D": "No, nunca."
+      },
+      "opciones_chino": {
+        "A": "是的，但仅适用于汽车。",
+        "B": "是的。",
+        "C": "是的，但仅在不到10年的车辆的情况下。",
+        "D": "不，永远不会。"
+      }
+    },
+    {
+      "cod": "2G03029",
+      "pregunta": "¿Pueden hacerse trabajos de reparación de vehículos en las estaciones ITV?",
+      "pregunta_chino": "可以在ITV站点完成车辆吗？",
+      "solucion": "C",
+      "norma": "RD 920/2017, art. 14",
+      "opciones": {
+        "A": "Sí, siempre que se abonen aparte de las tasas de la Inspección de Vehículos.",
+        "B": "Sí, a partir de la tercera revisión periódica.",
+        "C": "No, en ningún caso.",
+        "D": "No pueden autorizarse estaciones ITV si carecen de taller de reparaciones."
+      },
+      "opciones_chino": {
+        "A": "是的，只要他们从车辆检查率分开支付。",
+        "B": "是的，来自第三次定期审查。",
+        "C": "不，在没有情况下。",
+        "D": "如果ITV站缺乏维修工作坊，则无法授权。"
+      }
+    },
+    {
+      "cod": "2G03030",
+      "pregunta": "El procedimiento para obtener la homologación de tipo de un vehículo será fijado por:",
+      "pregunta_chino": "获取车辆类型处理的程序将通过：",
+      "solucion": "D",
+      "norma": "RD 2822/1998, Anexo IX",
+      "opciones": {
+        "A": "el vendedor.",
+        "B": "el comprador.",
+        "C": "el fabricante.",
+        "D": "el Ministerio competente en materia de industria."
+      },
+      "opciones_chino": {
+        "A": "卖方。",
+        "B": "买家。",
+        "C": "制造商。",
+        "D": "工业上有能力的事工。"
+      }
+    },
+    {
+      "cod": "2G03031",
+      "pregunta": "¿Qué es la inspección técnica unitaria?",
+      "pregunta_chino": "什么是统一技术检查？",
+      "solucion": "C",
+      "norma": "RD 750/2010, art. 5",
+      "opciones": {
+        "A": "Es la inspección técnica de tipo muestral que controla un único vehículo por flota.",
+        "B": "Es la inspección técnica centrada en la revisión de un determinado componente de los vehículos.",
+        "C": "Es la inspección técnica a la que se someten determinados vehículos que no cumplen las condiciones generales de homologación, como requisito previo a su matriculación.",
+        "D": "Se denomina así a las estaciones de ITV que solo tienen una línea de trabajo."
+      },
+      "opciones_chino": {
+        "A": "这是样本技术检查，可以控制每个车队单车。",
+        "B": "这是针对对车辆某些组件的审查的技术检查。",
+        "C": "这是某些不符合一般批准条件的技术检查，作为注册之前的要求。",
+        "D": "这称为仅具有工作线的ITV站。"
+      }
+    },
+    {
+      "cod": "2G03032",
+      "pregunta": "¿Qué harán los agentes de la autoridad encargados de la vigilancia del tráfico cuando detecten un incumplimiento en los plazos de la Inspección Técnica de Vehículos?",
+      "pregunta_chino": "负责交通监视的机构的代理人在违反了车辆的技术检查截止日期时会做什么？",
+      "solucion": "C",
+      "norma": "RD 920/2017, art. 6",
+      "opciones": {
+        "A": "Procederán a la inmediata paralización del vehículo.",
+        "B": "Intervendrán el permiso de circulación del vehículo, entregando en su sustitución un volante con una validez de 30 días, para continuar el viaje y someter el vehículo a una inspección técnica.",
+        "C": "Concederán al titular o arrendatario a largo plazo del vehículo un plazo de 10 días para someter al mismo a inspección técnica.",
+        "D": "Intervendrán el permiso de circulación del vehículo, entregando en su sustitución un volante con una validez de 20 días, para continuar el viaje y someter el vehículo a una inspección técnica."
+      },
+      "opciones_chino": {
+        "A": "他们将立即停止车辆。",
+        "B": "车辆循环许可证将干预，以30天的有效性替代方向盘，以继续旅行并将车辆提交技术检查。",
+        "C": "他们将授予车辆的持有人或长期承租人10天的时间以提交技术检查。",
+        "D": "车辆循环许可证将干预，以20天有效性的方向盘替换，以继续旅行并将车辆提交技术检查。"
+      }
+    },
+    {
+      "cod": "2G03033",
+      "pregunta": "¿Qué organismo dicta instrucciones en materia de inspección técnica de vehículos?",
+      "pregunta_chino": "哪种生物在技术检查领域的指示决定了车辆的指示？",
+      "solucion": "B",
+      "norma": "RD 920/2017, art. 8",
+      "opciones": {
+        "A": "El Ministerio de Economía y Hacienda.",
+        "B": "El Ministerio de Economía, Industria y Competitividad.",
+        "C": "El Ministerio de Transportes.",
+        "D": "La Asociación General de Talleres de Reparación de Vehículos."
+      },
+      "opciones_chino": {
+        "A": "经济和财政部。",
+        "B": "经济，工业和竞争力部。",
+        "C": "运输部。",
+        "D": "车辆维修研讨会的一般协会。"
+      }
+    },
+    {
+      "cod": "2G03034",
+      "pregunta": "¿Qué se debe hacer en caso de que una estación ITV detecte un defecto que constituye un peligro para sus ocupantes o para los demás usuarios de la vía pública y se califique la inspección como negativa?",
+      "pregunta_chino": "如果ITV站检测到构成对其居住者或其他公共道路使用者构成危险的缺陷，并且检查被认为是负面的，该怎么办？",
+      "solucion": "D",
+      "norma": "RD 920/2017, art. 11",
+      "opciones": {
+        "A": "Solo se permite circular para dirigirse al taller.",
+        "B": "Se le exigirá al titular del vehículo una nueva inspección en un plazo de 15 a 30 días.",
+        "C": "Se inmoviliza el vehículo inmediatamente y se procede su desguace.",
+        "D": "Solo podrá dirigirse al taller remolcado o por medios ajenos."
+      },
+      "opciones_chino": {
+        "A": "它只能流通去研讨会。",
+        "B": "在15到30天内，将需要对车辆支架进行新的检查。",
+        "C": "立即将车辆固定，并进行废料。",
+        "D": "您只能去拖曳的工作坊或其他人的手段。"
+      }
+    },
+    {
+      "cod": "2G03035",
+      "pregunta": "¿Qué tipos de inspección puede realizar una estación de inspección técnica?",
+      "pregunta_chino": "技术检查站可以执行哪些类型的检查？",
+      "solucion": "D",
+      "norma": "RD 920/2017, art. 5",
+      "opciones": {
+        "A": "Inspecciones previas a la matriculación, periféricas y extraordinarias.",
+        "B": "Solo las inspecciones posteriores a las realizadas en carretera.",
+        "C": "Inspecciones posteriores a la matriculación, solamente.",
+        "D": "Inspecciones previas a la matriculación, periódicas y extraordinarias."
+      },
+      "opciones_chino": {
+        "A": "在入学之前进行检查，外围和非凡。",
+        "B": "仅在路上进行的那些人进行检查。",
+        "C": "仅在入学后进行检查。",
+        "D": "注册，周期性和非凡的检查。"
+      }
+    },
+    {
+      "cod": "2G03036",
+      "pregunta": "¿Qué se entiende por homologación de tipo CE?",
+      "pregunta_chino": "CE类型的类型可以理解的是什么？",
+      "solucion": "A",
+      "norma": "RD 750/2010, art. 2",
+      "opciones": {
+        "A": "El procedimiento mediante el cual un Estado miembro del Espacio Económico Europeo certifica que un tipo de vehículo, sistema, componente o unidad técnica independiente cumple las disposiciones administrativas y requisitos técnicos de las Directivas comunitarias.",
+        "B": "El conjunto de actuaciones relacionadas con el uso del vehículo.",
+        "C": "La declaración del fabricante en la que manifiesta los componentes que se pueden utilizar en su vehículo.",
+        "D": "El conjunto de normas sobre las prescripciones técnicas de un vehículo."
+      },
+      "opciones_chino": {
+        "A": "欧洲经济空间成员国证明一种车辆，系统，组件或独立技术部门的程序符合社区指令的行政规定和技术要求。",
+        "B": "与车辆使用有关的一组动作。",
+        "C": "制造商的陈述表现为可以在车辆中使用的组件。",
+        "D": "车辆技术处方的一系列标准。"
+      }
+    },
+    {
+      "cod": "2G03037",
+      "pregunta": "¿Qué se entiende por homologación de tipo nacional?",
+      "pregunta_chino": "国家类型的同类理解的是什么？",
+      "solucion": "A",
+      "norma": "RD 750/2010, art. 2",
+      "opciones": {
+        "A": "El procedimiento de homologación de tipo establecido por la legislación nacional de un Estado miembro del Espacio Económico Europeo, quedando la validez de dicha homologación limitada al territorio de ese Estado.",
+        "B": "El procedimiento de homologación de tipo establecido por la legislación nacional de un Estado miembro del Espacio Económico Europeo, homologación que tendrá plena validez en los restantes Estados.",
+        "C": "La declaración del fabricante en la que manifiesta los componentes que, dentro de un determinado Estado de la Unión Europea, se pueden utilizar en su vehículo.",
+        "D": "La declaración del fabricante en la que manifiesta los componentes que, en cualquier Estado de la Unión Europea, se pueden utilizar en su vehículo."
+      },
+      "opciones_chino": {
+        "A": "由欧洲经济空间成员国国家立法制定的类型批准程序，使所述物种的有效性仅限于该州的领土。",
+        "B": "欧洲经济领域成员国国家立法制定的类型批准程序，其余国家将具有充分的有效性。",
+        "C": "制造商的声明说明组件在欧盟的某个状态内可以在您的车辆中使用。",
+        "D": "制造商的声明由组件表现出来，在欧盟的任何状态下，都可以在您的车辆中使用。"
+      }
+    },
+    {
+      "cod": "2G03038",
+      "pregunta": "¿Qué se entiende por homologación individual?",
+      "pregunta_chino": "个体的同类理解的是什么？",
+      "solucion": "B",
+      "norma": "RD 750/2010, art. 2",
+      "opciones": {
+        "A": "El procedimiento por el cual se certifica que un vehículo en particular, siempre de carácter singular, cumple las disposiciones administrativas y requisitos técnicos.",
+        "B": "El procedimiento por el cual se certifica que un vehículo en particular, ya sea singular o no, cumple las disposiciones administrativas y requisitos técnicos.",
+        "C": "La certificación individualizada de las características de un vehículo realizada a instancias de su propietario.",
+        "D": "La certificación individualizada de las características de un vehículo realizada a instancias de su fabricante."
+      },
+      "opciones_chino": {
+        "A": "证明的程序表明，特定的车辆始终具有单一性质，符合行政规定和技术要求。",
+        "B": "证明特定车辆（无论是否单数）是否符合行政规定和技术要求的程序。",
+        "C": "应其所有者要求进行的车辆特性的个性化认证。",
+        "D": "应其制造商要求进行的车辆特性的个性化认证。"
+      }
+    },
+    {
+      "cod": "2G03039",
+      "pregunta": "A efectos de los períodos de vigencia de la inspección técnica, ¿cómo se computa la antigüedad del vehículo?",
+      "pregunta_chino": "出于技术检查有效期的目的，如何计算车辆的年龄？",
+      "solucion": "D",
+      "norma": "RD 920/2017, art. 6",
+      "opciones": {
+        "A": "Se computa a partir de la fecha de fabricación si es nacional.",
+        "B": "Se computa a partir de la fecha de importación si es extranjero.",
+        "C": "Se computa a partir de la fecha de la inspección técnica previa a la matriculación.",
+        "D": "Se computa a partir de la fecha de primera matriculación que conste en el permiso de circulación."
+      },
+      "opciones_chino": {
+        "A": "如果是国家，则从制造日期开始计算。",
+        "B": "如果是外国人，则从进口日开始计算。",
+        "C": "它是从入学前的技术检查日期开始计算的。",
+        "D": "它是从第一个注册日期开始计算的，该注册日期由循环许可组成。"
+      }
+    },
+    {
+      "cod": "2G03040",
+      "pregunta": "¿Qué trámite debe realizar quien desee homologar de tipo un vehículo?",
+      "pregunta_chino": "谁应该什么程序要等于车辆？",
+      "solucion": "B",
+      "norma": "RD 750/2010, art. 4",
+      "opciones": {
+        "A": "Inscribirse en el Registro de solicitantes de homologación.",
+        "B": "Inscribirse en el Registro de fabricantes y firmas autorizadas.",
+        "C": "Obtener el certificado de calidad ISO 9001.",
+        "D": "Obtener el certificado de productor ecológico."
+      },
+      "opciones_chino": {
+        "A": "注册在临近人注册表中。",
+        "B": "在授权制造商和签名注册表中注册。",
+        "C": "获得ISO 9001质量证书。",
+        "D": "获得生态生产者证书。"
+      }
+    },
+    {
+      "cod": "2G03041",
+      "pregunta": "En el caso de que el resultado de una inspección sea desfavorable, ¿dónde se realizará la nueva inspección?",
+      "pregunta_chino": "如果检查结果不利，新检查将在哪里进行？",
+      "solucion": "B",
+      "norma": "RD 920/2017, art. 11",
+      "opciones": {
+        "A": "En la misma estación ITV, como regla general.",
+        "B": "En cualquier estación ITV.",
+        "C": "En una estación ITV de la misma Comunidad.",
+        "D": "En la estación que designe la Jefatura Provincial o Local de Tráfico."
+      },
+      "opciones_chino": {
+        "A": "在同一ITV站中，作为一般规则。",
+        "B": "在任何ITV站。",
+        "C": "在同一社区的ITV站。",
+        "D": "在指定省或地方交通领导的车站中。"
+      }
+    },
+    {
+      "cod": "2G03042",
+      "pregunta": "Cada vehículo que corresponda a un tipo homologado deberá:",
+      "pregunta_chino": "与批准类型相对应的每辆车必须：",
+      "solucion": "C",
+      "norma": "RD 750/2010, art. 10",
+      "opciones": {
+        "A": "superar un examen técnico individual antes de su matriculación.",
+        "B": "contar con un certificado individual de homologación.",
+        "C": "llevar inscrito en la placa del fabricante el número que le haya sido asignado por la autoridad de homologación.",
+        "D": "Todas las respuestas anteriores son correctas."
+      },
+      "opciones_chino": {
+        "A": "在注册之前克服个人技术考试。",
+        "B": "拥有单独的认可证书。",
+        "C": "采用由制造商板上注册的批准当局分配的号码。",
+        "D": "以上所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2G03043",
+      "pregunta": "En el caso de vehículos matriculados con anterioridad, tanto en territorio nacional como en el extranjero, ¿cómo se computa la antigüedad del vehículo, a efectos de la inspección técnica periódica?",
+      "pregunta_chino": "对于先前在国家和国外领土上的先前注册车辆，就定期技术检查而言，车辆的年龄如何？",
+      "solucion": "B",
+      "norma": "RD 920/2017, art. 6",
+      "opciones": {
+        "A": "A partir de la fecha de fabricación del vehículo.",
+        "B": "A partir de la fecha de la primera matriculación o puesta en servicio que conste en el permiso de circulación del vehículo o documento equivalente.",
+        "C": "A partir de la fecha de la primera inspección técnica.",
+        "D": "A partir de la última fecha de matriculación que conste en el permiso de circulación."
+      },
+      "opciones_chino": {
+        "A": "从车辆的制造日期开始。",
+        "B": "截至第一次注册或调试的日期，将其记录在车辆发行许可证或同等文件中。",
+        "C": "从第一次技术检查之日起。",
+        "D": "从入学日期起，记录了流通许可证中的记录。"
+      }
+    },
+    {
+      "cod": "2G03044",
+      "pregunta": "En el marco del proceso de homologación de vehículos, el procedimiento de conformidad de la producción se lleva a cabo mediante la realización de los siguientes controles.",
+      "pregunta_chino": "在车辆批准过程的框架内，生产符合程序是通过执行以下控件来执行的。",
+      "solucion": "D",
+      "norma": "RD 750/2010, art. 9",
+      "opciones": {
+        "A": "Que los procedimientos de que dispone el fabricante son satisfactorios para garantizar un control eficaz de la conformidad con el tipo homologado.",
+        "B": "Que existen planes de control documentados para poder realizar, a intervalos determinados, los ensayos y controles necesarios para comprobar la conformidad con el tipo homologado.",
+        "C": "Que la autoridad de homologación puede verificar en todo momento la correspondencia del vehículo con el tipo homologado.",
+        "D": "Todas las respuestas anteriores son correctas."
+      },
+      "opciones_chino": {
+        "A": "制造商可用的程序令人满意，以确保有效控制遵守批准类型的操作。",
+        "B": "有记录的控制计划，可以在一定时间间隔内进行必要的试验和控制，以验证符合批准类型的符合。",
+        "C": "批准当局可以始终验证车辆与批准类型的通信。",
+        "D": "以上所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2G03045",
+      "pregunta": "En el marco del proceso de homologación de vehículos, el procedimiento de conformidad de la producción tiene por objeto:",
+      "pregunta_chino": "在车辆批准过程的框架内，旨在生产一致性程序：",
+      "solucion": "A",
+      "norma": "RD 750/2010, art. 9",
+      "opciones": {
+        "A": "garantizar que cada vehículo es conforme con el tipo homologado.",
+        "B": "homologar de modo individual un vehículo.",
+        "C": "asegurar que la producción no supera el número de unidades autorizadas.",
+        "D": "adaptar la homologación de tipo a las características propias de cada modelo."
+      },
+      "opciones_chino": {
+        "A": "确保每辆车都对批准类型感到满意。",
+        "B": "单独地同源车辆。",
+        "C": "确保生产不会超过授权单位的数量。",
+        "D": "将类型的同源化适应每个模型的特征。"
+      }
+    },
+    {
+      "cod": "2G03046",
+      "pregunta": "La inspección técnica de un vehículo se debe realizar por diversos motivos. ¿Cuál de los que se enumeran a continuación no es cierto?",
+      "pregunta_chino": "由于各种原因，必须对车辆进行技术检查。下面列出的哪些不是正确的？",
+      "solucion": "D",
+      "norma": "RD 920/2017, art. 5",
+      "opciones": {
+        "A": "En caso de sufrir determinadas reformas.",
+        "B": "Por solicitud del arrendatario a largo plazo.",
+        "C": "En caso de accidente de importancia.",
+        "D": "En caso de venta de un vehículo."
+      },
+      "opciones_chino": {
+        "A": "如果遭受某些改革。",
+        "B": "应长期租户的要求。",
+        "C": "如果发生重要意外。",
+        "D": "如果出售车辆。"
+      }
+    },
+    {
+      "cod": "2G03047",
+      "pregunta": "Los vehículos que hayan superado favorablemente la inspección técnica periódica, ¿deberán llevar un distintivo indicativo al efecto?",
+      "pregunta_chino": "超过定期技术检查的车辆，它们是否应该带有指示性徽章？",
+      "solucion": "C",
+      "norma": "RD 920/2017, art. 12",
+      "opciones": {
+        "A": "Sí, pero solo llevarán un distintivo los vehículos de viajeros de servicio público.",
+        "B": "Sí, pero solo llevarán un distintivo los vehículos de viajeros de servicio público y privado complementario.",
+        "C": "Sí, llevarán el distintivo todos los vehículos.",
+        "D": "Sí, pero solo llevarán distintivo los particulares."
+      },
+      "opciones_chino": {
+        "A": "是的，但是只有公共服务旅行者的车辆才能获得徽章。",
+        "B": "是的，但是只有公共和私人服务旅行者的车辆才能有所不同。",
+        "C": "是的，所有车辆都将带有徽章。",
+        "D": "是的，但是只有个人会有独特的。"
+      }
+    },
+    {
+      "cod": "2G03048",
+      "pregunta": "Los componentes de un vehículo…",
+      "pregunta_chino": "车辆的组件...",
+      "solucion": "C",
+      "norma": "RD 750/2010, art. 2",
+      "opciones": {
+        "A": "pueden homologarse siempre, independientemente de dicho vehículo.",
+        "B": "no pueden homologarse nunca, independientemente del vehículo al que pertenecen.",
+        "C": "pueden homologarse de modo independiente cuando lo disponga expresamente la normativa.",
+        "D": "pueden homologarse de modo independiente siempre que no lo prohíba expresamente la normativa."
+      },
+      "opciones_chino": {
+        "A": "不管该车辆如何，它们总是可以被批准。",
+        "B": "无论其属于哪种车辆，它们都无法获得批准。",
+        "C": "在法规明确提供时，可以独立批准它们。",
+        "D": "只要没有明确禁止法规，就可以独立批准。"
+      }
+    },
+    {
+      "cod": "2G03049",
+      "pregunta": "Si el resultado de una inspección técnica fuese desfavorable, ¿qué plazo concede la estación ITV a su titular para subsanar los defectos observados?",
+      "pregunta_chino": "如果技术检查的结果不利，那么ITV站授予其所有者以纠正观察到的缺陷的时间是多少？",
+      "solucion": "B",
+      "norma": "RD 920/2017, art. 11",
+      "opciones": {
+        "A": "Inferior a 1 mes.",
+        "B": "Inferior a 2 meses.",
+        "C": "Inferior a 3 meses.",
+        "D": "Inferior a 6 meses."
+      },
+      "opciones_chino": {
+        "A": "少于1个月。",
+        "B": "少于2个月。",
+        "C": "少于3个月。",
+        "D": "不到6个月。"
+      }
+    },
+    {
+      "cod": "2G03050",
+      "pregunta": "Todo vehículo que haya sufrido, como consecuencia de un accidente u otra causa, un daño importante que pueda afectar a algún elemento de seguridad, ¿deberá ser presentado a inspección?",
+      "pregunta_chino": "由于事故或其他原因而遭受的任何车辆，可能会影响任何安全因素的重要损害，是否应该向检查呈现？",
+      "solucion": "B",
+      "norma": "RD 920/2017, art. 6",
+      "opciones": {
+        "A": "No, quedará retirado definitivamente de la circulación.",
+        "B": "Sí, antes de su nueva puesta en circulación.",
+        "C": "Solamente es obligatoria la inspección cuando afecte a algún elemento del sistema de suspensión y transmisión.",
+        "D": "Solamente es obligatoria cuando afecte al bastidor."
+      },
+      "opciones_chino": {
+        "A": "不，它将明确从循环中删除。",
+        "B": "是的，在您的新发行之前。",
+        "C": "只有在影响悬架和传输系统的某些元素时，只有检查才是必须的。",
+        "D": "仅当它影响框架时，它才是必须的。"
+      }
+    },
+    {
+      "cod": "2G03051",
+      "pregunta": "Una vez ha sido denunciado un vehículo por no cumplir con las ITV periódicas, ¿qué consecuencias tiene el hecho de no pasar la ITV en el plazo de 10 días posteriores a la denuncia?",
+      "pregunta_chino": "一旦被谴责为不遵守周期性ITV的谴责，投诉后的10天内ITV不会通过什么后果？",
+      "solucion": "C",
+      "norma": "RD 920/2017, art. 6",
+      "opciones": {
+        "A": "Que, si es detectado circulando, será obligado a pasar la ITV en el momento.",
+        "B": "Que, si es detectado circulando, se iniciará el procedimiento para darlo de baja de oficio.",
+        "C": "Que Tráfico inicia el procedimiento para dar de baja el vehículo de oficio.",
+        "D": "Que, si es detectado circulando, el importe de la sanción se multiplica por 2."
+      },
+      "opciones_chino": {
+        "A": "如果检测到循环，它将被迫通过ITV。",
+        "B": "如果检测到循环，该程序将开始将其排放到主席中。",
+        "C": "该流量开始了取消车辆的程序。",
+        "D": "如果检测到循环，则制裁的数量将乘以2。"
+      }
+    },
+    {
+      "cod": "2G03052",
+      "pregunta": "Un vehículo que, por su configuración, solo pueda recibir una homologación aplicando determinadas exenciones…",
+      "pregunta_chino": "由于其配置，只能通过应用某些豁免来获得处理的车辆...",
+      "solucion": "A",
+      "norma": "RD 750/2010, art. 5",
+      "opciones": {
+        "A": "debe someterse a una inspección técnica unitaria con carácter previo a su matriculación.",
+        "B": "no puede ser matriculado en España en ningún caso.",
+        "C": "podrá matricularse acreditando previamente su compraventa y transferencia efectiva.",
+        "D": "podrá matricularse en España solo si se acredita que ha estado matriculado antes en otro Estado miembro del Espacio Económico Europeo."
+      },
+      "opciones_chino": {
+        "A": "您必须在注册之前进行统一的技术检查。",
+        "B": "无论如何，它都不能在西班牙注册。",
+        "C": "您可以先前注册以前认可您的销售和有效转让。",
+        "D": "只有在证明它已在欧洲经济领域的另一个成员国之前已入学时，才可以在西班牙入学。"
+      }
+    },
+    {
+      "cod": "2G03053",
+      "pregunta": "Según la normativa, ¿en qué momento se realiza la inspección técnica unitaria de un vehículo?",
+      "pregunta_chino": "根据法规，在什么时候对车辆进行统一技术检查？",
+      "solucion": "A",
+      "norma": "RD 750/2010, art. 5",
+      "opciones": {
+        "A": "Antes de su matriculación.",
+        "B": "Después de una reforma de importancia.",
+        "C": "Antes de ser autorizado para realizar transporte escolar.",
+        "D": "Después de la instalación del tacógrafo."
+      },
+      "opciones_chino": {
+        "A": "在您注册之前。",
+        "B": "经过重要的改革。",
+        "C": "在被授权进行学校交通之前。",
+        "D": "安装了快速仪后。"
+      }
+    },
+    {
+      "cod": "2G03054",
+      "pregunta": "Cuando se detecte en carretera un incumplimiento en los plazos de la Inspección Técnica de Vehículos, ¿qué harán los agentes de vigilancia del tráfico?",
+      "pregunta_chino": "当在道路上检测到车辆技术检查的截止日期不合格时，交通监视代理将做什么？",
+      "solucion": "A",
+      "norma": "RD 920/2017, art. 6",
+      "opciones": {
+        "A": "Concederán al titular un plazo de 10 días para someter al mismo a inspección técnica.",
+        "B": "Intervendrán el permiso de circulación del vehículo y concederán un plazo de 5 días para someter el vehículo a una inspección técnica.",
+        "C": "Acompañarán al vehículo a la estación ITV más cercana para que sea sometido a una inspección técnica.",
+        "D": "Procederán a la inmediata paralización del vehículo."
+      },
+      "opciones_chino": {
+        "A": "他们将授予持有人10天的时间，以服从技术检查。",
+        "B": "车辆循环许可将干预并授予5天的时间，以提交车辆进行技术检查。",
+        "C": "他们将陪同车辆前往最近的ITV站进行技术检查。",
+        "D": "他们将立即停止车辆。"
+      }
+    },
+    {
+      "cod": "2G03055",
+      "pregunta": "¿Qué se debe hacer en caso ITV negativa del vehículo por defecto grave?",
+      "pregunta_chino": "如果有严重违约的负面工具，该怎么办？",
+      "solucion": "C",
+      "norma": "RD 920/2017, art. 11",
+      "opciones": {
+        "A": "Volver a pasar la ITV en un plazo de 15 días.",
+        "B": "El vehículo podrá circular sin superar los 80 Km/h hasta la siguiente ITV.",
+        "C": "El vehículo solo podrá circular para dirigirse al taller.",
+        "D": "El vehículo no podrá circular bajo ninguna circunstancia."
+      },
+      "opciones_chino": {
+        "A": "在15天内再次通过ITV。",
+        "B": "车辆可以在下一个ITV的情况下循环，而无需超过80 km/h。",
+        "C": "车辆只能循环去研讨会。",
+        "D": "在任何情况下，车辆均不得循环。"
+      }
+    },
+    {
+      "cod": "2G03056",
+      "pregunta": "¿Dónde pueden realizarse las ITV previas a la matriculación de un vehículo?",
+      "pregunta_chino": "在车辆注册之前可以在哪里完成ITV？",
+      "solucion": "A",
+      "norma": "RD 920/2017, art. 5",
+      "opciones": {
+        "A": "En cualquier estación ITV.",
+        "B": "En los centros específicos de homologación de cada Comunidad Autónoma.",
+        "C": "En las estaciones ITV designadas por el Ministerio de Industria.",
+        "D": "En los talleres con autorización específica para ese tipo de inspecciones."
+      },
+      "opciones_chino": {
+        "A": "在任何ITV站。",
+        "B": "在每个自治社区的特定字体中心。",
+        "C": "在工业部指定的ITV站中。",
+        "D": "在具有特定授权的此类检查的研讨会中。"
+      }
+    },
+    {
+      "cod": "2G04001",
+      "pregunta": "¿Qué se entiende en una empresa de transporte como \"gestión de combustible\"?",
+      "pregunta_chino": "在运输公司中，什么是“燃料管理”？",
+      "solucion": "B",
+      "norma": "Guía para la gestión del combustible en las flotas de transporte por carretera, IDEA",
+      "opciones": {
+        "A": "El diseño de la política de abastecimiento de combustible de la empresa.",
+        "B": "El sistema de control y de seguimiento del consumo de carburante global e individualizado de los vehículos de una flota de transporte.",
+        "C": "El estudio de la incidencia del combustible en los precios del transporte de la empresa.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "公司燃油供应政策的设计。",
+        "B": "运输机队车辆全球和个性化燃料消费的控制和监测系统。",
+        "C": "对公司运输价格中燃料发病率的研究。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2G04002",
+      "pregunta": "¿Qué acción incluye una adecuada gestión del combustible en una empresa de transporte?",
+      "pregunta_chino": "什么行动包括运输公司中足够的燃料管理？",
+      "solucion": "C",
+      "norma": "Guía para la gestión del combustible en las flotas de transporte por carretera, IDEA",
+      "opciones": {
+        "A": "Conseguir el aprovisionamiento a mejor precio.",
+        "B": "Incrementar la rapidez en la distribución del combustible a los vehículos.",
+        "C": "Planificar adecuadamente las rutas y el uso de los vehículos.",
+        "D": "Centralizar el almacenamiento de combustible de la empresa."
+      },
+      "opciones_chino": {
+        "A": "以更好的价格获得供应。",
+        "B": "提高燃油分配到车辆的速度。",
+        "C": "正确地计划车辆的路线和使用。",
+        "D": "集中公司的燃料存储。"
+      }
+    },
+    {
+      "cod": "2G04003",
+      "pregunta": "¿Qué incluyen las normas de la UE en relación con el medio ambiente y el transporte?",
+      "pregunta_chino": "什么包括与环境和运输有关的欧盟标准？",
+      "solucion": "A",
+      "norma": "Agencia Europea del Medio Ambiente - https://www.eea.europa.eu/es/themes/transport/intro",
+      "opciones": {
+        "A": "Límites de emisiones para los vehículos.",
+        "B": "Contingentación de autorizaciones de transporte en algunas zonas.",
+        "C": "Limitaciones y restricciones de circulación para determinado tipo de transporte.",
+        "D": "Todas las respuestas son correctas"
+      },
+      "opciones_chino": {
+        "A": "车辆的排放限制。",
+        "B": "在某些领域的运输授权的偶然性。",
+        "C": "某种类型运输的局限性和循环限制。",
+        "D": "所有答案都是正确的"
+      }
+    },
+    {
+      "cod": "2G04004",
+      "pregunta": "¿Qué incluyen las normas de la UE en relación con el medio ambiente y el transporte?",
+      "pregunta_chino": "什么包括与环境和运输有关的欧盟标准？",
+      "solucion": "B",
+      "norma": "Agencia Europea del Medio Ambiente - https://www.eea.europa.eu/es/themes/transport/intro",
+      "opciones": {
+        "A": "Contingentación de autorizaciones de transporte en algunas zonas.",
+        "B": "Requisitos específicos para los combustibles del transporte.",
+        "C": "Fomento del uso de vehículos de mayor capacidad de carga.",
+        "D": "Todas las respuestas son correctas"
+      },
+      "opciones_chino": {
+        "A": "在某些领域的运输授权的偶然性。",
+        "B": "运输燃料的具体要求。",
+        "C": "促进使用负载能力更大的车辆使用。",
+        "D": "所有答案都是正确的"
+      }
+    },
+    {
+      "cod": "2G04005",
+      "pregunta": "¿Qué incluyen las normas de la UE en relación con el medio ambiente y el transporte?",
+      "pregunta_chino": "什么包括与环境和运输有关的欧盟标准？",
+      "solucion": "C",
+      "norma": "Agencia Europea del Medio Ambiente - https://www.eea.europa.eu/es/themes/transport/intro",
+      "opciones": {
+        "A": "Contingentación de autorizaciones de transporte en algunas zonas.",
+        "B": "Fomento del uso de vehículos de mayor capacidad de carga.",
+        "C": "Elaboración de mapas de ruido y planes de acción de gestión del ruido para grandes infraestructuras de transporte.",
+        "D": "Todas las respuestas son correctas"
+      },
+      "opciones_chino": {
+        "A": "在某些领域的运输授权的偶然性。",
+        "B": "促进使用负载能力更大的车辆使用。",
+        "C": "为大型运输基础设施的噪声图和噪声管理行动计划的准备。",
+        "D": "所有答案都是正确的"
+      }
+    },
+    {
+      "cod": "2G04006",
+      "pregunta": "La UE ha definido un transporte energéticamente eficiente en base…",
+      "pregunta_chino": "欧盟已经根据...定义了高效的运输。",
+      "solucion": "A",
+      "norma": "Agencia Europea del Medio Ambiente - https://www.eea.europa.eu/es/themes/transport/intro",
+      "opciones": {
+        "A": "al despliegue de combustibles con bajo nivel de emisiones.",
+        "B": "a la modificación del régimen de cabotaje.",
+        "C": "a la promoción del uso de vehículos con mayor capacidad de carga.",
+        "D": "a la contingentación de las autorizaciones de transporte."
+      },
+      "opciones_chino": {
+        "A": "部署具有低排放水平的燃料。",
+        "B": "修改Cabotage制度。",
+        "C": "促进具有更大负载能力的车辆。",
+        "D": "交通授权的意外。"
+      }
+    },
+    {
+      "cod": "2G04007",
+      "pregunta": "¿Qué acción incluye una adecuada gestión del combustible en una empresa de transporte?",
+      "pregunta_chino": "什么行动包括运输公司中足够的燃料管理？",
+      "solucion": "D",
+      "norma": "Guía para la gestión del combustible en las flotas de transporte por carretera, IDEA",
+      "opciones": {
+        "A": "Centralizar el almacenamiento de combustible de la empresa.",
+        "B": "Incrementar la rapidez en la distribución del combustible a los vehículos.",
+        "C": "Conseguir el aprovisionamiento a mejor precio.",
+        "D": "Realizar un correcto mantenimiento de los vehículos."
+      },
+      "opciones_chino": {
+        "A": "集中公司的燃料存储。",
+        "B": "提高燃油分配到车辆的速度。",
+        "C": "以更好的价格获得供应。",
+        "D": "进行适当的车辆维护。"
+      }
+    },
+    {
+      "cod": "2G04008",
+      "pregunta": "¿Qué supone para una empresa la implantación de un sistema de gestión de combustible?",
+      "pregunta_chino": "公司的燃料管理系统的实施是什么？",
+      "solucion": "D",
+      "norma": "Guía para la gestión del combustible en las flotas de transporte por carretera, IDEA",
+      "opciones": {
+        "A": "Incremento de la eficiencia energética en relación con los servicios.",
+        "B": "Ahorro de carburante.",
+        "C": "Mayor rentabilidad de cada libro de combustible adquirido.",
+        "D": "Todas las respuestas son correctas"
+      },
+      "opciones_chino": {
+        "A": "与服务有关的能源效率提高。",
+        "B": "节省燃料。",
+        "C": "每本获得的燃料书的盈利能力更高。",
+        "D": "所有答案都是正确的"
+      }
+    },
+    {
+      "cod": "2G04009",
+      "pregunta": "¿Qué funciones tiene un caudalímetro instalado en un vehículo de transporte?",
+      "pregunta_chino": "运输车辆中安装了流量计的功能？",
+      "solucion": "A",
+      "norma": "Guía para la gestión del combustible en las flotas de transporte por carretera, IDEA",
+      "opciones": {
+        "A": "Informar al conductor de su consumo de combustible.",
+        "B": "Es el medidor del nivel de combustible en el depósito.",
+        "C": "Solo se instalan en las cisternas y mide el nivel de líquido en su interior.",
+        "D": "Mide la fuerza de rozamiento que soporta el vehículo y su incidencia en el consumo de carburante."
+      },
+      "opciones_chino": {
+        "A": "通知驾驶员的燃油消耗。",
+        "B": "它是水箱中的燃油水平计。",
+        "C": "它们仅安装在水箱中，并测量内部的流体水平。",
+        "D": "它测量支持车辆的摩擦力及其在燃油消耗中的发生率。"
+      }
+    },
+    {
+      "cod": "2G04010",
+      "pregunta": "¿Cuáles de las siguientes son medidas que mejoran la eficiencia energética en una empresa de transportes?",
+      "pregunta_chino": "以下哪项是提高运输公司能源效率的措施？",
+      "solucion": "D",
+      "norma": "Guía para la gestión del combustible en las flotas de transporte por carretera, IDEA",
+      "opciones": {
+        "A": "Optimización de rutas y reducción consumo por kilómetro recorrido.",
+        "B": "Formación de los conductores en conducción eficiente y realizar un buen mantenimiento de la flota.",
+        "C": "Incrementar la tasa de ocupación de los vehículos y reducir los recorridos en vacío.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "每公里的路线优化和减少消耗。",
+        "B": "培训驾驶员在高效驾驶中的培训，并对机队进行良好的维护。",
+        "C": "提高车辆占用率并减少真空旅行。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2G04011",
+      "pregunta": "¿Cuál es el elemento básico para una buena eficiencia energética de una flota de vehículos?",
+      "pregunta_chino": "车队良好能源效率的基本要素是什么？",
+      "solucion": "C",
+      "norma": "Guía para la gestión del combustible en las flotas de transporte por carretera, IDEA",
+      "opciones": {
+        "A": "Abaratar el precio de compra del combustible.",
+        "B": "Mejorar la distribución y repostaje en la empresa.",
+        "C": "Realizar un control del consumo de combustible con precisión y detalle.",
+        "D": "Seleccionar convenientemente a los clientes."
+      },
+      "opciones_chino": {
+        "A": "降低燃料的购买价格。",
+        "B": "改善公司的分销和加油。",
+        "C": "精确和细节执行燃油消耗。",
+        "D": "方便地选择客户。"
+      }
+    },
+    {
+      "cod": "2G04012",
+      "pregunta": "¿Cómo afecta al medio ambiente el ruido causado por la circulación de vehículos?",
+      "pregunta_chino": "车辆循环引起的噪声如何影响环境？",
+      "solucion": "C",
+      "norma": "Ley 37/2003, art. 2; Ley 37/2003, art. 12",
+      "opciones": {
+        "A": "No produce daños en el medio ambiente.",
+        "B": "Solo afecta al medio ambiente el ruido ocasionado por vehículos del sector de la construcción.",
+        "C": "Perjudica al medio ambiente al provocar contaminación acústica.",
+        "D": "Apenas incide en el medio ambiente."
+      },
+      "opciones_chino": {
+        "A": "它不会造成环境破坏。",
+        "B": "它仅影响建筑部门车辆引起的噪音的环境。",
+        "C": "它通过造成噪声污染来危害环境。",
+        "D": "一旦影响环境。"
+      }
+    },
+    {
+      "cod": "2G04013",
+      "pregunta": "¿Cuál de estas afirmaciones es correcta?",
+      "pregunta_chino": "这些陈述中的哪个是正确的？",
+      "solucion": "A",
+      "norma": "Manual de Automóviles, Manuel Arias-Paz, Cie Inversiones Editoriales Dossat 2000 S.L.",
+      "opciones": {
+        "A": "La inyección directa supone un ahorro de combustible en el motor diésel.",
+        "B": "La utilización del catalizador provoca un aumento de gases contaminantes que salen por el tubo de escape.",
+        "C": "Cualquier medida que supone ahorro de combustible favorece el aumento de la polución.",
+        "D": "La utilización de aparatos deflectores provoca un aumento del gasto en combustible."
+      },
+      "opciones_chino": {
+        "A": "直接喷射是柴油发动机中节省的燃料。",
+        "B": "催化剂的使用会导致通过排气管出现的污染气体增加。",
+        "C": "任何假定燃料节省的措施都会有利于污染的增加。",
+        "D": "使用偏转设备会导致燃油支出增加。"
+      }
+    },
+    {
+      "cod": "2G04014",
+      "pregunta": "¿Cuál de estas sustancias contaminantes emite el motor de un vehículo?",
+      "pregunta_chino": "这些污染物质中的哪一种发出了车辆的发动机？",
+      "solucion": "A",
+      "norma": "Agencia Europea del Medio Ambiente - https://www.eea.europa.eu/es/themes/transport/intro",
+      "opciones": {
+        "A": "Dióxido de nitrógeno",
+        "B": "Dióxido de antimonio.",
+        "C": "Monóxido de cloro.",
+        "D": "Dióxido de bromo."
+      },
+      "opciones_chino": {
+        "A": "二氧化氮",
+        "B": "二氧化锑。",
+        "C": "一氧化氯。",
+        "D": "二氧化溴。"
+      }
+    },
+    {
+      "cod": "2G04015",
+      "pregunta": "¿Cuál de estas sustancias contaminantes no emite el motor de un vehículo?",
+      "pregunta_chino": "这些污染物质中的哪一种不会发出车辆的发动机？",
+      "solucion": "B",
+      "norma": "Manual para la gestión ambiental en el sector del transporte en Andalucía, Consejería de Medio ambiente de la Junta de Andalucía",
+      "opciones": {
+        "A": "Óxido de nitrógeno.",
+        "B": "Dióxido de carbono.",
+        "C": "Óxido de azufre.",
+        "D": "Monóxido de carbono"
+      },
+      "opciones_chino": {
+        "A": "氮氧化物。",
+        "B": "二氧化碳。",
+        "C": "氧化硫。",
+        "D": "一氧化碳"
+      }
+    },
+    {
+      "cod": "2G04016",
+      "pregunta": "¿Cuál de los siguientes aspectos puede contribuir más al aumento de la contaminación?",
+      "pregunta_chino": "以下哪些方面可以增加污染的增加？",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 7",
+      "opciones": {
+        "A": "El uso de gasolina sin plomo.",
+        "B": "El uso de catalizadores.",
+        "C": "El deterioro del tubo de escape.",
+        "D": "El deterioro de la batería."
+      },
+      "opciones_chino": {
+        "A": "不使用铅汽油。",
+        "B": "使用催化剂。",
+        "C": "排气管的恶化。",
+        "D": "电池的恶化。"
+      }
+    },
+    {
+      "cod": "2G04017",
+      "pregunta": "¿Cuál de los siguientes metales pesados aparece como contaminante en la combustión de un motor?",
+      "pregunta_chino": "以下哪种重金属在燃烧发动机中看起来像是污染物？",
+      "solucion": "D",
+      "norma": "Manual para la gestión ambiental en el sector del transporte en Andalucía, Consejería de Medio ambiente de la Junta de Andalucía",
+      "opciones": {
+        "A": "El cobre.",
+        "B": "El aluminio.",
+        "C": "El hierro.",
+        "D": "El plomo."
+      },
+      "opciones_chino": {
+        "A": "铜。",
+        "B": "铝",
+        "C": "铁。",
+        "D": "带领。"
+      }
+    },
+    {
+      "cod": "2G04018",
+      "pregunta": "¿Cuáles son los principales impactos del transporte en el medio ambiente?",
+      "pregunta_chino": "运输对环境的主要影响是什么？",
+      "solucion": "A",
+      "norma": "Agencia Europea del Medio Ambiente - https://www.eea.europa.eu/es/themes/transport/intro",
+      "opciones": {
+        "A": "La contaminación atmosférica y la contaminación acústica.",
+        "B": "La contaminación acústica y el desgaste del asfalto.",
+        "C": "La destrucción de la capa de ozono y la destrucción de los bosques.",
+        "D": "Los malos olores."
+      },
+      "opciones_chino": {
+        "A": "大气污染和噪声污染。",
+        "B": "，噪声污染和沥青磨损。",
+        "C": "臭氧层的破坏和森林的破坏。",
+        "D": "不良气味。"
+      }
+    },
+    {
+      "cod": "2G04019",
+      "pregunta": "¿Qué es el efecto invernadero?",
+      "pregunta_chino": "什么是温室效果？",
+      "solucion": "B",
+      "norma": "Manual para la gestión ambiental en el sector del transporte en Andalucía, Consejería de Medio ambiente de la Junta de Andalucía",
+      "opciones": {
+        "A": "El incremento de la densidad del aire que incide en la temperatura al impedir el movimiento de aire frío.",
+        "B": "El producido por la presencia de sustancias contaminantes en la atmósfera que impiden la evacuación del calor emitido por el planeta.",
+        "C": "El producido por la contaminación del medio acuático en zonas cercanas a Ecuador.",
+        "D": "No tiene nada que ver con los efectos del transporte sobre el medio ambiente."
+      },
+      "opciones_chino": {
+        "A": "通过防止冷空气运动影响温度的空气密度增加。",
+        "B": "这是由于在大气中存在污染物质而产生的，从而防止了地球发出的热量。",
+        "C": "厄瓜多尔附近地区的水生环境污染产生的。",
+        "D": "它与运输对环境的影响无关。"
+      }
+    },
+    {
+      "cod": "2G04020",
+      "pregunta": "¿A qué contribuyen especialmente la emisiones de gases de los vehículos?",
+      "pregunta_chino": "车辆气体排放特别是什么？",
+      "solucion": "A",
+      "norma": "Manual para la gestión ambiental en el sector del transporte en Andalucía, Consejería de Medio ambiente de la Junta de Andalucía",
+      "opciones": {
+        "A": "Al efecto invernadero.",
+        "B": "A la globalización de la economía.",
+        "C": "A la planificación de las infraestructuras.",
+        "D": "No tienen efecto alguno."
+      },
+      "opciones_chino": {
+        "A": "到温室效应。",
+        "B": "经济全球化。",
+        "C": "进行基础设施计划。",
+        "D": "他们没有效果。"
+      }
+    },
+    {
+      "cod": "2G04021",
+      "pregunta": "¿Puede contribuir el transportista a la protección del medio ambiente?",
+      "pregunta_chino": "载体可以为环境的保护做出贡献吗？",
+      "solucion": "A",
+      "norma": "Sin referencia",
+      "opciones": {
+        "A": "Sí, manteniendo el vehículo en buen estado.",
+        "B": "Sí, afiliándose a las asociaciones ecologistas.",
+        "C": "Sí, cambiando cada 4 años el tubo de escape de sus vehículos.",
+        "D": "No, porque las medidas de protección del medio ambiente solo afectan a los fabricantes."
+      },
+      "opciones_chino": {
+        "A": "是的，保持车辆状况良好。",
+        "B": "是的，锐化环境协会。",
+        "C": "是的，每4年更换一次车辆的逃生管。",
+        "D": "不，因为环境保护措施仅影响制造商。"
+      }
+    },
+    {
+      "cod": "2G04022",
+      "pregunta": "¿Dónde está contenida la normativa sobre protección del medio ambiente referida a la utilización y mantenimiento de los vehículos?",
+      "pregunta_chino": "有关环境保护的法规在哪里涉及车辆使用和维护？",
+      "solucion": "D",
+      "norma": "Sin referencia",
+      "opciones": {
+        "A": "En las leyes internacionales, exclusivamente.",
+        "B": "En las leyes de las Comunidades Autónomas exclusivamente.",
+        "C": "En las normas de los ayuntamientos exclusivamente.",
+        "D": "En la normativa comunitaria y en la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial."
+      },
+      "opciones_chino": {
+        "A": "在国际法中，仅限。",
+        "B": "在自治社区的法律中。",
+        "C": "完全按照市政当局的规范。",
+        "D": "在社区法规和交通立法中，汽车和道路安全。"
+      }
+    },
+    {
+      "cod": "2G04023",
+      "pregunta": "¿En cuál de los siguientes casos está prohibida la circulación de vehículos a motor y ciclomotores?",
+      "pregunta_chino": "在以下哪种情况下，禁止机动车辆和环球电路的循环？",
+      "solucion": "B",
+      "norma": "RD 1428/2003, art. 7",
+      "opciones": {
+        "A": "Cuando los gases expulsados por el motor salgan a través de un silenciador completo.",
+        "B": "Cuando los gases expulsados por el motor salgan a través de un silenciador incompleto, inadecuado, deteriorado o a través de tubos resonadores.",
+        "C": "Cuando los gases expulsados por el motor salgan a través de un silenciador adecuado.",
+        "D": "Cuando los gases expulsados por el motor salgan a través de un silenciador incompleto, inadecuado o deteriorado, aunque se permite que los ciclomotores utilicen tubos resonadores."
+      },
+      "opciones_chino": {
+        "A": "当发动机驱除的气体通过完整的消音器出来。",
+        "B": "当发动机驱除的气体通过不完整的，不适当的，变质或谐振的管出来时。",
+        "C": "当发动机驱除的气体通过足够的消音器出来时。",
+        "D": "当发动机驱除的气体通过不完整的，不适当或恶化的消音器出来时，尽管允许循环仪使用共鸣管。"
+      }
+    },
+    {
+      "cod": "2G04024",
+      "pregunta": "¿En qué momento el motor de un vehículo contamina más?",
+      "pregunta_chino": "当车辆发动机污染更多时？",
+      "solucion": "B",
+      "norma": "Manual de Automóviles, Manuel Arias-Paz, Cie Inversiones Editoriales Dossat 2000 S.L.",
+      "opciones": {
+        "A": "Cuando el nivel del agua del radiador está bajo.",
+        "B": "Durante la marcha al ralentí.",
+        "C": "Cuando el aceite está a más de 125º.",
+        "D": "Cuando no funciona el carburador."
+      },
+      "opciones_chino": {
+        "A": "当散热器水位低时。",
+        "B": "在幻灯片期间。",
+        "C": "当油在125以上时。",
+        "D": "当化油器不起作用时。"
+      }
+    },
+    {
+      "cod": "2G04025",
+      "pregunta": "En la homologación de un tipo de vehículo para su puesta en circulación, ¿qué se tiene en cuenta?",
+      "pregunta_chino": "在一种用于发行的车辆类型的工具中，考虑到了什么？",
+      "solucion": "A",
+      "norma": "RD 1367/2007, art. 18",
+      "opciones": {
+        "A": "Que los niveles sonoros de emisión sean admisibles según la norma.",
+        "B": "Que la estructura del sistema de escape corresponda a los modelos regulados.",
+        "C": "Que el silenciador sea de un modelo homologado.",
+        "D": "Que el sistema de combustión cumpla con los requisitos de la norma."
+      },
+      "opciones_chino": {
+        "A": "根据标准可以接受发射水平。",
+        "B": "排气系统的结构对应于监管模型。",
+        "C": "消音器是批准的模型。",
+        "D": "燃烧系统符合标准的要求。"
+      }
+    },
+    {
+      "cod": "2G04026",
+      "pregunta": "¿En qué tipo de vías prohíbe el Reglamento General de Circulación la circulación de vehículos a motor y ciclomotores con el llamado escape libre, sin el preceptivo dispositivo silenciador de las explosiones?",
+      "pregunta_chino": "在哪种类型的道路上，禁止使用SO弹出的自由逃生，而没有强制性的消音器爆炸装置，则禁止通用汽车和环球运动的循环规定？",
+      "solucion": "D",
+      "norma": "RD 1428/2003, art. 7",
+      "opciones": {
+        "A": "En las vías públicas urbanas, solamente.",
+        "B": "En ningún tipo de vía.",
+        "C": "En las autopistas y autovías, solamente.",
+        "D": "En las vías públicas urbanas e interurbanas."
+      },
+      "opciones_chino": {
+        "A": "仅在城市公共道路上。",
+        "B": "在任何类型的路径中。",
+        "C": "仅在高速公路和高速公路上。",
+        "D": "在城市和城市公共道路上。"
+      }
+    },
+    {
+      "cod": "2G04027",
+      "pregunta": "¿En qué unidad se mide la contaminación acústica emanada de los vehículos de motor?",
+      "pregunta_chino": "测量机动车辆的噪声污染是在哪个单位中？",
+      "solucion": "C",
+      "norma": "RD 1367/2007, art. 18",
+      "opciones": {
+        "A": "En vatios.",
+        "B": "En voltios.",
+        "C": "En decibelios.",
+        "D": "En ohmios."
+      },
+      "opciones_chino": {
+        "A": "在瓦特。",
+        "B": "在伏特中。",
+        "C": "在分贝中。",
+        "D": "在欧姆。"
+      }
+    },
+    {
+      "cod": "2G04028",
+      "pregunta": "¿Está permitida la circulación de un vehículo de motor sin dispositivo silenciador de las explosiones?",
+      "pregunta_chino": "没有爆炸消音器的机动车的循环吗？",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 7",
+      "opciones": {
+        "A": "Sí.",
+        "B": "Sí, puesto que no existe regulación al efecto.",
+        "C": "No, la normativa vigente lo prohíbe expresamente.",
+        "D": "Solo está permitida por tramos urbanos."
+      },
+      "opciones_chino": {
+        "A": "是的。",
+        "B": "是的，由于没有针对此目的的法规。",
+        "C": "不，当前的法规明确禁止它。",
+        "D": "仅由城市部分允许。"
+      }
+    },
+    {
+      "cod": "2G04029",
+      "pregunta": "¿Está permitido el uso de tubos resonadores?",
+      "pregunta_chino": "是否允许使用共鸣管？",
+      "solucion": "D",
+      "norma": "RD 1428/2003, art. 7",
+      "opciones": {
+        "A": "Sí, pero solo para vehículos matriculados antes del año 2010.",
+        "B": "Sí.",
+        "C": "Sí, pero solo en vehículos con un peso máximo autorizado de 3.500 kilogramos.",
+        "D": "No."
+      },
+      "opciones_chino": {
+        "A": "是的，但仅适用于2010年之前注册的车辆。",
+        "B": "是的。",
+        "C": "是的，但仅以最大授权重量为3500公斤的车辆。",
+        "D": "不。"
+      }
+    },
+    {
+      "cod": "2G04030",
+      "pregunta": "¿Está prohibida la circulación de un vehículo con el tubo de escape o silenciador roto?",
+      "pregunta_chino": "用排气管或损坏的消音器禁止车辆的循环吗？",
+      "solucion": "A",
+      "norma": "RD 1428/2003, art. 7",
+      "opciones": {
+        "A": "Sí, está prohibida por el Reglamento General de Circulación.",
+        "B": "No, por ser materia que no influye en la seguridad vial.",
+        "C": "No está prohibida, aunque es recomendable sustituirlo.",
+        "D": "Solo si circula por vías urbanas."
+      },
+      "opciones_chino": {
+        "A": "是的，一般的循环调节禁止它。",
+        "B": "不，因为不影响道路安全的问题。",
+        "C": "尽管建议替换它，但并非禁止。",
+        "D": "只有当它通过城市道路流通。"
+      }
+    },
+    {
+      "cod": "2G04031",
+      "pregunta": "¿Cuál es el principal gas que incide en el efecto invernadero?",
+      "pregunta_chino": "什么是影响温室效应的主要气体？",
+      "solucion": "C",
+      "norma": "Agencia Europea del Medio Ambiente - https://www.eea.europa.eu/es/themes/transport/intro",
+      "opciones": {
+        "A": "El dióxido de nitrógeno.",
+        "B": "El óxido de azufre.",
+        "C": "El dióxido de carbono.",
+        "D": "El óxido de berilo."
+      },
+      "opciones_chino": {
+        "A": "二氧化氮。",
+        "B": "氧化硫。",
+        "C": "二氧化碳。",
+        "D": "Berilo氧化物。"
+      }
+    },
+    {
+      "cod": "2G04032",
+      "pregunta": "¿Cómo actúa un catalizador?",
+      "pregunta_chino": "催化剂如何作用？",
+      "solucion": "C",
+      "norma": "Manual de Automóviles, Manuel Arias-Paz, Cie Inversiones Editoriales Dossat 2000 S.L.",
+      "opciones": {
+        "A": "Controla el consumo de combustible.",
+        "B": "Incrementa la eficiencia energética al conseguir más potencia con el mismmo consumo.",
+        "C": "Convierte, mediante reacciones químicas, los gases contaminantes del escape en elementos inocuos.",
+        "D": "Reduce el nivel de ruido de los vehículos."
+      },
+      "opciones_chino": {
+        "A": "控制燃料消耗。",
+        "B": "通过消费实现更多的能力来提高能源效率。",
+        "C": "它通过化学反应将逃逸气体的污染气体转化为无害的元素。",
+        "D": "降低车辆的噪音水平。"
+      }
+    },
+    {
+      "cod": "2G04033",
+      "pregunta": "¿Qué función tiene el uso de catalizadores en los vehículos a motor?",
+      "pregunta_chino": "催化剂在机动车中具有什么功能？",
+      "solucion": "D",
+      "norma": "Manual de Automóviles, Manuel Arias-Paz, Cie Inversiones Editoriales Dossat 2000 S.L.",
+      "opciones": {
+        "A": "Permite reciclar las grasas nocivas.",
+        "B": "Aumenta la emisión de gases contaminantes.",
+        "C": "Aumenta la potencia del motor.",
+        "D": "Disminuir la emisión de elementos contaminantes de un vehículo."
+      },
+      "opciones_chino": {
+        "A": "它允许回收有害脂肪。",
+        "B": "增加污染气体的排放。",
+        "C": "增加发动机功率。",
+        "D": "减少车辆污染元件的排放。"
+      }
+    },
+    {
+      "cod": "2G04034",
+      "pregunta": "¿Qué gases son emitidos por los vehículos de motor?",
+      "pregunta_chino": "汽车发出了哪些气体？",
+      "solucion": "A",
+      "norma": "Manual para la gestión ambiental en el sector del transporte en Andalucía, Consejería de Medio ambiente de la Junta de Andalucía",
+      "opciones": {
+        "A": "Monóxido de carbono.",
+        "B": "Gas natural.",
+        "C": "Anhídrido carbónico.",
+        "D": "Nitrógeno."
+      },
+      "opciones_chino": {
+        "A": "一氧化碳。",
+        "B": "天然气。",
+        "C": "碳酸酐。",
+        "D": "氮。"
+      }
+    },
+    {
+      "cod": "2G04035",
+      "pregunta": "¿Qué medidas debe tomar el transportista para contribuir a una disminución de la contaminación?",
+      "pregunta_chino": "承运人应采取什么措施来减少污染？",
+      "solucion": "D",
+      "norma": "Manual para la gestión ambiental en el sector del transporte en Andalucía, Consejería de Medio ambiente de la Junta de Andalucía",
+      "opciones": {
+        "A": "Revisar la limpieza exterior del motor.",
+        "B": "Revisar constantemente los niveles de emisión de hierro.",
+        "C": "Purgar periódicamente los calderines del sistema de alimentación.",
+        "D": "Evitar las posibles fugas de aceite y derrames de líquidos refrigerantes o combustibles."
+      },
+      "opciones_chino": {
+        "A": "检查引擎的户外清洁。",
+        "B": "不断审查铁排放水平。",
+        "C": "定期清除食品系统的锅炉。",
+        "D": "避免可能的机油泄漏和制冷剂或可燃液的溢出物。"
+      }
+    },
+    {
+      "cod": "2G04036",
+      "pregunta": "¿Qué medidas deberá adoptar el conductor de un vehículo de motor para evitar perjuicios al medio ambiente?",
+      "pregunta_chino": "汽车驾驶员应采取哪些措施来避免对环境造成损害？",
+      "solucion": "D",
+      "norma": "Guía para la gestión del combustible en las flotas de transporte por carretera, IDEA",
+      "opciones": {
+        "A": "Mantener la presión de los neumáticos al máximo.",
+        "B": "Evitar la conducción económica cuando el vehículo circula vacio.",
+        "C": "Eliminar los líquidos procedentes de la refrigeración a través del alcantarillado.",
+        "D": "Realizar una conducción económica y eficiente."
+      },
+      "opciones_chino": {
+        "A": "保持轮胎的压力充足。",
+        "B": "当车辆循环空的时，避免经济驾驶。",
+        "C": "通过下水道清除冷却液体。",
+        "D": "进行经济有效的传导。"
+      }
+    },
+    {
+      "cod": "2G04037",
+      "pregunta": "¿Cuál el valor límite del nivel de emisión sonora de un vehículo en circulación?",
+      "pregunta_chino": "循环中车辆的声音发射水平的限值是多少？",
+      "solucion": "B",
+      "norma": "RD 1367/2007, art. 18",
+      "opciones": {
+        "A": "2 dB(A) más que el nivel que figura en la ficha de homologación, correspondiente al ensayo a vehículo parado.",
+        "B": "4 dB(A) más que el nivel que figura en la ficha de homologación, correspondiente al ensayo a vehículo parado.",
+        "C": "6 dB(A) más que el nivel que figura en la ficha de homologación, correspondiente al ensayo a vehículo parado.",
+        "D": "Es el mismo que figura en la ficha de homologación."
+      },
+      "opciones_chino": {
+        "A": "2 dB（a）大于“同类”选项卡上出现的水平，对应于测试与停止的车辆。",
+        "B": "4 dB（a）大于在材料表上出现的水平，对应于测试与停止的车辆相对应。",
+        "C": "6 dB（a）大于同类表格上出现的水平，对应于测试与停止的车辆相对应。",
+        "D": "它是同样出现在处理文件上的同一。"
+      }
+    },
+    {
+      "cod": "2G04038",
+      "pregunta": "¿Están obligados los conductores de vehículos de motor a colaborar en las pruebas de control de emisiones sonoras?",
+      "pregunta_chino": "汽车驾驶员是否在声音排放控制测试中进行协作？",
+      "solucion": "A",
+      "norma": "RD 1367/2007, art. 18",
+      "opciones": {
+        "A": "Sí.",
+        "B": "Sí, salvo que hayan efectuado la inspección técnica de su vehículo hace menos de dos meses.",
+        "C": "Sí, salvo vehículos de servicio público.",
+        "D": "Sí, salvo vehículos prioritarios."
+      },
+      "opciones_chino": {
+        "A": "是的。",
+        "B": "是的，除非他们不到两个月前对您的车辆进行了技术检查。",
+        "C": "是的，除了公共服务工具。",
+        "D": "是的，除优先车。"
+      }
+    },
+    {
+      "cod": "2G04039",
+      "pregunta": "¿Regula el Reglamento General de Circulación la emisión de gases contaminantes por los vehículos?",
+      "pregunta_chino": "调节一般循环调节车辆污染气体的排放？",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 7",
+      "opciones": {
+        "A": "Sí, pero solo con referencia a vehículos destinados al transporte internacional de mercancías.",
+        "B": "Sí, pero solo con referencia a las motocicletas y ciclomotores.",
+        "C": "Sí, prohibiendo la expulsión al exterior de combustible no quemado o humos.",
+        "D": "No, es materia de las leyes de medio ambiente."
+      },
+      "opciones_chino": {
+        "A": "是的，但仅参考国际货物运输的车辆。",
+        "B": "是的，但仅参考摩托车和摩托车。",
+        "C": "是的，禁止在国外驱逐未燃烧的燃料或烟雾。",
+        "D": "不，这是环境法律的主题。"
+      }
+    },
+    {
+      "cod": "2G04040",
+      "pregunta": "Debido al impacto del transporte por carretera, ¿cuáles son los tres principales problemas medioambientales?",
+      "pregunta_chino": "由于公路运输的影响，三个主要的环境问题是什么？",
+      "solucion": "C",
+      "norma": "Manual para la gestión ambiental en el sector del transporte en Andalucía, Consejería de Medio ambiente de la Junta de Andalucía",
+      "opciones": {
+        "A": "La reducción del terreno cultivable, la contaminación de las aguas y la contaminación estética.",
+        "B": "La contaminación estética (por grasas, barro, etc.), la contaminación del aire (gases) y la contaminación del agua (vertidos incontrolados).",
+        "C": "La contaminación atmosférica, la contaminación acústica y la generación de residuos.",
+        "D": "La destrucción de la capa de ozono."
+      },
+      "opciones_chino": {
+        "A": "可栽培地形的减少，水的污染和美学污染。",
+        "B": "美学污染（通过脂肪，泥浆等），空气污染（气体）和水污染（不受控制的溢出）。",
+        "C": "大气污染，噪声污染和废物产生。",
+        "D": "臭氧层的破坏。"
+      }
+    },
+    {
+      "cod": "2G04041",
+      "pregunta": "El Reglamento General de Circulación:",
+      "pregunta_chino": "一般循环规定：",
+      "solucion": "C",
+      "norma": "RD 1428/2003, art. 7",
+      "opciones": {
+        "A": "impone la obligación de comprobar cada mes el nivel de ruido emitido por el vehículo.",
+        "B": "no establece normativa relacionada con la emisión de ruidos.",
+        "C": "prohíbe la circulación de vehículos a motor y ciclomotores sin el dispositivo silenciador de explosiones.",
+        "D": "propone impuestos finalistas para pagar la contaminación."
+      },
+      "opciones_chino": {
+        "A": "它施加了检查每个月车辆发出的噪声水平的义务。",
+        "B": "它没有建立与噪声排放有关的法规。",
+        "C": "它禁止没有爆炸消音器的机动车和循环仪的循环。",
+        "D": "提出决赛税以支付污染。"
+      }
+    },
+    {
+      "cod": "2G04042",
+      "pregunta": "El transporte por carretera es el principal causante:",
+      "pregunta_chino": "公路运输是主要原因：",
+      "solucion": "A",
+      "norma": "Agencia Europea del Medio Ambiente - https://www.eea.europa.eu/es/themes/transport/intro",
+      "opciones": {
+        "A": "de las emisiones de monóxido de carbono.",
+        "B": "del deterioro de la capa de ozono.",
+        "C": "del deterioro de la calidad del aire.",
+        "D": "de la contaminación de las aguas."
+      },
+      "opciones_chino": {
+        "A": "一氧化碳的排放。",
+        "B": "臭氧层的恶化。",
+        "C": "空气质量恶化。",
+        "D": "水污染。"
+      }
+    },
+    {
+      "cod": "2G04043",
+      "pregunta": "En cuanto al nivel de ruido, ¿qué parte del vehículo hay que tener en cuenta?",
+      "pregunta_chino": "至于噪声水平，必须考虑车辆的哪一部分？",
+      "solucion": "D",
+      "norma": "Manual de Automóviles, Manuel Arias-Paz, Cie Inversiones Editoriales Dossat 2000 S.L.",
+      "opciones": {
+        "A": "El sistema eléctrico.",
+        "B": "La batería.",
+        "C": "Las luces.",
+        "D": "El sistema de escape escape."
+      },
+      "opciones_chino": {
+        "A": "电气系统。",
+        "B": "电池。",
+        "C": "灯。",
+        "D": "排气逃逸系统。"
+      }
+    },
+    {
+      "cod": "2G04044",
+      "pregunta": "La circulación de vehículos genera una emisión de ruidos procedentes:",
+      "pregunta_chino": "车辆循环产生噪声发射：",
+      "solucion": "D",
+      "norma": "Manual para la gestión ambiental en el sector del transporte en Andalucía, Consejería de Medio ambiente de la Junta de Andalucía",
+      "opciones": {
+        "A": "de la refrigeración, a través del termostato.",
+        "B": "del rozamiento del chasis del vehículo con la calzada.",
+        "C": "del rozamiento de los neumáticos con el aire.",
+        "D": "de la combustión, a través del escape, el rozamiento del vehículo con el aire y el de los neumáticos con la calzada."
+      },
+      "opciones_chino": {
+        "A": "通过恒温器进行冷却。",
+        "B": "道路上车辆底盘的摩擦。",
+        "C": "空气中空气的摩擦。",
+        "D": "燃烧，通过逃逸，空气和道路轮胎的摩擦。"
+      }
+    },
+    {
+      "cod": "2G04045",
+      "pregunta": "¿Cómo define la normativa ruido ambiental?",
+      "pregunta_chino": "您如何定义环境噪声法规？",
+      "solucion": "C",
+      "norma": "RD 1367/2007, Preámbulo",
+      "opciones": {
+        "A": "Lo equipara a contaminación acústica.",
+        "B": "Como cualquier actividad, infraestructura, equipo, maquinaria que genere ruido o vibración.",
+        "C": "Como el sonido no deseado o nocivo generado por actividades humanas.",
+        "D": "Entre otras cosas, las vibraciones que impliquen molestia para las personas."
+      },
+      "opciones_chino": {
+        "A": "它等同于噪声污染。",
+        "B": "像任何活动，基础架构，设备，产生噪音或振动的机械一样。",
+        "C": "作为人类活动产生的不必要或有害声音。",
+        "D": "除其他事项外，涉及人们不适的振动。"
+      }
+    },
+    {
+      "cod": "2G04046",
+      "pregunta": "¿Puede considerarse el ruido como un problema de salud pública?",
+      "pregunta_chino": "噪声可以被视为公共卫生问题吗？",
+      "solucion": "A",
+      "norma": "Líneas directrices relativas al ruido ambiental en la Región Europea, OMS 2018",
+      "opciones": {
+        "A": "Sí, porque tiene consecuencias perjudiciales para la salud y bienestar humano.",
+        "B": "No, aunque sí lo es a nivel medio ambiental.",
+        "C": "No, pero están entre los factores que pueden llegar a serlo.",
+        "D": "Según la OMS, lo será en un futuro cercano."
+      },
+      "opciones_chino": {
+        "A": "是的，因为它对人类健康和健康有害后果。",
+        "B": "不，尽管它处于环境层面。",
+        "C": "不，但是它们是可能成为的因素之一。",
+        "D": "根据谁的说法，它将在不久的将来。"
+      }
+    },
+    {
+      "cod": "2G04047",
+      "pregunta": "¿A partir de qué intensidad considera la OMS que el ruido del tráfico es nocivo para la salud?",
+      "pregunta_chino": "您认为交通噪声对健康有害？",
+      "solucion": "B",
+      "norma": "Líneas directrices relativas al ruido ambiental en la Región Europea, OMS 2018",
+      "opciones": {
+        "A": "45 dB.",
+        "B": "53 dB.",
+        "C": "65 dB.",
+        "D": "75 dB."
+      },
+      "opciones_chino": {
+        "A": "45 dB。",
+        "B": "53 dB。",
+        "C": "65 dB。",
+        "D": "75 dB。"
+      }
+    },
+    {
+      "cod": "2G04048",
+      "pregunta": "¿A partir de qué intensidad considera la OMS que el ruido nocturno del tráfico es nocivo para la salud?",
+      "pregunta_chino": "您认为夜间交通有害健康的强度是什么？",
+      "solucion": "A",
+      "norma": "Líneas directrices relativas al ruido ambiental en la Región Europea, OMS 2018",
+      "opciones": {
+        "A": "45 dB.",
+        "B": "53 dB.",
+        "C": "65 dB.",
+        "D": "75 dB."
+      },
+      "opciones_chino": {
+        "A": "45 dB。",
+        "B": "53 dB。",
+        "C": "65 dB。",
+        "D": "75 dB。"
+      }
+    },
+    {
+      "cod": "2G04049",
+      "pregunta": "La legislación sobre tráfico, circulación de vehículos a motor y seguridad vial, ¿qué prohíbe respecto de las emisiones contaminantes?",
+      "pregunta_chino": "交通立法，汽车和道路安全，是什么禁止污染排放？",
+      "solucion": "B",
+      "norma": "RD Legislativo 6/2015, art. 12",
+      "opciones": {
+        "A": "Utilizar vehículos con catalizador.",
+        "B": "La emisión de perturbaciones electromagnéticas y de ruidos por encima de las limitaciones que reglamentariamente se establezcan.",
+        "C": "El transporte de animales vivos.",
+        "D": "El uso de turbo intercooler."
+      },
+      "opciones_chino": {
+        "A": "将车辆与催化剂一起使用。",
+        "B": "电磁干扰和噪声的发射超过了调节所建立的限制。",
+        "C": "活动物的运输。",
+        "D": "使用涡轮中冷器。"
+      }
+    },
+    {
+      "cod": "2G04050",
+      "pregunta": "La UE ha definido un transporte energéticamente eficiente en base a:",
+      "pregunta_chino": "欧盟已根据以下方式定义了一种能量高效的运输：",
+      "solucion": "B",
+      "norma": "Agencia Europea del Medio Ambiente - https://www.eea.europa.eu/es/themes/transport/intro",
+      "opciones": {
+        "A": "combustibles de mayor potencia de combustión",
+        "B": "la transición hacia vehículos de bajas emisiones o de emisión cero.",
+        "C": "la promoción del uso de vehículos con mayor capacidad de carga.",
+        "D": "la contingentación de las autorizaciones de transporte."
+      },
+      "opciones_chino": {
+        "A": "具有更大燃烧能力的燃料",
+        "B": "过渡到低排放或零排放车辆。",
+        "C": "促进具有更大负载能力的车辆。",
+        "D": "运输授权的偶然性。"
+      }
+    },
+    {
+      "cod": "2G04051",
+      "pregunta": "La UE, en el horizonte 2050, plantea un transporte…",
+      "pregunta_chino": "欧盟在2050年的地平线上建立了运输工具...",
+      "solucion": "B",
+      "norma": "Agencia Europea del Medio Ambiente - https://www.eea.europa.eu/es/themes/transport/intro",
+      "opciones": {
+        "A": "eficaz económica y ambientalmente.",
+        "B": "con «cero emisiones netas» de gases de efecto invernadero.",
+        "C": "integrado con la actividad logística.",
+        "D": "con un régimen de cabotaje liberalizado."
+      },
+      "opciones_chino": {
+        "A": "经济和环境。",
+        "B": "温室气体的“零净排放”。",
+        "C": "与物流活动集成。",
+        "D": "具有自由化的cabotage政权。"
+      }
+    },
+    {
+      "cod": "2G04052",
+      "pregunta": "¿Cómo define la normativa \"contaminación atmosférica?",
+      "pregunta_chino": "您如何定义规定”空气污染？",
+      "solucion": "B",
+      "norma": "Ley 34/2007, art. 3",
+      "opciones": {
+        "A": "La emisión de elementos gasesosos que implique malos olores o molestia.",
+        "B": "La presencia en la atmósfera de materias, sustancias o formas de energía que impliquen molestia grave, riesgo o daño para la seguridad o la salud de las personas.",
+        "C": "La realización de actividades que supongan la emisión de cualquier tipo de gas o sustancia a la atmósfera.",
+        "D": "La presencia en la atmósfera de materias, sustancias o formas de energía que impliquen malos olores o la alteración de su composición normal."
+      },
+      "opciones_chino": {
+        "A": "GASE元素的排放，意味着气味不良或不适。",
+        "B": "在受试者，物质或能量形式的大气中的存在，涉及严重的不适，风险或损害人的安全或健康。",
+        "C": "实现假设任何类型的气体或物质排放到大气中的活动。",
+        "D": "在受试者，物质或能量形式的大气中的存在，涉及气味不良或其正常组成的改变。"
+      }
+    },
+    {
+      "cod": "2G04053",
+      "pregunta": "La Ley 37/2003, del Ruido, considera contaminación acústica:",
+      "pregunta_chino": "法律37/2003，噪声，考虑噪声污染：",
+      "solucion": "D",
+      "norma": "Ley 37/2003, art. 3",
+      "opciones": {
+        "A": "los ruidos.",
+        "B": "las estridencias.",
+        "C": "las vibraciones.",
+        "D": "Las respuestas A y C son correctas."
+      },
+      "opciones_chino": {
+        "A": "噪音。",
+        "B": "激烈。",
+        "C": "振动。",
+        "D": "响应A和C是正确的。"
+      }
+    },
+    {
+      "cod": "2G04054",
+      "pregunta": "La Ley 37/2003, del Ruido, considera contaminación acústica los ruidos provenientes de:",
+      "pregunta_chino": "噪声法第37/2003号法律，认为噪声污染噪声：",
+      "solucion": "D",
+      "norma": "Ley 37/2003, art. 3",
+      "opciones": {
+        "A": "la actividad humana.",
+        "B": "los animales.",
+        "C": "la naturaleza, en general.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "人类活动。",
+        "B": "动物。",
+        "C": "大自然，总体上。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2G04055",
+      "pregunta": "¿Qué entiende la Ley 37/2003, del Ruido, como contaminación acústica?",
+      "pregunta_chino": "法律37/2003将噪声和噪声污染理解为什么？",
+      "solucion": "C",
+      "norma": "Ley 37/2003, art. 3",
+      "opciones": {
+        "A": "Cualquier actividad, infraestructura, equipo, maquinaria que genere ruido o vibración.",
+        "B": "El sonido no deseado generado por actividades humanas.",
+        "C": "Los ruidos o vibraciones que impliquen molestia, riesgo o daño para las personas.",
+        "D": "Todas las respuestas son correctas"
+      },
+      "opciones_chino": {
+        "A": "任何活动，基础设施，设备，产生噪声或振动的机械。",
+        "B": "人类活动产生的不良声音。",
+        "C": "涉及不适，风险或损害的噪音或振动。",
+        "D": "所有答案都是正确的"
+      }
+    },
+    {
+      "cod": "2G04056",
+      "pregunta": "La Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, ¿regula alguna materia relacionada con el medio ambiente?",
+      "pregunta_chino": "有关汽车的交通，流通和道路安全的法律，可以调节与环境有关的任何事项？",
+      "solucion": "A",
+      "norma": "RD Legislativo 6/2015, art. 12",
+      "opciones": {
+        "A": "Sí, prohíbe la emisión de ruidos, gases, perturbaciones electromagnéticas y otros contaminantes por encima de los límites reglamentarios.",
+        "B": "No, la incidencia del tráfico en el medio ambiente es mínima.",
+        "C": "No, es materia objeto de regulación de otras legislaciones.",
+        "D": "Sí, a través de la euroviñeta."
+      },
+      "opciones_chino": {
+        "A": "是的，它禁止噪声，气体，电磁干扰和其他污染物的发射。",
+        "B": "不，环境中交通的发生率很小。",
+        "C": "不，这是其他法律监管的主题。",
+        "D": "是的，通过Euroviñeta。"
+      }
+    },
+    {
+      "cod": "2G04057",
+      "pregunta": "Lanzar humos que puedan dificultar la visibilidad a los conductores…",
+      "pregunta_chino": "发射烟雾可以阻碍驾驶员的可见性...",
+      "solucion": "A",
+      "norma": "RD 1428/2003, art. 7",
+      "opciones": {
+        "A": "está prohibido por el Reglamento General de la Circulación.",
+        "B": "se considera un delito.",
+        "C": "no está prohibido, pero se considera peligroso para la seguridad.",
+        "D": "conlleva la retirada del permiso de conducción."
+      },
+      "opciones_chino": {
+        "A": "一般的循环规定禁止它。",
+        "B": "这被认为是犯罪。",
+        "C": "它不是禁止的，但被认为对安全危险。",
+        "D": "需要撤回驾驶许可证。"
+      }
+    },
+    {
+      "cod": "2G04058",
+      "pregunta": "¿De qué forma afecta el tansporte al medio ambiente?",
+      "pregunta_chino": "Tansporte如何影响环境？",
+      "solucion": "D",
+      "norma": "Agencia Europea del Medio Ambiente - https://www.eea.europa.eu/es/themes/transport/intro",
+      "opciones": {
+        "A": "Contribuye a la expansión urbana descontrolada.",
+        "B": "Ocupa grandes franjas de terreno.",
+        "C": "Contribuye a la fragmentación de los hábitats.",
+        "D": "Todas las respuestas son correctas"
+      },
+      "opciones_chino": {
+        "A": "它有助于不受控制的城市扩张。",
+        "B": "它占据了很大的土地。",
+        "C": "它有助于栖息地的分裂。",
+        "D": "所有答案都是正确的"
+      }
+    },
+    {
+      "cod": "2G04060",
+      "pregunta": "Para colaborar con la protección del medio ambiente y reducir el consumo de combustible del vehículo, ¿qué es importante?",
+      "pregunta_chino": "为了与保护环境的保护并减少车辆的燃油消耗，什么重要？",
+      "solucion": "D",
+      "norma": "Guía para la gestión del combustible en las flotas de transporte por carretera, IDEA",
+      "opciones": {
+        "A": "Revisar la presión del aceite.",
+        "B": "Revisar las válvulas y el carburador.",
+        "C": "Tener siempre a punto las luces y el sistema eléctrico.",
+        "D": "Revisar la presión de los neumáticos."
+      },
+      "opciones_chino": {
+        "A": "检查油压。",
+        "B": "检查阀门和化油器。",
+        "C": "始终具有灯光和电气系统。",
+        "D": "检查轮胎压力。"
+      }
+    },
+    {
+      "cod": "2G04061",
+      "pregunta": "Principalmente, ¿qué efecto produce un tubo de escape roto o deteriorado?",
+      "pregunta_chino": "主要是，破裂或恶化的逃生管产生什么影响？",
+      "solucion": "A",
+      "norma": "RD 1428/2003, art. 7",
+      "opciones": {
+        "A": "Aumenta la contaminación acústica.",
+        "B": "Aumenta el consumo de combustible.",
+        "C": "Aumenta la emisión de gas contaminante para la atmósfera.",
+        "D": "No afecta al medio ambiente."
+      },
+      "opciones_chino": {
+        "A": "增加噪声污染。",
+        "B": "增加油耗。",
+        "C": "增加大气中污染气体的排放。",
+        "D": "它不会影响环境。"
+      }
+    },
+    {
+      "cod": "2G04062",
+      "pregunta": "Respecto de la emisión de perturbaciones y contaminantes, ¿qué no prohíbe el Reglamento General de la Circulación?",
+      "pregunta_chino": "关于发行干扰和污染物，什么不禁止循环的一般调节？",
+      "solucion": "D",
+      "norma": "RD 1428/2003, art. 7",
+      "opciones": {
+        "A": "La circulación de vehículos con escape libre.",
+        "B": "La emisión de gases o humos en valores superiores a los límites establecidos.",
+        "C": "La utilización de tubos resonadores.",
+        "D": "La utilización de catalizadores."
+      },
+      "opciones_chino": {
+        "A": "自由逃生的车辆循环。",
+        "B": "气体或烟气的排放大于已建立的极限。",
+        "C": "使用共鸣管。",
+        "D": "使用催化剂。"
+      }
+    },
+    {
+      "cod": "2G04063",
+      "pregunta": "Respecto del medio ambiente, ¿qué regula la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial?",
+      "pregunta_chino": "关于环境，是什么规范交通立法，机动车和道路安全？",
+      "solucion": "C",
+      "norma": "RD Legislativo 6/2015, art. 12",
+      "opciones": {
+        "A": "La utilización de tubos de escape especiales.",
+        "B": "Los efectos de la contaminación en la salud de las personas.",
+        "C": "La emisión de gases y de ruidos por encima de las limitaciones que reglamentariamente se establezcan.",
+        "D": "Los controles de homologación de los vehículos."
+      },
+      "opciones_chino": {
+        "A": "使用特殊的排气管。",
+        "B": "人们的健康污染的影响。",
+        "C": "气体和噪声的排放高于调节所建立的局限性。",
+        "D": "车辆批准控件。"
+      }
+    },
+    {
+      "cod": "2G04064",
+      "pregunta": "¿Qué pueden hacer los agentes de control del tráfico en el caso de que un vehículo supere los niveles de gases o humos permitidos por la norma?",
+      "pregunta_chino": "如果车辆超过标准允许的气体或烟气水平，交通控制代理可以做什么？",
+      "solucion": "C",
+      "norma": "RD Legislativo 6/2015, art. 104",
+      "opciones": {
+        "A": "Denunciar el hecho.",
+        "B": "Denunciar el hecho y exigir que el vehículo pase una ITV extraordinaria en el plazo de 7 días laborables.",
+        "C": "Denunciar el hecho e inmovilizar el vehículo.",
+        "D": "Denunciar el hecho y exigir que el vehículo pase una ITV extraordinaria en el plazo de un mes."
+      },
+      "opciones_chino": {
+        "A": "谴责事实。",
+        "B": "报告事实并要求车辆在7个工作日内通过非凡的ITV。",
+        "C": "报告事实并固定车辆。",
+        "D": "报告事实并要求车辆在一个月内通过非凡的ITV。"
+      }
+    },
+    {
+      "cod": "2G04065",
+      "pregunta": "¿Qué pueden hacer los agentes de control del tráfico en el caso de que un vehículo supere los niveles de ruido permitidos por la norma?",
+      "pregunta_chino": "如果车辆超过标准允许的噪声水平，交通控制代理可以做什么？",
+      "solucion": "C",
+      "norma": "RD Legislativo 6/2015, art. 104",
+      "opciones": {
+        "A": "Denunciar el hecho.",
+        "B": "Denunciar el hecho y exigir que el vehículo pase una ITV extraordinaria en el plazo de 7 días laborables.",
+        "C": "Denunciar el hecho e inmovilizar el vehículo.",
+        "D": "Denunciar el hecho y exigir que el vehículo pase una ITV extraordinaria en el plazo de un mes."
+      },
+      "opciones_chino": {
+        "A": "谴责事实。",
+        "B": "报告事实并要求车辆在7个工作日内通过非凡的ITV。",
+        "C": "报告事实并固定车辆。",
+        "D": "报告事实并要求车辆在一个月内通过非凡的ITV。"
+      }
+    },
+    {
+      "cod": "2G04066",
+      "pregunta": "Para ayudar en las actuaciones contra la contaminación acústica, en relación con el diseño de una carretera, el territorio se divide en…",
+      "pregunta_chino": "为了帮助抵抗噪声污染的行动，就道路设计而言，该领土分为...",
+      "solucion": "B",
+      "norma": "RD 1367/2007, art. 5",
+      "opciones": {
+        "A": "parcelas de actuación antiruido.",
+        "B": "zonas acústicas.",
+        "C": "secciones de actuación preferente.",
+        "D": "zonas de actuación específica."
+      },
+      "opciones_chino": {
+        "A": "反红色动作图。",
+        "B": "声学区域",
+        "C": "首选动作部分。",
+        "D": "具体的动作区。"
+      }
+    },
+    {
+      "cod": "2G04067",
+      "pregunta": "En relación con el ruido, ¿cómo debe comportarse una nueva infraestructura viaria?",
+      "pregunta_chino": "关于噪音，新的道路基础设施应该如何表现？",
+      "solucion": "D",
+      "norma": "RD 1367/2007, art. 23",
+      "opciones": {
+        "A": "No debe superar la media de ruido establecida anualmente para las vías de su categoría por la Dirección General de Carreteras.",
+        "B": "Según el nivel de ruido previsto, se calculará su trazado en relación con los núcleos de población.",
+        "C": "De acuerdo con los niveles de ruido que el Ministerio responsable de Medio Ambiente establece anualmente.",
+        "D": "Deben adoptar las medidas necesarias para que no transmitan a sus áreas acústicas niveles de ruido superiores a los valores límite de inmisión establecidos en la norma."
+      },
+      "opciones_chino": {
+        "A": "它不得超过一条道路总局每年为其类别道路建立的平均噪音。",
+        "B": "根据计划的噪声水平，将根据种群核计算其布局。",
+        "C": "根据负责环境的事工每年建立的噪声水平。",
+        "D": "他们必须采取必要的措施，以免传输到其声学区域噪声水平大于标准中建立的排放限值。"
+      }
+    },
+    {
+      "cod": "2G04068",
+      "pregunta": "Una medida que se debe adoptar en los vehículos a motor para reducir la emisión de gases nocivos es:",
+      "pregunta_chino": "在机动车中必须采用的一项措施以减少有害气体的排放是：",
+      "solucion": "B",
+      "norma": "Manual de Automóviles, Manuel Arias-Paz, Cie Inversiones Editoriales Dossat 2000 S.L.",
+      "opciones": {
+        "A": "utilizar resonadores.",
+        "B": "utilizar el intercooler.",
+        "C": "aumentar los elementos parasitarios en el circuito del engrase.",
+        "D": "aumentar la potencia del motor."
+      },
+      "opciones_chino": {
+        "A": "使用谐振器。",
+        "B": "使用中冷器。",
+        "C": "增加油脂电路中的寄生元素。",
+        "D": "增加发动机功率。"
+      }
+    },
+    {
+      "cod": "2G05001",
+      "pregunta": "¿A qué debemos prestar una atención frecuente durante la circulación?",
+      "pregunta_chino": "在流通期间，我们应该经常注意什么？",
+      "solucion": "A",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Al manómetro de aceite.",
+        "B": "Al motor de arranque.",
+        "C": "Al deflector.",
+        "D": "Al funcionamiento de las luces traseras del vehículo."
+      },
+      "opciones_chino": {
+        "A": "到油压力表。",
+        "B": "到启动器引擎。",
+        "C": "到偏转器。",
+        "D": "到车辆后灯的操作。"
+      }
+    },
+    {
+      "cod": "2G05002",
+      "pregunta": "¿Cada cuántos kilómetros se deben reemplazar las bujías en un motor diésel?",
+      "pregunta_chino": "在柴油发动机中应更换火花塞多少公里？",
+      "solucion": "D",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Cada 50.000 kilómetros.",
+        "B": "Cada 40.000 kilómetros.",
+        "C": "Cada 30.000 kilómetros.",
+        "D": "Los motores diésel carecen de bujías de encendido."
+      },
+      "opciones_chino": {
+        "A": "每50,000公里。",
+        "B": "每40,000公里。",
+        "C": "每30,000公里。",
+        "D": "柴油发动机缺乏点火火花塞。"
+      }
+    },
+    {
+      "cod": "2G05003",
+      "pregunta": "¿Cómo se consigue el voltaje que necesita la instalación de vehículos pesados para funcionar?",
+      "pregunta_chino": "您如何获得重型车辆安装需要工作的电压？",
+      "solucion": "D",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Con una batería de 12 voltios.",
+        "B": "Con dos baterías de 12 voltios conectadas en paralelo.",
+        "C": "Con una batería de 24 voltios.",
+        "D": "Con dos baterías de 12 voltios conectadas en serie."
+      },
+      "opciones_chino": {
+        "A": "带有12伏电池。",
+        "B": "并联两个12伏电池。",
+        "C": "带有24伏电池。",
+        "D": "串联连接了两个12伏电池。"
+      }
+    },
+    {
+      "cod": "2G05004",
+      "pregunta": "¿Cada cuántos kilómetros se debe cambiar, en un vehículo diésel, el aceite del motor si es mineral?",
+      "pregunta_chino": "在柴油车中，应更换多少公里，发动机油是矿物质？",
+      "solucion": "B",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Cada 8.000 kilómetros.",
+        "B": "Cada 10.000 kilómetros.",
+        "C": "Cada 15.000 kilómetros.",
+        "D": "Cada 20.000 kilómetros."
+      },
+      "opciones_chino": {
+        "A": "每8,000公里。",
+        "B": "每10,000公里。",
+        "C": "每15,000公里。",
+        "D": "每20,000公里。"
+      }
+    },
+    {
+      "cod": "2G05005",
+      "pregunta": "¿Cada cuántos kilómetros se debe cambiar, en un vehículo diésel, el aceite del motor si es sintético?",
+      "pregunta_chino": "在柴油车中，应更换多少公里，发动机油是合成的？",
+      "solucion": "D",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Cada 8.000 kilómetros.",
+        "B": "Cada 10.000 kilómetros.",
+        "C": "Cada 15.000 kilómetros.",
+        "D": "Cada 20.000 kilómetros."
+      },
+      "opciones_chino": {
+        "A": "每8,000公里。",
+        "B": "每10,000公里。",
+        "C": "每15,000公里。",
+        "D": "每20,000公里。"
+      }
+    },
+    {
+      "cod": "2G05006",
+      "pregunta": "¿Cómo se llama el elemento que sirve para pulverizar el combustible dentro de la cámara de combustión de un motor diésel?",
+      "pregunta_chino": "用于在柴油发动机的燃烧室内喷涂燃料的元素的名称是什么？",
+      "solucion": "B",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Bomba de alimentación.",
+        "B": "Inyector.",
+        "C": "Manguito.",
+        "D": "Bomba de inyección."
+      },
+      "opciones_chino": {
+        "A": "动力泵。",
+        "B": "注射器。",
+        "C": "袖子。",
+        "D": "注射泵。"
+      }
+    },
+    {
+      "cod": "2G05007",
+      "pregunta": "¿Cómo puede definirse el concepto de mantenimiento de un vehículo?",
+      "pregunta_chino": "如何定义维护车辆的概念？",
+      "solucion": "C",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "Realización de acciones para incrementar su rentabilidad con el menor coste.",
+        "B": "Actuar sobre el vehículo para alargar su vida útil.",
+        "C": "Conjunto de actuaciones sobre el vehículo para conservar su buen estado de uso y funcionamiento.",
+        "D": "Ninguna respuesta es correcta."
+      },
+      "opciones_chino": {
+        "A": "采取行动以最低的成本提高盈利能力。",
+        "B": "在车辆上采取行动以延长您的使用寿命。",
+        "C": "在车辆上的一组操作，以保护其良好的使用状态和操作。",
+        "D": "没有答案是正确的。"
+      }
+    },
+    {
+      "cod": "2G05008",
+      "pregunta": "¿Qué debe conseguir un plan de mantenimiento de la flota de vehículos?",
+      "pregunta_chino": "车队维护计划应该得到什么？",
+      "solucion": "A",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "Disminuir las averías imprevistas.",
+        "B": "Reducir las infracciones en relación con los tiempos de conducción y descanso.",
+        "C": "Mejorar la formación de los conductores en materias medioambientales.",
+        "D": "Todas las respuestas son correctas"
+      },
+      "opciones_chino": {
+        "A": "减少不可预见的故障。",
+        "B": "减少与驾驶和休息时间有关的违规行为。",
+        "C": "改善环境问题中驱动因素的形成。",
+        "D": "所有答案都是正确的"
+      }
+    },
+    {
+      "cod": "2G05009",
+      "pregunta": "¿Qué debe conseguir un plan de mantenimiento de la flota de vehículos?",
+      "pregunta_chino": "车队维护计划应该得到什么？",
+      "solucion": "B",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "Reducir las infracciones en relación con los tiempos de conducción y descanso.",
+        "B": "Permitir la optimización del uso de la flota.",
+        "C": "Mejorar la formación de los conductores en materias medioambientales.",
+        "D": "Todas las respuestas son correctas"
+      },
+      "opciones_chino": {
+        "A": "减少与驾驶和休息时间有关的违规行为。",
+        "B": "允许优化舰队的使用。",
+        "C": "改善环境问题中驱动因素的形成。",
+        "D": "所有答案都是正确的"
+      }
+    },
+    {
+      "cod": "2G05010",
+      "pregunta": "¿Qué debe conseguir un plan de mantenimiento de la flota de vehículos?",
+      "pregunta_chino": "车队维护计划应该得到什么？",
+      "solucion": "A",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "Reducir los costes de las averías.",
+        "B": "Reducir las infracciones en relación con los tiempos de conducción y descanso.",
+        "C": "Reducir el absentismo laboral",
+        "D": "Todas las respuestas son correctas"
+      },
+      "opciones_chino": {
+        "A": "降低故障的成本。",
+        "B": "减少与驾驶和休息时间有关的违规行为。",
+        "C": "减少缺勤的工作",
+        "D": "所有答案都是正确的"
+      }
+    },
+    {
+      "cod": "2G05011",
+      "pregunta": "¿Cuáles son los tres tipos clásicos de mantenimiento de vehículos?",
+      "pregunta_chino": "三种经典的车辆维护类型是什么？",
+      "solucion": "D",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "Preventivo, correctivo y específico.",
+        "B": "Genérico, específico y excepcional.",
+        "C": "Predictivo, de seguimiento y correctivo",
+        "D": "Preventivo, predictivo y correctivo"
+      },
+      "opciones_chino": {
+        "A": "预防，纠正和具体。",
+        "B": "通用，具体且异常。",
+        "C": "预测，监视和纠正",
+        "D": "预防，预测和纠正"
+      }
+    },
+    {
+      "cod": "2G05012",
+      "pregunta": "¿En qué consiste un plan de mantenimiento integral de una flota de vehículos?",
+      "pregunta_chino": "什么是车队的整体维护计划？",
+      "solucion": "B",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "En que comprende a todos los vehículos de la empresa, independientemente de las funciones que tengan.",
+        "B": "En que combina los mantenimientos preventivo, predictivo y correctivo.",
+        "C": "En que participa en él todo el personal de la empresa.",
+        "D": "En que se aplica a los vehículos de la empresa, desde el momento de su compra hasta su baja o venta."
+      },
+      "opciones_chino": {
+        "A": "在其中他了解公司的所有车辆，无论其功能如何。",
+        "B": "它结合了预防性，预测性和纠正性维护。",
+        "C": "所有公司工作人员都参与其中。",
+        "D": "从购买的那一刻到低价或销售，它适用于公司的车辆。"
+      }
+    },
+    {
+      "cod": "2G05013",
+      "pregunta": "En relación con el mantenimiento correctivo, ¿qué debe hacer un plan de mantenimiento?",
+      "pregunta_chino": "关于纠正性维护，维护计划应该做什么？",
+      "solucion": "D",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "Dedicarle la mayor parte de los recursos.",
+        "B": "Conseguir que sea lo mayor posible.",
+        "C": "Equiparar su peso con el de otros tipos de mantenimiento.",
+        "D": "Hacer que sea lo menor posible."
+      },
+      "opciones_chino": {
+        "A": "专用于大多数资源。",
+        "B": "尽可能多。",
+        "C": "将您的体重与其他类型的维护等同。",
+        "D": "尽可能少。"
+      }
+    },
+    {
+      "cod": "2G05014",
+      "pregunta": "¿Cuándo se lleva a cabo un mantenimiento correctivo del vehículo?",
+      "pregunta_chino": "什么时候可以对车辆进行纠正？",
+      "solucion": "A",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "Cuando una pieza ha acabado su vida útil.",
+        "B": "Cuando se sospecha que puede producirse en breve un fallo o una avería.",
+        "C": "Antes de presentar el vehículo a la ITV.",
+        "D": "Cuando lo prevea el plan de mantenimiento."
+      },
+      "opciones_chino": {
+        "A": "一件作品结束了它的使用寿命。",
+        "B": "当怀疑会很快发生故障或崩溃时。",
+        "C": "在将车辆展示给ITV之前。",
+        "D": "维护计划预见时。"
+      }
+    },
+    {
+      "cod": "2G05015",
+      "pregunta": "¿Cuándo se lleva a cabo un mantenimiento correctivo del vehículo?",
+      "pregunta_chino": "什么时候可以对车辆进行纠正？",
+      "solucion": "C",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "Cuando se sospecha que una pieza va a acabar su vida útil.",
+        "B": "Antes de presentar el vehículo a la ITV.",
+        "C": "Cuando se produce un fallo o una avería.",
+        "D": "Cuando lo prevea el plan de mantenimiento."
+      },
+      "opciones_chino": {
+        "A": "当怀疑一件会结束其有用的生活时。",
+        "B": "在将车辆展示给ITV之前。",
+        "C": "发生故障或故障时。",
+        "D": "维护计划预见时。"
+      }
+    },
+    {
+      "cod": "2G05016",
+      "pregunta": "¿En qué consiste el mantenimiento predictivo de un vehículo?",
+      "pregunta_chino": "车辆的预测维护是什么？",
+      "solucion": "B",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "No existe este tipo de mantenimiento.",
+        "B": "En analizar el estado del vehículo o sus componentes a intervalos establecidos.",
+        "C": "En inspeccionar el vehículo para anticiparse a las averías.",
+        "D": "En estudiar el estado de los vehículos para calcular los costes de mantenimiento y renovación de flota a medio y largo plazo."
+      },
+      "opciones_chino": {
+        "A": "没有维护。",
+        "B": "在分析车辆或其组件的状态时，以既定的间隔。",
+        "C": "在检查车辆以预测故障时。",
+        "D": "在研究车辆的状态以计算中型和长期舰队的维护和更新成本。"
+      }
+    },
+    {
+      "cod": "2G05017",
+      "pregunta": "¿Cuál es el mejor período para revisar piezas y componenentes del vehículo cuando se realiza un mantenimiento predictivo?",
+      "pregunta_chino": "进行预测性维护时，审查车辆零件和组件的最佳时期是什么？",
+      "solucion": "C",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "En el momento de la compra o montaje.",
+        "B": "Cuando lo especifica el fabricante.",
+        "C": "Aproximadamene hacia la mitad de su vida útil.",
+        "D": "Cuando de desmonta o cambia por un fallo o avería."
+      },
+      "opciones_chino": {
+        "A": "在购买或组装时。",
+        "B": "当制造商指定它时。",
+        "C": "接近您一半有用生活的方法。",
+        "D": "当它分解或更改故障或故障时。"
+      }
+    },
+    {
+      "cod": "2G05018",
+      "pregunta": "¿Qué objetivo tiene el mantenimiento preventivo de un vehículo?",
+      "pregunta_chino": "车辆的预防性维护目标是什么？",
+      "solucion": "B",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "Preparar el vehículo para la ITV.",
+        "B": "Anticiparse a la aparición de averías.",
+        "C": "Cumplir con las especificaciones del fabricante.",
+        "D": "Evitar que se repita la avería que se está reparando."
+      },
+      "opciones_chino": {
+        "A": "准备ITV的车辆。",
+        "B": "预期出现故障。",
+        "C": "符合制造商的规格。",
+        "D": "避免重复正在修复的故障。"
+      }
+    },
+    {
+      "cod": "2G05019",
+      "pregunta": "¿Qué beneficios tiene el mantenimiento preventivo de los vehículos para una empresa de transporte?",
+      "pregunta_chino": "车辆的预防性维护对运输公司有什么好处？",
+      "solucion": "D",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "Incremento de la productividad de la flota.",
+        "B": "Mejora de la calidaddel servicio.",
+        "C": "Mejora de la eficiencia medioambiental de los vehículos.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "舰队生产率提高。",
+        "B": "服务质量改进。",
+        "C": "改善车辆的环境效率。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2G05020",
+      "pregunta": "¿Cuál es una de las acciones fundamentales del mantenimiento preventivo?",
+      "pregunta_chino": "预防性维护的基本行动之一是什么？",
+      "solucion": "A",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "La sustitución de piezas antes de que fallen o se rompan por desgaste.",
+        "B": "La realización de las intervenciones que marca el fabricante.",
+        "C": "La mejora de las prestaciones del vehículo.",
+        "D": "La reparacion de pequeñas disfunciones que puedan afectar a realización de la ITV."
+      },
+      "opciones_chino": {
+        "A": "在碎片失败或破坏磨损之前取代碎片。",
+        "B": "制造商标记的干预措施的实现。",
+        "C": "改善车辆福利。",
+        "D": "可能影响ITV的小功能障碍的修复。"
+      }
+    },
+    {
+      "cod": "2G05021",
+      "pregunta": "El análisis de fallos en un vehículo es una herramienta que ayuda a un buen mantenimiento …",
+      "pregunta_chino": "车辆中的故障分析是一种有助于维护良好的工具...",
+      "solucion": "C",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "correctivo.",
+        "B": "programado.",
+        "C": "preventivo.",
+        "D": "predictivo."
+      },
+      "opciones_chino": {
+        "A": "纠正措施。",
+        "B": "程序。",
+        "C": "预防性。",
+        "D": "预测性"
+      }
+    },
+    {
+      "cod": "2G05022",
+      "pregunta": "¿Qué es el mantenimiento programado de un vehículo?",
+      "pregunta_chino": "车辆的编程维护是什么？",
+      "solucion": "B",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "El que establece el plan de mantenimiento de la empresa.",
+        "B": "El que establece el fabricante en documentos técnicos del vehículo.",
+        "C": "El que establece la normativa UE en relación con las emisiones de los vehículos.",
+        "D": "Es sinónimo de mantenimineto preventivo."
+      },
+      "opciones_chino": {
+        "A": "建立公司维护计划的一个。",
+        "B": "在车辆技术文件中建立制造商的那一位。",
+        "C": "建立了与车辆排放有关的欧盟法规。",
+        "D": "它是预防性维护的同义词。"
+      }
+    },
+    {
+      "cod": "2G05023",
+      "pregunta": "¿Qué operaciones son las operaciones más comunes definidas por los fabricantes en los mantenimientos programados de los vehículos?",
+      "pregunta_chino": "制造商在编程的车辆维护中定义了哪些最常见的操作？",
+      "solucion": "C",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "Ruedas y sistema de dirección.",
+        "B": "Sistema eléctrico y sistema de frenado.",
+        "C": "Aceite, filtros y correas.",
+        "D": "Testigos, niveles de líquidos y ruedas."
+      },
+      "opciones_chino": {
+        "A": "车轮和转向系统。",
+        "B": "电气系统和制动系统。",
+        "C": "油，过滤器和皮带。",
+        "D": "证人，液位和车轮。"
+      }
+    },
+    {
+      "cod": "2G05024",
+      "pregunta": "Para preparar un plan de mantenimiento de una flota de vehículos, ¿qué es fundamental tener en cuenta?",
+      "pregunta_chino": "为了准备车队的维护计划，要考虑什么？",
+      "solucion": "D",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "Las rutas que realizan.",
+        "B": "Las cargas que transportan.",
+        "C": "Los tipos de vehículos a los que va a estar destinado.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "他们的路线。",
+        "B": "运输的负载。",
+        "C": "它将注定的车辆类型。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2G05025",
+      "pregunta": "Un plan de mantenimiento de una flota de vehículos debe estar diseñado para…",
+      "pregunta_chino": "车队的维护计划必须是为...设计的",
+      "solucion": "C",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "conseguir abaratar el precio de las piezas de recambio.",
+        "B": "mejorar el uso del tacógrafo por parte de los conductores.",
+        "C": "evitar al máximo la actuaciones de mantenimiento correctivo.",
+        "D": "fomentar las actuaciones de mantenimiento correctivo."
+      },
+      "opciones_chino": {
+        "A": "获取更换物品的价格。",
+        "B": "改善驾驶员使用快速仪的使用。",
+        "C": "避免进行纠正措施。",
+        "D": "促进纠正措施。"
+      }
+    },
+    {
+      "cod": "2G05026",
+      "pregunta": "Un plan de mantenimiento de una flota de vehículos debe estar diseñado para…",
+      "pregunta_chino": "车队的维护计划必须是为...设计的",
+      "solucion": "B",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "incrementar los kilómetros totales realizados al año por la flota.",
+        "B": "integrar el plan de mantenimiento programado del fabricante.",
+        "C": "centrarse solo en los componentes esenciales del vehículo.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "opciones_chino": {
+        "A": "增加车队每年赚取的总公里。",
+        "B": "整合制造商的编程维护计划。",
+        "C": "仅专注于车辆的基本组件。",
+        "D": "所有答案都是正确的。"
+      }
+    },
+    {
+      "cod": "2G05028",
+      "pregunta": "¿Quién suele hacer las tareas diarias programadas en un plan de mantenimiento de una empresa de transportes?",
+      "pregunta_chino": "通常在运输公司的维护计划中编程的日常任务通常是谁？",
+      "solucion": "B",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "Los ayundantes de mecánico.",
+        "B": "Los conductores.",
+        "C": "Los mecánicos.",
+        "D": "No existen tareas diárias en un plan de mantenimiento."
+      },
+      "opciones_chino": {
+        "A": "麦卡尼科。",
+        "B": "司机。",
+        "C": "力学。",
+        "D": "维护计划中没有Diária任务。"
+      }
+    },
+    {
+      "cod": "2G05029",
+      "pregunta": "Normalmente, las tareas anuales en un plan de mantenimiento estan formadas por:",
+      "pregunta_chino": "通常，维护计划中的年度任务由以下方式形成：",
+      "solucion": "A",
+      "norma": "Logística y comunicación en un taller de vehículos, Grado de Técnico superior en Automoción, Rubén Casanova Arribas y Óscar Barrera Doblado, Ed. Paraninfo",
+      "opciones": {
+        "A": "las definidas en el plan programado del fabricante.",
+        "B": "los cambios de piezas esenciales.",
+        "C": "las tareas externalizadas por falta del material necesario en la empresa.",
+        "D": "las que marca la normativa reguladora de la ITV."
+      },
+      "opciones_chino": {
+        "A": "制造商编程计划中定义的人。",
+        "B": "基本碎片的变化。",
+        "C": "由于公司缺乏必要的材料而导致的外部任务。",
+        "D": "以ITV监管法规为标志的人。"
+      }
+    },
+    {
+      "cod": "2G05030",
+      "pregunta": "¿Incide un mantenimiento adecuado de la flota en el consumo de combustible?",
+      "pregunta_chino": "燃油消耗中的机队是否有足够的维护影响？",
+      "solucion": "C",
+      "norma": "Guía para la gestión del combustible en las flotas de transporte por carretera, IDEA",
+      "opciones": {
+        "A": "No, no tiene ninguna incidencia.",
+        "B": "Sí, pero es una incidencia prácticamente inapeciable.",
+        "C": "Tiene incidencia directa.",
+        "D": "Tiene incidencia indirecta."
+      },
+      "opciones_chino": {
+        "A": "不，它没有发病率。",
+        "B": "是的，但这实际上是无法处理的。",
+        "C": "它有直接发病率。",
+        "D": "它有间接的发病率。"
+      }
+    },
+    {
+      "cod": "2G05031",
+      "pregunta": "¿Cómo afecta la presión de los neumáticos al consumo de carburante?",
+      "pregunta_chino": "燃料消耗的压力如何影响？",
+      "solucion": "D",
+      "norma": "Guía para la gestión del combustible en las flotas de transporte por carretera, IDEA",
+      "opciones": {
+        "A": "Una presión excesivamente baja aumenta el consumo.",
+        "B": "Una presión excesivamente alta aumenta el consumo.",
+        "C": "La presión no afecta al consumo de carburante.",
+        "D": "Las respuestas A y la B son correctas."
+      },
+      "opciones_chino": {
+        "A": "高压过高会增加消耗量。",
+        "B": "高压过高会增加消耗量。",
+        "C": "压力不会影响燃料消耗。",
+        "D": "响应A和B是正确的。"
+      }
+    },
+    {
+      "cod": "2G05032",
+      "pregunta": "¿Afecta una presión excecivamente alta de los neumáticos al consumo de carburante?",
+      "pregunta_chino": "它会影响油耗轮胎的异常高压吗？",
+      "solucion": "A",
+      "norma": "Guía para la gestión del combustible en las flotas de transporte por carretera, IDEA",
+      "opciones": {
+        "A": "Sí.",
+        "B": "No, afecta al desgaste de los neumáticos.",
+        "C": "No, afecta al control de la dirección.",
+        "D": "No, afecta a la capacidad de frenado."
+      },
+      "opciones_chino": {
+        "A": "是的。",
+        "B": "不，它会影响轮胎的磨损。",
+        "C": "不，它会影响管理控制。",
+        "D": "不，它会影响制动能力。"
+      }
+    },
+    {
+      "cod": "2G05033",
+      "pregunta": "¿Cada cuánto se recomienda hacer una revisión de los neumáticos?",
+      "pregunta_chino": "建议多久审查轮胎？",
+      "solucion": "B",
+      "norma": "Guía para la gestión del combustible en las flotas de transporte por carretera, IDEA",
+      "opciones": {
+        "A": "Cada vez que se reposte.",
+        "B": "Diariamente, de manera visual.",
+        "C": "Cada semana, al principio de la jornada del lunes.",
+        "D": "Mensualmente."
+      },
+      "opciones_chino": {
+        "A": "每次休息。",
+        "B": "每天，视觉上。",
+        "C": "每个星期，星期一开始。",
+        "D": "每月。"
+      }
+    },
+    {
+      "cod": "2G05034",
+      "pregunta": "¿Cada cuánto se recomienda hacer medir la presión de los neumáticos?",
+      "pregunta_chino": "建议多久测量一次轮胎压力？",
+      "solucion": "C",
+      "norma": "Guía para la gestión del combustible en las flotas de transporte por carretera, IDEA",
+      "opciones": {
+        "A": "Cada vez que se reposte.",
+        "B": "Antes de efectuar cargas cercanas al máximo de carga útil.",
+        "C": "Cada 5.000 kilómetros",
+        "D": "Mensualmente."
+      },
+      "opciones_chino": {
+        "A": "每次休息。",
+        "B": "在关闭最大有效载荷之前。",
+        "C": "每5,000公里",
+        "D": "每月。"
+      }
+    },
+    {
+      "cod": "2G05035",
+      "pregunta": "¿En cuánto aumenta el consumo de un vehículo una reducción de la presión del neumático en 2 bares por debajo de la aconsejada?",
+      "pregunta_chino": "在低于建议的2 bar中，车辆的消耗量增加了轮胎压力的降低？",
+      "solucion": "C",
+      "norma": "Manual de conducción eficiente para conductores de vehículos industriales, IDAE",
+      "opciones": {
+        "A": "En un 5 %.",
+        "B": "En un 3 %.",
+        "C": "En un 2 %.",
+        "D": "Es inapreciable el incremento de consumo."
+      },
+      "opciones_chino": {
+        "A": "5％。",
+        "B": "以3％。",
+        "C": "2％。",
+        "D": "消费的增加被低估了。"
+      }
+    },
+    {
+      "cod": "2G05036",
+      "pregunta": "¿El estado de los filtros del vehículo afecta al consumo de carburante?",
+      "pregunta_chino": "车辆过滤器的状态会影响燃油消耗吗？",
+      "solucion": "A",
+      "norma": "Manual de conducción eficiente para conductores de vehículos industriales, IDAE",
+      "opciones": {
+        "A": "Sí, le afectan los filtros de aire, aceite y combustible.",
+        "B": "Solo afecta el filtro de aceite.",
+        "C": "Solo afecta el filtro de combustible,",
+        "D": "No, no tienen relación alguna con el consumo de carburante."
+      },
+      "opciones_chino": {
+        "A": "是的，空气，油和燃料过滤器会影响。",
+        "B": "它仅影响机油过滤器。",
+        "C": "仅影响燃油过滤器，",
+        "D": "不，他们与燃料消耗没有关系。"
+      }
+    },
+    {
+      "cod": "2G05037",
+      "pregunta": "¿En cuánto puede incrementar el consumo un filtro de aceite en mal estado?",
+      "pregunta_chino": "消费可以增加状况不佳的机油过滤器？",
+      "solucion": "D",
+      "norma": "Manual de conducción eficiente para conductores de vehículos industriales, IDAE",
+      "opciones": {
+        "A": "En un 2 %.",
+        "B": "En un 1,5 %.",
+        "C": "En un 1 %.",
+        "D": "En un 0,5 %."
+      },
+      "opciones_chino": {
+        "A": "2％。",
+        "B": "1.5％。",
+        "C": "1％。",
+        "D": "为0.5％。"
+      }
+    },
+    {
+      "cod": "2G05038",
+      "pregunta": "¿Cuál es la función del filtro de aire del motor?",
+      "pregunta_chino": "发动机空气过滤器的功能是什么？",
+      "solucion": "D",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Dosificar el aire que entra en la combustión.",
+        "B": "Atemperar el aire que entra en la combustión.",
+        "C": "Reciclar el aire que entra en la combustión.",
+        "D": "Limpiar de impurezas el aire que entra en la combustión."
+      },
+      "opciones_chino": {
+        "A": "剂量进入燃烧的空气。",
+        "B": "调节进入燃烧的空气。",
+        "C": "回收进入燃烧的空气。",
+        "D": "清洁进入燃烧的空气。"
+      }
+    },
+    {
+      "cod": "2G05039",
+      "pregunta": "¿Cuál es la función del radiador de un vehículo?",
+      "pregunta_chino": "车辆散热器的功能是什么？",
+      "solucion": "D",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Enfriar el aceite que pasa por el motor.",
+        "B": "Crear una corriente de aire frío para refrigerar el motor.",
+        "C": "Mantener una temperatura adecuada en la cabina.",
+        "D": "Enfriar el agua que pasa por el motor."
+      },
+      "opciones_chino": {
+        "A": "冷却穿过发动机的油。",
+        "B": "创建冷空气流以冷却发动机。",
+        "C": "在机舱中保持足够的温度。",
+        "D": "冷却穿过发动机的水。"
+      }
+    },
+    {
+      "cod": "2G05040",
+      "pregunta": "¿Cuál es una causa probable de ruidos en el turbo compresor?",
+      "pregunta_chino": "压缩机涡轮增压器中噪声的可能原因是什么？",
+      "solucion": "C",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Un filtro de aceite sucio.",
+        "B": "Un filtro de aire sucio.",
+        "C": "Un engrase deficiente.",
+        "D": "Un exceso de aceite."
+      },
+      "opciones_chino": {
+        "A": "肮脏的机油滤清器。",
+        "B": "肮脏的空气过滤器。",
+        "C": "油脂差。",
+        "D": "过量的油。"
+      }
+    },
+    {
+      "cod": "2G05041",
+      "pregunta": "¿Cómo se mide el nivel de aceite del cárter?",
+      "pregunta_chino": "您如何测量曲轴箱的油位？",
+      "solucion": "B",
+      "norma": "Manual de Automóviles, Manuel Arias-Paz, Cie Inversiones Editoriales Dossat 2000 S.L.",
+      "opciones": {
+        "A": "Mediante el manómetro.",
+        "B": "Mediante una varilla indicadora.",
+        "C": "Mediante una varilla de mercurio.",
+        "D": "Mediante los indicadores del salpicadero, en todos los casos."
+      },
+      "opciones_chino": {
+        "A": "通过压力表。",
+        "B": "通过指示杆。",
+        "C": "通过汞杆。",
+        "D": "在所有情况下，通过飞溅指标。"
+      }
+    },
+    {
+      "cod": "2G05042",
+      "pregunta": "¿Cuáles son los componentes del sistema de refrigeración de un vehículo?",
+      "pregunta_chino": "车辆制冷系统的组件是什么？",
+      "solucion": "A",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Ventilador, radiador y bomba de agua.",
+        "B": "Cárter, ventilador y alternador.",
+        "C": "Difusor de agua, disipador de temperatura y radiador.",
+        "D": "Termostato, manómetro y bomba de agua."
+      },
+      "opciones_chino": {
+        "A": "风扇，散热器和水泵。",
+        "B": "曲轴箱，风扇和交流发电机。",
+        "C": "水扩散器，温度和散热器散射器。",
+        "D": "恒温器，压力表和水泵。"
+      }
+    },
+    {
+      "cod": "2G05043",
+      "pregunta": "¿Cuáles son los componentes principales del sistema eléctrico de un vehículo?",
+      "pregunta_chino": "车辆电气系统的主要组件是什么？",
+      "solucion": "C",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Batería, cárter y bujías.",
+        "B": "Alternador, correa de distribución y bujías.",
+        "C": "Alternador, batería y motor de arranque.",
+        "D": "Inyectores, bujías y sistema de alumbrado."
+      },
+      "opciones_chino": {
+        "A": "电池，曲轴箱和火花塞。",
+        "B": "交流发电机，配电表带和火花塞。",
+        "C": "交流发电机，鼓和起动发动机。",
+        "D": "喷油器，火花塞和照明系统。"
+      }
+    },
+    {
+      "cod": "2G05044",
+      "pregunta": "¿Cuáles son los elementos que intervienen en la alimentación de un motor diésel?",
+      "pregunta_chino": "柴油发动机的喂养涉及哪些要素？",
+      "solucion": "D",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Las bujías.",
+        "B": "La bomba de lubricación.",
+        "C": "El alternador.",
+        "D": "Los inyectores y las bombas de alimentación e inyección."
+      },
+      "opciones_chino": {
+        "A": "火花塞。",
+        "B": "润滑泵。",
+        "C": "交流发电机。",
+        "D": "喷油器以及进食和注入泵。"
+      }
+    },
+    {
+      "cod": "2G05045",
+      "pregunta": "¿Cuándo debemos limpiar el filtro de aire?",
+      "pregunta_chino": "我们什么时候应该清洁空气过滤器？",
+      "solucion": "D",
+      "norma": "Manual de Automóviles, Manuel Arias-Paz, Cie Inversiones Editoriales Dossat 2000 S.L.",
+      "opciones": {
+        "A": "Cada 10.000 kilómetros.",
+        "B": "Semanalmente.",
+        "C": "Mensualmente.",
+        "D": "Cada 5.000 a 8.000 kilómetros, según el ambiente de trabajo."
+      },
+      "opciones_chino": {
+        "A": "每10,000公里。",
+        "B": "每周。",
+        "C": "每月。",
+        "D": "根据工作环境，每5,000至8,000公里。"
+      }
+    },
+    {
+      "cod": "2G05046",
+      "pregunta": "¿En qué tiene especial incidencia el correcto mantenimiento del sistema de lubricación?",
+      "pregunta_chino": "润滑系统的正确维护有什么特殊发病率？",
+      "solucion": "A",
+      "norma": "Manual de Automóviles, Manuel Arias-Paz, Cie Inversiones Editoriales Dossat 2000 S.L.",
+      "opciones": {
+        "A": "En la fiabilidad y longevidad del motor.",
+        "B": "En la correcta mezcla de la combustión.",
+        "C": "En el estado del alternador.",
+        "D": "En la efectividad de los inyectores."
+      },
+      "opciones_chino": {
+        "A": "在发动机的可靠性和寿命中。",
+        "B": "在正确的燃烧混合物中。",
+        "C": "在交流发电机状态下。",
+        "D": "在注射器的有效性中。"
+      }
+    },
+    {
+      "cod": "2G05047",
+      "pregunta": "¿Cuándo se debe verificar la presión de los neumáticos?",
+      "pregunta_chino": "何时应该验证轮胎压力？",
+      "solucion": "C",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Cada vez que repostemos.",
+        "B": "Con el neumático caliente.",
+        "C": "Con el neumático frío.",
+        "D": "Indistintamente con el neumático frío o caliente."
+      },
+      "opciones_chino": {
+        "A": "每次我们重新发布。",
+        "B": "带有热轮胎。",
+        "C": "带冷轮胎。",
+        "D": "与寒冷或热轮胎互换。"
+      }
+    },
+    {
+      "cod": "2G05048",
+      "pregunta": "¿De quién es responsabilidad la revisión del estado y funcionamiento de los vehículos?",
+      "pregunta_chino": "谁是国家的责任和车辆运营？",
+      "solucion": "A",
+      "norma": "Manual de conducción eficiente para conductores de vehículos industriales, IDAE",
+      "opciones": {
+        "A": "Del conductor y del propietario del vehículo.",
+        "B": "De la persona o empresa que contrate el transporte.",
+        "C": "Del cargador.",
+        "D": "De los viajeros."
+      },
+      "opciones_chino": {
+        "A": "驾驶员和车主的所有者。",
+        "B": "雇用运输的人员或公司。",
+        "C": "充电器。",
+        "D": "旅行者。"
+      }
+    },
+    {
+      "cod": "2G05049",
+      "pregunta": "¿En qué influye una correcta elección de los neumáticos del vehículo?",
+      "pregunta_chino": "正确选择车轮的选择会影响什么？",
+      "solucion": "C",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "En el consumo de aceite.",
+        "B": "En la duración del motor.",
+        "C": "En la seguridad y la protección medioambiental.",
+        "D": "En ninguna de las respuestas anteriores."
+      },
+      "opciones_chino": {
+        "A": "在石油消耗中。",
+        "B": "在电机持续时间内。",
+        "C": "在环境安全和保护方面。",
+        "D": "以前的答案没有。"
+      }
+    },
+    {
+      "cod": "2G05050",
+      "pregunta": "¿En qué repercutirá el mantenimiento preventivo del vehículo?",
+      "pregunta_chino": "什么会影响车辆的预防性维护？",
+      "solucion": "D",
+      "norma": "Manual de conducción eficiente para conductores de vehículos industriales, IDAE",
+      "opciones": {
+        "A": "En un mayor desgaste de los neumáticos.",
+        "B": "En una disminución de la seguridad pasiva del vehículo.",
+        "C": "En un incremento de los costes del servicio.",
+        "D": "En una disminución de las averías."
+      },
+      "opciones_chino": {
+        "A": "轮胎的磨损更大。",
+        "B": "车辆被动安全性降低。",
+        "C": "服务成本增加。",
+        "D": "崩溃的减少。"
+      }
+    },
+    {
+      "cod": "2G05051",
+      "pregunta": "¿Cómo pueden ser los aceites utilizados en los vehículos?",
+      "pregunta_chino": "车辆中使用的油如何？",
+      "solucion": "C",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Puros o compuestos.",
+        "B": "Bigrado y Multigrado.",
+        "C": "Minerales y sintéticos.",
+        "D": "Viscosos y adherentes."
+      },
+      "opciones_chino": {
+        "A": "纯或化合物。",
+        "B": "Bigrado和Multigrade。",
+        "C": "矿物质和合成。",
+        "D": "粘性和信徒。"
+      }
+    },
+    {
+      "cod": "2G05052",
+      "pregunta": "¿Qué características deben tener los aceites utilizados en los vehículos?",
+      "pregunta_chino": "车辆中使用的油应具有什么特征？",
+      "solucion": "D",
+      "norma": "Manual de Automóviles, Manuel Arias-Paz, Cie Inversiones Editoriales Dossat 2000 S.L.",
+      "opciones": {
+        "A": "Ser resistentes a altas presiones.",
+        "B": "Ser anticorrosivos.",
+        "C": "Ser antioxidantes.",
+        "D": "Todas las respuestas son correctas"
+      },
+      "opciones_chino": {
+        "A": "抵抗高压。",
+        "B": "保持反腐蚀。",
+        "C": "是抗氧化剂。",
+        "D": "所有答案都是正确的"
+      }
+    },
+    {
+      "cod": "2G05053",
+      "pregunta": "¿Qué es un aceite multigrado?",
+      "pregunta_chino": "什么是多式油？",
+      "solucion": "C",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Un aceite que sirve tanto para motores diésel como gasolina.",
+        "B": "Un aceite que es mezcla de sintético y mineral.",
+        "C": "Un aceite de funcionamiento óptimo a distintas temperaturas.",
+        "D": "Un aceite para motores que funcionan a altas temperaturas."
+      },
+      "opciones_chino": {
+        "A": "一种为柴油发动机和汽油提供服务的油。",
+        "B": "合成和矿物质混合物的油。",
+        "C": "在不同温度下的最佳操作油。",
+        "D": "在高温下工作的发动机的油。"
+      }
+    },
+    {
+      "cod": "2G05054",
+      "pregunta": "¿Qué significa la denominación SAE 10 W/50 de un aceite?",
+      "pregunta_chino": "SAE 10 w/50的石油面额意味着什么？",
+      "solucion": "A",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "Que es un aceite multigrado.",
+        "B": "Que es muy viscoso.",
+        "C": "Que se utilizará para temperaturas superiores a 50 grados.",
+        "D": "Que es una valvulina."
+      },
+      "opciones_chino": {
+        "A": "那是多元式油。",
+        "B": "那是非常粘的。",
+        "C": "该温度将用于50度以上的温度。",
+        "D": "那是瓦尔维利纳。"
+      }
+    },
+    {
+      "cod": "2G05055",
+      "pregunta": "De los que se citan, ¿qué elemento pertenece a la instalación de frenos neumáticos?",
+      "pregunta_chino": "在被引用的那些元素中，属于气动制动器的安装？",
+      "solucion": "A",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "El compresor.",
+        "B": "El servofreno.",
+        "C": "La correa de la distribución.",
+        "D": "La batería."
+      },
+      "opciones_chino": {
+        "A": "压缩机。",
+        "B": "伺服素。",
+        "C": "分布带。",
+        "D": "电池。"
+      }
+    },
+    {
+      "cod": "2G05056",
+      "pregunta": "El sistema de frenado…",
+      "pregunta_chino": "制动系统...",
+      "solucion": "A",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "tiene que ser revisado frecuentemente y reponer sus componentes deteriorados.",
+        "B": "avisa cuando se deterioran sus elementos.",
+        "C": "debe ser revisado al menos una vez al año.",
+        "D": "debe mantenerse coincidiendo con las inspecciones técnicas periódicas."
+      },
+      "opciones_chino": {
+        "A": "它必须经常审查并补充其恶化的组件。",
+        "B": "警告其元素恶化。",
+        "C": "必须每年至少进行一次审查。",
+        "D": "必须维持与定期技术检查相吻合。"
+      }
+    },
+    {
+      "cod": "2G05057",
+      "pregunta": "Además de engrasar las piezas móviles del motor y las paredes del cilindro, ¿qué otra función cumple el aceite?",
+      "pregunta_chino": "除了给电机和气缸壁的移动部件润滑外，油还具有什么其他功能？",
+      "solucion": "D",
+      "norma": "Manual de Automóviles, Manuel Arias-Paz, Cie Inversiones Editoriales Dossat 2000 S.L.",
+      "opciones": {
+        "A": "Evitar ruidos de sistemas auxiliares del motor.",
+        "B": "Engrasar el eje rotor del alternador.",
+        "C": "Evitar la corrosión del sistema de refrigeración.",
+        "D": "Refrigerar los órganos del motor."
+      },
+      "opciones_chino": {
+        "A": "避免电机系统噪音。",
+        "B": "生长交流型转子轴。",
+        "C": "避免冷却系统腐蚀。",
+        "D": "冷藏电机器官。"
+      }
+    },
+    {
+      "cod": "2G05058",
+      "pregunta": "En caso de que al accionar el motor de arranque este no gire con la energía necesaria, se deberán revisar:",
+      "pregunta_chino": "如果发动机发动机发挥作用时，它不会用必要的能量转动，则必须检查它们：",
+      "solucion": "A",
+      "norma": "Mecánica completa, Editorial Tráfico Vial",
+      "opciones": {
+        "A": "las baterías.",
+        "B": "el manómetro y lubrinómetro.",
+        "C": "los inyectores.",
+        "D": "los filtros del aire y aceite."
+      },
+      "opciones_chino": {
+        "A": "电池。",
+        "B": "压力表和卢布林计。",
+        "C": "注射器。",
+        "D": "空气和油过滤器。"
+      }
+    },
+    {
+      "cod": "2G05059",
+      "pregunta": "En invierno, ¿cómo debe ser el aceite existente en el cárter?",
+      "pregunta_chino": "在冬季，现有的石油应该如何在曲轴箱中？",
+      "solucion": "A",
+      "norma": "Manual de Automóviles, Manuel Arias-Paz, Cie Inversiones Editoriales Dossat 2000 S.L.",
+      "opciones": {
+        "A": "Fluido.",
+        "B": "Semidenso.",
+        "C": "Denso.",
+        "D": "Muy denso."
+      },
+      "opciones_chino": {
+        "A": "流利。",
+        "B": "半岛",
+        "C": "稠密。",
+        "D": "非常密集。"
+      }
+    },
+    {
+      "cod": "2G05060",
+      "pregunta": "¿En cuánto puede incrementar el consumo un filtro de aire en mal estado?",
+      "pregunta_chino": "消费可以增加状况不佳的空气过滤器？",
+      "solucion": "D",
+      "norma": "Manual de conducción eficiente para conductores de vehículos industriales, IDAE",
+      "opciones": {
+        "A": "En un 3 %.",
+        "B": "En un 2,5 %.",
+        "C": "En un 2 %.",
+        "D": "En un 1,5 %."
+      },
+      "opciones_chino": {
+        "A": "以3％。",
+        "B": "2.5％。",
+        "C": "2％。",
+        "D": "1.5％。"
+      }
+    },
+    {
+      "cod": "2G05061",
+      "pregunta": "¿En cuánto puede incrementar el consumo un filtro de combustible en mal estado?",
+      "pregunta_chino": "消费可以增加条件恶劣的燃油过滤器？",
+      "solucion": "D",
+      "norma": "Manual de conducción eficiente para conductores de vehículos industriales, IDAE",
+      "opciones": {
+        "A": "En un 2 %.",
+        "B": "En un 1,5 %.",
+        "C": "En un 1 %.",
+        "D": "En un 0,5 %."
+      },
+      "opciones_chino": {
+        "A": "2％。",
+        "B": "1.5％。",
+        "C": "1％。",
+        "D": "为0.5％。"
+      }
+    }
+  ]
+}

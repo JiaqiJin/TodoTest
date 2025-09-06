@@ -1,0 +1,3138 @@
+{
+  "tema": "cm1F",
+  "tema_chino": "CM1F",
+  "preguntas": [
+    {
+      "cod": "1F01001",
+      "pregunta": "Una sociedad limitada dispone de autorización de transporte público de mercancías que habilita para realizar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada y cuenta con tres vehículos de 20, 24 y 29 toneladas respectivamente para el desarrollo de su actividad.\nCon ocasión del visado de la autorización, la Administración de Transportes comprueba que la sociedad no se encuentra al corriente en el cumplimento de sus obligaciones fiscales, sin que por parte de ésta se lleve a cabo la subsanación del incumplimiento. Como consecuencia, la Administración le notifica que la autorización de transporte ha perdido su validez.\nA pesar de ello, y manteniendo el incumplimiento de obligaciones fiscales, la sociedad sigue efectuando servicios de transporte como lo venía haciendo hasta la fecha, lo que provoca que, con ocasión de la inspección de uno de sus vehículos en un control de carretera, se le imponga una sanción por realizar transporte público careciendo de título habilitante, en aplicación del artículo 140.1 de la Ley de Ordenación de los Transportes Terrestres.\nResponda a las siguientes cuestiones: ¿Quién debería cumplir en esta empresa el requisito de honorabilidad? ¿Podría ser causa de pérdida de la honorabilidad la sanción mencionada? ¿A quién afectaría, en su caso, dicha pérdida?",
+      "pregunta_chino": "一家有限公司拥有商品的公共交通授权，该货物可以使用超过3.5吨最高授权质量的车辆运输，并分别拥有20辆，24吨和29吨的车辆以开发其活动。\n在授权签证之际，运输管理局验证了公司在履行其税收义务方面尚未意识到，而没有与违约的纠正措施。结果，政府通知运输授权失去了其有效性。\n尽管如此，该公司仍继续执行运输服务，尽管迄今为止，该公司仍在继续执行交通服务，这导致在检查道路控制中的一辆车辆时，对缺乏合格标题的公共交通施加了制裁，在陆地运输规定的第140.1条中施加了合格的标题。\n回答以下问题：谁应该在这家公司开会荣誉要求？上述制裁可能是丧失荣誉的原因吗？谁会影响这种损失？",
+      "solucion": "B",
+      "norma": "RD 1211/1990, art. 112; RD 1211/1990, art. 115; RD 1211/1990, art. 116; RD 1211/1990, Anexo I",
+      "norma_chino": "RD 1211/1990，艺术。 112; RD 1211/1990，艺术。 115; RD 1211/1990，艺术。 116; RD 1211/1990，附件I",
+      "opciones": {
+        "A": {
+          "A": "La sociedad titular de la autorización de transporte y el gestor de transporte.",
+          "B": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "C": "Al gestor de transporte exclusivamente, por tratarse de una infracción que afecta al ámbito de sus funciones."
+        },
+        "B": {
+          "A": "La sociedad titular de la autorización de transporte y el gestor de transporte.",
+          "B": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "C": "Tanto a la sociedad titular de la autorización como al gestor de transporte."
+        },
+        "C": {
+          "A": "La sociedad titular de la autorización de transporte y el gestor de transporte.",
+          "B": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "C": "A la sociedad titular de la autorización exclusivamente."
+        },
+        "D": {
+          "A": "El gestor de transporte.",
+          "B": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "C": "Al gestor de transporte de modo directo, pero también a la sociedad titular, que vería suspendidas todas sus autorizaciones."
+        },
+        "E": {
+          "A": "El gestor de transporte.",
+          "B": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "C": "Al gestor de transporte de modo directo, pero también a la sociedad titular, que vería suspendidas todas sus autorizaciones."
+        },
+        "F": {
+          "A": "La sociedad titular de la autorización de transporte y el gestor de transporte.",
+          "B": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "C": "Al gestor de transporte exclusivamente, por tratarse de una infracción que afecta al ámbito de sus funciones."
+        },
+        "G": {
+          "A": "La sociedad titular de la autorización de transporte y el gestor de transporte.",
+          "B": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "C": "Tanto a la sociedad titular de la autorización como al gestor de transporte."
+        },
+        "H": {
+          "A": "La sociedad titular de la autorización de transporte y el gestor de transporte.",
+          "B": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "C": "A la sociedad titular de la autorización exclusivamente."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "运输授权和运输经理的控股公司。",
+          "B": "是的，这本身就是可能导致失去光荣的违规行为之一。",
+          "C": "直到运输经理，因为这是一种影响其功能范围的违规行为。"
+        },
+        "B": {
+          "A": "运输授权和运输经理的控股公司。",
+          "B": "是的，这本身就是可能导致失去光荣的违规行为之一。",
+          "C": "授权公司和运输经理。"
+        },
+        "C": {
+          "A": "运输授权和运输经理的控股公司。",
+          "B": "是的，这本身就是可能导致失去光荣的违规行为之一。",
+          "C": "专门提供授权社会。"
+        },
+        "D": {
+          "A": "运输经理。",
+          "B": "是的，这本身就是可能导致失去光荣的违规行为之一。",
+          "C": "直接向运输经理，也向名义社会暂停其所有授权。"
+        },
+        "E": {
+          "A": "运输经理。",
+          "B": "不，一项制裁不会造成光荣的丧失，必须始终存在违规重申。",
+          "C": "直接向运输经理，也向名义社会暂停其所有授权。"
+        },
+        "F": {
+          "A": "运输授权和运输经理的控股公司。",
+          "B": "不，一项制裁不会造成光荣的丧失，必须始终存在违规重申。",
+          "C": "直到运输经理，因为这是一种影响其功能范围的违规行为。"
+        },
+        "G": {
+          "A": "运输授权和运输经理的控股公司。",
+          "B": "不，一项制裁不会造成光荣的丧失，必须始终存在违规重申。",
+          "C": "授权公司和运输经理。"
+        },
+        "H": {
+          "A": "运输授权和运输经理的控股公司。",
+          "B": "不，一项制裁不会造成光荣的丧失，必须始终存在违规重申。",
+          "C": "专门提供授权社会。"
+        }
+      }
+    },
+    {
+      "cod": "1F01002",
+      "pregunta": "Una sociedad limitada dispone de autorización de transporte público de mercancías que habilita para realizar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada y cuenta con cuatro vehículos para el desarrollo de su actividad.\nCon ocasión de la inspección de uno de sus vehículos en un control de carretera, se detecta una manipulación del limitador de velocidad con la finalidad de modificar sus mediciones. Como consecuencia de ello, se incoa expediente sancionador que finaliza con la imposición de una sanción por manipulación del limitador de velocidad, en aplicación del artículo 140.10 de la Ley de Ordenación de los Transportes Terrestres.\nResponda a las siguientes cuestiones: ¿Podría ser causa de pérdida de la honorabilidad la sanción mencionada? ¿Afectaría, en su caso, dicha pérdida al gestor de transporte?",
+      "pregunta_chino": "一家有限公司拥有商品的公共交通授权，该货物可以使用超过3.5吨最高授权质量的车辆运输，并有四辆汽车开发其活动。\n在检查道路控制中的一辆车辆时，检测到对速度限制器的操纵以修改其测量值。结果，批准档案是在对速度限制限制器操纵的罚款中结束的，在陆地运输规划法规定第140.10条时。\n回答以下问题：上述制裁可能是丧失荣誉的原因吗？这种损失会影响运输经理吗？",
+      "solucion": "C",
+      "norma": "RD 1211/1990, art. 112; RD 1211/1990, art. 115; RD 1211/1990, art. 116; RD 1211/1990, Anexo I",
+      "norma_chino": "RD 1211/1990，艺术。 112; RD 1211/1990，艺术。 115; RD 1211/1990，艺术。 116; RD 1211/1990，附件I",
+      "opciones": {
+        "A": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad; siempre debe existir reiteración infractora.",
+          "B": "No, pues el responsable de esta infracción es el taller que efectuó la manipulación."
+        },
+        "B": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "No, pues el responsable de esta infracción es el titular de la autorización."
+        },
+        "C": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "Sí, pues es una infracción que afecta al ámbito de sus funciones."
+        },
+        "D": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "No, pues el responsable de esta infracción es el taller que efectuó la manipulación."
+        },
+        "E": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "No, pues el responsable de esta infracción es el conductor del vehículo."
+        },
+        "F": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "B": "No, pues el responsable de esta infracción es el conductor del vehículo."
+        },
+        "G": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "B": "No, pues el responsable de esta infracción es el titular de la autorización."
+        },
+        "H": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "B": "Sí, pues es una infracción que afecta al ámbito de sus funciones."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，一项制裁不会造成光荣的丧失；必须总是有冒犯的重复。",
+          "B": "不，因为负责这种违规的人是进行操纵的研讨会。"
+        },
+        "B": {
+          "A": "是的，这本身就是可能导致失去光荣的违规行为之一。",
+          "B": "不，因为负责此违规的人是授权的所有者。"
+        },
+        "C": {
+          "A": "是的，这本身就是可能导致失去光荣的违规行为之一。",
+          "B": "是的，这是一种影响其功能范围的违规行为。"
+        },
+        "D": {
+          "A": "是的，这本身就是可能导致失去光荣的违规行为之一。",
+          "B": "不，因为负责这种违规的人是进行操纵的研讨会。"
+        },
+        "E": {
+          "A": "是的，这本身就是可能导致失去光荣的违规行为之一。",
+          "B": "不，因为负责此违规的人是车辆的驾驶员。"
+        },
+        "F": {
+          "A": "不，一项制裁不会造成光荣的丧失，必须始终存在违规重申。",
+          "B": "不，因为负责此违规的人是车辆的驾驶员。"
+        },
+        "G": {
+          "A": "不，一项制裁不会造成光荣的丧失，必须始终存在违规重申。",
+          "B": "不，因为负责此违规的人是授权的所有者。"
+        },
+        "H": {
+          "A": "不，一项制裁不会造成光荣的丧失，必须始终存在违规重申。",
+          "B": "是的，这是一种影响其功能范围的违规行为。"
+        }
+      }
+    },
+    {
+      "cod": "1F01003",
+      "pregunta": "Una sociedad limitada dispone de autorización de transporte público de mercancías que habilita para realizar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada, y cuenta con dos vehículos para el desarrollo de su actividad.\nCon ocasión de la inspección de uno de sus vehículos en un control de carretera, se solicita del conductor la exhibición de los documentos que lo habilitan para dicha función, mostrando este un permiso de conducir de clase adecuada al vehículo y un certificado de aptitud profesional caducado. Como consecuencia de ello, se incoa expediente sancionador que finaliza con la imposición de una sanción a la empresa por realizar transporte público utilizando un conductor que carece de certificado de aptitud profesional en vigor, en aplicación del artículo 140.18 de la Ley de Ordenación de los Transportes Terrestres.\nResponda a las siguientes cuestiones: ¿Podría ser causa de pérdida de la honorabilidad la sanción mencionada? ¿Cuánto duraría, en su caso, dicha pérdida?",
+      "pregunta_chino": "一家有限公司拥有商品的公共交通授权，该授权能够采用超过3.5吨最高授权质量的车辆运输，并有两辆汽车开发其活动。\n在检查道路控制中的一辆车辆时，请驾驶员向驾驶员提供该功能的文档展览，并向该驾驶执照显示适合车辆的驾驶执照，并获得了专业能力证书的过期。结果，批准文件是为了对公司施加制裁，以使用缺乏专业能力证书的驾驶员进行公共交通，以适用《地面运输规划法》第140.18条。\n回答以下问题：上述制裁可能是丧失荣誉的原因吗？这种损失将持续多长时间？",
+      "solucion": "A",
+      "norma": "RD 1211/1990, art. 116; RD 1211/1990, Anexo I",
+      "norma_chino": "RD 1211/1990，艺术。 116; RD 1211/1990，附件I",
+      "opciones": {
+        "A": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "365 días."
+        },
+        "B": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "B": "Hasta el próximo visado de la autorización de transporte."
+        },
+        "C": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "B": "Hasta que se pague la sanción impuesta."
+        },
+        "D": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "B": "180 días la primera vez que se produzca y 365 días a partir de la segunda."
+        },
+        "E": {
+          "A": "No, una única sanción no produce la pérdida de la honorabilidad, siempre debe existir reiteración infractora.",
+          "B": "365 días."
+        },
+        "F": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "Hasta el próximo visado de la autorización de transporte."
+        },
+        "G": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "Hasta que se pague la sanción impuesta."
+        },
+        "H": {
+          "A": "Sí, se trata de una de las infracciones que, por sí sola, puede conllevar la pérdida de la honorabilidad.",
+          "B": "180 días la primera vez que se produzca y 365 días a partir de la segunda."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，这本身就是可能导致失去光荣的违规行为之一。",
+          "B": "365天。"
+        },
+        "B": {
+          "A": "不，一项制裁不会造成光荣的丧失，必须始终存在违规重申。",
+          "B": "直到运输授权的下一次签证。"
+        },
+        "C": {
+          "A": "不，一项制裁不会造成光荣的丧失，必须始终存在违规重申。",
+          "B": "直到施加制裁。"
+        },
+        "D": {
+          "A": "不，一项制裁不会造成光荣的丧失，必须始终存在违规重申。",
+          "B": "第一次发生的第180天，第二次发生365天。"
+        },
+        "E": {
+          "A": "不，一项制裁不会造成光荣的丧失，必须始终存在违规重申。",
+          "B": "365天。"
+        },
+        "F": {
+          "A": "是的，这本身就是可能导致失去光荣的违规行为之一。",
+          "B": "直到运输授权的下一次签证。"
+        },
+        "G": {
+          "A": "是的，这本身就是可能导致失去光荣的违规行为之一。",
+          "B": "直到施加制裁。"
+        },
+        "H": {
+          "A": "是的，这本身就是可能导致失去光荣的违规行为之一。",
+          "B": "第一次发生的第180天，第二次发生365天。"
+        }
+      }
+    },
+    {
+      "cod": "1F01004",
+      "pregunta": "Una sociedad limitada dispone de autorización de transporte público de mercancías que habilita para realizar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada y cuenta, desde hace tres años, con dos vehículos de 25 y 28 toneladas para el desarrollo de su actividad.\nEsta sociedad ha sido sancionada por la comisión, en un plazo de 365 días, de las siguientes infracciones: -Realizar transporte internacional sin llevar a bordo la licencia comunitaria o una copia auténtica de esta, en aplicación del artículo 197.2 del Reglamento de la Ley de Ordenación de los Transportes Terrestres (cuatro sanciones). -Realizar transporte sin llevar a bordo el certificado de conductor de tercer país o una copia auténtica del mismo, resultando este preceptivo, en aplicación del artículo 141.9 de la Ley de Ordenación de los Transportes Terrestres (tres sanciones).\nResponda a las siguientes cuestiones: ¿Qué valor alcanza en su caso el índice de reiteración infractora? ¿Podrían ser causa de pérdida de la honorabilidad las sanciones mencionadas?",
+      "pregunta_chino": "一家有限公司拥有商品的公共交通授权，可实现超过3.5吨最高授权质量的车辆的运输，并拥有三年的25辆和28吨的车辆以开发其活动。\n该公司已在以下违法行为的365天内被委员会批准： - 在未携带社区许可证或其真实副本的情况下进行国际运输，以在规划土地运输规划法律规定的第197.2条（四个制裁）中。 - 在不携带第三个国家驾驶员证书或同一的真实副本的情况下进行的湖运输，导致了这一强制性的，该规定是土地运输规划法第141.9条（三项制裁）。\n回答以下问题：在您的情况下，犯罪重复指数有什么价值？提到的制裁可能是丧失光荣的原因吗？",
+      "solucion": "H",
+      "norma": "RD 1211/1990, art. 116; RD 1211/1990, art. 117; RD 1211/1990, Anexo I",
+      "norma_chino": "RD 1211/1990，艺术。 116; RD 1211/1990，艺术。 117; RD 1211/1990，附件I",
+      "opciones": {
+        "A": {
+          "A": "2,50.",
+          "B": "No, porque su índice de reiteración infractora no supera el valor de 3."
+        },
+        "B": {
+          "A": "2,50.",
+          "B": "No, porque su índice de reiteración infractora no alcanza el valor de 4."
+        },
+        "C": {
+          "A": "3,50.",
+          "B": "Sí, porque su índice de reiteración infractora supera el valor de 3."
+        },
+        "D": {
+          "A": "4.",
+          "B": "Sí, porque su índice de reiteración infractora alcanza el valor de 4."
+        },
+        "E": {
+          "A": "3,50.",
+          "B": "No, porque su índice de reiteración infractora no supera el valor de 4."
+        },
+        "F": {
+          "A": "3,50.",
+          "B": "No, porque su índice de reiteración infractora no alcanza el valor de 4."
+        },
+        "G": {
+          "A": "2,50.",
+          "B": "No, porque su índice de reiteración infractora no supera el valor de 4."
+        },
+        "H": {
+          "A": "2,50.",
+          "B": "No, porque su índice de reiteración infractora no alcanza el valor de 3."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "2.50。",
+          "B": "不，因为其有问题的重复指数不会超过3的值。"
+        },
+        "B": {
+          "A": "2.50。",
+          "B": "不，因为其有问题的重复指数未达到4的值。"
+        },
+        "C": {
+          "A": "3.50。",
+          "B": "是的，因为其有问题的重复指数超过3的值。"
+        },
+        "D": {
+          "A": "4。",
+          "B": "是的，因为其有问题的重复指数达到4。"
+        },
+        "E": {
+          "A": "3.50。",
+          "B": "不，因为其有问题的重复指数不会超过4的值。"
+        },
+        "F": {
+          "A": "3.50。",
+          "B": "不，因为其有问题的重复指数未达到4的值。"
+        },
+        "G": {
+          "A": "2.50。",
+          "B": "不，因为其有问题的重复指数不会超过4的值。"
+        },
+        "H": {
+          "A": "2.50。",
+          "B": "不，因为其有问题的重复指数未达到3的值。"
+        }
+      }
+    },
+    {
+      "cod": "1F01005",
+      "pregunta": "Una sociedad limitada dispone de autorización de transporte público de mercancías que habilita para realizar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada y cuenta, desde hace tres años, con un único vehículo de 25 toneladas para el desarrollo de su actividad.\nEsta sociedad ha sido sancionada por la comisión, en un plazo de 365 días, de las siguientes infracciones: -Dos infracciones de las señaladas en el apartado B del anexo I del Reglamento de la Ley de Ordenación de los Transportes Terrestres. -Cinco infracciones de las señaladas en el apartado C del anexo I del Reglamento de la Ley de Ordenación de los Transportes Terrestres.\nA consecuencia de estas sanciones, la Administración de Transportes dicta una resolución determinando la pérdida de honorabilidad por parte de la sociedad.\nResponda a las siguientes cuestiones: ¿Qué valor alcanza en su caso el índice de reiteración infractora? ¿Qué consecuencias tendrá para la sociedad la pérdida de honorabilidad?",
+      "pregunta_chino": "一家有限公司拥有商品的公共交通授权，该货物可以使用超过3.5吨最高授权质量的车辆运输，并拥有三年的25吨车辆以开发其活动。\n该公司在365天内批准了以下违规行为： - 关于陆地运输规划法规定的附件I第I条所示的违规行为的违规行为。 - 关于陆地运输规划法律法规的附件I第c节中指示的所有违规行为。\n由于这些制裁，运输管理局通过确定社会的光荣丧失来决定决议。\n回答以下问题：在您的情况下，犯罪重复指数有什么价值？失去光荣对社会的影响会带来什么影响？",
+      "solucion": "B",
+      "norma": "RD 1211/1990, art. 116; RD 1211/1990, art. 117; RD 1211/1990, Anexo I",
+      "norma_chino": "RD 1211/1990，艺术。 116; RD 1211/1990，艺术。 117; RD 1211/1990，附件I",
+      "opciones": {
+        "A": {
+          "A": "4,66.",
+          "B": "La caducidad de su autorización de transporte."
+        },
+        "B": {
+          "A": "3,66.",
+          "B": "La suspensión de su autorización de transporte."
+        },
+        "C": {
+          "A": "7.",
+          "B": "La suspensión de su autorización de transporte."
+        },
+        "D": {
+          "A": "3.",
+          "B": "La suspensión de su autorización de transporte."
+        },
+        "E": {
+          "A": "4,66.",
+          "B": "La suspensión de su autorización de transporte."
+        },
+        "F": {
+          "A": "3,66.",
+          "B": "La caducidad de su autorización de transporte."
+        },
+        "G": {
+          "A": "7.",
+          "B": "La caducidad de su autorización de transporte."
+        },
+        "H": {
+          "A": "3.",
+          "B": "La caducidad de su autorización de transporte."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "4.66。",
+          "B": "运输授权的到期。"
+        },
+        "B": {
+          "A": "3.66。",
+          "B": "暂停其运输授权。"
+        },
+        "C": {
+          "A": "7。",
+          "B": "暂停其运输授权。"
+        },
+        "D": {
+          "A": "3。",
+          "B": "暂停其运输授权。"
+        },
+        "E": {
+          "A": "4.66。",
+          "B": "暂停其运输授权。"
+        },
+        "F": {
+          "A": "3.66。",
+          "B": "运输授权的到期。"
+        },
+        "G": {
+          "A": "7。",
+          "B": "运输授权的到期。"
+        },
+        "H": {
+          "A": "3。",
+          "B": "运输授权的到期。"
+        }
+      }
+    },
+    {
+      "cod": "1F01006",
+      "pregunta": "Una sociedad limitada dispone de autorización de transporte público de mercancías que habilita para realizar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada y cuenta, desde hace tres años, con tres vehículos de 22, 25 y 30 toneladas para el desarrollo de su actividad.\nEsta sociedad ha sido sancionada por la comisión, en un plazo de 365 días, de las siguientes infracciones: -Siete infracciones de las señaladas en el apartado B del anexo I del Reglamento de la Ley de Ordenación de los Transportes Terrestres. -Ocho infracciones de las señaladas en el apartado C del anexo I del Reglamento de la Ley de Ordenación de los Transportes Terrestres.\nLas infracciones sancionadas guardan relación con el ámbito de funciones que corresponde desarrollar al gestor de transporte.\nA consecuencia de estas sanciones, la Administración de Transportes dicta una resolución determinando la pérdida de honorabilidad.\nResponda a las siguientes cuestiones: ¿Qué valor alcanza en su caso el índice de reiteración infractora? ¿Qué consecuencias tendrá para el gestor de transporte la pérdida de honorabilidad?",
+      "pregunta_chino": "一家有限公司拥有商品的公共交通授权，可实现超过3.5吨最高授权质量的车辆运输，并拥有三年的22、25和30吨的车辆以开发其活动。\n该公司在365天内批准了以下违规行为： - 对陆地运输规划法规定的附件I条规定的违规行为。 - 关于陆地运输规划法律法规的附件I第c节中指示的违规行为。\n批准的违规行为与与运输经理相对应的功能范围有关。\n由于这些制裁，运输管理局决定了一项决议，决定了光荣的丧失。\n回答以下问题：在您的情况下，犯罪重复指数有什么价值？运输经理损失会产生什么后果？",
+      "solucion": "C",
+      "norma": "RD 1211/1990, art. 116; RD 1211/1990, art. 117; RD 1211/1990, Anexo I",
+      "norma_chino": "RD 1211/1990，艺术。 116; RD 1211/1990，艺术。 117; RD 1211/1990，附件I",
+      "opciones": {
+        "A": {
+          "A": "3,42.",
+          "B": "La inhabilitación para ejercer de gestor de transporte."
+        },
+        "B": {
+          "A": "5.",
+          "B": "La inhabilitación para ejercer de gestor de transporte."
+        },
+        "C": {
+          "A": "3,22.",
+          "B": "La inhabilitación para ejercer de gestor de transporte."
+        },
+        "D": {
+          "A": "3,22.",
+          "B": "Ninguna, solo afecta a la sociedad titular de la autorización."
+        },
+        "E": {
+          "A": "7,22.",
+          "B": "Ninguna, solo afecta a la sociedad titular de la autorización."
+        },
+        "F": {
+          "A": "7,22.",
+          "B": "La inhabilitación para ejercer de gestor de transporte."
+        },
+        "G": {
+          "A": "5.",
+          "B": "Ninguna, solo afecta a la sociedad titular de la autorización."
+        },
+        "H": {
+          "A": "3,42.",
+          "B": "Ninguna, solo afecta a la sociedad titular de la autorización."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "3.42。",
+          "B": "取消担任运输经理的资格。"
+        },
+        "B": {
+          "A": "5。",
+          "B": "取消担任运输经理的资格。"
+        },
+        "C": {
+          "A": "3.22。",
+          "B": "取消担任运输经理的资格。"
+        },
+        "D": {
+          "A": "3.22。",
+          "B": "没有，只会影响授权拥有社会。"
+        },
+        "E": {
+          "A": "7.22。",
+          "B": "没有，只会影响授权拥有社会。"
+        },
+        "F": {
+          "A": "7.22。",
+          "B": "取消担任运输经理的资格。"
+        },
+        "G": {
+          "A": "5。",
+          "B": "没有，只会影响授权拥有社会。"
+        },
+        "H": {
+          "A": "3.42。",
+          "B": "没有，只会影响授权拥有社会。"
+        }
+      }
+    },
+    {
+      "cod": "1F01007",
+      "pregunta": "D. Juan de la Rocha, que estaba contratado por una empresa de transporte público de mercancías por carretera para desempeñar en ella la función de gestor de transporte, es declarado en situación de incapacidad permanente absoluta a consecuencia de una enfermedad, por lo que se ve obligado a dejar de trabajar.\nEl propietario de la empresa, que no tiene certificado de competencia profesional, aun siendo consciente de que la normativa lo obliga a contar con una persona que ejerza la función de gestor de transporte, decide no contratar de momento a nadie, en la confianza de que uno de sus hijos obtendrá el certificado de competencia profesional, en las pruebas que se van a celebrar próximamente, y podrá pasar a cubrir estas funciones.\nAl mes de haber causado baja definitiva el Sr. de la Rocha, la Administración comprueba que la empresa no cuenta con gestor de transporte.\nResponda a las siguientes cuestiones: ¿Puede permitir la Administración que la empresa siga funcionando sin disponer de gestor de transporte? ¿Qué actuación debe realizar el empresario en relación con esta situación?",
+      "pregunta_chino": "胡安·德拉·罗沙（Juan de la Rocha）先生是由一家公共交通公司聘请的公路运输经理职能的，他在疾病中被绝对永久残疾的情况宣布，因此他被迫停止工作。\n该公司的所有者没有专业能力证明，甚至知道该法规迫使他有一个行使运输经理职能的人，决定目前不雇用任何人，以确保他的一个孩子将获得专业能力证书，以便很快就会持有并可能涵盖这些职能。\nDe La Rocha先生在确切下降的月份，政府证明该公司没有运输经理。\n回答以下问题：政府可以允许公司在没有运输经理的情况下运行吗？与这种情况有关的商人应该表现什么表现？",
+      "solucion": "A",
+      "norma": "RD 1211/1990, art. 111",
+      "norma_chino": "RD 1211/1990，艺术。 111",
+      "opciones": {
+        "A": {
+          "A": "Sí, durante un plazo de tres meses.",
+          "B": "Justificarla documentalmente."
+        },
+        "B": {
+          "A": "Sí, durante un plazo de seis meses.",
+          "B": "Justificarla documentalmente."
+        },
+        "C": {
+          "A": "No, deberá suspender la autorización de transporte en cuanto tenga conocimiento de la falta de gestor.",
+          "B": "Contratar a un trabajador que pueda desempeñar la función de gestor de transporte."
+        },
+        "D": {
+          "A": "No, deberá conceder un plazo de diez días para que se subsane la falta de gestor y, si no se lleva a cabo la subsanación, declarar caducada la autorización de transporte.",
+          "B": "Contratar a un trabajador que pueda desempeñar la función de gestor de transporte."
+        },
+        "E": {
+          "A": "Sí, durante un plazo de tres meses, prorrogables por otros tres más.",
+          "B": "Justificarla documentalmente y solicitar, en su caso, la prórroga."
+        },
+        "F": {
+          "A": "Sí, durante un plazo de seis meses, prorrogables por otros tres más.",
+          "B": "Justificarla documentalmente y solicitar, en su caso, la prórroga."
+        },
+        "G": {
+          "A": "Sí, durante un plazo de tres meses, prorrogables por otros tres más.",
+          "B": "Justificarla documentalmente."
+        },
+        "H": {
+          "A": "Sí, durante un plazo de seis meses, prorrogables por otros tres más.",
+          "B": "Justificarla documentalmente."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，持续三个月。",
+          "B": "证明纪录片的合理性。"
+        },
+        "B": {
+          "A": "是的，六个月。",
+          "B": "证明纪录片的合理性。"
+        },
+        "C": {
+          "A": "不，只要您知道缺乏经理，就必须立即暂停运输授权。",
+          "B": "雇用一个可以执行运输经理职能的工人。"
+        },
+        "D": {
+          "A": "不，它必须授予十天的时间，以使缺乏经理成为安全性，如果没有进行更正，请宣布运输授权到期。",
+          "B": "雇用一个可以执行运输经理职能的工人。"
+        },
+        "E": {
+          "A": "是的，在三个月的时间内，可以再扩展三个。",
+          "B": "在适当的情况下，证明其纪录片和请求是合理的。"
+        },
+        "F": {
+          "A": "是的，在六个月的时间内，可以再扩展三个。",
+          "B": "在适当的情况下，证明其纪录片和请求是合理的。"
+        },
+        "G": {
+          "A": "是的，在三个月的时间内，可以再扩展三个。",
+          "B": "证明纪录片的合理性。"
+        },
+        "H": {
+          "A": "是的，在六个月的时间内，可以再扩展三个。",
+          "B": "证明纪录片的合理性。"
+        }
+      }
+    },
+    {
+      "cod": "1F01008",
+      "pregunta": "D. Justo Aguja, titular de una empresa individual de transporte público de mercancías y que también desempeñaba en ella la función de gestor de transporte, es declarado en situación de incapacidad permanente absoluta a consecuencia de un accidente, por lo que se ve obligado a dejar de trabajar y cede la titularidad de la empresa a sus herederos forzosos.\nLos herederos, que no tienen certificado de competencia profesional, aun siendo conscientes de que la normativa los obliga a contar con una persona que ejerza la función de gestor de transporte, deciden no contratar de momento a nadie, en la confianza de que alguno de ellos obtendrá el certificado de competencia profesional, en las pruebas que se van a celebrar próximamente, y podrá pasar a cubrir estas funciones.\nAl cabo de un mes de haberse producido la incapacitación de D. Justo, los herederos solicitan el cambio de titularidad de la autorización de transporte a su favor, momento en el que la Administración comprueba que estos no tienen certificado de competencia profesional ni justifican la contratación de un gestor de transporte.\nResponda a las siguientes cuestiones: ¿Puede permitir la Administración que la empresa siga funcionando sin disponer de gestor de transporte? ¿Qué actuación deben realizar los herederos en relación con esta situación?",
+      "pregunta_chino": "D. Justo Aguja是一家单个公共交通货物公司的负责人，并且在其运输经理的职能中表现出色，在事故导致绝对永久残疾的情况下宣布，因此他被迫停止工作并将公司所有权屈服于他的强迫继承人。\n没有没有专业能力证明的继承人，甚至意识到这些法规迫使他们有一个行使运输经理职能的人，决定目前不雇用任何人，以确保他们中的任何一个都将获得专业能力证书，以尽快持有证据，并可以涵盖这些职能。\n一个月后，D. Justo的丧失能力发生了，继承人要求更改运输授权的所有权，以便他们有利于他们，当时政府验证他们没有专业能力证明或证明交通经理的聘用。\n回答以下问题：政府可以允许公司在没有运输经理的情况下运行吗？继承人在这种情况下应采取什么行动？",
+      "solucion": "H",
+      "norma": "RD 1211/1990, art. 111",
+      "norma_chino": "RD 1211/1990，艺术。 111",
+      "opciones": {
+        "A": {
+          "A": "Sí, durante un plazo de tres meses, prorrogables por otros tres más.",
+          "B": "En caso de que la carencia de gestor de transporte se vaya a mantener durante más de tres meses, pueden solicitar prórroga, debiendo justificar las dificultades de obtener el certificado de competencia profesional para tener acceso a ella."
+        },
+        "B": {
+          "A": "Sí, durante un plazo de tres meses, prorrogables por otros tres más.",
+          "B": "Justificar documentalmente la incapacitación sobrevenida del anterior titular."
+        },
+        "C": {
+          "A": "No, deberá denegar automáticamente el cambio de titularidad de la autorización de transporte y declararla suspendida.",
+          "B": "Contratar a un trabajador que pueda desempeñar la función de gestor de transporte para poder llevar a cabo el cambio de titularidad de la autorización."
+        },
+        "D": {
+          "A": "No, deberá conceder un plazo de diez días para que se aporte un trabajador que pueda desarrollar la función de gestor de transporte y, en caso contrario, denegar el cambio de titularidad y declarar caducada la autorización de transporte.",
+          "B": "Contratar a un trabajador que pueda desempeñar la función de gestor de transporte para poder llevar a cabo el cambio de titularidad de la autorización."
+        },
+        "E": {
+          "A": "Sí, durante un plazo de seis meses, prorrogables por otros seis más.",
+          "B": "Justificar documentalmente la incapacitación sobrevenida del anterior titular."
+        },
+        "F": {
+          "A": "Sí, durante un plazo de seis meses no prorrogables.",
+          "B": "Si la carencia de gestor de transporte se mantiene durante más de seis meses, deberán contratar en todo caso a un trabajador que pueda desempeñar la función de gestor de transporte."
+        },
+        "G": {
+          "A": "Sí, durante un plazo de seis meses, prorrogables por otros seis más.",
+          "B": "En caso de que la carencia de gestor de transporte se vaya a mantener durante más de seis meses, pueden solicitar prórroga, debiendo justificar las dificultades de obtener el certificado de competencia profesional para tener acceso a ella."
+        },
+        "H": {
+          "A": "Sí, durante un plazo de seis meses, prorrogables por otros tres más.",
+          "B": "En caso de que la carencia de gestor de transporte se vaya a mantener durante más de seis meses, pueden solicitar prórroga, debiendo justificar las dificultades de obtener el certificado de competencia profesional para tener acceso a ella."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，在三个月的时间内，可以再扩展三个。",
+          "B": "如果将缺乏运输经理维持三个月以上，他们可以要求扩展，并且必须证明获得专业能力证书以获取它的困难是合理的。"
+        },
+        "B": {
+          "A": "是的，在三个月的时间内，可以再扩展三个。",
+          "B": "纪录片证明上一个持有人的丧失能力是合理的。"
+        },
+        "C": {
+          "A": "不，您必须自动否认运输授权所有权的变化并宣布被暂停。",
+          "B": "雇用一个可以执行运输经理职能的工人，以便能够进行授权更改。"
+        },
+        "D": {
+          "A": "不，您必须授予工人发展运输经理职能的十天，否则否认所有权的变化并宣布运输的授权已过期。",
+          "B": "雇用一个可以执行运输经理职能的工人，以便能够进行授权更改。"
+        },
+        "E": {
+          "A": "是的，在六个月的时间内，可以再扩展六个。",
+          "B": "纪录片证明上一个持有人的丧失能力是合理的。"
+        },
+        "F": {
+          "A": "是的，在六个不可用的月份中。",
+          "B": "如果缺乏运输经理的时间超过六个月，则必须在任何情况下雇用可以执行运输经理职能的工人。"
+        },
+        "G": {
+          "A": "是的，在六个月的时间内，可以再扩展六个。",
+          "B": "如果缺乏运输经理将维持超过六个月的时间，他们可以要求扩展，并且必须证明获得专业能力证书以获取它的困难是合理的。"
+        },
+        "H": {
+          "A": "是的，在六个月的时间内，可以再扩展三个。",
+          "B": "如果缺乏运输经理将维持超过六个月的时间，他们可以要求扩展，并且必须证明获得专业能力证书以获取它的困难是合理的。"
+        }
+      }
+    },
+    {
+      "cod": "1F01009",
+      "pregunta": "D. Andrés Torrejón Alcalde, pretendiendo desarrollar la actividad de transporte público de mercancías por carretera, compra un vehículo nuevo de 26 toneladas de masa máxima autorizada y solicita autorización de transporte. Al no contar todavía con certificado de competencia profesional, se ve obligado a contratar a un trabajador para que desempeñe la función de gestor de transporte en la empresa.\nDado que se trata de una empresa pequeña con reducido volumen de actividad, contrata al gestor a tiempo parcial, con un tiempo de trabajo de diez horas semanales, que considera suficiente para llevar a cabo las funciones que la ley le encomienda. El gestor de transporte es dado de alta en el grupo de cotización 3 del Régimen General de la Seguridad Social.\nResponda a las siguientes cuestiones: ¿Es correcto el grupo de cotización asignado al gestor de transporte? ¿Es válida la contratación por diez horas semanales?",
+      "pregunta_chino": "安德烈斯·托雷霍恩（AndrésTorrejón）市长假装开发了道路商品的公共交通活动，购买了一辆拥有26吨最高授权质量的新车，并要求运输授权。还没有专业能力证书，因此被迫雇用工人在公司中执行运输经理职能。\n由于它是一家活动少的小公司，因此它聘请了零件经理，每周工作时间为十个小时，这足以执行法律托管的职能。运输经理已在一般社会保障制度的第3组中出院。\n回答以下问题：分配给运输经理的贡献组是否正确？每周招聘十个小时吗？",
+      "solucion": "E",
+      "norma": "RD 1211/1990, art. 113",
+      "norma_chino": "RD 1211/1990，艺术。 113",
+      "opciones": {
+        "A": {
+          "A": "No, pues debe estar dado de alta en el grupo 1.",
+          "B": "Sí."
+        },
+        "B": {
+          "A": "No, pues debe estar dado de alta en el grupo 1.",
+          "B": "No, la contratación se debe realizar a tiempo completo."
+        },
+        "C": {
+          "A": "No, pues debe estar dado de alta en un grupo no inferior al 2.",
+          "B": "No, la contratación se debe realizar por un mínimo de 20 horas semanales."
+        },
+        "D": {
+          "A": "No, pues debe estar dado de alta en un grupo no inferior al 2.",
+          "B": "Sí."
+        },
+        "E": {
+          "A": "Sí, pues debe estar dado de alta en un grupo no inferior al 3.",
+          "B": "No, la contratación se debe realizar a tiempo completo."
+        },
+        "F": {
+          "A": "Sí, pues debe estar dado de alta en un grupo no inferior al 3.",
+          "B": "No, la contratación se debe realizar por un mínimo de 20 horas semanales."
+        },
+        "G": {
+          "A": "Sí, pues debe estar dado de alta en un grupo no inferior al 3.",
+          "B": "Sí."
+        },
+        "H": {
+          "A": "No, pues debe estar dado de alta en un grupo no inferior al 2.",
+          "B": "No, la contratación se debe realizar a tiempo completo."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，必须在第1组中注册。",
+          "B": "是的。"
+        },
+        "B": {
+          "A": "不，必须在第1组中注册。",
+          "B": "不，应该全职招聘。"
+        },
+        "C": {
+          "A": "不，它必须在小组中注册不少于2。",
+          "B": "不，应每周至少20小时进行招聘。"
+        },
+        "D": {
+          "A": "不，它必须在小组中注册不少于2。",
+          "B": "是的。"
+        },
+        "E": {
+          "A": "是的，必须在小组中注册不少于3。",
+          "B": "不，应该全职招聘。"
+        },
+        "F": {
+          "A": "是的，必须在小组中注册不少于3。",
+          "B": "不，应每周至少20小时进行招聘。"
+        },
+        "G": {
+          "A": "是的，必须在小组中注册不少于3。",
+          "B": "是的。"
+        },
+        "H": {
+          "A": "不，它必须在小组中注册不少于2。",
+          "B": "不，应该全职招聘。"
+        }
+      }
+    },
+    {
+      "cod": "1F01010",
+      "pregunta": "Dos amigos, Carlos y Felipe, acuerdan poner en marcha una empresa de transporte de mercancías por carretera para lo cual constituyen una sociedad limitada, con un capital social de 3.000 euros, y compran dos vehículos nuevos de 15 y 17 toneladas respectivamente.\nAl intentar obtener la pertinente autorización de transporte, se percatan de que ninguno de los dos dispone de certificado de competencia profesional, que resulta preceptivo, por lo que deciden dar entrada en la sociedad a un tercer socio; este tercer socio es Daniel, que sí tiene el certificado en cuestión y puede, por tanto, desempeñar las funciones de gestor de transporte en la empresa, para lo cual llevan a cabo una ampliación de capital.\nA raíz de la entrada de Daniel en la sociedad, la participación en el capital social de cada uno de los socios queda en los términos siguientes: Carlos y Felipe, 1.500 euros cada uno; Daniel, 450 euros.\nAsimismo, Daniel se da de alta en la Seguridad Social.\nResponda a las siguientes cuestiones: ¿Se cumple el requisito de vinculación en los términos exigidos, de modo que Daniel pueda ejercer de gestor de transporte? ¿Existe algún modo alternativo de cumplir con dicho requisito?",
+      "pregunta_chino": "两个朋友卡洛斯和费利佩同意逐道成立一家公路运输公司，他们构成了一家有限公司，社会资本为3,000欧元，并分别购买两辆新车，分别为15吨和17吨。\n在试图获得相关运输授权时，他们意识到他们俩都没有专业能力证书，这是强制性的，因此他们决定将进入社会成为第三个合作伙伴；第三个合作伙伴是丹尼尔（Daniel），他确实拥有有关证书，因此可以在公司中执行运输经理的职能，并为此增加了资本。\n丹尼尔（Daniel）进入社会后，每个合作伙伴的股本参与以下是：卡洛斯（Carlos）和费利佩（Felipe），每人1,500欧元；丹尼尔，450欧元。\n丹尼尔还在社会保障领域注册。\n回答以下问题：是否按照所需的条款满足链接要求，以便丹尼尔可以担任运输经理？还有其他方法可以满足这一要求吗？",
+      "solucion": "C",
+      "norma": "RD 1211/1990, art. 113",
+      "norma_chino": "RD 1211/1990，艺术。 113",
+      "opciones": {
+        "A": {
+          "A": "No, pues la participación de Daniel en el capital social es inferior al 15 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo parcial (veinte horas mínimo) y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2."
+        },
+        "B": {
+          "A": "No, pues la participación de Daniel en el capital social es inferior al 15 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo completo y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2."
+        },
+        "C": {
+          "A": "No, pues la participación de Daniel en el capital social es inferior al 15 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo completo y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3."
+        },
+        "D": {
+          "A": "No, pues la participación de Daniel en el capital social es inferior al 15 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo parcial (veinte horas mínimo) y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3."
+        },
+        "E": {
+          "A": "Sí, pues la participación de Daniel en el capital social es superior al 10 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo parcial (veinte horas mínimo) y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2."
+        },
+        "F": {
+          "A": "Sí, pues la participación de Daniel en el capital social es superior al 10 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo completo y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2."
+        },
+        "G": {
+          "A": "Sí, pues la participación de Daniel en el capital social es superior al 10 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo completo y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3."
+        },
+        "H": {
+          "A": "Sí, pues la participación de Daniel en el capital social es superior al 10 %.",
+          "B": "Sí, mediante la contratación del gestor de transporte por la empresa a tiempo parcial (veinte horas mínimo) y su alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，因为丹尼尔（Daniel）参与股本的资本不到15％。",
+          "B": "是的，通过按零件时间（至少二十）及其在一般社会保障制度中签约运输经理，并在不少于2的贡献组中签约。"
+        },
+        "B": {
+          "A": "不，因为丹尼尔（Daniel）参与股本的资本不到15％。",
+          "B": "是的，通过在不少于2的贡献组中雇用公司的运输经理及其在一般社会保障制度中的卸货。"
+        },
+        "C": {
+          "A": "不，因为丹尼尔（Daniel）参与股本的资本不到15％。",
+          "B": "是的，通过全天候签约运输经理及其在一般社会保障制度中的遣散，在不少于3的贡献组中。"
+        },
+        "D": {
+          "A": "不，因为丹尼尔（Daniel）参与股本的资本不到15％。",
+          "B": "是的，通过零件时间（至少二十个）及其在一般社会保障制度中的政权签约，在不少于3的捐款组中签约。"
+        },
+        "E": {
+          "A": "是的，因为丹尼尔（Daniel）参与股本大于10％。",
+          "B": "是的，通过按零件时间（至少二十）及其在一般社会保障制度中签约运输经理，并在不少于2的贡献组中签约。"
+        },
+        "F": {
+          "A": "是的，因为丹尼尔（Daniel）参与股本大于10％。",
+          "B": "是的，通过在不少于2的贡献组中雇用公司的运输经理及其在一般社会保障制度中的卸货。"
+        },
+        "G": {
+          "A": "是的，因为丹尼尔（Daniel）参与股本大于10％。",
+          "B": "是的，通过全天候签约运输经理及其在一般社会保障制度中的遣散，在不少于3的贡献组中。"
+        },
+        "H": {
+          "A": "是的，因为丹尼尔（Daniel）参与股本大于10％。",
+          "B": "是的，通过零件时间（至少二十个）及其在一般社会保障制度中的政权签约，在不少于3的捐款组中签约。"
+        }
+      }
+    },
+    {
+      "cod": "1F01011",
+      "pregunta": "D. Vicente Heras es accionista mayoritario, con un 76 % del capital, de la sociedad Transportes Heras Hermanos S.A., dedicada al transporte de mercancías por carretera con vehículos de más de 20 toneladas. En dicha sociedad desempeña la función de gestor de transporte D. Julio Escámez, a cuyo efecto está contratado a tiempo completo y dado de alta en el Régimen General de Seguridad Social, en el grupo de cotización 3.\nD. Vicente está proyectando iniciar una nueva actividad de transporte público de viajeros en autocar, al margen de la sociedad anónima en la que participa. Para ello, ha creado una sociedad limitada unipersonal en la que él es el único socio.\nD. Vicente no cuenta con certificado de competencia profesional por lo que ha pensado ofrecer al Sr. Escámez la posibilidad de que desempeñe también en la nueva sociedad limitada la función de gestor de transporte, dado que éste cuenta con certificado de competencia profesional, tanto en la especialidad de mercancías como en la de viajeros.\nResponda a las siguientes cuestiones: ¿Debe el Sr. Escámez renunciar a su función de gestor de transporte en Transportes Heras Hermanos para poder ejercerla en la nueva sociedad? ¿Qué vinculación deberá tener con esta nueva sociedad para poder ejercer en ella de gestor de transporte?",
+      "pregunta_chino": "D. Vicente Heras是多数股东，拥有76％的首都，该公司运输Heras Hermanos S.A.，致力于乘坐公路运输商品，拥有20吨以上的车辆。在这家公司中，运输经理D.JulioEscámez的职能执行，其目的是全部雇用的，并在贡献3组中在一般社会保障制度中被释放。\nD. Vicente预计，无论他参与什么公司，都将在Autocar开始新的公共交通活动。为此，他建立了一个溶剂有限的社会，在该社会中，他是唯一的合作伙伴。\nD. Vicente没有专业能力证书，因为他认为为Escámez先生提供的东西也有可能在新的有限社会中表演运输经理的职能，因为他拥有专业能力证书，包括商品的专业和旅行者。\n回答以下问题：Escámez先生是否应该放弃运输经理在运输公司Heras Hermanos的职能，以便能够在新社会中行使它？这个新社会应该能够以运输经理的身份在其中行使什么联系？",
+      "solucion": "A",
+      "norma": "RD 1211/1990, art. 113",
+      "norma_chino": "RD 1211/1990，艺术。 113",
+      "opciones": {
+        "A": {
+          "A": "No, puede compatibilizar su función de gestor en las dos sociedades, dado que el capital de ambas pertenece a un mismo titular en más de un 50 %.",
+          "B": "No requiere vinculación directa con la nueva sociedad, mientras esté vinculado con la otra y D. Vicente siga siendo titular de más del 50 % de ambas."
+        },
+        "B": {
+          "A": "Sí, una persona solo puede ejercer de gestor de transporte en una única empresa.",
+          "B": "Deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3."
+        },
+        "C": {
+          "A": "Sí, una persona solo puede ejercer de gestor de transporte en una única empresa.",
+          "B": "Deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2."
+        },
+        "D": {
+          "A": "Sí, una persona solo puede ejercer de gestor de transporte en una única empresa, salvo que se trate de empresas que pertenezcan en su totalidad a un mismo titular.",
+          "B": "Deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3."
+        },
+        "E": {
+          "A": "Sí, una persona solo puede ejercer de gestor de transporte en una única empresa, salvo que se trate de empresas que pertenezcan en su totalidad a un mismo titular.",
+          "B": "Deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2."
+        },
+        "F": {
+          "A": "No, puede compatibilizar su función de gestor en las dos sociedades, dado que van a desarrollar actividades de transporte diferentes (una mercancías y otra viajeros).",
+          "B": "Deberá estar contratado también por la nueva sociedad y dado de alta en el Régimen General de Seguridad Social, en un grupo de cotización no inferior al 3."
+        },
+        "G": {
+          "A": "No, puede compatibilizar su función de gestor en las dos sociedades, dado que van a desarrollar actividades de transporte diferentes (una mercancías y otra viajeros).",
+          "B": "No requiere vinculación directa con la nueva sociedad, mientras esté vinculado con la otra y D. Vicente siga siendo titular de más del 50 % de ambas."
+        },
+        "H": {
+          "A": "No, puede compatibilizar su función de gestor en las dos sociedades, dado que el capital de ambas pertenece a un mismo titular en más de un 50 %.",
+          "B": "Deberá estar contratado también por la nueva sociedad y dado de alta en el Régimen General de Seguridad Social, en un grupo de cotización no inferior al 3."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，它可以在两个社会中兼容经理的功能，因为两者的首都属于同一持有人，超过50％。",
+          "B": "它不需要与新社会的直接联系，而与另一个社会相关，而D. Vicente仍然是两者占50％以上的持有人。"
+        },
+        "B": {
+          "A": "是的，一个人只能在单个公司中充当运输经理。",
+          "B": "必须全职雇用并在不少于3的贡献组中注册。"
+        },
+        "C": {
+          "A": "是的，一个人只能在单个公司中充当运输经理。",
+          "B": "必须全职雇用它，并在不少于2的贡献组中注册。"
+        },
+        "D": {
+          "A": "是的，一个人只能在一家公司中充当运输经理，除非他们是属于同一持有人的公司。",
+          "B": "必须全职雇用并在不少于3的贡献组中注册。"
+        },
+        "E": {
+          "A": "是的，一个人只能在一家公司中充当运输经理，除非他们是属于同一持有人的公司。",
+          "B": "必须全职雇用它，并在不少于2的贡献组中注册。"
+        },
+        "F": {
+          "A": "不，它可以使经理在两个社会中兼容，因为它们将开发不同的运输活动（一个商品和其他旅行者）。",
+          "B": "它还必须由新公司雇用，并在不少于3的贡献组中注册在一般社会保障制度中。"
+        },
+        "G": {
+          "A": "不，它可以使经理在两个社会中兼容，因为它们将开发不同的运输活动（一个商品和其他旅行者）。",
+          "B": "它不需要与新社会的直接联系，而与另一个社会相关，而D. Vicente仍然是两者占50％以上的持有人。"
+        },
+        "H": {
+          "A": "不，它可以在两个社会中兼容经理的功能，因为两者的首都属于同一持有人，超过50％。",
+          "B": "它还必须由新公司雇用，并在不少于3的贡献组中注册在一般社会保障制度中。"
+        }
+      }
+    },
+    {
+      "cod": "1F01012",
+      "pregunta": "Las entidades Arosa e Hijos S.L., Transrapid S.A. y D. Jesús Ordóñez son dos sociedades y un empresario individual dedicados al transporte de mercancías por carretera. Las dos primeras cuentan con un socio mayoritario que es titular del 58 % y del 62 % del capital respectivo.\nLos socios de cada una de las sociedades no participan en el capital de la otra. D. Jesús tampoco es socio de ninguna de las dos. No obstante, en un entorno de ajuste de precios en los servicios de transporte de mercancías, deciden firmar un acuerdo de colaboración en virtud del cual compartirán los servicios de un mismo gestor de transporte, a fin de reducir los costes de personal y ganar competitividad.\nDe este modo, acuerdan que la empresa del Sr. Ordóñez mantenga la vinculación con su actual gestor de transporte, el cual está contratado a tiempo parcial por dicha empresa desde el año 2016 y dado de alta en la Seguridad Social en el grupo de cotización 3. Por su parte, Arosa e Hijos y Transrapid compensarán parcialmente al Sr. Ordóñez los costes que supone dicha contratación, en proporción a su respectivo volumen de negocio, a cambio de que el gestor de transporte de este desempeñe también sus funciones en sus empresas.\nEl acuerdo interesa también al gestor de transporte ya que verá incrementada su retribución.\nResponda a las siguientes cuestiones: ¿Pueden tener un mismo gestor de transporte estas tres empresas? ¿Es correcta la vinculación a tiempo parcial que mantiene la empresa de D. Jesús Ordóñez con su gestor de transporte?",
+      "pregunta_chino": "Arosa e Hijos S.L.，Transrapid S.A.和JesúsOrdonez先生是两个社会，是一个专门用于乘坐商品运输的个人企业家。前两个有多数股权合作伙伴，该合伙人是各自资本的58％和62％的所有者。\n每个公司的合作伙伴都不参与对方的首都。 D.耶稣不是伴侣。但是，在商品运输服务的价格调整环境中，他们决定签署一项合作协议，在该协议下，他们将共享同一运输经理的服务，以降低人员成本并获得竞争力。\n他们同意，Ordóñez先生的公司与目前的运输经理保持联系，该公司自2016年以来被上述公司雇用了部分时间，并在价格组3中注册了社会保障。就其部分而言，Arosa和Children and Children and Transrapid将在其公司中为Ordóñez先生提供部分补偿。\n该协议还感兴趣运输经理，因为他将看到他的薪酬增加。\n回答以下问题：这三家公司可以拥有相同的运输经理吗？ D.JesúsOrdonez公司与其运输经理保持正确的一部分是链接的吗？",
+      "solucion": "H",
+      "norma": "RD 1211/1990, art. 113; RD 70/2019, Disposición transitoria cuarta",
+      "norma_chino": "RD 1211/1990，艺术。 113; RD 70/2019，第四个短暂条款",
+      "opciones": {
+        "A": {
+          "A": "No, pues no existe un único titular que sea propietario de más del 50 % de las tres empresas simultáneamente.",
+          "B": "Sí, se permite cuando el gestor de transporte ya venía desempeñando sus funciones para una empresa, sea individual o societaria, en la fecha de entrada en vigor del Real Decreto 70/2019."
+        },
+        "B": {
+          "A": "Pueden tener un mismo gestor las dos sociedades, pues, aunque se trate de personas distintas en cada sociedad, uno de los socios es propietario de más del 50 % del capital, pero no podrán compartir el gestor con el empresario individual.",
+          "B": "No, debería estar contratado a tiempo completo."
+        },
+        "C": {
+          "A": "Sí, pues en las tres existe un titular que es propietario de más del 50 % del capital.",
+          "B": "No, debería estar contratado a tiempo completo."
+        },
+        "D": {
+          "A": "Sí, pues en las tres existe un titular que es propietario de más del 50 % del capital.",
+          "B": "Sí, se permite cuando el gestor de transporte ya venía desempeñando sus funciones para un empresario individual en la fecha de entrada en vigor del Real Decreto 70/2019."
+        },
+        "E": {
+          "A": "Sí, pues en las tres existe un titular que es propietario de más del 50 % del capital.",
+          "B": "Sí, se permite cuando el gestor de transporte ya venía desempeñando sus funciones para una empresa, sea individual o societaria, en la fecha de entrada en vigor del Real Decreto 70/2019."
+        },
+        "F": {
+          "A": "Pueden tener un mismo gestor las dos sociedades, pues, aunque se trate de personas distintas en cada sociedad, uno de los socios es propietario de más del 50 % del capital, pero no podrán compartir el gestor con el empresario individual.",
+          "B": "Sí, se permite cuando el gestor de transporte ya venía desempeñando sus funciones para un empresario individual en la fecha de entrada en vigor del Real Decreto 70/2019."
+        },
+        "G": {
+          "A": "No, pues no existe un único titular que sea propietario de más del 50 % de las tres empresas simultáneamente.",
+          "B": "No, debería estar contratado a tiempo completo."
+        },
+        "H": {
+          "A": "No, pues no existe un único titular que sea propietario de más del 50 % de las tres empresas simultáneamente.",
+          "B": "Sí, se permite cuando el gestor de transporte ya venía desempeñando sus funciones para un empresario individual en la fecha de entrada en vigor del Real Decreto 70/2019."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，没有单一持有人同时拥有三家公司中的50％以上。",
+          "B": "是的，当运输经理已经在皇家法令70/2019生效之日为个人或公司执行其职能时。"
+        },
+        "B": {
+          "A": "这两个社会可能拥有相同的经理，因为即使他们是每个公司的不同人，其中一个合作伙伴都拥有超过50％的资本，但他们将无法与个人企业家分享经理。",
+          "B": "不，应该全职雇用。"
+        },
+        "C": {
+          "A": "是的，因为在所有三个标题中，都有超过50％的资本的标题。",
+          "B": "不，应该全职雇用。"
+        },
+        "D": {
+          "A": "是的，因为在所有三个标题中，都有超过50％的资本的标题。",
+          "B": "是的，当运输经理在皇家法令70/2019生效之日之前，运输经理已经为个人企业家执行了职能。"
+        },
+        "E": {
+          "A": "是的，因为在所有三个标题中，都有超过50％的资本的标题。",
+          "B": "是的，当运输经理已经在皇家法令70/2019生效之日为个人或公司执行其职能时。"
+        },
+        "F": {
+          "A": "这两个社会可能拥有相同的经理，因为即使他们是每个公司的不同人，其中一个合作伙伴都拥有超过50％的资本，但他们将无法与个人企业家分享经理。",
+          "B": "是的，当运输经理在皇家法令70/2019生效之日之前，运输经理已经为个人企业家执行了职能。"
+        },
+        "G": {
+          "A": "不，没有单一持有人同时拥有三家公司中的50％以上。",
+          "B": "不，应该全职雇用。"
+        },
+        "H": {
+          "A": "不，没有单一持有人同时拥有三家公司中的50％以上。",
+          "B": "是的，当运输经理在皇家法令70/2019生效之日之前，运输经理已经为个人企业家执行了职能。"
+        }
+      }
+    },
+    {
+      "cod": "1F01013",
+      "pregunta": "El titular de una empresa individual de transporte de mercancías por carretera, que desarrolla su actividad con tres vehículos de 20, 26 y 28 toneladas, se jubila una vez alcanzada la edad reglamentaria. En ese momento cede la empresa a su hijo.\nCuando solicita el cambio de titularidad a su favor de la autorización de transporte, se le exige disponer de certificado de competencia profesional o contar con una persona que esté en condiciones de ejercer las funciones de gestor de transporte. Al no tener personalmente dicho certificado, decide proponer a su cónyuge, que sí dispone de certificado de competencia, como gestor de transporte de la empresa no asalariado.\nResponda a las siguientes cuestiones: ¿En qué condiciones se debe establecer la vinculación del cónyuge con la empresa? ¿Debe el cónyuge cumplir el requisito de honorabilidad?",
+      "pregunta_chino": "一家单独的商品运输公司的负责人在监管年龄达到时，该公司用20、26和28吨的三辆车开发了其活动。当时公司给您的孩子。\n在要求所有权变更以支持运输授权时，您必须拥有专业能力证书或有能够行使运输经理职能的人。他没有亲自获得该证书，他决定向配偶提议，他确实拥有竞争证书，作为非销售公司的运输经理。\n回答以下问题：配偶在什么条件下与公司建立链接？配偶应该满足光荣要求吗？",
+      "solucion": "B",
+      "norma": "RD 1211/1990, art. 113",
+      "norma_chino": "RD 1211/1990，艺术。 113",
+      "opciones": {
+        "A": {
+          "A": "El cónyuge deberá estar contratado al menos a tiempo parcial y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3.",
+          "B": "Cuando el gestor de transporte es el cónyuge del empresario, no es obligatorio que cumpla el requisito de honorabilidad; basta con que lo cumpla el empresario."
+        },
+        "B": {
+          "A": "El cónyuge puede estar dado de alta en el Régimen Especial de Trabajadores Autónomos.",
+          "B": "El gestor de transporte debe cumplir siempre el requisito de honorabilidad."
+        },
+        "C": {
+          "A": "El cónyuge deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3.",
+          "B": "El gestor de transporte debe cumplir siempre el requisito de honorabilidad."
+        },
+        "D": {
+          "A": "El cónyuge deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2.",
+          "B": "El gestor de transporte debe cumplir siempre el requisito de honorabilidad."
+        },
+        "E": {
+          "A": "El cónyuge deberá estar contratado al menos a tiempo parcial y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3.",
+          "B": "El gestor de transporte debe cumplir siempre el requisito de honorabilidad."
+        },
+        "F": {
+          "A": "El cónyuge puede estar dado de alta en el Régimen Especial de Trabajadores Autónomos.",
+          "B": "Cuando el gestor de transporte es el cónyuge del empresario, no es obligatorio que cumpla el requisito de honorabilidad; basta con que lo cumpla el empresario."
+        },
+        "G": {
+          "A": "El cónyuge deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 3.",
+          "B": "Cuando el gestor de transporte es el cónyuge del empresario, no es obligatorio que cumpla el requisito de honorabilidad; basta con que lo cumpla el empresario."
+        },
+        "H": {
+          "A": "El cónyuge deberá estar contratado a tiempo completo y dado de alta en el Régimen General de la Seguridad Social, en un grupo de cotización no inferior al 2.",
+          "B": "Cuando el gestor de transporte es el cónyuge del empresario, no es obligatorio que cumpla el requisito de honorabilidad; basta con que lo cumpla el empresario."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "必须雇用至少一部分时间，并在一般社会保障制度中注册，并在不少于3的捐款组中注册。",
+          "B": "当运输经理是商人的配偶时，不必符合荣誉要求；这足以由企业家实现。"
+        },
+        "B": {
+          "A": "配偶可以在自治工人的特别制度中注册。",
+          "B": "运输经理必须始终满足光荣要求。"
+        },
+        "C": {
+          "A": "配偶必须全职雇用，并在一般社会保障制度中注册，在不少于3的贡献组中。",
+          "B": "运输经理必须始终满足光荣要求。"
+        },
+        "D": {
+          "A": "配偶必须全职雇用，并在一般社会保障制度中注册，在不少于2的贡献组中。",
+          "B": "运输经理必须始终满足光荣要求。"
+        },
+        "E": {
+          "A": "必须雇用至少一部分时间，并在一般社会保障制度中注册，并在不少于3的捐款组中注册。",
+          "B": "运输经理必须始终满足光荣要求。"
+        },
+        "F": {
+          "A": "配偶可以在自治工人的特别制度中注册。",
+          "B": "当运输经理是商人的配偶时，不必符合荣誉要求；这足以由企业家实现。"
+        },
+        "G": {
+          "A": "配偶必须全职雇用，并在一般社会保障制度中注册，在不少于3的贡献组中。",
+          "B": "当运输经理是商人的配偶时，不必符合荣誉要求；这足以由企业家实现。"
+        },
+        "H": {
+          "A": "配偶必须全职雇用，并在一般社会保障制度中注册，在不少于2的贡献组中。",
+          "B": "当运输经理是商人的配偶时，不必符合荣誉要求；这足以由企业家实现。"
+        }
+      }
+    },
+    {
+      "cod": "1F01014",
+      "pregunta": "Una sociedad anónima que se dedica al transporte de mercancías por carretera con diecinueve vehículos, cuyas masas máximas autorizadas van desde 20 a 32 toneladas, presenta los siguientes datos en su balance:  \n  \tAplicaciones informáticas  \t8.742  \n  \tObligaciones y otros valores negociables a largo plazo  \t124.523  \n  \tFondo de comercio  \t26.850  \n  \tTerrenos y construcciones  \t109.458  \n  \tOtros pasivos financieros a largo plazo  \t52.621  \n  \tInversiones en empresas del grupo a largo plazo  \t147.600  \n  \tClientes por ventas y prestaciones de servicios  \t84.253  \n  \tDeudas con empresas del grupo y asociadas a corto plazo  \t86.950  \n  \tInversiones en empresas del grupo a corto plazo  \t65.200  \n  \tTesorería  \t14.632  \n  \tCapital social  \t60.000  \n  \tDeudas con entidades de crédito a corto plazo  \t48.090  \n  \tReservas  \t35.400  \n  \tDeudores varios  \t24.697  \n  \tCréditos a empresas  \t57.112  \n  \tDeudas con entidades de crédito a largo plazo  \t104.673  \n  \tCréditos a terceros  \t41.234  \n  \tOtros créditos con las Administraciones Públicas  \t4.362  \n  \tDeudas con empresas del grupo y asociadas a largo plazo  \t129.488 \nResponda a las siguientes cuestiones: ¿Reúne las condiciones de capital precisas para cumplir el requisito de capacidad financiera? ¿Deberá concurrir alguna otra condición en la empresa para dar por cumplido este requisito?",
+      "pregunta_chino": "一家专门用于逐道运输货物的公司，其最高授权群众在20到32吨不等，以下数据呈现以下数据：  \n  \t计算机应用8,742  \n  \t义务和其他长期谈判价值124,523  \n  \t贸易基金26,850  \n  \t土地和建筑109,458  \n  \t其他长期金融负债52,621  \n  \t长期集团公司的投资147,600  \n  \t服务销售和服务的客户84,253  \n  \t与集团公司和短期相关的债务86,950  \n  \t短期组65.200的公司投资  \n  \t财政部14,632  \n  \t60,000股本  \n  \t短期信贷实体的债务48,090  \n  \t35,400预订  \n  \t各种债务人24,697  \n  \t对公司的积分57,112  \n  \t长期信贷实体的债务104,673  \n  \t对第三方41,234的学分  \n  \t公共行政部门的其他学分4,362  \n  \t与集团公司和长期相关的债务129,488 \n回答以下问题：它是否满足确切的资本条件以满足财务能力要求？是否还有其他条件就可以满足这一要求？",
+      "solucion": "C",
+      "norma": "RD 1211/1990, art. 121",
+      "norma_chino": "RD 1211/1990，艺术。 121",
+      "opciones": {
+        "A": {
+          "A": "No, pues su cifra de capital es de sólo 60.000 euros, inferior al mínimo de 95.000 euros exigidos (5.000 euros por vehículo).",
+          "B": "Sí, salvo situaciones especiales, la sociedad no puede haber sido declarada insolvente ni en concurso."
+        },
+        "B": {
+          "A": "No, pues su cifra de capital es de solo 60.000 euros, inferior al mínimo de 99.000 euros exigidos.",
+          "B": "Sí, salvo situaciones especiales, la sociedad no puede haber sido declarada insolvente ni en concurso."
+        },
+        "C": {
+          "A": "No, pues su cifra de capital y reservas es inferior al mínimo de 99.000 euros exigidos.",
+          "B": "Sí, salvo situaciones especiales, la sociedad no puede haber sido declarada insolvente ni en concurso."
+        },
+        "D": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 95.000 euros exigidos (5.000 euros por vehículo).",
+          "B": "Sí, salvo situaciones especiales, la sociedad no puede haber sido declarada insolvente ni en concurso."
+        },
+        "E": {
+          "A": "No, pues su cifra de capital es de solo 60.000 euros, inferior al mínimo de 95.000 euros exigidos (5.000 euros por vehículo).",
+          "B": "Sí, ningún vehículo de la sociedad debe superar la antigüedad de doce años."
+        },
+        "F": {
+          "A": "No, pues su cifra de capital es de solo 60.000 euros, inferior al mínimo de 99.000 euros exigidos.",
+          "B": "Sí, ningún vehículo de la sociedad debe superar la antigüedad de doce años."
+        },
+        "G": {
+          "A": "No, pues su cifra de capital y reservas es inferior al mínimo de 99.000 euros exigidos.",
+          "B": "Sí, ningún vehículo de la sociedad debe superar la antigüedad de doce años."
+        },
+        "H": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 95.000 euros exigidos (5.000 euros por vehículo).",
+          "B": "Sí, ningún vehículo de la sociedad debe superar la antigüedad de doce años."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，因为其资本数字仅为60,000欧元，低于95,000欧元（每辆车5,000欧元）。",
+          "B": "是的，除特殊情况外，社会不能被宣布为无偿偿债或竞争。"
+        },
+        "B": {
+          "A": "不，因为其资本数字仅为60,000欧元，低于99,000欧元。",
+          "B": "是的，除特殊情况外，社会不能被宣布为无偿偿债或竞争。"
+        },
+        "C": {
+          "A": "不，因为其资本和预订低于最低99,000欧元。",
+          "B": "是的，除特殊情况外，社会不能被宣布为无偿偿债或竞争。"
+        },
+        "D": {
+          "A": "是的，其资本数字和预订高于95,000欧元（每辆车5,000欧元）。",
+          "B": "是的，除特殊情况外，社会不能被宣布为无偿偿债或竞争。"
+        },
+        "E": {
+          "A": "不，因为其资本数字仅为60,000欧元，低于95,000欧元（每辆车5,000欧元）。",
+          "B": "是的，没有社会的车辆必须超过十二年。"
+        },
+        "F": {
+          "A": "不，因为其资本数字仅为60,000欧元，低于99,000欧元。",
+          "B": "是的，没有社会的车辆必须超过十二年。"
+        },
+        "G": {
+          "A": "不，因为其资本和预订低于最低99,000欧元。",
+          "B": "是的，没有社会的车辆必须超过十二年。"
+        },
+        "H": {
+          "A": "是的，其资本数字和预订高于95,000欧元（每辆车5,000欧元）。",
+          "B": "是的，没有社会的车辆必须超过十二年。"
+        }
+      }
+    },
+    {
+      "cod": "1F01015",
+      "pregunta": "Un empresario individual dedicado al transporte de mercancías por carretera desarrolla su actividad con seis vehículos cuyas características son las siguientes:  \n  \tMMA (kg)  \tAntigüedad  \tForma de disposición  \tDuración del contrato  \n  \tVehículo 1  \t33.700  \t15 años  \tPropiedad  \t---------  \n  \tVehículo 2  \t38.500  \t12 años  \tPropiedad  \t---------  \n  \tVehículo 3  \t41.500  \t10 años  \tPropiedad  \t---------  \n  \tVehículo 4  \t35.200  \t5 años  \tArrendamiento financiero  \t6 años  \n  \tVehículo 5  \t26.400  \t5 años  \tArrendamiento financiero  \t6 años  \n  \tVehículo 6  \t22.100  \t2 años  \tArrendamiento ordinario  \t18 meses \nResponda a las siguientes cuestiones: ¿Cabe presumir de esta información que reúne las condiciones de capital precisas para cumplir el requisito de capacidad financiera? ¿Podría acreditar que reúne las condiciones de capital prescindiendo de las características de sus vehículos?",
+      "pregunta_chino": "专用于道路运输货物的个人企业家用六辆车开发了他的活动，其特征的特征是：  \n  \tMMA（kg）合同处置持续时间的资历形式  \n  \t车辆1 33,700 15年财产-----------------------  \n  \t车辆2 38,500 12年财产--------------------  \n  \t车辆3 41,500 10年财产------------  \n  \t车辆4 35,200 5年财务租赁6年  \n  \t车辆5 26,400 5年财务租赁6年  \n  \t车辆6 22,100 2年普通租赁18个月 \n回答以下问题：是否假定该信息满足确切的资本条件以满足财务能力要求？您能否证明它会汇集资本状况，而不管您的车辆特性如何？",
+      "solucion": "A",
+      "norma": "RD 1211/1990, art. 121",
+      "norma_chino": "RD 1211/1990，艺术。 121",
+      "opciones": {
+        "A": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de doce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de veinticuatro meses, como mínimo.",
+          "B": "Sí, mediante garantía solidaria prestada por una entidad financiera por importe de 34.000 euros."
+        },
+        "B": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de catorce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de tres años, como mínimo.",
+          "B": "Sí, mediante exhibición de extracto bancario en el que conste que la empresa dispone de un mínimo de 34.000 euros en sus cuentas."
+        },
+        "C": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de doce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de tres años, como mínimo.",
+          "B": "Sí, mediante exhibición de extracto bancario en el que conste que la empresa dispone de un mínimo de 34.000 euros en sus cuentas."
+        },
+        "D": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de catorce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de veinticuatro meses, como mínimo.",
+          "B": "Sí, mediante exhibición de extracto bancario en el que conste que la empresa dispone de un mínimo de 34.000 euros en sus cuentas."
+        },
+        "E": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de doce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de veinticuatro meses, como mínimo.",
+          "B": "Sí, mediante exhibición de extracto bancario en el que conste que la empresa dispone de un mínimo de 34.000 euros en sus cuentas."
+        },
+        "F": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de catorce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de tres años, como mínimo.",
+          "B": "Sí, mediante garantía solidaria prestada por una entidad financiera por importe de 34.000 euros."
+        },
+        "G": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de doce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de tres años, como mínimo.",
+          "B": "Sí, mediante garantía solidaria prestada por una entidad financiera por importe de 34.000 euros."
+        },
+        "H": {
+          "A": "No, porque uno de los vehículos supera la antigüedad de catorce años y el contrato de arrendamiento ordinario del vehículo del que dispone bajo esta modalidad contractual no alcanza una duración de veinticuatro meses, como mínimo.",
+          "B": "Sí, mediante garantía solidaria prestada por una entidad financiera por importe de 34.000 euros."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，因为其中一辆车辆超过了十二岁，并且在此合同方式下可用的车辆的普通租赁合同不会达到至少二十四个月的时间。",
+          "B": "是的，按照金融实体的团结保证34,000欧元。"
+        },
+        "B": {
+          "A": "不，因为其中一辆车辆超过了14年的古代，并且在此合同方式下可用的车辆的普通租赁合同至少达到至少三年。",
+          "B": "是的，通过银行摘录展览会，该展览指出，该公司的帐户中至少有34,000欧元。"
+        },
+        "C": {
+          "A": "不，因为其中一辆车辆超过十二年，并且在此合同方式下可用的车辆的普通租赁合同至少达到至少三年。",
+          "B": "是的，通过银行摘录展览会，该展览指出，该公司的帐户中至少有34,000欧元。"
+        },
+        "D": {
+          "A": "不，因为其中一辆车辆超过了14年的古代，并且在这种合同方式下的普通租赁合同至少至少达到了二十四个月的持续时间。",
+          "B": "是的，通过银行摘录展览会，该展览指出，该公司的帐户中至少有34,000欧元。"
+        },
+        "E": {
+          "A": "不，因为其中一辆车辆超过了十二岁，并且在此合同方式下可用的车辆的普通租赁合同不会达到至少二十四个月的时间。",
+          "B": "是的，通过银行摘录展览会，该展览指出，该公司的帐户中至少有34,000欧元。"
+        },
+        "F": {
+          "A": "不，因为其中一辆车辆超过了14年的古代，并且在此合同方式下可用的车辆的普通租赁合同至少达到至少三年。",
+          "B": "是的，按照金融实体的团结保证34,000欧元。"
+        },
+        "G": {
+          "A": "不，因为其中一辆车辆超过十二年，并且在此合同方式下可用的车辆的普通租赁合同至少达到至少三年。",
+          "B": "是的，按照金融实体的团结保证34,000欧元。"
+        },
+        "H": {
+          "A": "不，因为其中一辆车辆超过了14年的古代，并且在这种合同方式下的普通租赁合同至少至少达到了二十四个月的持续时间。",
+          "B": "是的，按照金融实体的团结保证34,000欧元。"
+        }
+      }
+    },
+    {
+      "cod": "1F01016",
+      "pregunta": "Un transportista de mercancías por carretera necesita disponer con urgencia de dos vehículos adicionales a los que habitualmente viene utilizando para poder atender un incremento en la demanda de servicio por parte de un cliente con el que mantiene un acuerdo estable de colaboración.\nAl tratarse de un incremento puntual, no le interesa aumentar de forma permanente su flota, por lo que se ha planteado recurrir a vehículos arrendados, al amparo de un contrato de arrendamiento ordinario. En concreto, ha pensado arrendar los dos vehículos que requiere a otra empresa transportista con la que mantiene buena relación, la cual no va a necesitarlos en las próximas fechas.\nResponda a las siguientes cuestiones: ¿Puede arrendar los vehículos de otro transportista que, ocasionalmente, no los necesita? ¿Deberá respetar el contrato de arrendamiento que concierte alguna prescripción en cuanto a su precio?",
+      "pregunta_chino": "道路上的商品运输厂需要急切地要施加两辆额外的车辆，以满足客户维持稳定协作协议的客户对服务需求的增加。\n作为特定的增长，他对永久增加舰队不感兴趣，因此在普通租赁的保护下，它被认为是诉诸租赁车辆的。具体来说，他计划租赁两辆需要他保持良好关系的运输公司的车辆，这在下一个日期不需要它们。\n回答以下问题：另一辆运营商租赁的车辆偶尔不需要吗？我是否应该尊重有关其价格处方的租约？",
+      "solucion": "H",
+      "norma": "Ley 16/1987, art. 133; RD 1211/1990, art. 176",
+      "norma_chino": "法律16/1987，艺术。 133; RD 1211/1990，艺术。 176",
+      "opciones": {
+        "A": {
+          "A": "Sí, siempre que el transportista arrendador cuente con autorización de arrendamiento.",
+          "B": "No, los precios de la actividad de arrendamiento de vehículos sin conductor son libres."
+        },
+        "B": {
+          "A": "Sí, siempre que el contrato se refiera exclusivamente a la puesta a disposición de los vehículos sin conductor y no vaya acompañado de otro contrato relativo al personal conductor.",
+          "B": "No, los precios de la actividad de arrendamiento de vehículos sin conductor son libres."
+        },
+        "C": {
+          "A": "Sí, siempre que el contrato de arrendamiento se celebre en los locales del arrendador.",
+          "B": "Sí, deberá respetar las tarifas máximas fijadas por la Administración de Transportes."
+        },
+        "D": {
+          "A": "No, pues los vehículos deben estar dedicados en exclusiva al arrendamiento sin conductor por su titular, que ha de ser una empresa dedicada profesionalmente a esta actividad.",
+          "B": "Sí, deberá respetar las tarifas máximas fijadas por la Administración de Transportes."
+        },
+        "E": {
+          "A": "Sí, siempre que el transportista arrendador cuente con autorización de arrendamiento.",
+          "B": "Sí, deberá respetar las tarifas máximas fijadas por la Administración de Transportes."
+        },
+        "F": {
+          "A": "Sí, siempre que el contrato se refiera exclusivamente a la puesta a disposición de los vehículos sin conductor y no vaya acompañado de otro contrato relativo al personal conductor.",
+          "B": "Sí, deberá respetar las tarifas máximas fijadas por la Administración de Transportes."
+        },
+        "G": {
+          "A": "Sí, siempre que el contrato de arrendamiento se celebre en los locales del arrendador.",
+          "B": "No, los precios de la actividad de arrendamiento de vehículos sin conductor son libres."
+        },
+        "H": {
+          "A": "No, pues los vehículos deben estar dedicados en exclusiva al arrendamiento sin conductor por su titular, que ha de ser una empresa dedicada profesionalmente a esta actividad.",
+          "B": "No, los precios de la actividad de arrendamiento de vehículos sin conductor son libres."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，每当租赁运营商具有租赁授权时。",
+          "B": "不，没有驾驶员的车辆租赁价格是免费的。"
+        },
+        "B": {
+          "A": "是的，只要合同独家指的是处置无人驾驶车辆，并且不伴有与驾驶员有关的另一个合同。",
+          "B": "不，没有驾驶员的车辆租赁价格是免费的。"
+        },
+        "C": {
+          "A": "是的，只要租赁在房东的房屋中持有。",
+          "B": "是的，您必须尊重运输管理设定的最高利率。"
+        },
+        "D": {
+          "A": "不，因为没有驾驶员的所有者，必须将车辆专门用于租赁，这必须是专业从事此活动的公司。",
+          "B": "是的，您必须尊重运输管理设定的最高利率。"
+        },
+        "E": {
+          "A": "是的，每当租赁运营商具有租赁授权时。",
+          "B": "是的，您必须尊重运输管理设定的最高利率。"
+        },
+        "F": {
+          "A": "是的，只要合同独家指的是处置无人驾驶车辆，并且不伴有与驾驶员有关的另一个合同。",
+          "B": "是的，您必须尊重运输管理设定的最高利率。"
+        },
+        "G": {
+          "A": "是的，只要租赁在房东的房屋中持有。",
+          "B": "不，没有驾驶员的车辆租赁价格是免费的。"
+        },
+        "H": {
+          "A": "不，因为没有驾驶员的所有者，必须将车辆专门用于租赁，这必须是专业从事此活动的公司。",
+          "B": "不，没有驾驶员的车辆租赁价格是免费的。"
+        }
+      }
+    },
+    {
+      "cod": "1F01017",
+      "pregunta": "A un transportista de mercancías por carretera, que mantiene un contrato estable con un fabricante de productos lácteos para la distribución de su producción, se le avería uno de sus vehículos; el taller al que recurre para la reparación le advierte que es una avería grave y que va a necesitar un recambio que solo puede proporcionar el fabricante del vehículo, cuyas instalaciones están paradas en la actualidad por un conflicto laboral. Como consecuencia de todo ello, le advierte que no puede garantizar que el vehículo esté reparado antes de veinte días.\nAnte esta situación, el transportista, que necesita del vehículo para atender correctamente su compromiso con la empresa de lácteos y que está muy interesado en dar un buen servicio a su cliente porque este contrato resulta vital para la buena marcha de su negocio, decide utilizar un vehículo arrendado en sustitución del que se encuentra averiado, al amparo de un contrato de arrendamiento ordinario.\nResponda a las siguientes cuestiones: ¿Debe adscribir el vehículo arrendado a su autorización de transporte para poder utilizarlo? ¿Ha de llevar alguna documentación específica en el vehículo cuando realice transporte?",
+      "pregunta_chino": "对于路上的商品承运人，他与乳制品制造商保持了稳定的合同，以分配其生产，其中一辆汽车被打破了；他求助的讲习班警告他，这是一个严重的崩溃，他将需要一个替代品，只能为车辆制造商提供目前因劳动冲突而停止的车辆制造商。由于这一切，他警告他，他不能保证在二十天之前修理了车辆。\n鉴于这种情况，需要车辆才能正确地为乳制品公司提供承诺，并且非常有兴趣为客户提供良好服务，因为这份合同对他的业务良好进步至关重要，他决定使用租赁的车辆来替代损坏的人，并在普通租赁的情况下使用损坏。\n回答以下问题：将车辆租给您的运输授权是否可以使用它？运输运输时，车辆是否应在车辆中进行任何特定的文件？",
+      "solucion": "B",
+      "norma": "RD 1211/1990, art. 179",
+      "norma_chino": "RD 1211/1990，艺术。 179",
+      "opciones": {
+        "A": {
+          "A": "Sí, salvo que la duración del contrato de arrendamiento sea inferior a un mes.",
+          "B": "Un certificado del taller en el que se está reparando y una copia del contrato de arrendamiento."
+        },
+        "B": {
+          "A": "No, porque se trata de sustituir temporalmente un vehículo averiado.",
+          "B": "Un certificado del taller en el que se está reparando y un justificante de que ha comunicado esta circunstancia a la Administración."
+        },
+        "C": {
+          "A": "No, porque se trata de sustituir temporalmente un vehículo averiado.",
+          "B": "Una copia del contrato de arrendamiento."
+        },
+        "D": {
+          "A": "No, porque se trata de sustituir temporalmente un vehículo averiado.",
+          "B": "Una copia del permiso de circulación del vehículo averiado."
+        },
+        "E": {
+          "A": "No, porque se trata de sustituir temporalmente un vehículo averiado.",
+          "B": "Un certificado del taller en el que se está reparando y una copia del contrato de arrendamiento."
+        },
+        "F": {
+          "A": "Sí, salvo que la duración del contrato de arrendamiento sea inferior a un mes.",
+          "B": "Un certificado del taller en el que se está reparando y un justificante de que ha comunicado esta circunstancia a la Administración."
+        },
+        "G": {
+          "A": "Sí, salvo que la duración del contrato de arrendamiento sea inferior a un mes.",
+          "B": "Una copia del contrato de arrendamiento."
+        },
+        "H": {
+          "A": "Sí, salvo que la duración del contrato de arrendamiento sea inferior a un mes.",
+          "B": "Una copia del permiso de circulación del vehículo averiado."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，除非租赁期限少于一个月。",
+          "B": "正在维修的车间和租赁副本的讲习班证书。"
+        },
+        "B": {
+          "A": "不，因为这是暂时更换损坏的车辆的问题。",
+          "B": "正在维修的研讨会证书，并证明这种情况已与政府通信。"
+        },
+        "C": {
+          "A": "不，因为这是暂时更换损坏的车辆的问题。",
+          "B": "租约的副本。"
+        },
+        "D": {
+          "A": "不，因为这是暂时更换损坏的车辆的问题。",
+          "B": "损坏的车辆循环许可证的副本。"
+        },
+        "E": {
+          "A": "不，因为这是暂时更换损坏的车辆的问题。",
+          "B": "正在维修的车间和租赁副本的讲习班证书。"
+        },
+        "F": {
+          "A": "是的，除非租赁期限少于一个月。",
+          "B": "正在维修的研讨会证书，并证明这种情况已与政府通信。"
+        },
+        "G": {
+          "A": "是的，除非租赁期限少于一个月。",
+          "B": "租约的副本。"
+        },
+        "H": {
+          "A": "是的，除非租赁期限少于一个月。",
+          "B": "损坏的车辆循环许可证的副本。"
+        }
+      }
+    },
+    {
+      "cod": "1F01018",
+      "pregunta": "Una sociedad limitada tiene como objeto social el transporte de mercancías por carretera, dispone de autorización de transporte público y ha acreditado para la obtención de la misma requisitos iguales a los exigidos a un operador de transporte.\nEsta sociedad desarrolla su actividad con diez vehículos, cuya masa máxima autorizada va de 25 a 38 toneladas, y mantiene un acuerdo estable con una planta petroquímica para distribuir sus productos.\nAnte un incremento puntual de la demanda, el gerente de la planta le pide que incremente, durante dos meses, en doce vehículos la capacidad de transporte que viene aportando habitualmente. La sociedad transportista, como no cuenta con la flota necesaria para atender esta petición y tiene un gran interés en atender de modo satisfactorio al cliente, se plantea recurrir a la subcontratación de otros transportistas para alcanzar la capacidad solicitada.\nResponda a las siguientes cuestiones: ¿Podrá esta empresa subcontratar legalmente el volumen de transporte que se le demanda? ¿Qué condiciones debe cumplir esta sociedad en cuanto a disposición de capital y reservas?",
+      "pregunta_chino": "一家有限公司的社会目的是道路商品运输，拥有公共交通授权，并获得了与运输运营商所需的相同要求的认可。\n该公司使用十辆车开发活动，其最高授权质量从25吨到38吨，并与石化工厂保持稳定的协议以分发其产品。\n在需求的具体增加之前，工厂经理要求他增加两个月的时间，在十二辆车中，他经常贡献的运输能力。运输公司，由于没有必要的舰队来参加此请求，并有很大的兴趣让您能够令人满意地参加客户，因此建议诉诸其他承运人以实现要求的能力。\n回答以下问题：该公司可以合法地合同所需的运输量吗？该公司应遵守资本和预订的哪些条件？",
+      "solucion": "G",
+      "norma": "Ley 16/1987, art. 119; RD 1211/1990, art. 159",
+      "norma_chino": "法律16/1987，艺术。 119; RD 1211/1990，艺术。 159",
+      "opciones": {
+        "A": {
+          "A": "No, ya que no puede superar en ningún momento su capacidad de transporte propia medida en número de vehículos (diez).",
+          "B": "Un mínimo de 50.000 euros."
+        },
+        "B": {
+          "A": "No, ya que no puede superar en ningún momento su capacidad de transporte propia medida en número de vehículos (diez).",
+          "B": "Un mínimo de 54.000 euros."
+        },
+        "C": {
+          "A": "Sí, siempre que no efectúen transporte simultáneamente los doce vehículos subcontratados.",
+          "B": "Un mínimo de 50.000 euros."
+        },
+        "D": {
+          "A": "Sí, siempre que no efectúen transporte simultáneamente los doce vehículos subcontratados.",
+          "B": "Un mínimo de 54.000 euros."
+        },
+        "E": {
+          "A": "Sí, dado que ha acreditado requisitos iguales a los exigidos a un operador de transporte.",
+          "B": "Un mínimo de 114.000 euros."
+        },
+        "F": {
+          "A": "Sí, dado que ha acreditado requisitos iguales a los exigidos a un operador de transporte.",
+          "B": "Un mínimo de 54.000 euros."
+        },
+        "G": {
+          "A": "Sí, dado que ha acreditado requisitos iguales a los exigidos a un operador de transporte.",
+          "B": "Un mínimo de 60.000 euros."
+        },
+        "H": {
+          "A": "Sí, dado que ha acreditado requisitos iguales a los exigidos a un operador de transporte.",
+          "B": "Un mínimo de 50.000 euros."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，因为它在任何时候都不能超过其自身测量的车辆数量（十）。",
+          "B": "至少50,000欧元。"
+        },
+        "B": {
+          "A": "不，因为它在任何时候都不能超过其自身测量的车辆数量（十）。",
+          "B": "至少54,000欧元。"
+        },
+        "C": {
+          "A": "是的，每当十二辆分包车辆不同时运输时。",
+          "B": "至少50,000欧元。"
+        },
+        "D": {
+          "A": "是的，每当十二辆分包车辆不同时运输时。",
+          "B": "至少54,000欧元。"
+        },
+        "E": {
+          "A": "是的，由于它的认可要求等于运输运营商所需的要求。",
+          "B": "至少114,000欧元。"
+        },
+        "F": {
+          "A": "是的，由于它的认可要求等于运输运营商所需的要求。",
+          "B": "至少54,000欧元。"
+        },
+        "G": {
+          "A": "是的，由于它的认可要求等于运输运营商所需的要求。",
+          "B": "至少60,000欧元。"
+        },
+        "H": {
+          "A": "是的，由于它的认可要求等于运输运营商所需的要求。",
+          "B": "至少50,000欧元。"
+        }
+      }
+    },
+    {
+      "cod": "1F01019",
+      "pregunta": "En el curso de una operación de control en carretera en la autovía A-1, en el kilómetro 190 en dirección Burgos, la Inspección del Transporte revisa un vehículo que circulaba en esa dirección y detecta indicios de posible alteración del aparato de control de los tiempos de conducción y descanso.\nAnte esta situación, los inspectores deciden el traslado del vehículo hasta un taller situado en las proximidades de Burgos, 58 kilómetros más adelante del punto en el que se estaba efectuando el control, para llevar a cabo la verificación detallada del aparato de control. En consecuencia, ordenan al conductor que se dirija con el vehículo al lugar señalado, acompañado por uno de los agentes de la Inspección.\nResponda a las siguientes cuestiones: ¿Tiene cobertura legal la orden de traslado del vehículo? ¿Quién deberá asumir los costes de la operación de verificación?",
+      "pregunta_chino": "在A-1高速公路上的道路控制操作的过程中，在Burgos的190公里处，运输检查审查了一辆朝着该方向循环的车辆，并检测到可能改变驾驶和休息时间控制设备的指示。\n鉴于这种情况，检查员决定将车辆转移到位于布尔戈斯附近的车间，从执行控制的点58公里，以进行控制设备的详细验证。因此，他们命令驾驶员将车辆带到指示的位置，并由其中一名检查代理。\n回答以下问题：车辆转让顺序是否具有法律保险？谁应该承担验证操作的费用？",
+      "solucion": "A",
+      "norma": "Ley 16/1987, art. 33",
+      "norma_chino": "法律16/1987，艺术。 33",
+      "opciones": {
+        "A": {
+          "A": "Sí, dado que el traslado se efectúa en el sentido de la marcha del vehículo.",
+          "B": "El transportista, si queda acreditada la existencia de infracción; y, en caso contrario, la Administración a la que pertenezcan los inspectores que ordenaron el traslado."
+        },
+        "B": {
+          "A": "No, el traslado forzoso solo está permitido hasta una distancia máxima de 30 kilómetros.",
+          "B": "Se repartirá el coste al 50 % entre el transportista y la Administración a la que pertenezcan los inspectores que ordenaron el traslado."
+        },
+        "C": {
+          "A": "No, el traslado forzoso solo está permitido hasta una distancia máxima de 30 kilómetros.",
+          "B": "La Administración a la que pertenezcan los inspectores que ordenaron el traslado."
+        },
+        "D": {
+          "A": "No, el traslado forzoso solo está permitido hasta una distancia máxima de 30 kilómetros.",
+          "B": "El transportista."
+        },
+        "E": {
+          "A": "No, el traslado forzoso solo está permitido hasta una distancia máxima de 30 kilómetros.",
+          "B": "El transportista, si queda acreditada la existencia de infracción; y, en caso contrario, la Administración a la que pertenezcan los inspectores que ordenaron el traslado."
+        },
+        "F": {
+          "A": "Sí, dado que el traslado se efectúa en el sentido de la marcha del vehículo.",
+          "B": "Se repartirá el coste al 50 % entre el transportista y la Administración a la que pertenezcan los inspectores que ordenaron el traslado."
+        },
+        "G": {
+          "A": "Sí, dado que el traslado se efectúa en el sentido de la marcha del vehículo.",
+          "B": "La Administración a la que pertenezcan los inspectores que ordenaron el traslado."
+        },
+        "H": {
+          "A": "Sí, dado que el traslado se efectúa en el sentido de la marcha del vehículo.",
+          "B": "El transportista."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，由于转移是在车辆方向进行的。",
+          "B": "载体，如果违规的存在得到认可；而且，否则，属于命令转让的检查员的政府。"
+        },
+        "B": {
+          "A": "不，强制转移仅允许最大距离30公里。",
+          "B": "50％的成本将分配在承运人和命令转让的检查员所属的检查员之间。"
+        },
+        "C": {
+          "A": "不，强制转移仅允许最大距离30公里。",
+          "B": "下令转让的检查员所属于的政府属于。"
+        },
+        "D": {
+          "A": "不，强制转移仅允许最大距离30公里。",
+          "B": "载体。"
+        },
+        "E": {
+          "A": "不，强制转移仅允许最大距离30公里。",
+          "B": "载体，如果违规的存在得到认可；而且，否则，属于命令转让的检查员的政府。"
+        },
+        "F": {
+          "A": "是的，由于转移是在车辆方向进行的。",
+          "B": "50％的成本将分配在承运人和命令转让的检查员所属的检查员之间。"
+        },
+        "G": {
+          "A": "是的，由于转移是在车辆方向进行的。",
+          "B": "命令转移的检查员的政府。"
+        },
+        "H": {
+          "A": "是的，由于转移是在车辆方向进行的。",
+          "B": "载体。"
+        }
+      }
+    },
+    {
+      "cod": "1F01020",
+      "pregunta": "Por parte de la Guardia Civil de Tráfico se formula denuncia contra Fernando Gómez y Hermanos S.L., empresa dedicada al transporte de mercancías por carretera, por haber cometido, supuestamente, la siguiente infracción: realización de transporte público utilizando los servicios de un conductor que, debiendo disponer del certificado de aptitud profesional (CAP), carece de él.\nVeinte días después de la fecha de la denuncia, la empresa denunciada recibe en su domicilio notificación del acuerdo de iniciación de procedimiento sancionador en relación con esta denuncia, en la que se contempla una sanción de 2.001 euros.\nA los dos meses de haber recibido esta notificación, el gerente de Fernando Gómez y Hermanos decide pagar la sanción. No obstante, inmediatamente después presenta alegaciones ante la Administración actuante, por considerar que los hechos están mal calificados y el importe de la sanción no es correcto.\nResponda a las siguientes cuestiones: ¿Qué importe ha debido pagar la empresa denunciada para que se considere saldada su responsabilidad? ¿Qué actuaciones adoptará la Administración a raíz de la presentación de alegaciones?",
+      "pregunta_chino": "在交通民用后卫，对FernandoGómezy Hermanos S.L.提出了投诉，该公司致力于乘坐道路运输货物，据称据称犯下了以下违规行为：使用驾驶员的服务实现公共交通工具，他们必须使用专业能力证书（CAP）处置的驾驶员的服务，因此缺乏。\n投诉日期后的二十天，公司谴责与该投诉有关的制裁程序启动协议的通知，该协议的制裁旨在批准2,001欧元。\n收到此通知两个月后，费尔南多·戈麦斯（FernandoGómez）和兄弟兄弟（FernandoGómez）的经理决定支付制裁。但是，此后立即提出了代理政府面前的指控，考虑到事实的资格不佳，制裁的数量不正确。\n回答以下问题：向公司谴责以便考虑您的责任是什么重要的？提出指控后，政府将采取什么行动？",
+      "solucion": "H",
+      "norma": "Ley 16/1987, art. 146",
+      "norma_chino": "法律16/1987，艺术。 146",
+      "opciones": {
+        "A": {
+          "A": "1.400,70 euros pues tiene derecho a reducción por haber pagado antes de que se dicte resolución en el expediente.",
+          "B": "La Administración debe estudiar las alegaciones y dictar resolución en consecuencia con las mismas, con independencia de que la empresa denunciada haya pagado o no."
+        },
+        "B": {
+          "A": "2.001 euros, pues, aunque ha pagado voluntariamente, no lo ha hecho dentro de los treinta días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe estudiar las alegaciones y dictar resolución en consecuencia con las mismas, con independencia de que la empresa denunciada haya pagado o no."
+        },
+        "C": {
+          "A": "1.200,60 euros, pues tiene derecho a reducción por haber pagado antes de que se dicte resolución en el expediente.",
+          "B": "La Administración debe estudiar las alegaciones y dictar resolución en consecuencia con las mismas, con independencia de que la empresa denunciada haya pagado o no."
+        },
+        "D": {
+          "A": "1.700,85 euros pues, tiene derecho a reducción por haber pagado antes de que se dicte resolución en el expediente.",
+          "B": "La Administración debe estudiar las alegaciones y dictar resolución en consecuencia con las mismas, con independencia de que la empresa denunciada haya pagado o no."
+        },
+        "E": {
+          "A": "1.200,60 euros pues, tiene derecho a reducción por haber pagado antes de que se dicte resolución en el expediente.",
+          "B": "La Administración dará por terminado el procedimiento, pues el pago antes de que se dicte la resolución sancionadora implica conformidad con los hechos y renuncia a formular alegaciones."
+        },
+        "F": {
+          "A": "1.700,85 euros pues, tiene derecho a reducción por haber pagado antes de que se dicte resolución en el expediente.",
+          "B": "La Administración dará por terminado el procedimiento, pues el pago antes de que se dicte la resolución sancionadora implica conformidad con los hechos y renuncia a formular alegaciones."
+        },
+        "G": {
+          "A": "1.400,70 euros pues, tiene derecho a reducción por haber pagado antes de que se dicte resolución en el expediente.",
+          "B": "La Administración dará por terminado el procedimiento, pues el pago antes de que se dicte la resolución sancionadora implica conformidad con los hechos y renuncia a formular alegaciones."
+        },
+        "H": {
+          "A": "2.001 euros, pues, aunque ha pagado voluntariamente, no lo ha hecho dentro de los treinta días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración dará por terminado el procedimiento, pues el pago antes de que se dicte la resolución sancionadora implica conformidad con los hechos y renuncia a formular alegaciones."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "1,400.70欧元，因为它有权减少在文件中发出解决方案之前付款的权利。",
+          "B": "政府必须研究这些指控并与他们相应地发出决议，而不管报告公司是否已支付。"
+        },
+        "B": {
+          "A": "然后，2,001欧元，尽管它已经自愿支付，但在通知制裁档案后的三十天内没有这样做。",
+          "B": "政府必须研究这些指控并与他们相应地发出决议，而不管报告公司是否已支付。"
+        },
+        "C": {
+          "A": "1,200.60欧元，因为它有权减少在文件中发出解决方案之前付款的权利。",
+          "B": "政府必须研究这些指控并与他们相应地发出决议，而不管报告公司是否已支付。"
+        },
+        "D": {
+          "A": "1,700.85欧元，因为它有权减少在文件中发出解决方案之前付款的权利。",
+          "B": "政府必须研究这些指控并与他们相应地发出决议，而不管报告公司是否已支付。"
+        },
+        "E": {
+          "A": "1,200.60欧元，因为，您有权在文件中发出决议之前减少付款。",
+          "B": "政府将终止该程序，因为发出制裁决议之前的付款意味着遵守事实和放弃指控。"
+        },
+        "F": {
+          "A": "1,700.85欧元，因为它有权减少在文件中发出解决方案之前付款的权利。",
+          "B": "政府将终止该程序，因为发出制裁决议之前的付款意味着遵守事实和放弃指控。"
+        },
+        "G": {
+          "A": "1,400.70欧元，因为，您有权在文件中发出决议之前减少付款。",
+          "B": "政府将终止该程序，因为发出制裁决议之前的付款意味着遵守事实和放弃指控。"
+        },
+        "H": {
+          "A": "然后，2,001欧元，尽管它已经自愿支付，但在通知制裁档案后的三十天内没有这样做。",
+          "B": "政府将终止该程序，因为发出制裁决议之前的付款意味着遵守事实和放弃指控。"
+        }
+      }
+    },
+    {
+      "cod": "1F01021",
+      "pregunta": "Por parte de la Inspección del Transporte, en el marco de un control en carretera, se formula denuncia contra Transportes Lobo S.A., empresa dedicada al transporte de mercancías por carretera, por haber cometido, supuestamente, la siguiente infracción: realización de transporte público utilizando los servicios de una persona que, debiendo disponer de certificado de conductor de tercer país, carece de él.\nVeinte días después de la fecha de la denuncia, la empresa denunciada recibe en su domicilio notificación del acuerdo de iniciación de procedimiento sancionador en relación con esta denuncia, en la que se contempla una sanción de 601 euros.\nA los quince días de haber recibido esta notificación, el responsable de Transportes Lobo decide pagar la sanción. No obstante, cuando posteriormente se le notifica la resolución del expediente, en la que se confirma la sanción de 601 euros, interpone recurso ante la Administración actuante, por considerar que los hechos están mal calificados y la sanción resulta improcedente.\nResponda a las siguientes cuestiones: ¿Qué importe ha debido pagar la empresa denunciada para que se considere saldada su responsabilidad? ¿Qué actuaciones adoptará la Administración en relación con el recurso?",
+      "pregunta_chino": "在运输检查的一部分，在道路管制的框架内，针对专门用于道路运输货物运输的公司的运输公司提出了投诉，因为据称犯下了以下违规行为：使用必须拥有第三国司机证书的人的服务实现公共交通工具。\n投诉日期后的二十天，公司谴责了有关该投诉的制裁程序启动协议的通知，该协议正在考虑对601欧元的制裁。\n收到此通知的十五天后，运输局长Lobo决定支付制裁。但是，当随后通知文件解决方案时，确认了601欧元的制裁时，考虑到事实的资格不足，因此该制裁不可接受，它在代理政府面前提出上诉。\n回答以下问题：向公司谴责以便考虑您的责任是什么重要的？政府将对资源采取什么行动？",
+      "solucion": "B",
+      "norma": "Ley 16/1987, art. 146",
+      "norma_chino": "法律16/1987，艺术。 146",
+      "opciones": {
+        "A": {
+          "A": "601 euros, pues, aunque ha pagado voluntariamente, no lo ha hecho dentro de los diez días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe admitir el recurso y resolverlo en los mismos términos en los que lo haría si no se hubiera pagado la sanción."
+        },
+        "B": {
+          "A": "420,70 euros, pues tiene derecho a reducción por haber pagado dentro de los treinta días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe admitir el recurso y resolverlo en los mismos términos en los que lo haría si no se hubiera pagado la sanción."
+        },
+        "C": {
+          "A": "420,70 euros, pues tiene derecho a reducción por haber pagado dentro de los veinte días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe admitir el recurso y resolverlo en los mismos términos en los que lo haría si no se hubiera pagado la sanción."
+        },
+        "D": {
+          "A": "420,70 euros, pues tiene derecho a reducción por haber pagado dentro de los quince días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe admitir el recurso y resolverlo en los mismos términos en los que lo haría si no se hubiera pagado la sanción."
+        },
+        "E": {
+          "A": "420,70 euros, pues tiene derecho a reducción por haber pagado dentro de los treinta días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe inadmitir el recurso, pues el pago voluntario de la sanción implica conformidad con los hechos."
+        },
+        "F": {
+          "A": "420,70 euros, pues tiene derecho a reducción por haber pagado dentro de los veinte días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe inadmitir el recurso pues el pago voluntario de la sanción implica conformidad con los hechos."
+        },
+        "G": {
+          "A": "420,70 euros, pues tiene derecho a reducción por haber pagado dentro de los quince días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe inadmitir el recurso pues el pago voluntario de la sanción implica conformidad con los hechos."
+        },
+        "H": {
+          "A": "601 euros, pues, aunque ha pagado voluntariamente, no lo ha hecho dentro de los diez días siguientes a la notificación del expediente sancionador.",
+          "B": "La Administración debe inadmitir el recurso pues el pago voluntario de la sanción implica conformidad con los hechos."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "601欧元，尽管它已经自愿支付，但在通知制裁文件后的十天内尚未这样做。",
+          "B": "政府必须承认该资源并以相同的术语解决，如果没有付款，则必须这样做。"
+        },
+        "B": {
+          "A": "420.70欧元，因为它有权减少在通知制裁档案后的30天内付款。",
+          "B": "政府必须承认该资源并以相同的术语解决，如果没有付款，则必须这样做。"
+        },
+        "C": {
+          "A": "420.70欧元，因为它有权减少在通知制裁档案后的二十天内付款。",
+          "B": "政府必须承认该资源并以相同的术语解决，如果没有付款，则必须这样做。"
+        },
+        "D": {
+          "A": "420.70欧元，因为它有权在通知制裁档案后的15天内减少付款。",
+          "B": "政府必须承认该资源并以相同的术语解决，如果没有付款，则必须这样做。"
+        },
+        "E": {
+          "A": "420.70欧元，因为它有权减少在通知制裁档案后的30天内付款。",
+          "B": "由于自愿支付制裁意味着遵守事实，因此政府必须毁灭上诉。"
+        },
+        "F": {
+          "A": "420.70欧元，因为它有权减少在通知制裁档案后的二十天内付款。",
+          "B": "由于自愿支付制裁意味着遵守事实，因此政府必须纵容上诉。"
+        },
+        "G": {
+          "A": "420.70欧元，因为它有权在通知制裁档案后的15天内减少付款。",
+          "B": "由于自愿支付制裁意味着遵守事实，因此政府必须纵容上诉。"
+        },
+        "H": {
+          "A": "601欧元，尽管它已经自愿支付，但在通知制裁文件后的十天内尚未这样做。",
+          "B": "由于自愿支付制裁意味着遵守事实，因此政府必须纵容上诉。"
+        }
+      }
+    },
+    {
+      "cod": "1F01022",
+      "pregunta": "D. Sixto Gegúndez, conductor profesional experimentado con diez años de trabajo por cuenta ajena, decide poner en marcha su propia empresa, cuya actividad exclusiva consistirá en la prestación del servicio de grúa de auxilio en carretera para vehículos averiados y accidentados. Para ello adquiere, en principio, dos vehículos: uno con 3 toneladas de masa máxima autorizada y otro con 3,5 toneladas.\nResponda a las siguientes cuestiones: Necesita autorización de transporte para desarrollar su actividad? Deberá acreditar el cumplimiento del requisito de honorabilidad?",
+      "pregunta_chino": "SixtoGegúndez先生是一名专业驾驶员，代表自己的十年工作，他决定成立自己的公司，其独家活动将包括为损坏和坚固的车辆提供道路援助起重机服务。为此，原则上，两辆车采用：一辆具有3吨最高授权质量，另一吨为3.5吨。\n回答以下问题：您是否需要运输授权才能开发您的活动？应该遵守光荣要求吗？",
+      "solucion": "H",
+      "norma": "RD 1211/1990, art. 33; Ley 16/1987, art. 43; Reglamento Comunitario (CE) 1071/2009, art. 1",
+      "norma_chino": "RD 1211/1990，艺术。 33;法律16/1987，艺术。 43;社区法规（CE）1071/2009，艺术。 1",
+      "opciones": {
+        "A": {
+          "A": "No, porque va a efectuar transporte privado complementario con vehículos que no superan 3,5 toneladas de masa máxima autorizada.",
+          "B": "No, porque ninguno de los vehículos supera 3,5 toneladas de masa máxima autorizada."
+        },
+        "B": {
+          "A": "Necesita disponer de autorización para el vehículo de 3,5 toneladas, pero no para el otro.",
+          "B": "No, porque la actividad de auxilio en carretera está excluida del cumplimiento de este requisito."
+        },
+        "C": {
+          "A": "Necesita disponer de autorización para el vehículo de 3,5 toneladas, pero no para el otro.",
+          "B": "Sí, ya que va a realizar transporte público."
+        },
+        "D": {
+          "A": "Necesita disponer de autorización para el vehículo de 3,5 toneladas, pero no para el otro.",
+          "B": "No, porque ninguno de los vehículos supera 3,5 toneladas de masa máxima autorizada."
+        },
+        "E": {
+          "A": "No, porque va a efectuar transporte privado complementario con vehículos que no superan 3,5 toneladas de masa máxima autorizada.",
+          "B": "No, porque no va a efectuar transporte público."
+        },
+        "F": {
+          "A": "Sí, porque va a efectuar transporte público con vehículos de más de 2 toneladas de masa máxima autorizada.",
+          "B": "No, porque la actividad de auxilio en carretera está excluida del cumplimiento de este requisito."
+        },
+        "G": {
+          "A": "Sí, porque va a efectuar transporte público con vehículos de más de 2 toneladas de masa máxima autorizada.",
+          "B": "Sí, ya que va a realizar transporte público."
+        },
+        "H": {
+          "A": "Sí, porque va a efectuar transporte público con vehículos de más de 2 toneladas de masa máxima autorizada.",
+          "B": "No, porque ninguno de los vehículos supera 3,5 toneladas de masa máxima autorizada, salvo que efectúe servicios fuera del ámbito territorial español."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，因为它将用不超过3.5吨最高授权质量的车辆进行互补的私人运输。",
+          "B": "不，因为没有车辆超过3.5吨最大授权质量。"
+        },
+        "B": {
+          "A": "您需要拥有3.5吨车辆的授权，而不是其他车辆的授权。",
+          "B": "不，因为公路援助活动被排除在遵守此要求之外。"
+        },
+        "C": {
+          "A": "您需要拥有3.5吨车辆的授权，而不是其他车辆的授权。",
+          "B": "是的，因为您将进行公共交通工具。"
+        },
+        "D": {
+          "A": "您需要拥有3.5吨车辆的授权，而不是其他车辆的授权。",
+          "B": "不，因为没有车辆超过3.5吨最大授权质量。"
+        },
+        "E": {
+          "A": "不，因为它将用不超过3.5吨最高授权质量的车辆进行互补的私人运输。",
+          "B": "不，因为它不会成为公共交通工具。"
+        },
+        "F": {
+          "A": "是的，因为它将使用超过2吨最高授权质量的车辆进行公共交通工具。",
+          "B": "不，因为公路援助活动被排除在遵守此要求之外。"
+        },
+        "G": {
+          "A": "是的，因为它将使用超过2吨最高授权质量的车辆进行公共交通工具。",
+          "B": "是的，因为您将进行公共交通工具。"
+        },
+        "H": {
+          "A": "是的，因为它将使用超过2吨最高授权质量的车辆进行公共交通工具。",
+          "B": "不，因为没有车辆超过3.5吨最高授权质量，除非它在西班牙领土范围之外提供服务。"
+        }
+      }
+    },
+    {
+      "cod": "1F01023",
+      "pregunta": "En el curso de una operación de control en carretera en la autovía A-7, en el kilómetro 315 en dirección Barcelona, la Inspección del Transporte revisa un vehículo que circulaba en esa dirección detectando indicios de posible manipulación del limitador de velocidad.\nAnte esta situación, los inspectores deciden el traslado del vehículo hasta un taller situado en las proximidades de Valencia para llevar a cabo la verificación detallada del limitador de velocidad, lo que supone obligarlo a retroceder 27 kilómetros desde el punto en el que se estaba efectuando el control. En consecuencia, ordenan al conductor que se dirija con el vehículo al lugar señalado, acompañado por uno de los agentes de la Inspección. \nNo obstante, el conductor del vehículo, tras consultar con la responsable de su empresa, se niega a cumplir esta orden alegando que el traslado al punto indicado le supondrá tener que realizar 54 kilómetros más de los previstos en su ruta.\nResponda a las siguientes cuestiones: ¿Tiene cobertura legal la orden de traslado del vehículo? En caso de que la orden de traslado tenga respaldo legal, ¿se estaría incurriendo en alguna infracción al negarse a cumplirla?",
+      "pregunta_chino": "在A-7高速公路上的道路控制操作的过程中，在巴塞罗那的315公里处，运输检查审查了一辆朝该方向循环的车辆，检测到可能操纵速度限制器的指示。\n鉴于这种情况，检查员决定将车辆转移到位于瓦伦西亚价值的车间，以进行详细的速度限制器验证，这意味着从执行控制的地点开始迫使其返回27公里。因此，他们命令驾驶员将车辆带到指示的位置，并由其中一名检查代理。 \n但是，车辆的驾驶员在与公司负责人协商后，拒绝履行这一命令，声称转移到指示点意味着必须比在他的路线上计划多54公里。\n回答以下问题：车辆转让顺序是否具有法律保险？如果转让令得到法律支持，拒绝履行它时会发生任何违规吗？",
+      "solucion": "D",
+      "norma": "Ley 16/1987, art. 33; Ley 16/1987, art. 140.12; RD 1211/1990, art. 197.13",
+      "norma_chino": "法律16/1987，艺术。 33;法律16/1987，艺术。 140.12; RD 1211/1990，艺术。 197.13",
+      "opciones": {
+        "A": {
+          "A": "Sí, ya que los indicios de manipulación del limitador de velocidad son fundamento suficiente para ordenar el traslado del vehículo a un taller, con independencia de la distancia que haya que recorrer, dada la incidencia que puede tener sobre la seguridad vial.",
+          "B": "Sí, cuando hay fundamento legal para ordenarlo, la negativa a trasladar el vehículo constituye un supuesto de obstrucción a la labor inspectora."
+        },
+        "B": {
+          "A": "Sí, ya que los indicios de manipulación del limitador de velocidad son fundamento suficiente para ordenar el traslado del vehículo a un taller, con independencia de la distancia que haya que recorrer, dada la incidencia que puede tener sobre la seguridad vial.",
+          "B": "Sí, cuando hay fundamento legal para ordenarlo, la negativa a trasladar el vehículo constituye en sí misma un supuesto de manipulación de los instrumentos o medios de control que hay obligación de llevar instalados en el vehículo."
+        },
+        "C": {
+          "A": "Sí, ya que los indicios de manipulación del limitador de velocidad son fundamento suficiente para ordenar el traslado del vehículo a un taller, con independencia de la distancia que haya que recorrer, dada la incidencia que puede tener sobre la seguridad vial.",
+          "B": "Sí, cuando hay fundamento legal para ordenarlo, la negativa a trasladar el vehículo constituye en sí misma un supuesto de carencia de los instrumentos o medios de control que hay obligación de llevar instalados en el vehículo."
+        },
+        "D": {
+          "A": "Sí, ya que los indicios de manipulación del limitador de velocidad constituyen fundamento suficiente para ordenar el traslado del vehículo a un taller y el recorrido de ida no es superior a 30 kilómetros.",
+          "B": "Sí, cuando hay fundamento legal para ordenarlo, la negativa a trasladar el vehículo constituye un supuesto de obstrucción a la labor inspectora."
+        },
+        "E": {
+          "A": "Sí, ya que los indicios de manipulación del limitador de velocidad constituyen fundamento suficiente para ordenar el traslado del vehículo a un taller y el recorrido de ida no es superior a 30 kilómetros.",
+          "B": "Sí, cuando hay fundamento legal para ordenarlo, la negativa a trasladar el vehículo constituye en sí misma un supuesto de manipulación de los instrumentos o medios de control que hay obligación de llevar instalados en el vehículo."
+        },
+        "F": {
+          "A": "No, ya que, aunque los indicios de manipulación del limitador de velocidad constituyen fundamento suficiente para ordenar el traslado del vehículo a un taller, el recorrido total que implica el traslado es superior a 30 kilómetros (27 de ida y 27 de vuelta).",
+          "B": "Sí, cuando hay fundamento legal la negativa a trasladar el vehículo constituye un supuesto de obstrucción a la labor inspectora."
+        },
+        "G": {
+          "A": "No, ya que, aunque los indicios de manipulación del limitador de velocidad constituyen fundamento suficiente para ordenar el traslado del vehículo a un taller, el recorrido total que implica el traslado es superior a 30 kilómetros (27 de ida y 27 de vuelta).",
+          "B": "Sí, cuando hay fundamento legal para ordenarlo, la negativa a trasladar el vehículo constituye en sí misma un supuesto de carencia de los instrumentos o medios de control que hay obligación de llevar instalados en el vehículo."
+        },
+        "H": {
+          "A": "No, ya que los indicios de manipulación del limitador de velocidad no constituyen fundamento suficiente para ordenar el traslado del vehículo a un taller. En este caso, la Inspección del Transporte sólo puede fijar un plazo para que se lleve a cabo la revisión de este mecanismo.",
+          "B": "Sí, cuando hay fundamento legal la negativa a trasladar el vehículo constituye un supuesto de obstrucción a la labor inspectora."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，由于操纵速度限制器的迹象是足够的基础，可以将车辆转移到车间，而不论要走的距离如何，鉴于道路安全性的发病率。",
+          "B": "是的，当有法律依据订购时，拒绝将车辆转移构成了对检查工作的障碍。"
+        },
+        "B": {
+          "A": "是的，由于操纵速度限制器的迹象是足够的基础，可以将车辆转移到车间，而不论要走的距离如何，鉴于道路安全性的发病率。",
+          "B": "是的，当有法律依据订购时，拒绝转移车辆本身就是操纵工具或控制手段的假设，即有义务载有车辆中的义务。"
+        },
+        "C": {
+          "A": "是的，由于操纵速度限制器的迹象是足够的基础，可以将车辆转移到车间，而不论要走的距离如何，鉴于道路安全性的发病率。",
+          "B": "是的，当有法律依据订购时，拒绝转移车辆本身就是缺乏工具或控制手段的假设，即有义务携带在车辆中。"
+        },
+        "D": {
+          "A": "是的，由于操纵速度限制器的迹象构成了足够的基础，可以命令将车辆转移到车间，往返行程不超过30公里。",
+          "B": "是的，当有法律依据订购时，拒绝将车辆转移构成了对检查工作的障碍。"
+        },
+        "E": {
+          "A": "是的，由于操纵速度限制器的迹象构成了足够的基础，可以命令将车辆转移到车间，往返行程不超过30公里。",
+          "B": "是的，当有法律依据订购时，拒绝转移车辆本身就是操纵工具或控制手段的假设，即有义务载有车辆中的义务。"
+        },
+        "F": {
+          "A": "否，尽管操纵速度限制器的指示构成了足够的基础，可以将车辆转移到车间，但转移暗示的总路线大于30公里（第一腿27和27个后卫）。",
+          "B": "是的，当有法律依据时，拒绝转移车辆构成了对检查工作的障碍。"
+        },
+        "G": {
+          "A": "否，尽管操纵速度限制器的指示构成了足够的基础，可以将车辆转移到车间，但转移暗示的总路线大于30公里（第一腿27和27个后卫）。",
+          "B": "是的，当有法律依据订购时，拒绝转移车辆本身就是缺乏工具或控制手段的假设，即有义务携带在车辆中。"
+        },
+        "H": {
+          "A": "不，由于操纵速度限制器的指示并不构成足够的依据来命令将车辆转移到车间。在这种情况下，运输检查只能为审查该机制进行审查的截止日期。",
+          "B": "是的，当有法律依据时，拒绝转移车辆构成了对检查工作的障碍。"
+        }
+      }
+    },
+    {
+      "cod": "1F01024",
+      "pregunta": "En el curso de una operación de control en carretera en la autovía A-44, en el kilómetro 46 en dirección Jaén, la Inspección del Transporte inspecciona un camión que circulaba en esa dirección con destino Madrid. En la revisión efectuada a la tarjeta de tacógrafo del conductor se comprueba que éste ha superado el tiempo de conducción diaria permitido, incurriendo en una infracción leve.\nAnte esta situación, los inspectores ordenan la inmovilización inmediata del vehículo y retienen la documentación del vehículo y de la mercancía transportada. Asimismo, dado que el lugar no reúne condiciones de seguridad adecuadas, deciden que el vehículo sea trasladado hasta el área de servicio más próxima. En consecuencia, ordenan al conductor que se dirija con el vehículo al lugar señalado, acompañado por uno de los agentes de la Inspección. \nNo obstante, el conductor del vehículo, tras consultar con el responsable de su empresa, se niega a cumplir esta orden, alegando que la inmovilización y el traslado impedirán entregar la mercancía en el plazo convenido. Ante esta negativa, la Inspección decide utilizar los servicios de otro conductor, ajeno a la empresa titular del vehículo, para efectuar el traslado.\nEn el expediente sancionador tramitado a resultas de esta infracción se puso de manifiesto que el conductor había actuado en todo momento siguiendo las instrucciones del responsable de la empresa, por lo que no había lugar a la exención de responsabilidad de la empresa contemplada en el artículo 138, apartado 4, de la Ley 16/1987, de Ordenación de los Transportes Terrestres.\nResponda a las siguientes cuestiones:  ¿Tiene cobertura legal la orden de inmovilización del vehículo?  En caso de que la inmovilización tenga fundamento legal, ¿quién deberá asumir la custodia del vehículo y de la mercancía transportada y los gastos relacionados con el traslado al lugar de inmovilización?",
+      "pregunta_chino": "在A-44高速公路上的道路控制操作的过程中，在Jaén方向上的46公里处，运输检查检查了一辆朝着马德里目的地循环的卡车。在对驾驶员快速仪卡的修订中，已证实它已经克服了允许的日常驾驶时间，从而产生了轻度违规。\n在这种情况下，检查人员下令立即固定车辆，并保留车辆的文件和运输的商品。同样，由于该地点不符合足够的安全条件，因此他们决定将车辆转移到最近的服务区域。因此，他们命令驾驶员将车辆带到指示的位置，并由其中一名检查代理。 \nHowever, the driver of the vehicle, after consulting with the person in charge of his company, refuses to fulfill this order, claiming that immobilization and transfer will prevent delivering the merchandise within the agreed period.鉴于此拒绝，检查决定使用另一名驾驶员的服务（不理会车辆的公司）进行转移。\n在由于这种违法的结果处理的制裁档案中，据透露，驾驶员始终按照负责公司的人员的指示行事，因此在第16/1987条第138条第4条第4条第4条第138条第138条，违反责任的责任。\n回答以下问题：车辆固定令是否具有法律保险？  如果固定化具有法律依据，谁应该承担车辆的监护权和运输的商品以及与转移到固定地点有关的费用？",
+      "solucion": "E",
+      "norma": "Ley 16/1987, Art. 143.4",
+      "norma_chino": "法律16/1987，艺术。 143.4",
+      "opciones": {
+        "A": {
+          "A": "Sí, porque cualquier infracción cometida por superar el tiempo de conducción diaria permitido obliga a la inmovilización inmediata, ya que afecta gravemente a la seguridad vial.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo y los gastos relacionados con el traslado al lugar de inmovilización deben ser asumidos por el transportista. Por su parte, el cargador asumirá la custodia de la mercancía."
+        },
+        "B": {
+          "A": "Sí, porque cualquier infracción cometida por superar el tiempo de conducción diaria permitido obliga a la inmovilización inmediata, ya que afecta gravemente a la seguridad vial.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo y de la mercancía transportada y los gastos relacionados con el traslado al lugar de inmovilización deben ser asumidos por el transportista."
+        },
+        "C": {
+          "A": "Sí, porque cualquier infracción cometida por superar el tiempo de conducción diaria permitido obliga a la inmovilización inmediata, ya que afecta gravemente a la seguridad vial.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo debe ser asumida por el transportista. Por su parte, el cargador asumirá la custodia de la mercancía; y la Administración competente para la tramitación del expediente sancionador se hará cargo de los gastos de traslado al lugar de inmovilización."
+        },
+        "D": {
+          "A": "Sí, porque, aunque se trata de una infracción de carácter leve, la distancia que todavía debe recorrer el vehículo para alcanzar su destino es superior a 30 kilómetros.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo debe ser asumida por el transportista. Por su parte, el cargador asumirá la custodia de la mercancía; y la Administración competente para la tramitación del expediente sancionador se hará cargo de los gastos de traslado al lugar de inmovilización."
+        },
+        "E": {
+          "A": "Sí, porque, aunque se trata de una infracción de carácter leve, la distancia que todavía debe recorrer el vehículo para alcanzar su destino es superior a 30 kilómetros.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo y de la mercancía transportada y los gastos relacionados con el traslado al lugar de inmovilización deben ser asumidos por el transportista."
+        },
+        "F": {
+          "A": "Sí, porque, aunque se trata de una infracción de carácter leve, la distancia que todavía debe recorrer el vehículo para alcanzar su destino es superior a 30 kilómetros.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo y los gastos relacionados con el traslado al lugar de inmovilización deben ser asumidos por el transportista. Por su parte, el cargador asumirá la custodia de la mercancía."
+        },
+        "G": {
+          "A": "No, ya que se trata de una infracción de carácter leve.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo y los gastos relacionados con el traslado al lugar de inmovilización deben ser asumidos por el transportista. Por su parte, el cargador asumirá la custodia de la mercancía."
+        },
+        "H": {
+          "A": "No, ya que se trata de una infracción de carácter leve.",
+          "B": "Si la inmovilización está justificada, la custodia del vehículo y de la mercancía transportada y los gastos relacionados con el traslado al lugar de inmovilización deben ser asumidos por el transportista."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，因为它通过克服允许的日常驾驶时间而立即固定的任何违规行为，因为它严重影响了道路安全。",
+          "B": "如果固定化是合理的，则必须假设车辆的监护权和与转移到固定地点有关的费用。就其部分而言，充电器将承担商品的监护权。"
+        },
+        "B": {
+          "A": "是的，因为它通过克服允许的日常驾驶时间而立即固定的任何违规行为，因为它严重影响了道路安全。",
+          "B": "如果固定化是合理的，则必须由承运人承担车辆和运输商品的监护权以及与转移到固定地点有关的费用。"
+        },
+        "C": {
+          "A": "是的，因为它通过克服允许的日常驾驶时间而立即固定的任何违规行为，因为它严重影响了道路安全。",
+          "B": "如果固定化是合理的，则必须由承运人承担车辆的拘留。就其部分而言，充电器将承担商品的监护权；并且主管管理申请文件的管理将负责转移到固定地点的转移费用。"
+        },
+        "D": {
+          "A": "是的，因为尽管这是一个轻微的违规，但车辆仍必须行驶才能到达目的地的距离大于30公里。",
+          "B": "如果固定化是合理的，则必须由承运人承担车辆的拘留。就其部分而言，充电器将承担商品的监护权；并且主管管理裁决文件的管理将负责转移到固定地点的转移费用。"
+        },
+        "E": {
+          "A": "是的，因为尽管这是一个轻微的违规，但车辆仍必须行驶才能到达目的地的距离大于30公里。",
+          "B": "如果固定化是合理的，则必须由承运人承担车辆和运输商品的监护权以及与转移到固定地点有关的费用。"
+        },
+        "F": {
+          "A": "是的，因为尽管这是一个轻微的违规，但车辆仍必须行驶才能到达目的地的距离大于30公里。",
+          "B": "如果固定化是合理的，则必须假设车辆的监护权和与转移到固定地点有关的费用。就其部分而言，充电器将承担商品的监护权。"
+        },
+        "G": {
+          "A": "不，因为这是轻微的违规。",
+          "B": "如果固定化是合理的，则必须假设车辆的监护权和与转移到固定地点有关的费用。就其部分而言，充电器将承担商品的监护权。"
+        },
+        "H": {
+          "A": "不，因为这是轻微的违规。",
+          "B": "如果固定化是合理的，则必须由承运人承担车辆和运输商品的监护权以及与转移到固定地点有关的费用。"
+        }
+      }
+    },
+    {
+      "cod": "1F01025",
+      "pregunta": "Una sociedad de responsabilidad limitada que se dedica al transporte de mercancías por carretera, exclusivamente en ámbito nacional, con diez vehículos cuyas masas máximas autorizadas van desde 18 a 32 toneladas, y con dos vehículos cuya masa máxima autorizada es de 3,5 toneladas, presenta los siguientes datos en su balance:  \n  \tAplicaciones informáticas  \t8.742  \n  \tObligaciones y otros valores negociables a largo plazo  \t124.523  \n  \tFondo de comercio  \t26.850  \n  \tTerrenos y construcciones  \t109.458  \n  \tOtros pasivos financieros a largo plazo  \t52.621  \n  \tInversiones en empresas del grupo a largo plazo  \t147.600  \n  \tClientes por ventas y prestaciones de servicios  \t44.853  \n  \tDeudas con empresas del grupo y asociadas a corto plazo  \t86.950  \n  \tInversiones en empresas del grupo a corto plazo  \t65.200  \n  \tTesorería  \t14.632  \n  \tCapital social  \t20.000  \n  \tDeudas con entidades de crédito a corto plazo  \t48.090  \n  \tReservas  \t36.000  \n  \tDeudores varios  \t24.697  \n  \tCréditos a empresas  \t57.112  \n  \tDeudas con entidades de crédito a largo plazo  \t104.673  \n  \tCréditos a terceros  \t41.234  \n  \tOtros créditos con las Administraciones Públicas  \t4.362  \n  \tDeudas con empresas del grupo y asociadas a largo plazo  \t129.488 \nResponda a las siguientes cuestiones:  ¿Reúne las condiciones de capital precisas para cumplir el requisito de capacidad financiera?  ¿Qué condiciones de capital debería reunir para cumplir con este requisito en caso de efectuar también transporte internacional?",
+      "pregunta_chino": "一家有限责任公司，专门用于逐道运输货物，专门在全国范围内，有十辆车的最高授权群众在18至32吨不等，最高授权质量为3.5吨的车辆，其余额中以以下数据显示：  \n  \t计算机应用8,742  \n  \t义务和其他长期谈判价值124,523  \n  \t贸易基金26,850  \n  \t土地和建筑109,458  \n  \t其他长期金融负债52,621  \n  \t长期集团公司的投资147,600  \n  \t服务销售和服务的客户44,853  \n  \t与集团公司和短期相关的债务86,950  \n  \t短期组65.200的公司投资  \n  \t财政部14,632  \n  \t社会资本20,000  \n  \t短期信贷实体的债务48,090  \n  \t36,000个预订  \n  \t各种债务人24,697  \n  \t对公司的积分57,112  \n  \t长期信贷实体的债务104,673  \n  \t对第三方41,234的学分  \n  \t公共行政部门的其他学分4,362  \n  \t与集团公司和长期相关的债务129,488 \n回答以下问题：它是否满足确切的资本条件以满足财务能力要求？  在进行国际运输的情况下，应该满足哪些资本条件满足这一要求？",
+      "solucion": "H",
+      "norma": "Reglamento Comunitario (CE) 1071/2009, art. 1; Reglamento Comunitario (CE) 1071/2009, art. 7; Ley 16/1987, art. 43",
+      "norma_chino": "社区法规（CE）1071/2009，艺术。 1;社区法规（CE）1071/2009，艺术。 7;法律16/1987，艺术。 43",
+      "opciones": {
+        "A": {
+          "A": "No, pues su cifra de capital es de solo 20.000 euros, inferior al mínimo de 55.800 euros exigidos.",
+          "B": "Las mismas que si efectúa exclusivamente transporte nacional."
+        },
+        "B": {
+          "A": "No, pues su cifra de capital es de solo 20.000 euros, inferior al mínimo de 55.800 euros exigidos.",
+          "B": "Disponer de una cifra de capital de, al menos, 64.000 euros."
+        },
+        "C": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 50.000 euros exigidos (5.000 euros por cada vehículo con masa máxima autorizada superior a 3,5 toneladas).",
+          "B": "Las mismas que si efectúa exclusivamente transporte nacional."
+        },
+        "D": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 50.000 euros exigidos (5.000 euros por cada vehículo con masa máxima autorizada superior a 3,5 toneladas).",
+          "B": "Disponer de una cifra de capital y reservas de, al menos, 60.000 euros."
+        },
+        "E": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 54.000 euros exigidos.",
+          "B": "Las mismas que si efectúa exclusivamente transporte nacional."
+        },
+        "F": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 54.000 euros exigidos.",
+          "B": "Disponer de una cifra de capital y reservas de, al menos, 64.000 euros."
+        },
+        "G": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 55.800 euros exigidos.",
+          "B": "Disponer de una cifra de capital y reservas de, al menos, 64.000 euros."
+        },
+        "H": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 55.800 euros exigidos.",
+          "B": "Las mismas que si efectúa exclusivamente transporte nacional."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，因为其资本数字仅为20,000欧元，低于55,800欧元。",
+          "B": "与仅仅是全国运输的一样。"
+        },
+        "B": {
+          "A": "不，因为其资本数字仅为20,000欧元，低于55,800欧元。",
+          "B": "拥有至少64,000欧元的资本数字。"
+        },
+        "C": {
+          "A": "是的，其资本数字和储备金高于50,000欧元（每辆车的5,000欧元，最大授权质量大于3.5吨）。",
+          "B": "与仅仅是全国运输的一样。"
+        },
+        "D": {
+          "A": "是的，其资本数字和储备金高于50,000欧元（每辆车的5,000欧元，最大授权质量大于3.5吨）。",
+          "B": "拥有至少60,000欧元的资本数字和预订。"
+        },
+        "E": {
+          "A": "是的，因为其资本和预订高于所需的54,000欧元。",
+          "B": "与仅仅是全国运输的一样。"
+        },
+        "F": {
+          "A": "是的，因为其资本和预订高于所需的54,000欧元。",
+          "B": "拥有至少64,000欧元的资本数字和预订。"
+        },
+        "G": {
+          "A": "是的，其资本和预订高于所需的55,800欧元。",
+          "B": "拥有至少64,000欧元的资本数字和预订。"
+        },
+        "H": {
+          "A": "是的，其资本和预订高于所需的55,800欧元。",
+          "B": "与仅仅是全国运输的一样。"
+        }
+      }
+    },
+    {
+      "cod": "1F01026",
+      "pregunta": "Una sociedad de responsabilidad limitada que se dedica al transporte de mercancías por carretera, efectuando servicios tanto en ámbito nacional como internacional con diez vehículos cuyas masas máximas autorizadas van desde 3 a 3,5 toneladas, y con dos vehículos cuya masa máxima autorizada es de 2,5 toneladas, presenta los siguientes datos en su balance:  \n  \tAplicaciones informáticas  \t8.742  \n  \tObligaciones y otros valores negociables a largo plazo  \t124.523  \n  \tFondo de comercio  \t26.850  \n  \tTerrenos y construcciones  \t109.458  \n  \tOtros pasivos financieros a largo plazo  \t52.621  \n  \tInversiones en empresas del grupo a largo plazo  \t121.600  \n  \tClientes por ventas y prestaciones de servicios  \t44.853  \n  \tDeudas con empresas del grupo y asociadas a corto plazo  \t86.950  \n  \tInversiones en empresas del grupo a corto plazo  \t65.200  \n  \tTesorería  \t14.632  \n  \tCapital social  \t3.000  \n  \tDeudas con entidades de crédito a corto plazo  \t48.090  \n  \tReservas  \t7.000  \n  \tDeudores varios  \t4.697  \n  \tCréditos a empresas  \t57.112  \n  \tDeudas con entidades de crédito a largo plazo  \t104.673  \n  \tCréditos a terceros  \t41.234  \n  \tOtros créditos con las Administraciones Públicas  \t4.362  \n  \tDeudas con empresas del grupo y asociadas a largo plazo  \t129.488 \nResponda a las siguientes cuestiones:  ¿Reúne las condiciones de capital precisas para cumplir el requisito de capacidad financiera?  ¿Qué condiciones de capital debería reunir para cumplir con este requisito en caso de que solo efectúe transporte en ámbito nacional?",
+      "pregunta_chino": "一家有限责任公司，专门用于道路运输货物，在国内和国际上提供10辆车，其最高授权群众的最高批准不等至3.5吨，最高授权质量为2.5吨，其余额以下数据：  \n  \t计算机应用8,742  \n  \t义务和其他长期谈判价值124,523  \n  \t贸易基金26,850  \n  \t土地和建筑109,458  \n  \t其他长期金融负债52,621  \n  \t长期集团公司的投资121,600  \n  \t服务销售和服务的客户44,853  \n  \t与集团公司和短期相关的债务86,950  \n  \t短期组65.200的公司投资  \n  \t财政部14,632  \n  \t股本3,000  \n  \t短期信贷实体的债务48,090  \n  \t7,000个预订  \n  \t各种债务人4,697  \n  \t对公司的积分57,112  \n  \t长期信贷实体的债务104,673  \n  \t对第三方41,234的学分  \n  \t公共行政部门的其他学分4,362  \n  \t与集团公司和长期相关的债务129,488 \n回答以下问题：它是否满足确切的资本条件以满足财务能力要求？  如果您只进行全国运输，应满足哪些资本条件来满足这一要求？",
+      "solucion": "C",
+      "norma": "Reglamento Comunitario (CE) 1071/2009, art. 1; Reglamento Comunitario (CE) 1071/2009, art. 7; Ley 16/1987, art. 43",
+      "norma_chino": "社区法规（CE）1071/2009，艺术。 1;社区法规（CE）1071/2009，艺术。 7;法律16/1987，艺术。 43",
+      "opciones": {
+        "A": {
+          "A": "No, pues su cifra de capital es de solo 3.000 euros, inferior al mínimo de 9.900 euros exigidos.",
+          "B": "Las mismas que si efectúa también transporte internacional."
+        },
+        "B": {
+          "A": "No, pues su cifra de capital es de solo 3.000 euros, inferior al mínimo de 12.600 euros exigidos.",
+          "B": "Disponer de una cifra de capital de, al menos, 9.900 euros."
+        },
+        "C": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 9.900 euros exigidos.",
+          "B": "Si solo efectúa transporte nacional, no necesita cumplir el requisito de capacidad financiera, dada la masa máxima autorizada de sus vehículos."
+        },
+        "D": {
+          "A": "No, pues su cifra de capital y reservas es inferior al mínimo de 50.000 euros exigidos (5.000 euros por cada vehículo con masa máxima autorizada superior a 2,5 toneladas).",
+          "B": "Las mismas que si efectúa también transporte internacional."
+        },
+        "E": {
+          "A": "Sí, pues su cifra de capital y reservas es superior al mínimo de 9.900 euros exigidos.",
+          "B": "Las mismas que si efectúa también transporte internacional."
+        },
+        "F": {
+          "A": "No, pues su cifra de capital y reservas es inferior al mínimo de 54.000 euros exigidos.",
+          "B": "Las mismas que si efectúa también transporte internacional."
+        },
+        "G": {
+          "A": "No, pues su cifra de capital y reservas es inferior al mínimo de 50.000 euros exigidos (5.000 euros por cada vehículo con masa máxima autorizada superior a 2,5 toneladas).",
+          "B": "Disponer de una cifra de capital y reservas de, al menos, 9.900 euros."
+        },
+        "H": {
+          "A": "No, pues su cifra de capital y reservas es inferior al mínimo de 54.000 euros exigidos.",
+          "B": "Si solo efectúa transporte nacional, no necesita cumplir el requisito de capacidad financiera, dada la masa máxima autorizada de sus vehículos."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，因为其资本数字仅为3,000欧元，低于9,900欧元。",
+          "B": "与国际交通也一样。"
+        },
+        "B": {
+          "A": "不，因为其资本数字仅为3,000欧元，低于所需的12,600欧元。",
+          "B": "拥有至少9,900欧元的资本数字。"
+        },
+        "C": {
+          "A": "是的，因为其资本和预订高于9,900欧元。",
+          "B": "如果只有全国交通工具，则考虑到最大的车辆授权质量，您就不需要满足财务能力要求。"
+        },
+        "D": {
+          "A": "不，因为其资本数字和储备金低于最低要求的50,000欧元（每辆车的5,000欧元，最大授权质量大于2.5吨）。",
+          "B": "与国际交通也一样。"
+        },
+        "E": {
+          "A": "是的，因为其资本和预订高于9,900欧元。",
+          "B": "与国际交通也一样。"
+        },
+        "F": {
+          "A": "不，因为其资本和预订低于所需的54,000欧元。",
+          "B": "与国际交通也一样。"
+        },
+        "G": {
+          "A": "不，因为其资本数字和储备金低于最低要求的50,000欧元（每辆车的5,000欧元，最大授权质量大于2.5吨）。",
+          "B": "拥有至少9,900欧元的资本数字和预订。"
+        },
+        "H": {
+          "A": "不，因为其资本和预订低于所需的54,000欧元。",
+          "B": "如果只有全国交通工具，则考虑到最大的车辆授权质量，您就不需要满足财务能力要求。"
+        }
+      }
+    },
+    {
+      "cod": "1F02001",
+      "pregunta": "Dos hermanos, que desean dedicarse al transporte público de mercancías por carretera, deciden poner en común sus recursos para poder llevar a cabo las inversiones imprescindibles.\nA tal fin, constituyen una comunidad de bienes que tiene como objeto el ejercicio profesional del transporte de mercancías por carretera y compran un vehículo nuevo de tres toneladas de masa máxima autorizada con el que desarrollar la actividad, confiando en poder adquirir un segundo vehículo similar en unos meses.\nAsimismo, inscriben la comunidad de bienes en el Censo de Empresarios y Profesionales de la Agencia Tributaria, obteniendo el NIF correspondiente y cursando su alta en el epígrafe correspondiente al transporte de mercancías por carretera. Por otro lado, ambos se dan de alta en el Régimen Especial de Trabajadores Autónomos de la Seguridad Social.\nUna vez efectuados estos trámites, en cuanto tienen a su disposición el primer vehículo, empiezan a efectuar transporte. Sin embargo, al tercer día de ejercicio de la actividad, el vehículo es inspeccionado en un control de carretera y el agente actuante formula denuncia contra ellos, entendiendo que están realizando transporte público sin contar con la autorización preceptiva.\nNinguno de los dos hermanos cuenta con certificado de competencia profesional ni han contratado a una tercera persona que pueda desempeñar la función de gestor de transporte.\nResponda a las siguientes cuestiones: ¿Qué clase de autorización necesitan para ejercer la actividad que pretenden? ¿Cumplen los requisitos para obtenerla?",
+      "pregunta_chino": "希望将自己投入道路上的公共交通货物的两个兄弟决定分享他们的资源以进行基本的投资。\n为此，它们构成了一个物品社区，其对象是道路运输货物的专业实践，并购买了三吨最高授权质量的新车辆，以开发活动，相信能够在几个月内购买第二辆类似的车辆。\n同样，他们在税务机构的企业家和专业人士的人口普查中注册了商品社区，获得了相应的NIF，并在题词中研究了与道路商品运输相对应的题词。另一方面，两者都在自雇社会保障工人的特殊制度中被释放。\n一旦执行了这些程序，就可以在第一辆车后立即运输。但是，在活动活动的第三天，在道路控制中检查了车辆，而演技代理人对他们提出了投诉，了解他们正在没有戒律授权的情况下进行公共交通工具。\n兄弟都没有专业的能力证书，也没有雇用可以执行运输经理职能的第三个人。\n回答以下问题：您需要哪种授权才能行使他们打算的活动？您满足获得它的要求吗？",
+      "solucion": "G",
+      "norma": "Ley 16/1987, art. 43; RD 1211/1990, art. 33; Resolución D.G. Transporte Terrestre 03/12/2018, Primero",
+      "norma_chino": "法律16/1987，艺术。 43; RD 1211/1990，艺术。 33;决议D.G.陆地运输2018年12月3日，首先",
+      "opciones": {
+        "A": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "No, pues no disponen de ninguna persona que pueda desempeñar la función de gestor de transporte en la empresa."
+        },
+        "B": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "No, pues la autorización de transporte público no se puede otorgar conjuntamente a más de una persona ni a comunidades de bienes."
+        },
+        "C": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "Sí, obtendrán la autorización si la solicitan y aportan la documentación requerida."
+        },
+        "D": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "No, pues deben disponer de, al menos, dos vehículos en propiedad o arrendamiento financiero."
+        },
+        "E": {
+          "A": "Autorización identificada registralmente con la clave MDLE.",
+          "B": "No, pues deben disponer de, al menos, dos vehículos en propiedad o arrendamiento financiero."
+        },
+        "F": {
+          "A": "Autorización identificada registralmente con la clave MDLE.",
+          "B": "No, pues no disponen de ninguna persona que pueda desempeñar la función de gestor de transporte en la empresa."
+        },
+        "G": {
+          "A": "Autorización identificada registralmente con la clave MDLE.",
+          "B": "No, pues la autorización de transporte público no se puede otorgar conjuntamente a más de una persona ni a comunidades de bienes."
+        },
+        "H": {
+          "A": "Autorización identificada registralmente con la clave MDLE.",
+          "B": "Sí, obtendrán la autorización si la solicitan y aportan la documentación requerida."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "由MDPE密钥确定的授权。",
+          "B": "不，他们没有任何人可以在公司中执行运输经理的职能。"
+        },
+        "B": {
+          "A": "由MDPE密钥确定的授权。",
+          "B": "不，因为不能将公共交通授权共同授予一个以上的货物或社区。"
+        },
+        "C": {
+          "A": "由MDPE密钥确定的授权。",
+          "B": "是的，如果要求并提供所需的文件，他们将获得授权。"
+        },
+        "D": {
+          "A": "由MDPE密钥确定的授权。",
+          "B": "不，他们必须在财产或财务租赁中至少有两辆车。"
+        },
+        "E": {
+          "A": "由MDL键确定的授权。",
+          "B": "不，他们必须在财产或财务租赁中至少有两辆车。"
+        },
+        "F": {
+          "A": "由MDL键确定的授权。",
+          "B": "不，他们没有任何人可以在公司中执行运输经理的职能。"
+        },
+        "G": {
+          "A": "由MDL键确定的授权。",
+          "B": "不，因为不能将公共交通授权共同授予一个以上的货物或社区。"
+        },
+        "H": {
+          "A": "由MDL键确定的授权。",
+          "B": "是的，如果要求并提供所需的文件，他们将获得授权。"
+        }
+      }
+    },
+    {
+      "cod": "1F02002",
+      "pregunta": "D. José Luis Monge, cuyo NIF es 25842369F, es titular de una autorización de transporte público de mercancías que lo habilita para efectuar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada. D. José Luis tiene adscritos a la autorización cuatro vehículos, tres le pertenecen en propiedad y el otro lo tiene a su disposición en virtud de un contrato de arrendamiento ordinario.\nEn el momento de gestionar el visado de la autorización, la Administración tiene conocimiento de que ha finalizado la vigencia del contrato de arrendamiento de este último vehículo, por lo que requiere al Sr. Monge para que, en el plazo de diez días hábiles, acredite que sigue disponiendo del mismo. No obstante, el plazo concedido se cumple sin que el transportista justifique mantener en la actualidad la disposición sobre el vehículo.\nResponda a las siguientes cuestiones: ¿En qué fecha debe efectuar el Sr. Monge el visado de su autorización? ¿Qué consecuencias tendrá, a efectos del visado, la falta de disposición de uno de los cuatro vehículos adscritos a la autorización?",
+      "pregunta_chino": "何塞·路易斯·蒙格（JoséLuisMonge）先生是NIF的25842369F，是公共交通授权的持有人，它使其能够使用超过3.5吨最高授权质量的车辆进行运输。何塞·路易斯（JoséLuis）先生已分配了四辆车的授权，三辆属于他的财产，另一个属于他，因为他的普通租约可以使用它。\n在管理授权签证时，政府知道它已经结束了最后一辆车的租赁的有效性，因此它需要Monge先生，以便在十个工作时间内证明它继续拥有它。但是，在没有承运人的情况下实现了授予的期限，以维持对车辆的处置。\n回答以下问题：蒙格先生应该在什么日期完成其授权签证？出于签证的目的，缺乏分配给该授权的四辆车辆之一的后果会产生什么影响？",
+      "solucion": "D",
+      "norma": "RD 1211/1990, art. 42; Resolución D.G. Transporte Terrestre 03/12/2018, Primero; Resolución D.G. Transporte Terrestre 03/12/2018, Segundo",
+      "norma_chino": "RD 1211/1990，艺术。 42;决议D.G.陆地运输2018年12月2日，首先；决议D.G.陆地运输2018年12月3日，第二",
+      "opciones": {
+        "A": {
+          "A": "En el mes de septiembre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "B": {
+          "A": "En el mes de octubre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "C": {
+          "A": "En el mes de septiembre.",
+          "B": "Se excluirá al vehículo de la relación de los que están adscritos a la autorización."
+        },
+        "D": {
+          "A": "En el mes de octubre.",
+          "B": "Se excluirá al vehículo de la relación de los que están adscritos a la autorización."
+        },
+        "E": {
+          "A": "En el mes de noviembre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "F": {
+          "A": "En el mes de diciembre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "G": {
+          "A": "En el mes de noviembre.",
+          "B": "Se excluirá al vehículo de la relación de los que están adscritos a la autorización."
+        },
+        "H": {
+          "A": "En el mes de diciembre.",
+          "B": "Se excluirá al vehículo de la relación de los que están adscritos a la autorización."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "9月。",
+          "B": "授权将失去其有效性而无需明确声明，尽管必须将此事实通知其持有人。"
+        },
+        "B": {
+          "A": "十月。",
+          "B": "授权将失去其有效性而无需明确声明，尽管必须将此事实通知其持有人。"
+        },
+        "C": {
+          "A": "9月。",
+          "B": "该车辆将被排除在授权附带的人之间的关系之外。"
+        },
+        "D": {
+          "A": "十月。",
+          "B": "该车辆将被排除在授权附带的人之间的关系之外。"
+        },
+        "E": {
+          "A": "在11月。",
+          "B": "授权将失去其有效性而无需明确声明，尽管必须将此事实通知其持有人。"
+        },
+        "F": {
+          "A": "在12月。",
+          "B": "授权将失去其有效性而无需明确声明，尽管必须将此事实通知其持有人。"
+        },
+        "G": {
+          "A": "在11月。",
+          "B": "该车辆将被排除在授权附带的人之间的关系之外。"
+        },
+        "H": {
+          "A": "在12月。",
+          "B": "该车辆将被排除在授权附带的人之间的关系之外。"
+        }
+      }
+    },
+    {
+      "cod": "1F02003",
+      "pregunta": "Una sociedad limitada dedicada al transporte público de mercancías es titular de autorización de transporte que la habilita para efectuar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada. La sociedad tiene adscritos a la autorización tres vehículos cuyas características son las siguientes:  \n  \tMMA (kg)  \tAntigüedad  \tForma de disposición  \n  \tVehículo 1  \t33.700  \t12 años  \tPropiedad  \n  \tVehículo 2  \t38.500  \t10 años  \tPropiedad  \n  \tVehículo 3  \t41.500  \t8 años  \tPropiedad \nEsta sociedad quiere ampliar su capacidad de transporte, por lo que solicita que se adscriba a la autorización un vehículo adicional, que ha adquirido en propiedad, con una MMA de 24.500 kg y una antigüedad de 8,5 años.\nResponda a las siguientes cuestiones: ¿Es posible la adscripción de este vehículo adicional? En caso de que se permita la adscripción solicitada, ¿qué condiciones de capital y reservas deberá cumplir la sociedad?",
+      "pregunta_chino": "致力于商品公共交通的有限社会是运输授权的持有人，它使其能够使用超过3.5吨最高授权质量的车辆进行运输。该公司已分配给授权，三辆车辆的特征如下：  \n  \tMMA（kg）高级处置表格  \n  \t车辆1 33,700 12年财产  \n  \t车辆2 38,500 10年财产  \n  \t车辆3 41,500 8年财产 \n该公司希望扩大其运输能力，因此请求一辆已收购财产的额外车辆，MMA为24,500公斤，年龄为8.5岁，分配给了授权。\n回答以下问题：该额外车辆的分配是否可能？如果允许请求的归属，则必须遵守哪些资本状况和储备？",
+      "solucion": "F",
+      "norma": "RD 1211/1990, art. 44; RD 1211/1990, art. 121",
+      "norma_chino": "RD 1211/1990，艺术。 44; RD 1211/1990，艺术。 121",
+      "opciones": {
+        "A": {
+          "A": "No, porque el vehículo que se quiere adscribir a la autorización tiene una antigüedad superior a cinco meses.",
+          "B": "24.000 euros."
+        },
+        "B": {
+          "A": "No, porque el vehículo que se quiere adscribir a la autorización tiene una antigüedad superior a cinco meses.",
+          "B": "20.000 euros."
+        },
+        "C": {
+          "A": "No, porque con la adscripción del vehículo adicional aumenta la antigüedad media de la flota.",
+          "B": "24.000 euros."
+        },
+        "D": {
+          "A": "No, porque con la adscripción del vehículo adicional aumenta la antigüedad media de la flota.",
+          "B": "20.000 euros."
+        },
+        "E": {
+          "A": "No, porque con la adscripción del vehículo adicional aumenta la antigüedad media de la flota.",
+          "B": "No se exigiría ninguna condición específica de capital y reservas porque todos los vehículos de la empresa tienen doce años o menos y dispone de ellos en propiedad."
+        },
+        "F": {
+          "A": "Sí, porque con la adscripción del vehículo adicional no aumenta la antigüedad media de la flota.",
+          "B": "24.000 euros."
+        },
+        "G": {
+          "A": "Sí, porque con la adscripción del vehículo adicional no aumenta la antigüedad media de la flota.",
+          "B": "20.000 euros."
+        },
+        "H": {
+          "A": "Sí, porque con la adscripción del vehículo adicional no aumenta la antigüedad media de la flota.",
+          "B": "No se exigirá ninguna condición específica de capital y reservas porque todos los vehículos de la empresa tienen doce años o menos y dispone de ellos en propiedad."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，因为您想归因于授权的车辆的年龄超过五个月。",
+          "B": "24,000欧元。"
+        },
+        "B": {
+          "A": "不，因为您想归因于授权的车辆的年龄超过五个月。",
+          "B": "20,000欧元。"
+        },
+        "C": {
+          "A": "不，因为随着额外车辆的分配，车队的平均年龄增加。",
+          "B": "24,000欧元。"
+        },
+        "D": {
+          "A": "不，因为随着额外车辆的分配，车队的平均年龄增加。",
+          "B": "20,000欧元。"
+        },
+        "E": {
+          "A": "不，因为随着额外车辆的分配，车队的平均年龄增加。",
+          "B": "不需要具体的资本和预订，因为该公司的所有车辆均为十二年或更短，并将其列入财产。"
+        },
+        "F": {
+          "A": "是的，因为随着额外车辆的归纳，车队的平均年龄不会增加。",
+          "B": "24,000欧元。"
+        },
+        "G": {
+          "A": "是的，因为随着额外车辆的归纳，车队的平均年龄不会增加。",
+          "B": "20,000欧元。"
+        },
+        "H": {
+          "A": "是的，因为随着额外车辆的归纳，车队的平均年龄不会增加。",
+          "B": "不需要具体的资本和储备金，因为公司的所有车辆均为十二年或更短，并将其列入财产。"
+        }
+      }
+    },
+    {
+      "cod": "1F02004",
+      "pregunta": "D. Lázaro Olmos, transportista titular de autorización de transporte de mercancías que habilita para efectuar transporte con vehículos de más de 3,5 toneladas de masa máxima autorizada, tiene adscritos a la autorización tres vehículos cuyas características son las siguientes:  \n  \tMMA (kg)  \tAntigüedad  \tForma de disposición  \n  \tVehículo 1  \t10.600  \t16 años  \tPropiedad  \n  \tVehículo 2  \t30.000  \t10 años  \tPropiedad  \n  \tVehículo 3  \t22.500  \t8 años  \tPropiedad \nUna vez alcanzada la edad reglamentaria, D. Lázaro decide dejar la actividad y jubilarse, por lo que acuerda con D. Carlos Junco, un conocido suyo, la transmisión de la autorización de transporte a favor de este último.\nPor lo que se refiere a los vehículos, al Sr. Junco no le interesa adquirir el vehículo de 16 años por considerarlo muy antiguo y de escasa capacidad. De este modo, llevan a cabo la transferencia, a nombre de D. Carlos, de los otros dos vehículos, quedando el de mayor antigüedad a nombre de D. Lázaro.\nEn estas condiciones, D. Carlos solicita ante la Administración de Transportes la transmisión a su favor de la autorización.\nResponda a las siguientes cuestiones: ¿Es posible efectuar la transmisión solicitada? ¿En qué términos se exigirá al Sr. Junco el cumplimiento del requisito de competencia profesional?",
+      "pregunta_chino": "D.LázaroOlmos是授权运输货物运输的持有人，该运输能够使用超过3.5吨最高授权群众的车辆运输，已分配给授权三辆车辆，其特征是以下特征：  \n  \tMMA（kg）高级处置表格  \n  \t车辆1 10,600 16年财产  \n  \t车辆2 30,000 10年财产  \n  \t车辆3 22,500 8年财产 \n一旦达到监管年龄，D。Lázaro决定离开活动并退休，因此他同意Carlos Junco先生的观点，Carlos Junco先生是已知的传播运输授权，以支持后者。\n关于车辆，Junco先生对购买16岁的车辆不感兴趣，因为它很旧，而且容量很小。通过这种方式，他们以其他两辆车的名义进行了转会，以D.Lázaro的名义留下了最大的转移。\n在这种情况下，D。Carlos要求在运输前进行传输，以支持其授权。\n回答以下问题：是否有可能执行请求的传输？ Junco先生以什么方式遵守专业能力要求？",
+      "solucion": "E",
+      "norma": "RD 1211/1990, art. 45; RD 1211/1990, art. 113",
+      "norma_chino": "RD 1211/1990，艺术。 45; RD 1211/1990，艺术。 113",
+      "opciones": {
+        "A": {
+          "A": "Sí, porque, al prescindir del vehículo más antiguo, se está reduciendo la antigüedad media de la flota.",
+          "B": "Desde el primer momento deberá disponer personalmente de certificado de competencia profesional o contratar a una persona que pueda ejercer la función de gestor de transporte."
+        },
+        "B": {
+          "A": "Sí, porque, al prescindir del vehículo más antiguo, se está reduciendo la antigüedad media de la flota.",
+          "B": "Se le concede un plazo de tres meses para justificar el cumplimiento del requisito, al tratarse de una transmisión de autorización por jubilación."
+        },
+        "C": {
+          "A": "No, porque el adquirente no adscribe a la autorización ningún vehículo con antigüedad no superior a cinco meses.",
+          "B": "Se le concede un plazo de seis meses para justificar el cumplimiento del requisito, al tratarse de una transmisión de autorización por jubilación."
+        },
+        "D": {
+          "A": "No, porque el adquirente no adscribe a la autorización ningún vehículo con antigüedad no superior a cinco meses.",
+          "B": "Se le concede un plazo de tres meses para justificar el cumplimiento del requisito, al tratarse de una transmisión de autorización por jubilación."
+        },
+        "E": {
+          "A": "No, porque el adquirente debe pasar a disponer de todos los vehículos adscritos a la autorización.",
+          "B": "Desde el primer momento deberá disponer personalmente de certificado de competencia profesional o contratar a una persona que pueda ejercer la función de gestor de transporte."
+        },
+        "F": {
+          "A": "No, porque el adquirente debe pasar a disponer de todos los vehículos adscritos a la autorización.",
+          "B": "Se le concede un plazo de tres meses para justificar el cumplimiento del requisito, al tratarse de una transmisión de autorización por jubilación."
+        },
+        "G": {
+          "A": "No, porque el adquirente debe pasar a disponer de todos los vehículos adscritos a la autorización.",
+          "B": "Se le concede un plazo de seis meses para justificar el cumplimiento del requisito, al tratarse de una transmisión de autorización por jubilación."
+        },
+        "H": {
+          "A": "No, porque el adquirente no adscribe a la autorización ningún vehículo con antigüedad no superior a cinco meses.",
+          "B": "Desde el primer momento deberá disponer personalmente de certificado de competencia profesional o contratar a una persona que pueda ejercer la función de gestor de transporte."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，因为在用最古老的车辆分配时，舰队的平均年龄正在减小。",
+          "B": "从第一刻起，您必须亲自拥有专业能力证书或雇用可以行使运输经理职能的人。"
+        },
+        "B": {
+          "A": "是的，因为在用最古老的车辆分配时，舰队的平均年龄正在减小。",
+          "B": "它被授予三个月的时间，以证明对要求的遵守是合理的，因为这是退休授权传输。"
+        },
+        "C": {
+          "A": "不，因为收购方没有分配任何资历不超过五个月的车辆。",
+          "B": "这是六个月的时间，以证明符合要求的合理性，因为这是退休授权传输。"
+        },
+        "D": {
+          "A": "不，因为收购方没有分配任何资历不超过五个月的车辆。",
+          "B": "它被授予三个月的时间，以证明对要求的遵守是合理的，因为这是退休授权传输。"
+        },
+        "E": {
+          "A": "不，因为收购方必须将所有车辆分配给授权。",
+          "B": "从第一刻起，您必须亲自拥有专业能力证书或雇用可以行使运输经理职能的人。"
+        },
+        "F": {
+          "A": "不，因为收购方必须将所有车辆分配给授权。",
+          "B": "它被授予三个月的时间，以证明对要求的遵守是合理的，因为这是退休授权传输。"
+        },
+        "G": {
+          "A": "不，因为收购方必须将所有车辆分配给授权。",
+          "B": "这是六个月的时间，以证明符合要求的合理性，因为这是退休授权传输。"
+        },
+        "H": {
+          "A": "不，因为收购方没有分配任何资历不超过五个月的车辆。",
+          "B": "从第一刻起，您必须亲自拥有专业能力证书或雇用可以行使运输经理职能的人。"
+        }
+      }
+    },
+    {
+      "cod": "1F02005",
+      "pregunta": "Dos hermanos han puesto en común sus recursos, constituyendo una comunidad de bienes, para poder llevar a cabo las inversiones imprescindibles que les permitan trabajar como comercializadores mayoristas de frutas y verduras.\nEntre dichas inversiones se incluye la adquisición en propiedad de un vehículo usado, con cuatro años de antigüedad, de cinco toneladas de masa máxima autorizada, que utilizarán para el transporte de la mercancía que comercialicen.\nA tal fin, inscriben la comunidad de bienes en el Censo de Empresarios y Profesionales de la Agencia Tributaria, obteniendo el NIF correspondiente y cursando su alta en el epígrafe correspondiente del Impuesto sobre Actividades Económicas. Por otro lado, ambos se dan de alta en el Régimen Especial de Trabajadores Autónomos de la Seguridad Social.\nUna vez efectuados estos trámites, se dirigen a la Administración de Transportes de su Comunidad Autónoma para solicitar autorización de transporte.\nResponda a las siguientes cuestiones: ¿Qué clase de autorización de transporte necesitan para ejercer la actividad que pretenden? ¿Cumplen los requisitos para obtenerla?",
+      "pregunta_chino": "两个兄弟通常将他们的资源构成一群商品社区，以进行基本的投资，使他们能够担任水果和蔬菜的营销批发商。\n这些投资包括拥有二手车的所有权，四年历史，最高授权的质量，将用于运输其出售商品。\n为此，他们在税务机构的企业家和专业人员的人口普查中注册了商品社区，获得了相应的NIF并在经济活动税的相应部分中研究其注册。另一方面，两者都在自雇社会保障工人的特殊制度中被释放。\n一旦执行了这些程序，它们就会指向其自治社区的运输管理，要求运输授权。\n回答以下问题：您需要哪种运输授权来锻炼他们打算的活动？您满足获得它的要求吗？",
+      "solucion": "G",
+      "norma": "RD 1211/1990, art. 156; Resolución D.G. Transporte Terrestre 03/12/2018, Primero",
+      "norma_chino": "RD 1211/1990，艺术。 156;决议D.G.陆地运输2018年12月3日，首先",
+      "opciones": {
+        "A": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "No, pues deben disponer de, al menos, dos vehículos en régimen de propiedad o arrendamiento financiero."
+        },
+        "B": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "No, pues deben disponer de un vehículo con una antigüedad máxima de cinco meses."
+        },
+        "C": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "Sí."
+        },
+        "D": {
+          "A": "Autorización identificada registralmente con la clave MDPE.",
+          "B": "No, pues la autorización de transporte no se puede otorgar conjuntamente a más de una persona ni a comunidades de bienes."
+        },
+        "E": {
+          "A": "Autorización identificada registralmente con la clave MPCE.",
+          "B": "No, pues deben disponer de, al menos, dos vehículos en régimen de propiedad o arrendamiento financiero."
+        },
+        "F": {
+          "A": "Autorización identificada registralmente con la clave MPCE.",
+          "B": "No, pues deben disponer de un vehículo con una antigüedad máxima de cinco meses."
+        },
+        "G": {
+          "A": "Autorización identificada registralmente con la clave MPCE.",
+          "B": "Sí."
+        },
+        "H": {
+          "A": "Autorización identificada registralmente con la clave MPCE.",
+          "B": "No, pues la autorización de transporte no se puede otorgar conjuntamente a más de una persona ni a comunidades de bienes."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "由MDPE密钥确定的授权。",
+          "B": "不，他们必须至少有两辆财产或财务租赁的车辆。"
+        },
+        "B": {
+          "A": "由MDPE密钥确定的授权。",
+          "B": "不，他们必须拥有最长五个月的车辆。"
+        },
+        "C": {
+          "A": "由MDPE密钥确定的授权。",
+          "B": "是的。"
+        },
+        "D": {
+          "A": "由MDPE密钥确定的授权。",
+          "B": "不，因为交通授权不能共同授予一个以上的人或货物社区。"
+        },
+        "E": {
+          "A": "MPCE密钥确定的授权。",
+          "B": "不，他们必须至少有两辆财产或财务租赁的车辆。"
+        },
+        "F": {
+          "A": "MPCE密钥确定的授权。",
+          "B": "不，他们必须拥有最长五个月的车辆。"
+        },
+        "G": {
+          "A": "MPCE密钥确定的授权。",
+          "B": "是的。"
+        },
+        "H": {
+          "A": "MPCE密钥确定的授权。",
+          "B": "不，因为交通授权不能共同授予一个以上的人或货物社区。"
+        }
+      }
+    },
+    {
+      "cod": "1F02006",
+      "pregunta": "D. Gerardo Abril, cuyo NIF es 25842380C, se dedica a la fabricación e instalación de puertas y ventanas de aluminio y, para el desarrollo de su actividad, dispone de autorización de transporte privado complementario de mercancías. D. Gerardo tiene adscritos a la autorización dos vehículos de 4 y 4,5 toneladas de masa máxima autorizada.\nEn el momento de gestionar el visado de la autorización, la Administración comprueba que uno de los vehículos adscritos se encuentra en situación de baja temporal en el Registro de Vehículos de la Dirección General de Tráfico, hecho que lo inhabilita para circular. Por ello, requiere al Sr. Abril para que, en el plazo de diez días hábiles, subsane esta deficiencia.\nNo obstante, el plazo concedido por la Administración de Transportes se cumple sin que se haya modificado la situación del vehículo en el Registro de Tráfico.\nResponda a las siguientes cuestiones: ¿En qué fecha debe efectuar el Sr. Abril el visado de su autorización? ¿Qué consecuencias tendrá, a efectos del visado, la situación de baja temporal de uno de los dos vehículos adscritos a la autorización?",
+      "pregunta_chino": "D. Gerardo Abril的NIF为25842380C，致力于制造和安装铝门和窗户，并且为了开发其活动，它具有互补的私人运输授权。 D. Gerardo已分配了授权，两辆4和4.5吨最高授权质量的车辆。\n在管理授权签证时，政府证明，其中一辆随附的车辆在交通总局的车辆登记处处于暂时的较低状态，这一事实使其散发出来。因此，April先生要求在十个工作日子内这个缺陷子代。\n但是，运输管理局授予的截止日期在没有交通登记册中车辆的情况的情况下已被修改。\n回答以下问题：April先生应该在哪个日期进行您的授权签证？出于签证的目的，将有什么后果，是分配给授权的两辆车辆之一的临时休假情况？",
+      "solucion": "D",
+      "norma": "RD 1211/1990, art. 158; Resolución D.G. Transporte Terrestre 03/12/2018, Primero; Resolución D.G. Transporte Terrestre 03/12/2018, Segundo",
+      "norma_chino": "RD 1211/1990，艺术。 158;决议D.G.陆地运输2018年12月2日，首先；决议D.G.陆地运输2018年12月3日，第二",
+      "opciones": {
+        "A": {
+          "A": "En el mes de octubre.",
+          "B": "Se excluirá al vehículo en situación de baja de la relación de los que están adscritos a la autorización."
+        },
+        "B": {
+          "A": "En el mes de diciembre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "C": {
+          "A": "En el mes de septiembre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "D": {
+          "A": "En el mes de noviembre.",
+          "B": "Se excluirá al vehículo en situación de baja de la relación de los que están adscritos a la autorización."
+        },
+        "E": {
+          "A": "En el mes de noviembre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "F": {
+          "A": "En el mes de octubre.",
+          "B": "La autorización perderá su validez sin necesidad de declaración expresa, si bien se debe notificar este hecho a su titular."
+        },
+        "G": {
+          "A": "En el mes de septiembre.",
+          "B": "Se excluirá al vehículo en situación de baja de la relación de los que están adscritos a la autorización."
+        },
+        "H": {
+          "A": "En el mes de diciembre.",
+          "B": "Se excluirá al vehículo en situación de baja de la relación de los que están adscritos a la autorización."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "十月。",
+          "B": "该车辆将被排除在授权附件的人之间的情况下，情况很低。"
+        },
+        "B": {
+          "A": "在12月。",
+          "B": "授权将失去其有效性而无需明确声明，尽管必须将此事实通知其持有人。"
+        },
+        "C": {
+          "A": "9月。",
+          "B": "授权将失去其有效性而无需明确声明，尽管必须将此事实通知其持有人。"
+        },
+        "D": {
+          "A": "在11月。",
+          "B": "该车辆将被排除在授权附件的人之间的情况下，情况很低。"
+        },
+        "E": {
+          "A": "在11月。",
+          "B": "授权将失去其有效性而无需明确声明，尽管必须将此事实通知其持有人。"
+        },
+        "F": {
+          "A": "十月。",
+          "B": "授权将失去其有效性而无需明确声明，尽管必须将此事实通知其持有人。"
+        },
+        "G": {
+          "A": "9月。",
+          "B": "该车辆将被排除在授权附件的人之间的情况下，情况很低。"
+        },
+        "H": {
+          "A": "在12月。",
+          "B": "该车辆将被排除在授权附件的人之间的情况下，情况很低。"
+        }
+      }
+    },
+    {
+      "cod": "1F02007",
+      "pregunta": "Un empresario dedicado a la comercialización de materiales de construcción cuenta con un tractocamión y un semirremolque, así como con la oportuna autorización de transporte privado complementario de mercancías, para el transporte de los productos que comercializa desde los almacenes de sus proveedores hasta sus propias instalaciones y desde éstas hasta el punto que indican los compradores, cuando así lo solicitan.\nHabiendo vendido una partida de 8.000 ladrillos huecos al precio de 15 céntimos por unidad, impuestos no incluidos, ofrece al comprador efectuar también el transporte de la mercancía hasta el lugar que señale, cobrándole por ese servicio adicional 5 céntimos por unidad, lo que es aceptado por el comprador.\nCuando el vendedor se dispone a efectuar la entrega del producto en la fecha convenida, al ir a efectuar la carga, comprueba que el semirremolque tiene dos ruedas pinchadas y en muy mal estado y no cuenta con tiempo suficiente para repararlas o sustituirlas. Por ello, decide contactar con otra empresa del sector, con la que mantiene buenas relaciones comerciales, a fin de que le ceda uno de sus semirremolques para este transporte.\nResponda a las siguientes cuestiones: ¿Qué cantidad, IVA no incluido, puede reflejar el vendedor en la factura en concepto de transporte de la mercancía, si lo lleva a cabo como transporte privado complementario? ¿Qué implicaciones tiene la utilización en este transporte de un semirremolque cedido?",
+      "pregunta_chino": "致力于建筑材料营销的企业家具有拖拉机和半货车，以及及时授权互补的私人货物运输，用于将其从其供应商商店到自己的设施上销售的产品的运输，并从他们的设施中及其索取，从购买者指示的目的。\n以每单位15美分的价格出售了8,000块空心砖的游戏，不包括税款，它也为买方提供了将商品运输到其指示的地点的价格，并为购买者接受了该额外服务的每单位5美分。\n当卖方准备在约定的日期交付产品时，当负载进行执行时，它验证了半拖车的刺穿车轮有两个刺穿的轮子，状况非常恶劣，并且没有足够的时间维修或更换它们。因此，他决定与该领域的另一家公司联系，并与该领域保持良好的商业关系，以便他为他的一位半拖车提供了这次运输工具。\n回答以下问题：如果以互补的私人运输方式进行，卖方可以反思商品运输发票的多少，卖方可以反思商品的发票？在分配的半高lemolque的运输中使用了什么含义？",
+      "solucion": "F",
+      "norma": "Ley 16/1987, art. 102",
+      "norma_chino": "法律16/1987，艺术。 102",
+      "opciones": {
+        "A": {
+          "A": "Ninguna, el transporte privado complementario no puede ser facturado de modo independiente.",
+          "B": "Ninguna, pues los remolques y semirremolques no están adscritos a la autorización de transporte. Solo se requiere que estén integrados en la organización de la empresa titular de la autorización los vehículos con capacidad de tracción."
+        },
+        "B": {
+          "A": "400 euros, si bien deberá integrar esta cantidad con el resto de conceptos facturados para determinar la base imponible de la operación.",
+          "B": "El vendedor debe comunicar previamente a la Administración que va a utilizar un semirremolque ajeno para evitar ser sancionado, indicando las circunstancias que lo justifican."
+        },
+        "C": {
+          "A": "484 euros.",
+          "B": "El transporte quedará sujeto al régimen del transporte público, pues los semirremolques utilizados en servicios de carácter privado complementario deben estar integrados en la organización de la empresa a título de propiedad, arrendamiento financiero u arrendamiento ordinario."
+        },
+        "D": {
+          "A": "Ninguna, el transporte privado complementario no puede ser facturado de modo independiente.",
+          "B": "El vendedor debe comunicar previamente a la Administración que va a utilizar un semirremolque ajeno para evitar ser sancionado, indicando las circunstancias que lo justifican."
+        },
+        "E": {
+          "A": "400 euros, si bien deberá integrar esta cantidad con el resto de conceptos facturados para determinar la base imponible de la operación.",
+          "B": "Ninguna, pues los remolques y semirremolques no están adscritos a la autorización de transporte. Solo se requiere que estén integrados en la organización de la empresa titular de la autorización los vehículos con capacidad de tracción."
+        },
+        "F": {
+          "A": "400 euros, si bien deberá integrar esta cantidad con el resto de conceptos facturados para determinar la base imponible de la operación.",
+          "B": "El transporte quedará sujeto al régimen del transporte público, pues los semirremolques utilizados en servicios de carácter privado complementario deben estar integrados en la organización de la empresa a título de propiedad, arrendamiento financiero u arrendamiento ordinario."
+        },
+        "G": {
+          "A": "Ninguna, el transporte privado complementario no puede ser facturado de modo independiente.",
+          "B": "El transporte quedará sujeto al régimen del transporte público, pues los semirremolques utilizados en servicios de carácter privado complementario deben estar integrados en la organización de la empresa a título de propiedad, arrendamiento financiero u arrendamiento ordinario."
+        },
+        "H": {
+          "A": "484 euros.",
+          "B": "Ninguna, pues los remolques y semirremolques no están adscritos a la autorización de transporte. Solo se requiere que estén integrados en la organización de la empresa titular de la autorización los vehículos con capacidad de tracción."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "没有，互补的私人运输不能独立收费。",
+          "B": "没有任何人没有附上拖车和半拖车来运输授权。只要求将具有牵引力的车辆集成到授权组织中。"
+        },
+        "B": {
+          "A": "400欧元，尽管它必须将此金额与其余的发票概念整合在一起，以确定操作的税基。",
+          "B": "卖方以前必须与政府进行交流，该政府将使用外星人半拖车来避免受到批准，以表明证明这一点合理的情况。"
+        },
+        "C": {
+          "A": "484欧元。",
+          "B": "该运输将受到公共交通制度的约束，因为在互补私人服务中使用的半货车必须以财产，财务租赁或普通租赁方式集成到公司的组织中。"
+        },
+        "D": {
+          "A": "没有，互补的私人运输不能独立收费。",
+          "B": "卖方以前必须与政府进行交流，该政府将使用外星人半拖车来避免受到批准，以表明证明这一点合理的情况。"
+        },
+        "E": {
+          "A": "400欧元，尽管它必须将此金额与其余的发票概念整合在一起，以确定操作的税基。",
+          "B": "没有任何人没有附上拖车和半拖车来运输授权。只要求将具有牵引力的车辆集成到授权组织中。"
+        },
+        "F": {
+          "A": "400欧元，尽管它必须将此金额与其余的发票概念整合在一起，以确定操作的税基。",
+          "B": "该运输将受到公共交通制度的约束，因为在互补私人服务中使用的半货车必须以财产，财务租赁或普通租赁方式集成到公司的组织中。"
+        },
+        "G": {
+          "A": "没有，互补的私人运输不能独立收费。",
+          "B": "该运输将受到公共交通制度的约束，因为在互补私人服务中使用的半货车必须以财产，财务租赁或普通租赁方式集成到公司的组织中。"
+        },
+        "H": {
+          "A": "484欧元。",
+          "B": "没有任何人没有附上拖车和半拖车来运输授权。只要求将具有牵引力的车辆集成到授权组织中。"
+        }
+      }
+    },
+    {
+      "cod": "1F02008",
+      "pregunta": "Una sociedad limitada consigue un contrato para cubrir las necesidades de transporte de dinero de las sucursales del Banco de Santander en la isla de Tenerife, para lo que adquiere, en principio, tres vehículos usados, con antigüedades que oscilan entre dos años el más nuevo y cinco años el más antiguo. Los tres vehículos están acondicionados para el transporte de fondos y tienen en los tres casos una masa máxima autorizada de cuatro toneladas.\nResponda a las siguientes cuestiones: ¿Necesita autorización de transporte para desarrollar su actividad?  ¿Deberá acreditar el cumplimiento del requisito de competencia profesional?",
+      "pregunta_chino": "一家有限公司获得了一份合同，以满足特内里费岛桑坦德银行的货币运输需求，从原则上讲，该岛上获得了三辆二手车，其古董振荡了最新和最新的五年。这三辆车的条件是用于运输资金的条件，并且在所有三种情况下都有四吨的授权质量。\n回答以下问题：您是否需要运输授权才能开发您的活动？  他应该认可符合专业能力要求吗？",
+      "solucion": "B",
+      "norma": "Ley 16/1987, art. 42; Ley 16/1987, art. 43; RD 1211/1990, art. 33",
+      "norma_chino": "法律16/1987，艺术。 42;法律16/1987，艺术。 43; RD 1211/1990，艺术。 33",
+      "opciones": {
+        "A": {
+          "A": "No, dado que el transporte se va a efectuar en una isla que no está unida de forma permanente al territorio peninsular.",
+          "B": "No, pues el cumplimiento de este requisito es una condición para el otorgamiento de la autorización de transporte, la cual no resulta preceptiva en este caso."
+        },
+        "B": {
+          "A": "No, ya que se trata de transportes de dinero en vehículos especialmente acondicionados para ello.",
+          "B": "No, pues el cumplimiento de este requisito es una condición para el otorgamiento de la autorización de transporte, la cual no resulta preceptiva en este caso."
+        },
+        "C": {
+          "A": "No, salvo que en algún momento se utilicen más de tres vehículos para cubrir el servicio.",
+          "B": "No, pues el cumplimiento de este requisito es una condición para el otorgamiento de la autorización de transporte, la cual no resulta preceptiva mientras no se utilicen más de tres vehículos."
+        },
+        "D": {
+          "A": "Sí, pues se trata de un transporte de carácter público.",
+          "B": "Sí, es un requisito contenido en la normativa de la Unión Europea para todos los transportes públicos de mercancías efectuados en vehículos de más de 3,5 toneladas de masa máxima autorizada."
+        },
+        "E": {
+          "A": "Sí, pues, al tratarse de vehículos usados, quien adquiere los vehículos debe adquirir también la titularidad de la autorización a la que estaban adscritos.",
+          "B": "Sí, es un requisito contenido en la normativa de la Unión Europea para todos los transportes públicos de mercancías efectuados en vehículos de más de 3,5 toneladas de masa máxima autorizada."
+        },
+        "F": {
+          "A": "Sí, pues se trata de un transporte de carácter público.",
+          "B": "La sociedad no es preciso que lo acredite, pero sí deberá hacerlo uno de los socios o alguno de los trabajadores contratados por la misma."
+        },
+        "G": {
+          "A": "No, salvo que en algún momento se utilicen más de tres vehículos para cubrir el servicio.",
+          "B": "Sí, es un requisito contenido en la normativa de la Unión Europea para todos los transportes públicos de mercancías efectuados en vehículos de más de 3,5 toneladas de masa máxima autorizada."
+        },
+        "H": {
+          "A": "Sí, pues, al tratarse de vehículos usados, quien adquiere los vehículos debe adquirir también la titularidad de la autorización a la que estaban adscritos.",
+          "B": "La sociedad no es preciso que lo acredite, pero sí deberá hacerlo uno de los socios o alguno de los trabajadores contratados por la misma."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，因为运输将在一个与半岛领土永久联系的岛上进行。",
+          "B": "不，因为遵守此要求是授予运输授权的条件，在这种情况下，这不是强制性的。"
+        },
+        "B": {
+          "A": "不，因为这些是专门为此条件的车辆运输的钱。",
+          "B": "不，因为遵守此要求是授予运输授权的条件，在这种情况下，这不是强制性的。"
+        },
+        "C": {
+          "A": "不，除非在某个时候使用三辆以上的车辆来覆盖该服务。",
+          "B": "不，因为遵守此要求是授予运输授权的条件，只要使用超过三辆车，这不是强制性的。"
+        },
+        "D": {
+          "A": "是的，这是一艘公共交通工具。",
+          "B": "是的，这是《欧盟法规》中包含的一项要求，所有公共交通工具的所有公共交通工具都超过3.5吨以上的授权质量。"
+        },
+        "E": {
+          "A": "是的，然后被使用的车辆，购买车辆的车辆也必须获得分配给他们的授权的所有权。",
+          "B": "是的，这是《欧盟法规》中包含的一项要求，所有公共交通工具的所有公共交通工具都超过3.5吨以上的授权质量。"
+        },
+        "F": {
+          "A": "是的，这是一艘公共交通工具。",
+          "B": "该公司不需要证明这一点，但是必须这样做的合作伙伴或任何工人之一。"
+        },
+        "G": {
+          "A": "不，除非在某个时候使用三辆以上的车辆来覆盖该服务。",
+          "B": "是的，这是《欧盟法规》中包含的一项要求，所有公共交通工具的所有公共交通工具都超过3.5吨以上的授权质量。"
+        },
+        "H": {
+          "A": "是的，然后被使用的车辆，购买车辆的车辆也必须获得分配给他们的授权的所有权。",
+          "B": "该公司不需要证明这一点，但是必须这样做的合作伙伴或任何工人之一。"
+        }
+      }
+    },
+    {
+      "cod": "1F02009",
+      "pregunta": "La titular de una explotación ganadera ubicada en Jaca (Huesca), dedicada a la cría y engorde de ganado vacuno, decide adquirir un furgón jaula para transportar por sus propios medios los animales, tanto con destino a las instalaciones de la explotación como con destino a matadero, teniendo previsto efectuar ocasionalmente algún transporte con origen en localidades francesas. El vehículo se adquiere usado, con una antigüedad de cuatro años, y tiene una masa máxima autorizada de 3,5 toneladas.\nResponda a las siguientes cuestiones: ¿Se necesita autorización de transporte para utilizar el vehículo en los términos descritos?  ¿Se deberá acreditar el cumplimiento del requisito de honorabilidad?",
+      "pregunta_chino": "位于JACA（Huesca）的牲畜剥削的持有人，致力于饲养牛的繁殖和肥胖，决定购买一辆笼子货车以其自身的手段运输动物，既涉及剥削设施，又是屠宰场，并计划偶尔与法国地区一起运输一些运输。该车辆被采用，年龄为四岁，授权最大质量为3.5吨。\n回答以下问题：您是否需要按照所述术语使用运输授权？  是否应该认可符合光荣要求？",
+      "solucion": "F",
+      "norma": "Sin referencia",
+      "norma_chino": "没有参考",
+      "opciones": {
+        "A": {
+          "A": "No, pues, aunque se trata de un transporte de carácter público, se va a utilizar un vehículo que no supera 3,5 toneladas de masa máxima autorizada.",
+          "B": "No, dado que el vehículo no supera 3,5 toneladas de masa máxima autorizada."
+        },
+        "B": {
+          "A": "Sí, pues, aunque se trata de un transporte de carácter privado complementario, se va a efectuar con un vehículo usado y en ese caso es necesario adquirir, junto con el vehículo, la titularidad de la autorización a la que estaba adscrito el mismo.",
+          "B": "Sí, dado que se van a efectuar algunos transportes de ámbito internacional."
+        },
+        "C": {
+          "A": "Sí, pues se trata de un transporte de carácter público.",
+          "B": "No, dado que el vehículo no supera 3,5 toneladas de masa máxima autorizada."
+        },
+        "D": {
+          "A": "Sí, pues se trata de un transporte de carácter público.",
+          "B": "Sí, es un requisito contenido en la normativa de la Unión Europea para todos los transportes públicos de mercancías de ámbito internacional efectuados en vehículos de más de 2,5 toneladas de masa máxima autorizada."
+        },
+        "E": {
+          "A": "No, pues se trata de un transporte de carácter privado complementario efectuado con un vehículo que no supera 3,5 toneladas de masa máxima autorizada.",
+          "B": "Sí, dado que se van a efectuar algunos transportes de ámbito internacional."
+        },
+        "F": {
+          "A": "No, pues se trata de un transporte de carácter privado complementario efectuado con un vehículo que no supera 3,5 toneladas de masa máxima autorizada.",
+          "B": "No, ya que el requisito de honorabilidad no se exige en el transporte de carácter privado complementario."
+        },
+        "G": {
+          "A": "Sí, pues, aunque se trata de un transporte de carácter privado complementario, se va a efectuar con un vehículo usado y en ese caso es necesario adquirir, junto con el vehículo, la titularidad de la autorización a la que estaba adscrito el mismo.",
+          "B": "No, ya que el requisito de honorabilidad no se exige en el transporte de carácter privado complementario."
+        },
+        "H": {
+          "A": "No, pues, aunque se trata de un transporte de carácter público, se va a utilizar un vehículo que no supera 3,5 toneladas de masa máxima autorizada.",
+          "B": "No, ya que el requisito de honorabilidad no se exige en los transportes públicos que no precisan autorización."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "不，尽管它是公共交通工具，但将使用不超过3.5吨最大授权质量的车辆。",
+          "B": "不，由于车辆不超过3.5吨最大授权质量。"
+        },
+        "B": {
+          "A": "是的，尽管这是一种补充的私人运输，但它将使用二手车进行，在这种情况下，有必要与车辆一起获得所附授权的所有权。",
+          "B": "是的，由于将进行一些国际交通工具。"
+        },
+        "C": {
+          "A": "是的，这是一艘公共交通工具。",
+          "B": "不，由于车辆不超过3.5吨最大授权质量。"
+        },
+        "D": {
+          "A": "是的，这是一艘公共交通工具。",
+          "B": "是的，这是《欧盟法规》中包含的一项要求，所有公共交通工具的所有国际商品都超过2.5吨以上的授权质量。"
+        },
+        "E": {
+          "A": "不，这是一种用不超过3.5吨最大授权质量的车辆进行的补充私人运输。",
+          "B": "是的，由于将进行一些国际交通工具。"
+        },
+        "F": {
+          "A": "不，这是一种用不超过3.5吨最大授权质量的车辆进行的补充私人运输。",
+          "B": "不，因为运输互补私人性质并不需要光荣要求。"
+        },
+        "G": {
+          "A": "是的，尽管这是一种补充的私人运输，但它将使用二手车进行，在这种情况下，有必要与车辆一起获得所附授权的所有权。",
+          "B": "不，因为运输互补私人性质并不需要光荣要求。"
+        },
+        "H": {
+          "A": "不，尽管它是公共交通工具，但将使用不超过3.5吨最大授权质量的车辆。",
+          "B": "不，由于不需要授权的公共交通中不需要光荣要求。"
+        }
+      }
+    },
+    {
+      "cod": "1F05001",
+      "pregunta": "Un comerciante español de vinos y licores encomienda a un transitario la realización de todos los trámites relacionados con la importación de una partida de vodka, cuya compra ha concertado con un fabricante ruso de San Petersburgo.\nEl transporte de la mercancía se va a llevar a cabo por carretera, para lo cual el transitario ha contratado a una empresa que efectúa habitualmente portes entre España y Rusia. El transporte no se efectúa al amparo de ningún régimen de tránsito aduanero.\nA la llegada del vehículo a territorio aduanero de la Unión Europea, los agentes de aduanas impiden su paso porque, debido a un malentendido entre el transitario y el transportista, no ha sido presentada la correspondiente declaración sumaria de entrada.\nResponda a las siguientes cuestiones: ¿Cuándo se debió presentar la declaración sumaria de entrada? ¿Puede ser sustituida la declaración sumaria de entrada por otro documento?",
+      "pregunta_chino": "西班牙的葡萄酒和酒商商店托付给transitario，以执行与伏特加游戏进口有关的所有程序，伏特加游戏的进口已与圣彼得堡的俄罗斯制造商安排。\n商品的运输将由公路进行，为此，Transitialio雇用了一家通常在西班牙和俄罗斯之间执行港口的公司。在任何海关交通制度下均不进行运输。\n车辆到达欧盟海关领土后，海关特工阻止了他们的通行证，因为由于暂时性和承运人之间的误解，尚未提出相应的摘要入境声明。\n回答以下问题：何时必须提交摘要的入境声明？可以更换另一个文档的摘要说明吗？",
+      "solucion": "E",
+      "norma": "Reglamento Comunitario (UE) 952/2013, art. 130; Reglamento Comunitario (UE) 2015/2446, art. 108",
+      "norma_chino": "社区法规（EU）952/2013，Art。 130;社区法规（EU）2015/2446，艺术。 108",
+      "opciones": {
+        "A": {
+          "A": "Como muy tarde, una hora antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración de levante de las mercancías."
+        },
+        "B": {
+          "A": "Como muy tarde, 24 horas antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración de levante de las mercancías."
+        },
+        "C": {
+          "A": "Como muy tarde, tres horas antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración de levante de las mercancías."
+        },
+        "D": {
+          "A": "Como muy tarde, 48 horas antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración de levante de las mercancías."
+        },
+        "E": {
+          "A": "Como muy tarde, una hora antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración en aduana o por una declaración de depósito temporal."
+        },
+        "F": {
+          "A": "Como muy tarde, 24 horas antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración en aduana o por una declaración de depósito temporal."
+        },
+        "G": {
+          "A": "Como muy tarde, tres horas antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración en aduana o por una declaración de depósito temporal."
+        },
+        "H": {
+          "A": "Como muy tarde, 48 horas antes de la llegada de la mercancía.",
+          "B": "Sí, por una declaración en aduana o por una declaración de depósito temporal."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "为时已晚，商品到来的一个小时。",
+          "B": "是的，通过提升货物的声明。"
+        },
+        "B": {
+          "A": "到了商品到来的前24小时。",
+          "B": "是的，通过提升货物的声明。"
+        },
+        "C": {
+          "A": "为时已晚，商品到达前三个小时。",
+          "B": "是的，通过提升货物的声明。"
+        },
+        "D": {
+          "A": "早晚，商品到达前的48小时。",
+          "B": "是的，通过提升货物的声明。"
+        },
+        "E": {
+          "A": "为时已晚，商品到来的一个小时。",
+          "B": "是的，用于海关声明或临时存款声明。"
+        },
+        "F": {
+          "A": "到了商品到来的前24小时。",
+          "B": "是的，用于海关声明或临时存款声明。"
+        },
+        "G": {
+          "A": "为时已晚，商品到达前三个小时。",
+          "B": "是的，用于海关声明或临时存款声明。"
+        },
+        "H": {
+          "A": "早晚，商品到达前的48小时。",
+          "B": "是的，用于海关声明或临时存款声明。"
+        }
+      }
+    },
+    {
+      "cod": "1F05002",
+      "pregunta": "Un distribuidor español de semillas y abonos importa desde Marruecos 100.000 kg de abono mineral, compuesto de nitrógeno, fósforo y potasio, para su venta en España. El transporte se hace por carretera, con embarque rodado de los camiones que transportan la mercancía para efectuar el paso del Estrecho.\nAl llegar a la aduana española, la mercancía es puesta bajo vigilancia aduanera para la realización de los controles oportunos. En ese momento, y debido a que el tiempo de retención en la aduana se va a alargar más de lo que estaba previsto, el transportista se pone en contacto con el importador para comunicarle esta circunstancia y pedirle un incremento en el precio del porte que compense el mayor tiempo empleado.\nAl no aceptar el importador pagar más de lo que inicialmente se había acordado, el transportista da instrucciones a sus conductores para que descarguen la mercancía en el lugar en el que se encuentran, dando por resuelto el contrato de transporte.\nResponda a las siguientes cuestiones: ¿Permite la normativa aduanera efectuar la descarga que ordena el transportista? ¿Qué régimen aduanero se debe asignar a la mercancía para poder ser comercializada en España?",
+      "pregunta_chino": "西班牙种子和肥料从摩洛哥进口的100,000公斤矿物肥料，由氮，磷和钾组成，在西班牙出售。运输是由公路制造的，卡车上有一个登机箱，这些卡车运输着商品，以执行海峡的通道。\n到达西班牙习俗后，商品将在习俗监视下进行适当的控制措施。当时，由于海关中的保留时间将比计划延长更多，因此承运人与进口商保持联系，以传达这种情况，并要求增加轴承的价格，以补偿花费最多的时间。\n通过不接受进口商支付的费用超过最初同意的费用，承运人指示其驾驶员通过解决运输合同来解除其所在地的商品。\n回答以下问题：您是否允许海关法规执行承运人命令的排放？应该将哪些海关制度分配给在西班牙销售的商品？",
+      "solucion": "B",
+      "norma": "Reglamento Comunitario (UE) 952/2013, art. 140; Reglamento Comunitario (UE) 952/2013, art. 201",
+      "norma_chino": "社区法规（EU）952/2013，Art。 140;社区法规（EU）952/2013，Art。 201",
+      "opciones": {
+        "A": {
+          "A": "Sí, siempre que las mercancías no salgan del recinto o depósito designado por las autoridades aduaneras.",
+          "B": "El régimen de despacho a libre práctica."
+        },
+        "B": {
+          "A": "Solo se puede hacer con permiso previo de las autoridades aduaneras.",
+          "B": "El régimen de despacho a libre práctica."
+        },
+        "C": {
+          "A": "En ningún caso se pueden descargar o transbordar las mercancías mientras se encuentren bajo vigilancia aduanera.",
+          "B": "El régimen de despacho a libre práctica."
+        },
+        "D": {
+          "A": "Sí, siempre que quede una muestra suficiente de la mercancía sin mover, de modo que no se impida la realización de los controles procedentes.",
+          "B": "El régimen de despacho a libre práctica."
+        },
+        "E": {
+          "A": "Sí, siempre que las mercancías no salgan del recinto o depósito designado por las autoridades aduaneras.",
+          "B": "El régimen de mercancía comunitaria."
+        },
+        "F": {
+          "A": "Solo se puede hacer con permiso previo de las autoridades aduaneras.",
+          "B": "El régimen de mercancía comunitaria."
+        },
+        "G": {
+          "A": "En ningún caso se pueden descargar o transbordar las mercancías mientras se encuentren bajo vigilancia aduanera.",
+          "B": "El régimen de mercancía comunitaria."
+        },
+        "H": {
+          "A": "Sí, siempre que quede una muestra suficiente de la mercancía sin mover, de modo que no se impida la realización de los controles procedentes.",
+          "B": "El régimen de mercancía comunitaria."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "是的，只要货物不会留下海关当局指定的封闭或存款。",
+          "B": "自由练习制度。"
+        },
+        "B": {
+          "A": "只能在海关当局的先前许可下完成。",
+          "B": "自由练习制度。"
+        },
+        "C": {
+          "A": "在任何情况下，货物都不能在海关监视下下载或转移。",
+          "B": "自由练习制度。"
+        },
+        "D": {
+          "A": "是的，只要没有移动而没有足够的商品样本，因此不能阻止它执行控件。",
+          "B": "自由练习制度。"
+        },
+        "E": {
+          "A": "是的，只要货物不会留下海关当局指定的封闭或存款。",
+          "B": "社区商品制度。"
+        },
+        "F": {
+          "A": "只能在海关当局的先前许可下完成。",
+          "B": "社区商品制度。"
+        },
+        "G": {
+          "A": "在任何情况下，货物都不能在海关监视下下载或转移。",
+          "B": "社区商品制度。"
+        },
+        "H": {
+          "A": "是的，只要没有移动而没有足够的商品样本，因此不能阻止它执行控件。",
+          "B": "社区商品制度。"
+        }
+      }
+    },
+    {
+      "cod": "1F05003",
+      "pregunta": "Un fabricante español de repuestos para automóviles vende a un comerciante marroquí una partida de filtros de aceite. El transporte se hace por carretera, con embarque rodado de los camiones que transportan la mercancía para efectuar el paso del Estrecho.\nA la llegada del vehículo a la aduana española, los agentes de aduanas inmovilizan la mercancía porque no les consta la presentación de ninguna información relativa a esta salida del territorio aduanero de la Unión Europea.\nResponda a las siguientes cuestiones: ¿Qué documento o declaración se debió presentar? ¿Qué régimen aduanero se debe asignar a la mercancía para poder ser comercializada fuera de la Unión Europea?",
+      "pregunta_chino": "一家西班牙汽车备件制造商出售摩洛哥商人一件油过滤器。运输是由公路制造的，卡车上有一个登机箱，这些卡车运输着商品，以执行海峡的通道。\n车辆到达西班牙海关后，海关代理商将商品固定在商品中，因为他们没有关于欧盟海关地区这一出口的任何信息。\n回答以下问题：应提交哪些文件或声明？应该将哪些海关制度分配给欧盟以外的商品？",
+      "solucion": "G",
+      "norma": "Reglamento Comunitario (UE) 952/2013, art. 263; Reglamento Comunitario (UE) 952/2013, art. 269",
+      "norma_chino": "社区法规（EU）952/2013，Art。 263;社区法规（EU）952/2013，Art。 269",
+      "opciones": {
+        "A": {
+          "A": "Una declaración previa a la salida.",
+          "B": "El régimen de mercancía no comunitaria."
+        },
+        "B": {
+          "A": "Una declaración de exportación.",
+          "B": "El régimen de mercancía no comunitaria."
+        },
+        "C": {
+          "A": "Una declaración de compromiso de pago de los derechos de exportación.",
+          "B": "El régimen de despacho a libre práctica."
+        },
+        "D": {
+          "A": "Una declaración previa a la salida.",
+          "B": "El régimen de despacho a libre práctica."
+        },
+        "E": {
+          "A": "Una declaración de exportación.",
+          "B": "El régimen de despacho a libre práctica."
+        },
+        "F": {
+          "A": "Una declaración de compromiso de pago de los derechos de exportación.",
+          "B": "El régimen de exportación."
+        },
+        "G": {
+          "A": "Una declaración previa a la salida.",
+          "B": "El régimen de exportación."
+        },
+        "H": {
+          "A": "Una declaración de exportación.",
+          "B": "El régimen de exportación."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "退出之前的声明。",
+          "B": "非社区商品制度。"
+        },
+        "B": {
+          "A": "导出声明。",
+          "B": "非社区商品制度。"
+        },
+        "C": {
+          "A": "出口权的付款承诺声明。",
+          "B": "自由练习制度。"
+        },
+        "D": {
+          "A": "退出之前的声明。",
+          "B": "自由练习制度。"
+        },
+        "E": {
+          "A": "导出声明。",
+          "B": "自由练习制度。"
+        },
+        "F": {
+          "A": "出口权的付款承诺声明。",
+          "B": "出口制度。"
+        },
+        "G": {
+          "A": "退出之前的声明。",
+          "B": "出口制度。"
+        },
+        "H": {
+          "A": "导出声明。",
+          "B": "出口制度。"
+        }
+      }
+    },
+    {
+      "cod": "1F05004",
+      "pregunta": "Una empresa española dedicada a la comercialización de prendas de vestir importa un lote de productos fabricados en China. La mercancía viaja por vía marítima, desde Shanghái hasta Róterdam, en contenedor que la empresa española ha contratado por el total de su capacidad. Una vez desembarcado, el contenedor será transportado por carretera hasta el centro de distribución que la empresa tiene en Zaragoza.\nA fin de agilizar el traslado desde Róterdam, el transitario a quien la empresa ha encomendado la gestión de este transporte se plantea la utilización de un régimen de tránsito aduanero para lo que se le exige la constitución de una garantía que asegure el pago de los derechos aduaneros y otros posibles tributos. A estos efectos, decide utilizar títulos emitidos por un fiador autorizado.\nResponda a las siguientes cuestiones: ¿Qué régimen de tránsito puede utilizar? ¿Qué valor individual tienen cada uno de los títulos de fianza que se utilizan con esta finalidad?",
+      "pregunta_chino": "一家致力于营销服装的西班牙公司进口了许多中国生产的产品。商品从上海到鹿特丹在海上乘海上旅行，西班牙公司以总容量雇用的容器。降落后，该集装箱将通过道路运输到公司在Zaragoza的配送中心。\n为了加快从Róterdam的转移，建议将该运输管理的管理人员委托使用海关交通制度，以构成确保缴纳海关权利和其他可能税款的担保所要求的。为了这些目的，他决定使用授权担保人发布的头衔。\n回答以下问题：您可以使用哪种流量制度？每个保释金都用于此目的是什么个人价值？",
+      "solucion": "C",
+      "norma": "Reglamento Comunitario (UE) 952/2013, art. 226; Reglamento Comunitario (UE) 2015/2447, art. 160",
+      "norma_chino": "社区法规（EU）952/2013，Art。 226;社区法规（EU）2015/2447，艺术。 160",
+      "opciones": {
+        "A": {
+          "A": "El régimen ATA.",
+          "B": "10.000 euros."
+        },
+        "B": {
+          "A": "El régimen de tránsito interno de la Unión.",
+          "B": "10.000 euros."
+        },
+        "C": {
+          "A": "El régimen de tránsito externo de la Unión.",
+          "B": "10.000 euros."
+        },
+        "D": {
+          "A": "El régimen TIR.",
+          "B": "10.000 euros."
+        },
+        "E": {
+          "A": "El régimen ATA.",
+          "B": "6.000 euros."
+        },
+        "F": {
+          "A": "El régimen de tránsito interno de la Unión.",
+          "B": "6.000 euros."
+        },
+        "G": {
+          "A": "El régimen de tránsito externo de la Unión.",
+          "B": "6.000 euros."
+        },
+        "H": {
+          "A": "El régimen TIR.",
+          "B": "6.000 euros."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "ATA政权。",
+          "B": "10,000欧元。"
+        },
+        "B": {
+          "A": "联盟的内部交通制度。",
+          "B": "10,000欧元。"
+        },
+        "C": {
+          "A": "联盟的外部交通制度。",
+          "B": "10,000欧元。"
+        },
+        "D": {
+          "A": "TIR政权。",
+          "B": "10,000欧元。"
+        },
+        "E": {
+          "A": "ATA政权。",
+          "B": "6,000欧元。"
+        },
+        "F": {
+          "A": "联盟的内部交通制度。",
+          "B": "6,000欧元。"
+        },
+        "G": {
+          "A": "联盟的外部交通制度。",
+          "B": "6,000欧元。"
+        },
+        "H": {
+          "A": "TIR政权。",
+          "B": "6,000欧元。"
+        }
+      }
+    },
+    {
+      "cod": "1F05005",
+      "pregunta": "Un fabricante español de equipos industriales vende, con destino a una planta de Moscú, una máquina especialmente voluminosa que no es factible dividir en piezas para su transporte, teniendo en cuenta su complejidad técnica y el coste que supondría tal operación.\nSe desea efectuar el transporte de este equipo por carretera, y en régimen de tránsito aduanero, a fin de agilizar el paso por las distintas aduanas por lo que el transportista contratado para llevar a cabo el traslado solicita un cuaderno TIR para dar cobertura a esta operación e instala la identificación TIR sobre el vehículo que piensa utilizar.\nResponda a las siguientes cuestiones: ¿Se podrá autorizar la utilización del régimen TIR en este caso? En caso de que sea posible, ¿cuántas placas de identificación TIR deberá llevar el vehículo?",
+      "pregunta_chino": "西班牙工业设备的一家制造商销售，限制在莫斯科工厂，这是一款特别庞大的机器，考虑到其技术复杂性以及这意味着这种操作的成本，不可行地将其分成运输。\n希望通过道路运输这条道路，并在海关交通制度中，以加快通过不同海关的通道，以便雇用的承运人执行转让请求，以覆盖此操作并在您计划使用的车辆上安装ID。\n回答以下问题：在这种情况下，可以授权使用IRR制度吗？如果可能，车辆应该携带多少个IRL识别板？",
+      "solucion": "D",
+      "norma": "Convenio TIR, art. 16; Convenio TIR, art. 29",
+      "norma_chino": "TIR协议，艺术。 16; TIR协议，艺术。 29",
+      "opciones": {
+        "A": {
+          "A": "Se puede autorizar si es posible identificar con facilidad la máquina transportada.",
+          "B": "Una placa en la parte delantera del vehículo y, opcionalmente, otra en la parte trasera."
+        },
+        "B": {
+          "A": "Se puede autorizar si es posible identificar con facilidad la máquina transportada.",
+          "B": "Una placa en la parte trasera del vehículo y, opcionalmente, otra en la parte delantera."
+        },
+        "C": {
+          "A": "Se puede autorizar si es posible identificar con facilidad la máquina transportada.",
+          "B": "Una placa en la parte delantera del vehículo, una en la parte trasera y otras dos en los laterales."
+        },
+        "D": {
+          "A": "Se puede autorizar si es posible identificar con facilidad la máquina transportada.",
+          "B": "Una placa en la parte delantera del vehículo y otra en la parte trasera."
+        },
+        "E": {
+          "A": "No, porque, al tratarse de una mercancía voluminosa, no sirve un vehículo cerrado y, por tanto, la mercancía no puede viajar bajo precinto aduanero, como exige el Convenio TIR.",
+          "B": "Una placa en la parte delantera del vehículo y, opcionalmente, otra en la parte trasera."
+        },
+        "F": {
+          "A": "No, porque, al tratarse de una mercancía voluminosa, no sirve un vehículo cerrado y, por tanto, la mercancía no puede viajar bajo precinto aduanero, como exige el Convenio TIR.",
+          "B": "Una placa en la parte trasera del vehículo y, opcionalmente, otra en la parte delantera."
+        },
+        "G": {
+          "A": "No, porque, al tratarse de una mercancía voluminosa, no sirve un vehículo cerrado y, por tanto, la mercancía no puede viajar bajo precinto aduanero, como exige el Convenio TIR.",
+          "B": "Una placa en la parte delantera del vehículo, una en la parte trasera y otras dos en los laterales."
+        },
+        "H": {
+          "A": "No, porque, al tratarse de una mercancía voluminosa, no sirve un vehículo cerrado y, por tanto, la mercancía no puede viajar bajo precinto aduanero, como exige el Convenio TIR.",
+          "B": "Una placa en la parte delantera del vehículo y otra en la parte trasera."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "如果可以轻松识别运输机器，则可以授权。",
+          "B": "车辆前部的盘子，可选地在背面。"
+        },
+        "B": {
+          "A": "如果可以轻松识别运输机器，则可以授权。",
+          "B": "车辆背面的盘子，另外的另一个在前面。"
+        },
+        "C": {
+          "A": "如果可以轻松识别运输机器，则可以授权。",
+          "B": "车辆前部的一个盘子，一个在后部，侧面有两个。"
+        },
+        "D": {
+          "A": "如果可以轻松识别运输机器，则可以授权。",
+          "B": "车辆前部的牌匾，另一个在后面。"
+        },
+        "E": {
+          "A": "不，因为由于它是大量的商品，因此封闭的车辆不起作用，因此，商品不能按照TIR协议的要求在海关印章下行驶。",
+          "B": "车辆前部的盘子，可选地在背面。"
+        },
+        "F": {
+          "A": "不，因为由于它是大量的商品，因此封闭的车辆不起作用，因此，商品不能按照TIR协议的要求在海关印章下行驶。",
+          "B": "车辆背面的盘子，另外的另一个在前面。"
+        },
+        "G": {
+          "A": "不，因为由于它是大量的商品，因此封闭的车辆不起作用，因此，商品不能按照TIR协议的要求在海关印章下行驶。",
+          "B": "车辆前部的一个盘子，一个在后部，侧面有两个。"
+        },
+        "H": {
+          "A": "不，因为由于它是大量的商品，因此封闭的车辆不起作用，因此，商品不能按照TIR协议的要求在海关印章下行驶。",
+          "B": "车辆前部的牌匾，另一个在后面。"
+        }
+      }
+    },
+    {
+      "cod": "1F05006",
+      "pregunta": "Una empresa de transporte de mercancías de Polonia efectúa el transporte de una partida de prendas de vestir de piel entre Ucrania y España, en régimen de tránsito aduanero, utilizando para ello un cuaderno TIR expedido por una asociación garante extranjera que está afiliada a la misma organización internacional que la asociación garante española.\nAl llegar a la aduana de destino española, las autoridades aduaneras inspeccionan el vehículo y comprueban que los precintos están rotos y falta un 60 % de la mercancía que se declaró en la aduana de salida al iniciar el viaje. Ante esta situación, deciden no efectuar el descargo de la operación, notificándolo así al titular del cuaderno TIR y a la asociación garante correspondiente, y reclamar a ambos el pago de los derechos e impuestos de importación dejados de percibir, que valoran en 114.000 euros.\nResponda a las siguientes cuestiones: ¿A qué asociación garante dirigirán su reclamación las autoridades aduaneras en este caso? En caso de que la reclamación resulte procedente, ¿qué cantidad deberá asumir la asociación garante?",
+      "pregunta_chino": "波兰的一家商品运输公司使用外国担保人协会发行的TIR笔记本在乌克兰和西班牙之间的皮革服装游戏中运输，该笔记本与西班牙担保人协会隶属于同一国际组织。\n到达西班牙目的地海关后，海关当局检查了车辆，并证明密封件被打破了，并错过了开始旅行时在出口海关中宣布的商品的60％。鉴于这种情况，他们决定不讨论该行动，将其通知TIR笔记本电脑和相应的担保人协会的负责人，并要求支付进口权和不再获得的税款，以114,000欧元的价值。\n回答以下问题：在这种情况下，海关当局将指导您的索赔？如果索赔是适当的，则担保人协会应该承担多少钱？",
+      "solucion": "A",
+      "norma": "Reglamento Comunitario (UE) 2015/2447, art. 163; Convenio TIR, art. 6; Convenio TIR, art. 8",
+      "norma_chino": "社区法规（EU）2015/2447，艺术。 163; TIR协议，艺术。 6; TIR协议，艺术。 8",
+      "opciones": {
+        "A": {
+          "A": "A la asociación garante española, pues esta debe responder de las cantidades que se exijan en su país por cuadernos expedidos por otra asociación afiliada a la misma organización internacional.",
+          "B": "100.000 euros."
+        },
+        "B": {
+          "A": "A la asociación garante española, pues esta debe responder de las cantidades que se exijan en su país por cuadernos expedidos por otra asociación afiliada a la misma organización internacional.",
+          "B": "114.000 euros."
+        },
+        "C": {
+          "A": "A la asociación garante española, pues esta debe responder de las cantidades que se exijan en su país por cuadernos expedidos por otra asociación afiliada a la misma organización internacional.",
+          "B": "60.000 euros."
+        },
+        "D": {
+          "A": "A la asociación garante española, pues esta debe responder de las cantidades que se exijan en su país por cuadernos expedidos por otra asociación afiliada a la misma organización internacional.",
+          "B": "10.000 euros."
+        },
+        "E": {
+          "A": "A la asociación garante que expidió el cuaderno TIR al amparo del cual se efectuó la operación de tránsito.",
+          "B": "100.000 euros."
+        },
+        "F": {
+          "A": "A la asociación garante que expidió el cuaderno TIR al amparo del cual se efectuó la operación de tránsito.",
+          "B": "114.000 euros."
+        },
+        "G": {
+          "A": "A la asociación garante que expidió el cuaderno TIR al amparo del cual se efectuó la operación de tránsito.",
+          "B": "60.000 euros."
+        },
+        "H": {
+          "A": "A la asociación garante que expidió el cuaderno TIR al amparo del cual se efectuó la operación de tránsito.",
+          "B": "10.000 euros."
+        }
+      },
+      "opciones_chino": {
+        "A": {
+          "A": "对于西班牙担保人协会，由于这必须响应其国家所需的金额，该笔记本由另一个与同一国际组织签署的协会签发的笔记本。",
+          "B": "100,000欧元。"
+        },
+        "B": {
+          "A": "对于西班牙担保人协会，由于这必须响应其国家所需的金额，该笔记本由另一个与同一国际组织签署的协会签发的笔记本。",
+          "B": "114,000欧元。"
+        },
+        "C": {
+          "A": "对于西班牙担保人协会，由于这必须响应其国家所需的金额，该笔记本由另一个与同一国际组织签署的协会签发的笔记本。",
+          "B": "60,000欧元。"
+        },
+        "D": {
+          "A": "对于西班牙担保人协会，由于这必须响应其国家所需的金额，该笔记本由另一个与同一国际组织签署的协会签发的笔记本。",
+          "B": "10,000欧元。"
+        },
+        "E": {
+          "A": "向发行交通操作的TIR笔记本的担保协会。",
+          "B": "100,000欧元。"
+        },
+        "F": {
+          "A": "向发行交通操作的TIR笔记本的担保协会。",
+          "B": "114,000欧元。"
+        },
+        "G": {
+          "A": "向发行交通操作的TIR笔记本的担保协会。",
+          "B": "60,000欧元。"
+        },
+        "H": {
+          "A": "向发行交通操作的TIR笔记本的担保协会。",
+          "B": "10,000欧元。"
+        }
+      }
+    }
+  ]
+}

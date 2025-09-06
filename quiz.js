@@ -19,21 +19,30 @@ function showQuestion() {
     optionsContainer.innerHTML = '';
     feedback.textContent = '';
     const question = currentQuestions[currentQuestionIndex];
-    questionText.textContent = question.pregunta;
+
+    // Mostrar la pregunta en el idioma seleccionado
+    questionText.textContent = currentLanguage === 'zh'
+        ? question.pregunta_chino
+        : question.pregunta;
+
+    // Elegir las opciones según idioma
+    const opciones = currentLanguage === 'zh' 
+        ? question.opciones_chino 
+        : question.opciones;
 
     // --- MARCAR PREGUNTA VISTA EN MODO VER RESPUESTAS ---
     if (mostrarRespuestasDirectas) {
         const key = `progreso_${currentTema}_respuestas`;
         let progreso = JSON.parse(localStorage.getItem(key)) || {respuestas:{}};
-        progreso.respuestas[currentQuestionIndex] = question.solucion; // marcar como vista
+        progreso.respuestas[currentQuestionIndex] = question.solucion;
         progreso.currentIndex = currentQuestionIndex;
         localStorage.setItem(key, JSON.stringify(progreso));
     }
     // ------------------------------------------------------
 
     // Mostrar opciones
-    for (const option in question.opciones) {
-        const value = question.opciones[option];
+    for (const option in opciones) {
+        const value = opciones[option];
 
         if (typeof value === "string") {
             // Opciones simples
@@ -48,7 +57,7 @@ function showQuestion() {
 
             optionsContainer.appendChild(div);
         } else {
-            // Opciones tipo bloque
+            // Opciones tipo bloque (si tu JSON llegase a tener subbloques también en chino)
             const bloqueDiv = document.createElement('div');
             bloqueDiv.classList.add('bloque-opciones');
 
@@ -61,7 +70,7 @@ function showQuestion() {
                 subDiv.classList.add('option-button');
                 subDiv.style.margin = '4px';
                 subDiv.textContent = `${subKey}: ${value[subKey]}`;
-                subDiv.dataset.key = option; // dataset.key = opción principal
+                subDiv.dataset.key = option;
 
                 if (mostrarRespuestasDirectas && option === question.solucion) {
                     subDiv.classList.add('correct');
@@ -80,10 +89,9 @@ function showQuestion() {
 
     prevButton.classList.toggle('hidden', currentQuestionIndex === 0);
     nextButton.classList.remove('hidden');
-    renderJumpButtons(); // actualiza botones de salto
+    renderJumpButtons(); 
     updateProgressText();
 }
-
 
 // Manejo de respuesta
 function handleAnswer(option, question) {
