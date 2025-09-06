@@ -132,11 +132,15 @@ function loadTopics() {
     topicButtonsContainer.appendChild(examTitle);
 
     examenes.forEach(t => {
-        const progreso = JSON.parse(localStorage.getItem(`progreso_${t.tema}_test`)) || {currentIndex:0, score:0, respuestas:{}};
+        // Elegir clave según modo
+        const key = mostrarRespuestasDirectas 
+            ? `progreso_${t.tema}_respuestas` 
+            : `progreso_${t.tema}_test`;
+
+        const progreso = JSON.parse(localStorage.getItem(key)) || {currentIndex:0, score:0, respuestas:{}};
         const respondidas = Object.keys(progreso.respuestas).length;
 
         const button = document.createElement('button');
-        // Cambiado aquí para mostrar total de preguntas
         button.textContent = `${t.tema}: ${respondidas} de ${t.preguntas.length} respondidas`;
         button.classList.add('option-button');
         button.onclick = () => startQuizArchivo(t);
@@ -150,7 +154,12 @@ function loadTopics() {
     topicButtonsContainer.appendChild(casoTitle);
 
     casos.forEach(t => {
-        const progreso = JSON.parse(localStorage.getItem(`progreso_${t.tema}_test`)) || {currentIndex:0, score:0, respuestas:{}};
+        // Igual que arriba
+        const key = mostrarRespuestasDirectas 
+            ? `progreso_${t.tema}_respuestas` 
+            : `progreso_${t.tema}_test`;
+
+        const progreso = JSON.parse(localStorage.getItem(key)) || {currentIndex:0, score:0, respuestas:{}};
         const respondidas = Object.keys(progreso.respuestas).length;
 
         const button = document.createElement('button');
@@ -160,6 +169,7 @@ function loadTopics() {
         topicButtonsContainer.appendChild(button);
     });
 }
+
 
 // Iniciar quiz/caso
 function startQuizArchivo(temaObj) {
